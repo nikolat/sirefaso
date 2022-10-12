@@ -71,7 +71,7 @@ for ($i = 0; $i < $n; $i++) {
     $c++;
 }
 
-$myurl = 'http://nikolat.starfree.jp/sirefaso/';
+$myurl = 'https://nikolat.github.io/sirefaso/';
 $mypath = dirname(__FILE__);
 $myname = mb_encode_numericentity('偽SiReFaSo', array( 0x0, 0x10ffff, 0, 0xffffff ), 'UTF-8');
 $mydescription = mb_encode_numericentity('GitHubで公開されている伺か関連アプリの更新情報を一覧表示する', array( 0x0, 0x10ffff, 0, 0xffffff ), 'UTF-8');
@@ -96,5 +96,6 @@ foreach($repos as $r) {
 }
 
 fwrite($fp, '</channel>
-</rss>');
+</rss>
+');
 fclose($fp);
