@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>&#20605;&#83;&#105;&#82;&#101;&#70;&#97;&#83;&#111;</title>
-<link>http://nikolat.starfree.jp/sirefaso/</link>
+<link>https://nikolat.github.io/sirefaso/</link>
 <description>&#71;&#105;&#116;&#72;&#117;&#98;&#12391;&#20844;&#38283;&#12373;&#12428;&#12390;&#12356;&#12427;&#20282;&#12363;&#38306;&#36899;&#12450;&#12503;&#12522;&#12398;&#26356;&#26032;&#24773;&#22577;&#12434;&#19968;&#35239;&#34920;&#31034;&#12377;&#12427;</description>
-<atom:link href="http://nikolat.starfree.jp/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
     <title>jong-bari</title>
     <link>https://github.com/nikolat/jong-bari</link>
