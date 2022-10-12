@@ -41,6 +41,7 @@ while ($next_filename != '') {
 }
 $repos = [];
 $c = 0;
+$n = 30;
 $date_now = strtotime('now');
 for ($j = 0; $j < count($data_repos); $j++) {
     for ($i = 0; $i < $n; $i++) {
