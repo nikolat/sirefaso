@@ -6,6 +6,12 @@
 <description>&#71;&#105;&#116;&#72;&#117;&#98;&#12391;&#20844;&#38283;&#12373;&#12428;&#12390;&#12356;&#12427;&#20282;&#12363;&#38306;&#36899;&#12450;&#12503;&#12522;&#12398;&#26356;&#26032;&#24773;&#22577;&#12434;&#19968;&#35239;&#34920;&#31034;&#12377;&#12427;</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <guid>https://github.com/ukatech/satoriya-shiori</guid>
+    <pubDate>Fri, 14 Oct 2022 20:58:40 +0900</pubDate>
+</item>
+<item>
     <title>crawler_uploader</title>
     <link>https://github.com/nikolat/crawler_uploader</link>
     <guid>https://github.com/nikolat/crawler_uploader</guid>
@@ -52,12 +58,6 @@
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
     <guid>https://github.com/YAYA-shiori/konnoyayame</guid>
     <pubDate>Mon, 10 Oct 2022 08:10:26 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <guid>https://github.com/ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 09 Oct 2022 11:26:06 +0900</pubDate>
 </item>
 <item>
     <title>jong-whanwhan</title>
