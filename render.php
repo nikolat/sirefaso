@@ -53,6 +53,21 @@ for ($j = 0; $j < count($data_repos); $j++) {
             continue;
         }
         $topics = $item['topics'];
+        // We should have a list of redirects needed...
+        if (in_array('kikka', $topics) && in_array('taromati2', $topics)) {
+            $filename = str_replace('/', '_', $item['full_name']). '.txt';
+            $url = 'https://api.github.com/repos/Taromati2/stable-mirror';
+            if ($dl) {
+                download_file($url, 'repos/'. $filename, false);
+            }
+            $json = file_get_contents(__DIR__. '/repos/'. $filename);
+            if ($json === false) {
+                throw new \RuntimeException('file not found.');
+            }
+            $data_redirect = json_decode($json, true);
+            $item['created_at'] = $data_redirect['created_at'];
+            $item['pushed_at'] = $data_redirect['pushed_at'];
+        }
         $type = '';
         if (in_array('ukagaka-ghost', $topics)) {
             $type = 'ghost';
@@ -118,12 +133,12 @@ for ($j = 0; $j < count($data_repos); $j++) {
         $c++;
     }
 }
-function download_file($url, $filename)
+function download_file($url, $filename, $need_header=true)
 {
     $ch = curl_init($url);
     $fp = fopen($filename, 'w');
     curl_setopt($ch, CURLOPT_FILE, $fp);
-    curl_setopt($ch, CURLOPT_HEADER, true);
+    curl_setopt($ch, CURLOPT_HEADER, $need_header);
     curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/1.0 (Win3.1)');
     curl_exec($ch);
     if(curl_error($ch)) {

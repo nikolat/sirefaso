@@ -34,6 +34,16 @@ for ($i = 0; $i < $n; $i++) {
         continue;
     }
     $topics = $item['topics'];
+    // We should have a list of redirects needed...
+    if (in_array('kikka', $topics) && in_array('taromati2', $topics)) {
+        $filename = str_replace('/', '_', $item['full_name']). '.txt';
+        $json = file_get_contents(__DIR__. '/repos/'. $filename);
+        if ($json === false) {
+             throw new \RuntimeException('file not found.');
+        }
+        $data_redirect = json_decode($json, true);
+        $item['pushed_at'] = $data_redirect['pushed_at'];
+    }
     $type = '';
     if (in_array('ukagaka-ghost', $topics)) {
         $type = 'ghost';
