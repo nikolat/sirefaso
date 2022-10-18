@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>&#20605;&#83;&#105;&#82;&#101;&#70;&#97;&#83;&#111;</title>
+<title>偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/</link>
-<description>&#71;&#105;&#116;&#72;&#117;&#98;&#12391;&#20844;&#38283;&#12373;&#12428;&#12390;&#12356;&#12427;&#20282;&#12363;&#38306;&#36899;&#12450;&#12503;&#12522;&#12398;&#26356;&#26032;&#24773;&#22577;&#12434;&#19968;&#35239;&#34920;&#31034;&#12377;&#12427;</description>
+<description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
     <title>ukadoc</title>
@@ -184,6 +184,42 @@
     <link>https://github.com/ukatech/csaori</link>
     <guid>https://github.com/ukatech/csaori</guid>
     <pubDate>Sun, 05 Jun 2022 12:07:03 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-caramelldansen-patch</title>
+    <link>https://github.com/nikolat/ukagaka-caramelldansen-patch</link>
+    <guid>https://github.com/nikolat/ukagaka-caramelldansen-patch</guid>
+    <pubDate>Mon, 30 May 2022 19:25:23 +0900</pubDate>
+</item>
+<item>
+    <title>b_f_watersurface</title>
+    <link>https://github.com/ponapalt/b_f_watersurface</link>
+    <guid>https://github.com/ponapalt/b_f_watersurface</guid>
+    <pubDate>Sun, 26 Dec 2021 20:19:19 +0900</pubDate>
+</item>
+<item>
+    <title>StayseeBalloon</title>
+    <link>https://github.com/ponapalt/StayseeBalloon</link>
+    <guid>https://github.com/ponapalt/StayseeBalloon</guid>
+    <pubDate>Sat, 06 Nov 2021 05:04:32 +0900</pubDate>
+</item>
+<item>
+    <title>sleety_rain</title>
+    <link>https://github.com/ponapalt/sleety_rain</link>
+    <guid>https://github.com/ponapalt/sleety_rain</guid>
+    <pubDate>Mon, 18 Oct 2021 20:56:35 +0900</pubDate>
+</item>
+<item>
+    <title>ToothandNailBalloon</title>
+    <link>https://github.com/ponapalt/ToothandNailBalloon</link>
+    <guid>https://github.com/ponapalt/ToothandNailBalloon</guid>
+    <pubDate>Sat, 27 Jun 2020 04:54:08 +0900</pubDate>
+</item>
+<item>
+    <title>aya5-shiori</title>
+    <link>https://github.com/ponapalt/aya5-shiori</link>
+    <guid>https://github.com/ponapalt/aya5-shiori</guid>
+    <pubDate>Tue, 04 Dec 2018 11:20:29 +0900</pubDate>
 </item>
 </channel>
 </rss>
