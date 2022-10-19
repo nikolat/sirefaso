@@ -68,7 +68,7 @@ if __name__ == '__main__':
 	env = Environment(loader=FileSystemLoader('./templates', encoding='utf8'), autoescape=True)
 	data = {
 		'entries': entries,
-		'self_url': config['self_url']
+		'config': config
 	}
 	for filename in ['index.html', 'rss2.xml']:
 		template = env.get_template(filename)
