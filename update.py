@@ -17,18 +17,18 @@ if __name__ == '__main__':
 	response.raise_for_status()
 	responses.append(response)
 	pattern = re.compile(r'<(.+?)>; rel="next"')
-	result = pattern.search(response.headers['link'])
+	result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	while result:
 		url = result.group(1)
 		response = requests.get(url)
 		response.raise_for_status()
 		responses.append(response)
-		result = pattern.search(response.headers['link'])
+		result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	now = datetime.datetime.now(jst)
 	entries = []
 	for response in responses:
 		for item in response.json()['items']:
-			types = [t for t in item['topics'] if 'ukagaka-' in t]
+			types = [t.replace('ukagaka-', '') for t in item['topics'] if 'ukagaka-' in t]
 			if len(types) == 0:
 				continue
 			if item['full_name'] in config['redirect']:
@@ -54,7 +54,7 @@ if __name__ == '__main__':
 			entry = {
 				'id': item['full_name'].replace('/', '_'),
 				'title': item['name'],
-				'category': types[0].replace('ukagaka-', ''),
+				'category': types[0],
 				'classname': classname,
 				'author': item['owner']['login'],
 				'html_url': item['html_url'],
