@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <guid>https://github.com/nikolat/jong-whanwhan</guid>
+    <pubDate>Fri, 04 Nov 2022 23:58:18 +0900</pubDate>
+</item>
+<item>
     <title>jong-rinrin</title>
     <link>https://github.com/nikolat/jong-rinrin</link>
     <guid>https://github.com/nikolat/jong-rinrin</guid>
@@ -76,12 +82,6 @@
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
     <guid>https://github.com/YAYA-shiori/konnoyayame</guid>
     <pubDate>Mon, 10 Oct 2022 08:10:26 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <guid>https://github.com/nikolat/jong-whanwhan</guid>
-    <pubDate>Thu, 29 Sep 2022 12:30:51 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
