@@ -6,6 +6,18 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>jong-rinrin</title>
+    <link>https://github.com/nikolat/jong-rinrin</link>
+    <guid>https://github.com/nikolat/jong-rinrin</guid>
+    <pubDate>Mon, 07 Nov 2022 20:34:54 +0900</pubDate>
+</item>
+<item>
+    <title>jong-chunchun</title>
+    <link>https://github.com/nikolat/jong-chunchun</link>
+    <guid>https://github.com/nikolat/jong-chunchun</guid>
+    <pubDate>Mon, 07 Nov 2022 20:34:39 +0900</pubDate>
+</item>
+<item>
     <title>jong-whanwhan</title>
     <link>https://github.com/nikolat/jong-whanwhan</link>
     <guid>https://github.com/nikolat/jong-whanwhan</guid>
@@ -16,18 +28,6 @@
     <link>https://github.com/ukatech/ukadoc</link>
     <guid>https://github.com/ukatech/ukadoc</guid>
     <pubDate>Sun, 06 Nov 2022 20:50:35 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <guid>https://github.com/nikolat/jong-rinrin</guid>
-    <pubDate>Sat, 05 Nov 2022 15:37:17 +0900</pubDate>
-</item>
-<item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <guid>https://github.com/nikolat/jong-chunchun</guid>
-    <pubDate>Sat, 05 Nov 2022 15:37:09 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-simultaneous-interpreter</title>
