@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukagaka-party-parrot</title>
+    <link>https://github.com/nikolat/ukagaka-party-parrot</link>
+    <guid>https://github.com/nikolat/ukagaka-party-parrot</guid>
+    <pubDate>Tue, 08 Nov 2022 11:56:23 +0900</pubDate>
+</item>
+<item>
     <title>jong-chunchun</title>
     <link>https://github.com/nikolat/jong-chunchun</link>
     <guid>https://github.com/nikolat/jong-chunchun</guid>
@@ -70,12 +76,6 @@
     <link>https://github.com/nikolat/MahjongUtil</link>
     <guid>https://github.com/nikolat/MahjongUtil</guid>
     <pubDate>Mon, 10 Oct 2022 14:21:58 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-party-parrot</title>
-    <link>https://github.com/nikolat/ukagaka-party-parrot</link>
-    <guid>https://github.com/nikolat/ukagaka-party-parrot</guid>
-    <pubDate>Mon, 10 Oct 2022 14:17:14 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
