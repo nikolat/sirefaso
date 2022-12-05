@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <guid>https://github.com/nikolat/shellbook</guid>
+    <pubDate>Mon, 05 Dec 2022 19:33:42 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <guid>https://github.com/ukatech/ukadoc</guid>
@@ -118,12 +124,6 @@
     <link>https://github.com/nikolat/ukaten</link>
     <guid>https://github.com/nikolat/ukaten</guid>
     <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
-</item>
-<item>
-    <title>shellbook</title>
-    <link>https://github.com/nikolat/shellbook</link>
-    <guid>https://github.com/nikolat/shellbook</guid>
-    <pubDate>Sat, 27 Aug 2022 09:56:43 +0900</pubDate>
 </item>
 <item>
     <title>sudohaikuyu</title>
