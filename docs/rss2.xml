@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <guid>https://github.com/YAYA-shiori/konnoyayame</guid>
+    <pubDate>Mon, 26 Dec 2022 10:47:35 +0900</pubDate>
+</item>
+<item>
     <title>recv_net</title>
     <link>https://github.com/nikolat/recv_net</link>
     <guid>https://github.com/nikolat/recv_net</guid>
@@ -106,12 +112,6 @@
     <link>https://github.com/nikolat/jong-bari</link>
     <guid>https://github.com/nikolat/jong-bari</guid>
     <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
-</item>
-<item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <guid>https://github.com/YAYA-shiori/konnoyayame</guid>
-    <pubDate>Mon, 10 Oct 2022 08:10:26 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
