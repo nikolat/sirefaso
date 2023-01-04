@@ -105,9 +105,6 @@ body {
 	top: -2px;
 	margin-bottom: -2px;
 }
-#header #menu-area .category li:hover a {
-	padding-bottom: 2px;
-}
 #content {
 	margin-top: 60px;
 	padding: 30px;
