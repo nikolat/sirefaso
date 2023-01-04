@@ -68,11 +68,12 @@ if __name__ == '__main__':
 			}
 			entries.append(entry)
 	env = Environment(loader=FileSystemLoader('./templates', encoding='utf8'), autoescape=True)
+	env.filters['category'] = lambda entries, category: [e for e in entries if e['category'] == category]
 	data = {
 		'entries': entries,
 		'config': config
 	}
-	for filename in ['index.html', 'rss2.xml']:
+	for filename in [f'{d}/{f}' for d in ['.', 'ghost', 'shell', 'balloon', 'plugin'] for f in ['index.html', 'rss2.xml']]:
 		template = env.get_template(filename)
 		rendered = template.render(data)
 		with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
