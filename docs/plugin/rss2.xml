@@ -5,5 +5,47 @@
 <link>https://nikolat.github.io/sirefaso/plugin/</link>
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/plugin/rss2.xml" rel="self" type="application/rss+xml" />
+<item>
+    <title>UkagakaPlugin_DBdiary</title>
+    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
+    <guid>https://github.com/ambergon/UkagakaPlugin_DBdiary</guid>
+    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
+</item>
+<item>
+    <title>UkakagaPlugin_CeVIO-Talker</title>
+    <link>https://github.com/ambergon/UkakagaPlugin_CeVIO-Talker</link>
+    <guid>https://github.com/ambergon/UkakagaPlugin_CeVIO-Talker</guid>
+    <pubDate>Wed, 28 Dec 2022 22:04:06 +0900</pubDate>
+</item>
+<item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <guid>https://github.com/nikolat/ukaten</guid>
+    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <guid>https://github.com/nikolat/sudohaikuyu</guid>
+    <pubDate>Sat, 27 Aug 2022 09:56:41 +0900</pubDate>
+</item>
+<item>
+    <title>ukadonyu</title>
+    <link>https://github.com/nikolat/ukadonyu</link>
+    <guid>https://github.com/nikolat/ukadonyu</guid>
+    <pubDate>Sat, 27 Aug 2022 09:56:10 +0900</pubDate>
+</item>
+<item>
+    <title>CharameLNetwork</title>
+    <link>https://github.com/nikolat/CharameLNetwork</link>
+    <guid>https://github.com/nikolat/CharameLNetwork</guid>
+    <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
+</item>
+<item>
+    <title>balloonselector</title>
+    <link>https://github.com/nikolat/balloonselector</link>
+    <guid>https://github.com/nikolat/balloonselector</guid>
+    <pubDate>Sat, 27 Aug 2022 09:51:18 +0900</pubDate>
+</item>
 </channel>
 </rss>

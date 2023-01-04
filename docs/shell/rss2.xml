@@ -5,5 +5,23 @@
 <link>https://nikolat.github.io/sirefaso/shell/</link>
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/shell/rss2.xml" rel="self" type="application/rss+xml" />
+<item>
+    <title>si-near-future</title>
+    <link>https://github.com/nikolat/si-near-future</link>
+    <guid>https://github.com/nikolat/si-near-future</guid>
+    <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
+</item>
+<item>
+    <title>cultural-festival</title>
+    <link>https://github.com/nikolat/cultural-festival</link>
+    <guid>https://github.com/nikolat/cultural-festival</guid>
+    <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
+</item>
+<item>
+    <title>jb-standard</title>
+    <link>https://github.com/nikolat/jb-standard</link>
+    <guid>https://github.com/nikolat/jb-standard</guid>
+    <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
+</item>
 </channel>
 </rss>
