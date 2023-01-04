@@ -63,7 +63,7 @@
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <guid>https://github.com/kanadelab/Satolist2</guid>
-    <pubDate>Thu, 29 Dec 2022 13:02:06 +0900</pubDate>
+    <pubDate>Wed, 04 Jan 2023 20:58:32 +0900</pubDate>
 </item>
 <item>
     <title>UkakagaPlugin_CeVIO-Talker</title>
@@ -156,6 +156,24 @@
     <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
 </item>
 <item>
+    <title>banjou_no_sumikko_de</title>
+    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
+    <guid>https://github.com/Tatakinov/banjou_no_sumikko_de</guid>
+    <pubDate>Sun, 27 Nov 2022 22:09:43 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter</title>
+    <link>https://github.com/Tatakinov/desktop_tempter</link>
+    <guid>https://github.com/Tatakinov/desktop_tempter</guid>
+    <pubDate>Sun, 27 Nov 2022 22:04:26 +0900</pubDate>
+</item>
+<item>
+    <title>TexasHoldemUtil</title>
+    <link>https://github.com/Tatakinov/TexasHoldemUtil</link>
+    <guid>https://github.com/Tatakinov/TexasHoldemUtil</guid>
+    <pubDate>Sun, 27 Nov 2022 22:01:58 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-party-parrot</title>
     <link>https://github.com/nikolat/ukagaka-party-parrot</link>
     <guid>https://github.com/nikolat/ukagaka-party-parrot</guid>
@@ -208,6 +226,12 @@
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
     <guid>https://github.com/YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <guid>https://github.com/Tatakinov/yayalint</guid>
+    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>
@@ -268,6 +292,12 @@
     <link>https://github.com/nikolat/balloonselector</link>
     <guid>https://github.com/nikolat/balloonselector</guid>
     <pubDate>Sat, 27 Aug 2022 09:51:18 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint_for_vscode</title>
+    <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
+    <guid>https://github.com/Tatakinov/yayalint_for_vscode</guid>
+    <pubDate>Mon, 08 Aug 2022 21:49:15 +0900</pubDate>
 </item>
 <item>
     <title>yaya-as-saori</title>
