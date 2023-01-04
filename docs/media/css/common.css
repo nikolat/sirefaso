@@ -101,9 +101,14 @@ body {
 }
 #header #menu-area .category li a:hover {
 	text-decoration: underline;
+}
+#header #menu-area .category li:hover {
 	position: relative;
 	top: -2px;
 	margin-bottom: -2px;
+}
+#header #menu-area .category li:hover a {
+	padding-bottom: 2px;
 }
 #content {
 	margin-top: 60px;
