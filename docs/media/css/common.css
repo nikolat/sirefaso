@@ -302,6 +302,10 @@ body, input {
 	content: "spec";
 	background-color: #cff;
 }
+#content .webapp:before {
+	content: "webapp";
+	background-color: #eaa;
+}
 #content .hentry:hover {
 	border-color: #fff #999 #999 #fff;
 	background-color: #fff;
