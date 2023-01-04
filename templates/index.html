@@ -28,7 +28,7 @@
 	</header>
 	<section id="content" class="hfeed">
 		<h2 class="entries-caption">entries</h2>{% for item in entries %}
-		<article id="{{ item.id }}" class="hentry autopagerize_page_element {{ item.category }} {{ item.classname }}">
+		<article id="{{ item.id }}" class="hentry {{ item.category }} {{ item.classname }}">
 			<h3 class="entry-title"><a href="{{ item.html_url }}" rel="bookmark">{{ item.title }}</a></h3>
 			<dl>
 				<dt class="created">登録日時</dt>
