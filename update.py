@@ -1,10 +1,10 @@
 import re
 import datetime
+import os
 import zoneinfo
 import requests
 import yaml
 from jinja2 import Environment, FileSystemLoader
-from os import getenv
 
 if __name__ == '__main__':
 	jst = zoneinfo.ZoneInfo('Asia/Tokyo')
@@ -12,7 +12,12 @@ if __name__ == '__main__':
 	with open(config_filename, encoding='utf-8') as file:
 		config = yaml.safe_load(file)
 	url = 'https://api.github.com/search/repositories'
-	headers = {'Authorization': f'Bearer {getenv("GITHUB_TOKEN")}', 'User-Agent': 'Mozilla/1.0 (Win3.1)'}
+	headers = {
+		'Accept': 'application/vnd.github+json',
+		'Authorization': f'Bearer {os.getenv("GITHUB_TOKEN")}',
+		'X-GitHub-Api-Version': '2022-11-28',
+		'User-Agent': 'Mozilla/1.0 (Win3.1)'
+	}
 	payload = {'q': config['search_query'], 'sort': 'updated'}
 	responses = []
 	response = requests.get(url, params=payload, headers=headers)
