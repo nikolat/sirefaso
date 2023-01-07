@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <guid>https://github.com/tukinami/taidanaSanoSan</guid>
+    <pubDate>Sat, 07 Jan 2023 08:57:44 +0900</pubDate>
+</item>
+<item>
     <title>HamirLore</title>
     <link>https://github.com/Shimofumi/HamirLore</link>
     <guid>https://github.com/Shimofumi/HamirLore</guid>
@@ -64,12 +70,6 @@
     <link>https://github.com/nikolat/ghostbook</link>
     <guid>https://github.com/nikolat/ghostbook</guid>
     <pubDate>Mon, 02 Jan 2023 10:39:28 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <guid>https://github.com/tukinami/taidanaSanoSan</guid>
-    <pubDate>Mon, 02 Jan 2023 09:42:02 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>
