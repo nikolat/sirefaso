@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>desktop_tempter_casino_chip_green</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_green</link>
+    <guid>https://github.com/Tatakinov/desktop_tempter_casino_chip_green</guid>
+    <pubDate>Sat, 07 Jan 2023 14:28:26 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_red</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_red</link>
+    <guid>https://github.com/Tatakinov/desktop_tempter_casino_chip_red</guid>
+    <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <guid>https://github.com/nikolat/github-nar-station</guid>
+    <pubDate>Sat, 07 Jan 2023 13:50:40 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <guid>https://github.com/tukinami/taidanaSanoSan</guid>
@@ -16,12 +34,6 @@
     <link>https://github.com/Shimofumi/HamirLore</link>
     <guid>https://github.com/Shimofumi/HamirLore</guid>
     <pubDate>Fri, 06 Jan 2023 21:40:37 +0900</pubDate>
-</item>
-<item>
-    <title>github-nar-station</title>
-    <link>https://github.com/nikolat/github-nar-station</link>
-    <guid>https://github.com/nikolat/github-nar-station</guid>
-    <pubDate>Thu, 05 Jan 2023 22:04:26 +0900</pubDate>
 </item>
 <item>
     <title>small_HE-Chan_sama</title>
@@ -216,6 +228,18 @@
     <pubDate>Thu, 17 Nov 2022 23:47:19 +0900</pubDate>
 </item>
 <item>
+    <title>kotori</title>
+    <link>https://github.com/Tatakinov/kotori</link>
+    <guid>https://github.com/Tatakinov/kotori</guid>
+    <pubDate>Tue, 15 Nov 2022 21:44:43 +0900</pubDate>
+</item>
+<item>
+    <title>kagari_shiori</title>
+    <link>https://github.com/Tatakinov/kagari_shiori</link>
+    <guid>https://github.com/Tatakinov/kagari_shiori</guid>
+    <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-party-parrot</title>
     <link>https://github.com/nikolat/ukagaka-party-parrot</link>
     <guid>https://github.com/nikolat/ukagaka-party-parrot</guid>
@@ -340,6 +364,12 @@
     <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
     <guid>https://github.com/Tatakinov/yayalint_for_vscode</guid>
     <pubDate>Mon, 08 Aug 2022 21:49:15 +0900</pubDate>
+</item>
+<item>
+    <title>kagari_as_plugin</title>
+    <link>https://github.com/Tatakinov/kagari_as_plugin</link>
+    <guid>https://github.com/Tatakinov/kagari_as_plugin</guid>
+    <pubDate>Sat, 06 Aug 2022 20:57:03 +0900</pubDate>
 </item>
 <item>
     <title>nar-thumbnail-provider</title>
