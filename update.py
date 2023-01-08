@@ -21,7 +21,7 @@ def get_log_handler():
 	handler.setFormatter(handler_formatter)
 	return custom_logger
 
-def request_with_retry(url, payload=None):
+def request_with_retry(url, payload, logger):
 	headers = {
 		'Accept': 'application/vnd.github+json',
 		'Authorization': f'Bearer {os.getenv("GITHUB_TOKEN")}',
@@ -59,13 +59,13 @@ if __name__ == '__main__':
 	url = 'https://api.github.com/search/repositories'
 	payload = {'q': config['search_query'], 'sort': 'updated'}
 	responses = []
-	response = request_with_retry(url, payload)
+	response = request_with_retry(url, payload, logger)
 	responses.append(response)
 	pattern = re.compile(r'<(.+?)>; rel="next"')
 	result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	while result:
 		url = result.group(1)
-		response = request_with_retry(url)
+		response = request_with_retry(url, None, logger)
 		responses.append(response)
 		result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	now = datetime.datetime.now(jst)
@@ -79,7 +79,7 @@ if __name__ == '__main__':
 			if item['full_name'] in config['redirect']:
 				logger.debug(f'redirect form {item["full_name"]} to {config["redirect"][item["full_name"]]}')
 				url = 'https://api.github.com/repos/' + config['redirect'][item['full_name']]
-				r = request_with_retry(url)
+				r = request_with_retry(url, None, logger)
 				r_item = r.json()
 				item['created_at'] = r_item['created_at']
 				item['pushed_at'] = r_item['pushed_at']
