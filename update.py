@@ -1,5 +1,6 @@
 import re
 import datetime
+import logging
 import os
 import time
 import zoneinfo
@@ -7,42 +8,64 @@ import requests
 import yaml
 from jinja2 import Environment, FileSystemLoader
 
-if __name__ == '__main__':
-	jst = zoneinfo.ZoneInfo('Asia/Tokyo')
-	config_filename = 'config.yml'
-	with open(config_filename, encoding='utf-8') as file:
-		config = yaml.safe_load(file)
-	url = 'https://api.github.com/search/repositories'
+def get_log_handler():
+	custom_logger = logging.getLogger('custom_logger')
+	custom_logger.setLevel(logging.DEBUG)
+	handler = logging.StreamHandler()
+	handler.setLevel(logging.DEBUG)
+	custom_logger.addHandler(handler)
+	handler_formatter = logging.Formatter(
+		'%(asctime)s - [%(levelname)s]: %(message)s', datefmt='%Y-%m-%dT%H:%M:%SZ'
+	)
+	handler_formatter.converter = time.gmtime
+	handler.setFormatter(handler_formatter)
+	return custom_logger
+
+def request_with_retry(url, payload=None):
 	headers = {
 		'Accept': 'application/vnd.github+json',
 		'Authorization': f'Bearer {os.getenv("GITHUB_TOKEN")}',
 		'X-GitHub-Api-Version': '2022-11-28',
 		'User-Agent': 'nikolat/github-dau-crawler'
 	}
-	payload = {'q': config['search_query'], 'sort': 'updated'}
-	responses = []
 	response = requests.get(url, params=payload, headers=headers)
 	try:
 		response.raise_for_status()
 	except requests.RequestException as e:
-		print(e.response.text)
+		logger.warning(f'Status: {response.status_code}, URL: {url}')
+		logger.debug(e.response.text)
 		if 'Retry-After' in response.headers:
 			wait = int(response.headers['Retry-After'])
 		else:
 			wait = 180
+		logger.debug(f'wait = {wait}')
 		time.sleep(wait)
+		response = requests.get(url, params=payload, headers=headers)
+		logger.debug(f'Status: {response.status_code}')
 		try:
-			response = requests.get(url, params=payload, headers=headers)
+			response.raise_for_status()
 		except requests.RequestException as e:
-			print(e.response.text)
+			logger.warning(f'Status: {response.status_code}, URL: {url}')
+			logger.debug(e.response.text)
 			raise
+	return response
+
+if __name__ == '__main__':
+	logger = get_log_handler()
+	jst = zoneinfo.ZoneInfo('Asia/Tokyo')
+	config_filename = 'config.yml'
+	with open(config_filename, encoding='utf-8') as file:
+		config = yaml.safe_load(file)
+	url = 'https://api.github.com/search/repositories'
+	payload = {'q': config['search_query'], 'sort': 'updated'}
+	responses = []
+	response = request_with_retry(url, payload)
 	responses.append(response)
 	pattern = re.compile(r'<(.+?)>; rel="next"')
 	result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	while result:
 		url = result.group(1)
-		response = requests.get(url, headers=headers)
-		response.raise_for_status()
+		response = request_with_retry(url)
 		responses.append(response)
 		result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 	now = datetime.datetime.now(jst)
@@ -51,11 +74,12 @@ if __name__ == '__main__':
 		for item in response.json()['items']:
 			types = [t.replace('ukagaka-', '') for t in item['topics'] if 'ukagaka-' in t]
 			if len(types) == 0:
+				logger.debug(f'ukagaka-* topic is not found in {item["full_name"]}')
 				continue
 			if item['full_name'] in config['redirect']:
+				logger.debug(f'redirect form {item["full_name"]} to {config["redirect"][item["full_name"]]}')
 				url = 'https://api.github.com/repos/' + config['redirect'][item['full_name']]
-				r = requests.get(url, headers=headers)
-				r.raise_for_status()
+				r = request_with_retry(url)
 				r_item = r.json()
 				item['created_at'] = r_item['created_at']
 				item['pushed_at'] = r_item['pushed_at']
