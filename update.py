@@ -21,7 +21,7 @@ def get_log_handler():
 	handler.setFormatter(handler_formatter)
 	return custom_logger
 
-def request_with_retry(url, payload, logger):
+def request_with_retry(url, payload, logger, retry=True):
 	headers = {
 		'Accept': 'application/vnd.github+json',
 		'Authorization': f'Bearer {os.getenv("GITHUB_TOKEN")}',
@@ -34,20 +34,21 @@ def request_with_retry(url, payload, logger):
 	except requests.RequestException as e:
 		logger.warning(f'Status: {response.status_code}, URL: {url}')
 		logger.debug(e.response.text)
-		if 'Retry-After' in response.headers:
-			wait = int(response.headers['Retry-After'])
-		else:
-			wait = 180
-		logger.debug(f'wait = {wait}')
-		time.sleep(wait)
-		response = requests.get(url, params=payload, headers=headers)
-		logger.debug(f'Status: {response.status_code}')
-		try:
-			response.raise_for_status()
-		except requests.RequestException as e:
-			logger.warning(f'Status: {response.status_code}, URL: {url}')
-			logger.debug(e.response.text)
-			raise
+		if retry:
+			if 'Retry-After' in response.headers:
+				wait = int(response.headers['Retry-After'])
+			else:
+				wait = 180
+			logger.debug(f'wait = {wait}')
+			time.sleep(wait)
+			response = requests.get(url, params=payload, headers=headers)
+			logger.debug(f'Status: {response.status_code}')
+			try:
+				response.raise_for_status()
+			except requests.RequestException as e:
+				logger.warning(f'Status: {response.status_code}, URL: {url}')
+				logger.debug(e.response.text)
+				raise
 	return response
 
 if __name__ == '__main__':
