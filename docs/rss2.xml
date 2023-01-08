@@ -6,6 +6,18 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>banjou_no_sumikko_de</title>
+    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
+    <guid>https://github.com/Tatakinov/banjou_no_sumikko_de</guid>
+    <pubDate>Sun, 08 Jan 2023 22:09:40 +0900</pubDate>
+</item>
+<item>
+    <title>d2k</title>
+    <link>https://github.com/etwaslangsam/d2k</link>
+    <guid>https://github.com/etwaslangsam/d2k</guid>
+    <pubDate>Sun, 08 Jan 2023 22:09:40 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_getWindowTitle</title>
     <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
     <guid>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</guid>
@@ -174,12 +186,6 @@
     <pubDate>Sat, 17 Dec 2022 16:16:50 +0900</pubDate>
 </item>
 <item>
-    <title>d2k</title>
-    <link>https://github.com/etwaslangsam/d2k</link>
-    <guid>https://github.com/etwaslangsam/d2k</guid>
-    <pubDate>Sat, 17 Dec 2022 08:40:04 +0900</pubDate>
-</item>
-<item>
     <title>bath_ane</title>
     <link>https://github.com/etwaslangsam/bath_ane</link>
     <guid>https://github.com/etwaslangsam/bath_ane</guid>
@@ -226,12 +232,6 @@
     <link>https://github.com/nikolat/si-near-future</link>
     <guid>https://github.com/nikolat/si-near-future</guid>
     <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
-</item>
-<item>
-    <title>banjou_no_sumikko_de</title>
-    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
-    <guid>https://github.com/Tatakinov/banjou_no_sumikko_de</guid>
-    <pubDate>Sun, 27 Nov 2022 22:09:43 +0900</pubDate>
 </item>
 <item>
     <title>TexasHoldemUtil</title>
