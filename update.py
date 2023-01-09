@@ -42,13 +42,14 @@ def request_with_retry(url, payload, logger, retry=True):
 			logger.debug(f'wait = {wait}')
 			time.sleep(wait)
 			response = requests.get(url, params=payload, headers=headers)
-			logger.debug(f'Status: {response.status_code}')
 			try:
 				response.raise_for_status()
 			except requests.RequestException as e:
 				logger.warning(f'Status: {response.status_code}, URL: {url}')
 				logger.debug(e.response.text)
 				raise
+			else:
+				logger.debug(f'Status: {response.status_code}, URL: {url}')
 	return response
 
 if __name__ == '__main__':
