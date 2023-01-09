@@ -78,7 +78,7 @@ if __name__ == '__main__':
 				logger.debug(f'ukagaka-* topic is not found in {item["full_name"]}')
 				continue
 			if item['full_name'] in config['redirect']:
-				logger.debug(f'redirect form {item["full_name"]} to {config["redirect"][item["full_name"]]}')
+				logger.debug(f'redirected form {item["full_name"]} to {config["redirect"][item["full_name"]]}')
 				url = 'https://api.github.com/repos/' + config['redirect'][item['full_name']]
 				r = request_with_retry(url, None, logger)
 				r_item = r.json()
