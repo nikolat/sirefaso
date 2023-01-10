@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <guid>https://github.com/ukatech/ukadoc</guid>
+    <pubDate>Tue, 10 Jan 2023 13:17:29 +0900</pubDate>
+</item>
+<item>
     <title>DirectSSTPTester</title>
     <link>https://github.com/nikolat/DirectSSTPTester</link>
     <guid>https://github.com/nikolat/DirectSSTPTester</guid>
@@ -220,12 +226,6 @@
     <link>https://github.com/nikolat/jong-rinrin</link>
     <guid>https://github.com/nikolat/jong-rinrin</guid>
     <pubDate>Sun, 11 Dec 2022 12:51:32 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <guid>https://github.com/ukatech/ukadoc</guid>
-    <pubDate>Tue, 06 Dec 2022 14:55:01 +0900</pubDate>
 </item>
 <item>
     <title>si-near-future</title>
