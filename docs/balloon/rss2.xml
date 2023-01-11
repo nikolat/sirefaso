@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>偽SiReFaSo</title>
-<link>https://nikolat.github.io/sirefaso/</link>
+<title>balloon | 偽SiReFaSo</title>
+<link>https://nikolat.github.io/sirefaso/balloon/</link>
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
-<atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
+<atom:link href="https://nikolat.github.io/sirefaso/balloon/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
     <title>jb-standard-balloon</title>
     <link>https://github.com/nikolat/jb-standard-balloon</link>
