@@ -1,14 +1,16 @@
 import re
 import datetime
 import logging
+import shutil
 import os
 import time
 import zoneinfo
 import requests
 import yaml
+import abc
 from jinja2 import Environment, FileSystemLoader
 
-class GitHubApiCrawler(object):
+class GitHubApiCrawler(abc.ABC):
 
 	__CONFIG_FILENAME = 'config.yml'
 
@@ -77,8 +79,75 @@ class GitHubApiCrawler(object):
 			responses.append(response)
 			result = pattern.search(response.headers['link']) if 'link' in response.headers else None
 		self._responses = responses
+		return self
+
+	@abc.abstractmethod
+	def crawl(self):
+		self._entries = []
+		self._categories = []
+		self._authors = []
+		return self
+
+	def export(self):
+		config = self._config
+		entries = self._entries
+		categories = self._categories
+		authors = self._authors
+		env = Environment(loader=FileSystemLoader('./templates', encoding='utf8'), autoescape=True)
+		# top page
+		data = {
+			'entries': entries,
+			'config': config
+		}
+		for filename in ['index.html', 'rss2.xml']:
+			template = env.get_template(filename)
+			rendered = template.render(data)
+			with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
+				f.write(rendered + '\n')
+		# category
+		for category in categories:
+			shutil.rmtree(f'docs/{category}/', ignore_errors=True)
+			os.mkdir(f'docs/{category}/')
+			data = {
+				'entries': [e for e in entries if e['category'] == category],
+				'config': config
+			}
+			for filename in ['index.html', 'rss2.xml']:
+				template = env.get_template(f'category/{filename}')
+				rendered = template.render(data)
+				with open(f'docs/{category}/{filename}', 'w', encoding='utf-8') as f:
+					f.write(rendered + '\n')
+		# author
+		shutil.rmtree('docs/author/', ignore_errors=True)
+		os.mkdir('docs/author/')
+		for author in authors:
+			os.mkdir(f'docs/author/{author}/')
+			data = {
+				'entries': [e for e in entries if e['author'] == author],
+				'config': config
+			}
+			for filename in ['index.html', 'rss2.xml']:
+				template = env.get_template(f'author/{filename}')
+				rendered = template.render(data)
+				with open(f'docs/author/{author}/{filename}', 'w', encoding='utf-8') as f:
+					f.write(rendered + '\n')
+		# sitemap
+		data = {
+			'categories': categories,
+			'authors': authors,
+			'now': datetime.datetime.now().strftime('%Y-%m-%d'),
+			'config': config
+		}
+		filename = 'sitemap.xml'
+		template = env.get_template(filename)
+		rendered = template.render(data)
+		with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
+			f.write(rendered + '\n')
+		return self
 
 class GitHubDauCrawler(GitHubApiCrawler):
+
+	__DENIED_CATEGORIES = ['media', 'author']
 
 	def __init__(self):
 		super().__init__('nikolat/GitHubDauCrawler')
@@ -90,12 +159,19 @@ class GitHubDauCrawler(GitHubApiCrawler):
 		config = self._config
 		responses = self._responses
 		entries = []
+		categories = []
+		authors = []
 		for response in responses:
 			for item in response.json()['items']:
 				types = [t.replace('ukagaka-', '') for t in item['topics'] if 'ukagaka-' in t]
 				if len(types) == 0:
 					logger.debug(f'ukagaka-* topic is not found in {item["full_name"]}')
 					continue
+				types = [t for t in types if t not in self.__DENIED_CATEGORIES]
+				if len(types) == 0:
+					logger.debug(f'ukagaka-* topic is not allowed in {item["full_name"]}')
+					continue
+				category = types[0]
 				if item['full_name'] in config['redirect']:
 					logger.debug(f'redirected form {item["full_name"]} to {config["redirect"][item["full_name"]]}')
 					url = 'https://api.github.com/repos/' + config['redirect'][item['full_name']]
@@ -119,7 +195,7 @@ class GitHubDauCrawler(GitHubApiCrawler):
 				entry = {
 					'id': item['full_name'].replace('/', '_'),
 					'title': item['name'],
-					'category': types[0],
+					'category': category,
 					'classname': classname,
 					'author': item['owner']['login'],
 					'html_url': item['html_url'],
@@ -130,25 +206,15 @@ class GitHubDauCrawler(GitHubApiCrawler):
 					'updated_at_rss2': dt_updated.strftime('%a, %d %b %Y %H:%M:%S %z')
 				}
 				entries.append(entry)
-		self.__entries = entries
-
-	def export(self):
-		config = self._config
-		entries = self.__entries
-		env = Environment(loader=FileSystemLoader('./templates', encoding='utf8'), autoescape=True)
-		env.filters['category'] = lambda entries, category: [e for e in entries if e['category'] == category]
-		data = {
-			'entries': entries,
-			'config': config
-		}
-		for filename in [f'{d}/{f}' for d in ['.', 'ghost', 'shell', 'balloon', 'plugin'] for f in ['index.html', 'rss2.xml']]:
-			template = env.get_template(filename)
-			rendered = template.render(data)
-			with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
-				f.write(rendered + '\n')
+				if category not in categories:
+					categories.append(category)
+				if item['owner']['login'] not in authors:
+					authors.append(item['owner']['login'])
+		self._entries = entries
+		self._categories = categories
+		self._authors = authors
+		return self
 
 if __name__ == '__main__':
 	g = GitHubDauCrawler()
-	g.search()
-	g.crawl()
-	g.export()
+	g.search().crawl().export()

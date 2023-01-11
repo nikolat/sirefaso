@@ -40,7 +40,7 @@
 				<dt class="updated">最終更新</dt>
 				<dd class="updated"><time datetime="{{ item.updated_at_time }}">{{ item.updated_at_str }}</time></dd>
 				<dt class="author">作者</dt>
-				<dd class="author">{{ item.author }}</dd>
+				<dd class="author"><a href="./author/{{ item.author }}/">{{ item.author }}</a></dd>
 			</dl>
 		</article>{% endfor %}
 	</section>
