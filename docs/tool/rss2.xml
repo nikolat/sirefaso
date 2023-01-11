@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>偽SiReFaSo</title>
+<link>https://nikolat.github.io/sirefaso/</link>
+<description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+<atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <guid>https://github.com/nikolat/DirectSSTPTester</guid>
+    <pubDate>Tue, 10 Jan 2023 09:53:35 +0900</pubDate>
+</item>
+<item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <guid>https://github.com/kanadelab/Satolist2</guid>
+    <pubDate>Wed, 04 Jan 2023 23:13:07 +0900</pubDate>
+</item>
+<item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <guid>https://github.com/nikolat/recv_net</guid>
+    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
+</item>
+<item>
+    <title>ayaya-vs-code-extension</title>
+    <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <guid>https://github.com/YAYA-shiori/ayaya-vs-code-extension</guid>
+    <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
+</item>
+<item>
+    <title>vscode-surfaces</title>
+    <link>https://github.com/kanadelab/vscode-surfaces</link>
+    <guid>https://github.com/kanadelab/vscode-surfaces</guid>
+    <pubDate>Sat, 17 Dec 2022 16:16:50 +0900</pubDate>
+</item>
+<item>
+    <title>VimUkagakaSSTP</title>
+    <link>https://github.com/ambergon/VimUkagakaSSTP</link>
+    <guid>https://github.com/ambergon/VimUkagakaSSTP</guid>
+    <pubDate>Thu, 17 Nov 2022 23:47:19 +0900</pubDate>
+</item>
+<item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <guid>https://github.com/YAYA-shiori/tama</guid>
+    <pubDate>Tue, 27 Sep 2022 01:20:18 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <guid>https://github.com/Tatakinov/yayalint</guid>
+    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint_for_vscode</title>
+    <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
+    <guid>https://github.com/Tatakinov/yayalint_for_vscode</guid>
+    <pubDate>Mon, 08 Aug 2022 21:49:15 +0900</pubDate>
+</item>
+<item>
+    <title>nar-thumbnail-provider</title>
+    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
+    <guid>https://github.com/ukatech/nar-thumbnail-provider</guid>
+    <pubDate>Fri, 05 Aug 2022 02:41:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukagakaTool-CreateAnimationPng</title>
+    <link>https://github.com/ambergon/ukagakaTool-CreateAnimationPng</link>
+    <guid>https://github.com/ambergon/ukagakaTool-CreateAnimationPng</guid>
+    <pubDate>Mon, 27 Jun 2022 17:24:11 +0900</pubDate>
+</item>
+</channel>
+</rss>
