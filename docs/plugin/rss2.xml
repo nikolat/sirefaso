@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/plugin/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <guid>https://github.com/nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:32:30 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_CeVIO-Talker</title>
     <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker</link>
     <guid>https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker</guid>
@@ -40,12 +46,6 @@
     <link>https://github.com/nikolat/ukaten</link>
     <guid>https://github.com/nikolat/ukaten</guid>
     <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <guid>https://github.com/nikolat/sudohaikuyu</guid>
-    <pubDate>Sat, 27 Aug 2022 09:56:41 +0900</pubDate>
 </item>
 <item>
     <title>CharameLNetwork</title>
