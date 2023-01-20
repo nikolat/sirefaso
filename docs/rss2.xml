@@ -6,6 +6,12 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Bouyomi</title>
+    <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <guid>https://github.com/apxxxxxxe/Bouyomi</guid>
+    <pubDate>Fri, 20 Jan 2023 21:55:38 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <guid>https://github.com/tukinami/taidanaSanoSan</guid>
@@ -46,12 +52,6 @@
     <link>https://github.com/ukatech/ukadoc</link>
     <guid>https://github.com/ukatech/ukadoc</guid>
     <pubDate>Thu, 19 Jan 2023 09:28:50 +0900</pubDate>
-</item>
-<item>
-    <title>Bouyomi</title>
-    <link>https://github.com/apxxxxxxe/Bouyomi</link>
-    <guid>https://github.com/apxxxxxxe/Bouyomi</guid>
-    <pubDate>Thu, 19 Jan 2023 00:58:01 +0900</pubDate>
 </item>
 <item>
     <title>myalice2</title>
