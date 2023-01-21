@@ -1,0 +1,534 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/",
+    "feed_url": "https://nikolat.github.io/sirefaso/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "https://github.com/dullNeko/WebClapModoki-GAS",
+            "url": "https://github.com/dullNeko/WebClapModoki-GAS",
+            "title": "WebClapModoki-GAS",
+            "date_published": "2022-12-23T09:10:35Z",
+            "date_modified": "2023-01-20T16:37:45Z"
+        },
+        {
+            "id": "https://github.com/apxxxxxxe/Bouyomi",
+            "url": "https://github.com/apxxxxxxe/Bouyomi",
+            "title": "Bouyomi",
+            "date_published": "2022-05-21T01:32:02Z",
+            "date_modified": "2023-01-20T12:55:38Z"
+        },
+        {
+            "id": "https://github.com/tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2023-01-20T10:58:03Z"
+        },
+        {
+            "id": "https://github.com/nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z"
+        },
+        {
+            "id": "https://github.com/tukinami/talismanic_beast_pattern",
+            "url": "https://github.com/tukinami/talismanic_beast_pattern",
+            "title": "talismanic_beast_pattern",
+            "date_published": "2023-01-19T12:51:40Z",
+            "date_modified": "2023-01-19T12:55:59Z"
+        },
+        {
+            "id": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
+            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
+            "title": "ukagakaPlugin_CeVIO-Talker",
+            "date_published": "2022-12-21T05:27:12Z",
+            "date_modified": "2023-01-19T10:22:23Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-01-19T02:04:05Z"
+        },
+        {
+            "id": "https://github.com/ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2023-01-19T00:28:50Z"
+        },
+        {
+            "id": "https://github.com/etwaslangsam/myalice2",
+            "url": "https://github.com/etwaslangsam/myalice2",
+            "title": "myalice2",
+            "date_published": "2016-03-28T11:24:49Z",
+            "date_modified": "2023-01-14T13:56:23Z"
+        },
+        {
+            "id": "https://github.com/nikolat/github-nar-station",
+            "url": "https://github.com/nikolat/github-nar-station",
+            "title": "github-nar-station",
+            "date_published": "2022-04-23T00:34:06Z",
+            "date_modified": "2023-01-14T00:05:40Z"
+        },
+        {
+            "id": "https://github.com/nikolat/github-dau-crawler",
+            "url": "https://github.com/nikolat/github-dau-crawler",
+            "title": "github-dau-crawler",
+            "date_published": "2022-04-27T04:23:02Z",
+            "date_modified": "2023-01-14T00:05:26Z"
+        },
+        {
+            "id": "https://github.com/Taromati2/Taromati2",
+            "url": "https://github.com/Taromati2/Taromati2",
+            "title": "Taromati2",
+            "date_published": "2021-02-22T07:50:19Z",
+            "date_modified": "2023-01-12T15:57:10Z"
+        },
+        {
+            "id": "https://github.com/kanadelab/Satolist2",
+            "url": "https://github.com/kanadelab/Satolist2",
+            "title": "Satolist2",
+            "date_published": "2022-02-11T16:27:32Z",
+            "date_modified": "2023-01-11T13:39:54Z"
+        },
+        {
+            "id": "https://github.com/nikolat/DirectSSTPTester",
+            "url": "https://github.com/nikolat/DirectSSTPTester",
+            "title": "DirectSSTPTester",
+            "date_published": "2021-11-12T08:28:32Z",
+            "date_modified": "2023-01-10T00:53:35Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/banjou_no_sumikko_de",
+            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
+            "title": "banjou_no_sumikko_de",
+            "date_published": "2021-05-27T13:38:48Z",
+            "date_modified": "2023-01-08T13:09:40Z"
+        },
+        {
+            "id": "https://github.com/etwaslangsam/d2k",
+            "url": "https://github.com/etwaslangsam/d2k",
+            "title": "d2k",
+            "date_published": "2018-06-12T05:12:00Z",
+            "date_modified": "2023-01-08T13:09:40Z"
+        },
+        {
+            "id": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/desktop_tempter",
+            "url": "https://github.com/Tatakinov/desktop_tempter",
+            "title": "desktop_tempter",
+            "date_published": "2022-11-03T12:40:16Z",
+            "date_modified": "2023-01-07T05:41:11Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "title": "desktop_tempter_casino_chip_blue",
+            "date_published": "2022-11-03T12:55:19Z",
+            "date_modified": "2023-01-07T05:38:08Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/mosu",
+            "url": "https://github.com/Tatakinov/mosu",
+            "title": "mosu",
+            "date_published": "2021-09-25T12:56:53Z",
+            "date_modified": "2023-01-07T05:36:03Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/desktop_tempter_casino_chip_green",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_green",
+            "title": "desktop_tempter_casino_chip_green",
+            "date_published": "2022-11-03T12:52:07Z",
+            "date_modified": "2023-01-07T05:28:26Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
+            "title": "desktop_tempter_casino_chip_red",
+            "date_published": "2022-11-03T12:48:19Z",
+            "date_modified": "2023-01-07T05:25:57Z"
+        },
+        {
+            "id": "https://github.com/Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2023-01-06T12:40:37Z"
+        },
+        {
+            "id": "https://github.com/tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z"
+        },
+        {
+            "id": "https://github.com/apxxxxxxe/Youto",
+            "url": "https://github.com/apxxxxxxe/Youto",
+            "title": "Youto",
+            "date_published": "2022-05-26T09:48:26Z",
+            "date_modified": "2023-01-04T13:39:05Z"
+        },
+        {
+            "id": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
+            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
+            "title": "UkagakaPlugin_DBdiary",
+            "date_published": "2023-01-03T14:47:18Z",
+            "date_modified": "2023-01-04T07:57:49Z"
+        },
+        {
+            "id": "https://github.com/etwaslangsam/Gertrude",
+            "url": "https://github.com/etwaslangsam/Gertrude",
+            "title": "Gertrude",
+            "date_published": "2018-11-09T10:41:18Z",
+            "date_modified": "2023-01-03T09:05:08Z"
+        },
+        {
+            "id": "https://github.com/nikolat/bee",
+            "url": "https://github.com/nikolat/bee",
+            "title": "bee",
+            "date_published": "2023-01-02T00:50:55Z",
+            "date_modified": "2023-01-02T01:40:17Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ghostbook",
+            "url": "https://github.com/nikolat/ghostbook",
+            "title": "ghostbook",
+            "date_published": "2023-01-02T00:50:38Z",
+            "date_modified": "2023-01-02T01:39:28Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2022-12-30T08:18:39Z"
+        },
+        {
+            "id": "https://github.com/tukinami/saori-resized-png",
+            "url": "https://github.com/tukinami/saori-resized-png",
+            "title": "saori-resized-png",
+            "date_published": "2022-12-09T07:24:27Z",
+            "date_modified": "2022-12-26T10:30:23Z"
+        },
+        {
+            "id": "https://github.com/nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z"
+        },
+        {
+            "id": "https://github.com/nikolat/MahjongUtil",
+            "url": "https://github.com/nikolat/MahjongUtil",
+            "title": "MahjongUtil",
+            "date_published": "2021-07-29T12:28:35Z",
+            "date_modified": "2022-12-25T06:33:21Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z"
+        },
+        {
+            "id": "https://github.com/kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2022-12-17T07:16:50Z"
+        },
+        {
+            "id": "https://github.com/etwaslangsam/bath_ane",
+            "url": "https://github.com/etwaslangsam/bath_ane",
+            "title": "bath_ane",
+            "date_published": "2021-10-09T03:58:11Z",
+            "date_modified": "2022-12-16T23:39:15Z"
+        },
+        {
+            "id": "https://github.com/nikolat/shellbook",
+            "url": "https://github.com/nikolat/shellbook",
+            "title": "shellbook",
+            "date_published": "2021-11-10T11:28:28Z",
+            "date_modified": "2022-12-13T12:56:00Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jong-chunchun",
+            "url": "https://github.com/nikolat/jong-chunchun",
+            "title": "jong-chunchun",
+            "date_published": "2021-06-09T06:33:06Z",
+            "date_modified": "2022-12-11T03:51:42Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jong-whanwhan",
+            "url": "https://github.com/nikolat/jong-whanwhan",
+            "title": "jong-whanwhan",
+            "date_published": "2021-06-09T06:35:45Z",
+            "date_modified": "2022-12-11T03:51:36Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jong-rinrin",
+            "url": "https://github.com/nikolat/jong-rinrin",
+            "title": "jong-rinrin",
+            "date_published": "2021-06-09T06:30:29Z",
+            "date_modified": "2022-12-11T03:51:32Z"
+        },
+        {
+            "id": "https://github.com/nikolat/si-near-future",
+            "url": "https://github.com/nikolat/si-near-future",
+            "title": "si-near-future",
+            "date_published": "2022-06-04T06:38:10Z",
+            "date_modified": "2022-12-04T11:20:25Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/TexasHoldemUtil",
+            "url": "https://github.com/Tatakinov/TexasHoldemUtil",
+            "title": "TexasHoldemUtil",
+            "date_published": "2022-11-27T12:54:46Z",
+            "date_modified": "2022-11-27T13:01:58Z"
+        },
+        {
+            "id": "https://github.com/ambergon/VimUkagakaSSTP",
+            "url": "https://github.com/ambergon/VimUkagakaSSTP",
+            "title": "VimUkagakaSSTP",
+            "date_published": "2022-11-17T14:08:43Z",
+            "date_modified": "2022-11-17T14:47:19Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/kotori",
+            "url": "https://github.com/Tatakinov/kotori",
+            "title": "kotori",
+            "date_published": "2022-11-14T13:22:30Z",
+            "date_modified": "2022-11-15T12:44:43Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/kagari_shiori",
+            "url": "https://github.com/Tatakinov/kagari_shiori",
+            "title": "kagari_shiori",
+            "date_published": "2022-11-14T13:17:19Z",
+            "date_modified": "2022-11-15T12:44:01Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukagaka-party-parrot",
+            "url": "https://github.com/nikolat/ukagaka-party-parrot",
+            "title": "ukagaka-party-parrot",
+            "date_published": "2021-10-09T11:59:18Z",
+            "date_modified": "2022-11-12T11:40:35Z"
+        },
+        {
+            "id": "https://github.com/nikolat/cultural-festival",
+            "url": "https://github.com/nikolat/cultural-festival",
+            "title": "cultural-festival",
+            "date_published": "2022-11-09T11:15:34Z",
+            "date_modified": "2022-11-09T11:29:32Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "title": "ukagaka-simultaneous-interpreter",
+            "date_published": "2022-10-31T10:26:35Z",
+            "date_modified": "2022-10-31T10:35:36Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2022-10-27T02:00:32Z"
+        },
+        {
+            "id": "https://github.com/nikolat/crawler_uploader",
+            "url": "https://github.com/nikolat/crawler_uploader",
+            "title": "crawler_uploader",
+            "date_published": "2011-04-16T11:44:13Z",
+            "date_modified": "2022-10-19T10:01:32Z"
+        },
+        {
+            "id": "https://github.com/ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2022-10-14T11:58:40Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jong-bari",
+            "url": "https://github.com/nikolat/jong-bari",
+            "title": "jong-bari",
+            "date_published": "2021-06-09T05:21:25Z",
+            "date_modified": "2022-10-10T05:22:57Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/tama",
+            "url": "https://github.com/YAYA-shiori/tama",
+            "title": "tama",
+            "date_published": "2022-02-12T05:08:54Z",
+            "date_modified": "2022-09-26T16:20:18Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2022-09-23T11:53:59Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2022-09-20T13:22:52Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "title": "ukagaka-hakoirimusume",
+            "date_published": "2021-11-10T12:05:19Z",
+            "date_modified": "2022-08-27T04:21:36Z"
+        },
+        {
+            "id": "https://github.com/nikolat/akari-as-saori",
+            "url": "https://github.com/nikolat/akari-as-saori",
+            "title": "akari-as-saori",
+            "date_published": "2021-11-03T23:33:48Z",
+            "date_modified": "2022-08-27T01:43:46Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukaten",
+            "url": "https://github.com/nikolat/ukaten",
+            "title": "ukaten",
+            "date_published": "2021-11-12T06:44:37Z",
+            "date_modified": "2022-08-27T00:58:57Z"
+        },
+        {
+            "id": "https://github.com/nikolat/reshibainu",
+            "url": "https://github.com/nikolat/reshibainu",
+            "title": "reshibainu",
+            "date_published": "2022-01-26T03:28:11Z",
+            "date_modified": "2022-08-27T00:56:15Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jb-standard-balloon",
+            "url": "https://github.com/nikolat/jb-standard-balloon",
+            "title": "jb-standard-balloon",
+            "date_published": "2021-08-14T00:45:23Z",
+            "date_modified": "2022-08-27T00:54:15Z"
+        },
+        {
+            "id": "https://github.com/nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z"
+        },
+        {
+            "id": "https://github.com/nikolat/CharameLNetwork",
+            "url": "https://github.com/nikolat/CharameLNetwork",
+            "title": "CharameLNetwork",
+            "date_published": "2022-01-10T08:05:43Z",
+            "date_modified": "2022-08-27T00:51:36Z"
+        },
+        {
+            "id": "https://github.com/nikolat/balloonselector",
+            "url": "https://github.com/nikolat/balloonselector",
+            "title": "balloonselector",
+            "date_published": "2021-10-23T02:01:36Z",
+            "date_modified": "2022-08-27T00:51:18Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/yayalint_for_vscode",
+            "url": "https://github.com/Tatakinov/yayalint_for_vscode",
+            "title": "yayalint_for_vscode",
+            "date_published": "2022-07-09T13:01:20Z",
+            "date_modified": "2022-08-08T12:49:15Z"
+        },
+        {
+            "id": "https://github.com/Tatakinov/kagari_as_plugin",
+            "url": "https://github.com/Tatakinov/kagari_as_plugin",
+            "title": "kagari_as_plugin",
+            "date_published": "2022-08-06T07:39:03Z",
+            "date_modified": "2022-08-06T11:57:03Z"
+        },
+        {
+            "id": "https://github.com/ukatech/nar-thumbnail-provider",
+            "url": "https://github.com/ukatech/nar-thumbnail-provider",
+            "title": "nar-thumbnail-provider",
+            "date_published": "2022-03-17T11:37:08Z",
+            "date_modified": "2022-08-04T17:41:57Z"
+        },
+        {
+            "id": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "title": "yaya-as-saori",
+            "date_published": "2021-11-12T09:11:59Z",
+            "date_modified": "2022-07-10T10:22:05Z"
+        },
+        {
+            "id": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "title": "ukagakaTool-CreateAnimationPng",
+            "date_published": "2022-06-23T03:06:58Z",
+            "date_modified": "2022-06-27T08:24:11Z"
+        },
+        {
+            "id": "https://github.com/ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2022-06-05T03:07:03Z"
+        },
+        {
+            "id": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
+            "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
+            "title": "ukagaka-caramelldansen-patch",
+            "date_published": "2022-04-26T22:25:36Z",
+            "date_modified": "2022-05-30T10:25:23Z"
+        },
+        {
+            "id": "https://github.com/ponapalt/b_f_watersurface",
+            "url": "https://github.com/ponapalt/b_f_watersurface",
+            "title": "b_f_watersurface",
+            "date_published": "2020-06-24T01:31:00Z",
+            "date_modified": "2021-12-26T11:19:19Z"
+        },
+        {
+            "id": "https://github.com/ponapalt/StayseeBalloon",
+            "url": "https://github.com/ponapalt/StayseeBalloon",
+            "title": "StayseeBalloon",
+            "date_published": "2020-06-26T13:49:09Z",
+            "date_modified": "2021-11-05T20:04:32Z"
+        },
+        {
+            "id": "https://github.com/ponapalt/sleety_rain",
+            "url": "https://github.com/ponapalt/sleety_rain",
+            "title": "sleety_rain",
+            "date_published": "2021-10-18T07:07:25Z",
+            "date_modified": "2021-10-18T11:56:35Z"
+        },
+        {
+            "id": "https://github.com/ponapalt/ToothandNailBalloon",
+            "url": "https://github.com/ponapalt/ToothandNailBalloon",
+            "title": "ToothandNailBalloon",
+            "date_published": "2020-06-24T01:38:20Z",
+            "date_modified": "2020-06-26T19:54:08Z"
+        },
+        {
+            "id": "https://github.com/ponapalt/aya5-shiori",
+            "url": "https://github.com/ponapalt/aya5-shiori",
+            "title": "aya5-shiori",
+            "date_published": "2018-12-04T02:17:32Z",
+            "date_modified": "2018-12-04T02:20:29Z"
+        }
+    ]
+}
