@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "shell | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/shell/",
+    "feed_url": "https://nikolat.github.io/sirefaso/shell/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z"
+        },
+        {
+            "id": "nikolat/si-near-future",
+            "url": "https://github.com/nikolat/si-near-future",
+            "title": "si-near-future",
+            "date_published": "2022-06-04T06:38:10Z",
+            "date_modified": "2022-12-04T11:20:25Z"
+        },
+        {
+            "id": "nikolat/cultural-festival",
+            "url": "https://github.com/nikolat/cultural-festival",
+            "title": "cultural-festival",
+            "date_published": "2022-11-09T11:15:34Z",
+            "date_modified": "2022-11-09T11:29:32Z"
+        },
+        {
+            "id": "nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z"
+        }
+    ]
+}

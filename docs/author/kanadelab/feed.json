@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "kanadelab | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/kanadelab/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/kanadelab/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "kanadelab/Satolist2",
+            "url": "https://github.com/kanadelab/Satolist2",
+            "title": "Satolist2",
+            "date_published": "2022-02-11T16:27:32Z",
+            "date_modified": "2023-01-11T13:39:54Z"
+        },
+        {
+            "id": "kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2022-12-17T07:16:50Z"
+        }
+    ]
+}

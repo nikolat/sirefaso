@@ -1,0 +1,79 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "plugin | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/plugin/",
+    "feed_url": "https://nikolat.github.io/sirefaso/plugin/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "apxxxxxxe/Bouyomi",
+            "url": "https://github.com/apxxxxxxe/Bouyomi",
+            "title": "Bouyomi",
+            "date_published": "2022-05-21T01:32:02Z",
+            "date_modified": "2023-01-20T12:55:38Z"
+        },
+        {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z"
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
+            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
+            "title": "ukagakaPlugin_CeVIO-Talker",
+            "date_published": "2022-12-21T05:27:12Z",
+            "date_modified": "2023-01-19T10:22:23Z"
+        },
+        {
+            "id": "nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-01-19T02:04:05Z"
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z"
+        },
+        {
+            "id": "ambergon/UkagakaPlugin_DBdiary",
+            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
+            "title": "UkagakaPlugin_DBdiary",
+            "date_published": "2023-01-03T14:47:18Z",
+            "date_modified": "2023-01-04T07:57:49Z"
+        },
+        {
+            "id": "nikolat/ukaten",
+            "url": "https://github.com/nikolat/ukaten",
+            "title": "ukaten",
+            "date_published": "2021-11-12T06:44:37Z",
+            "date_modified": "2022-08-27T00:58:57Z"
+        },
+        {
+            "id": "nikolat/CharameLNetwork",
+            "url": "https://github.com/nikolat/CharameLNetwork",
+            "title": "CharameLNetwork",
+            "date_published": "2022-01-10T08:05:43Z",
+            "date_modified": "2022-08-27T00:51:36Z"
+        },
+        {
+            "id": "nikolat/balloonselector",
+            "url": "https://github.com/nikolat/balloonselector",
+            "title": "balloonselector",
+            "date_published": "2021-10-23T02:01:36Z",
+            "date_modified": "2022-08-27T00:51:18Z"
+        },
+        {
+            "id": "Tatakinov/kagari_as_plugin",
+            "url": "https://github.com/Tatakinov/kagari_as_plugin",
+            "title": "kagari_as_plugin",
+            "date_published": "2022-08-06T07:39:03Z",
+            "date_modified": "2022-08-06T11:57:03Z"
+        }
+    ]
+}

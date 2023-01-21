@@ -1,0 +1,51 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "shiori | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/shiori/",
+    "feed_url": "https://nikolat.github.io/sirefaso/shiori/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "Tatakinov/kotori",
+            "url": "https://github.com/Tatakinov/kotori",
+            "title": "kotori",
+            "date_published": "2022-11-14T13:22:30Z",
+            "date_modified": "2022-11-15T12:44:43Z"
+        },
+        {
+            "id": "Tatakinov/kagari_shiori",
+            "url": "https://github.com/Tatakinov/kagari_shiori",
+            "title": "kagari_shiori",
+            "date_published": "2022-11-14T13:17:19Z",
+            "date_modified": "2022-11-15T12:44:01Z"
+        },
+        {
+            "id": "YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2022-10-27T02:00:32Z"
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2022-10-14T11:58:40Z"
+        },
+        {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2022-09-23T11:53:59Z"
+        },
+        {
+            "id": "ponapalt/aya5-shiori",
+            "url": "https://github.com/ponapalt/aya5-shiori",
+            "title": "aya5-shiori",
+            "date_published": "2018-12-04T02:17:32Z",
+            "date_modified": "2018-12-04T02:20:29Z"
+        }
+    ]
+}

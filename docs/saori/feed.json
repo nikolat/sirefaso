@@ -1,0 +1,51 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "saori | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/saori/",
+    "feed_url": "https://nikolat.github.io/sirefaso/saori/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "tukinami/saori-resized-png",
+            "url": "https://github.com/tukinami/saori-resized-png",
+            "title": "saori-resized-png",
+            "date_published": "2022-12-09T07:24:27Z",
+            "date_modified": "2022-12-26T10:30:23Z"
+        },
+        {
+            "id": "nikolat/MahjongUtil",
+            "url": "https://github.com/nikolat/MahjongUtil",
+            "title": "MahjongUtil",
+            "date_published": "2021-07-29T12:28:35Z",
+            "date_modified": "2022-12-25T06:33:21Z"
+        },
+        {
+            "id": "Tatakinov/TexasHoldemUtil",
+            "url": "https://github.com/Tatakinov/TexasHoldemUtil",
+            "title": "TexasHoldemUtil",
+            "date_published": "2022-11-27T12:54:46Z",
+            "date_modified": "2022-11-27T13:01:58Z"
+        },
+        {
+            "id": "nikolat/akari-as-saori",
+            "url": "https://github.com/nikolat/akari-as-saori",
+            "title": "akari-as-saori",
+            "date_published": "2021-11-03T23:33:48Z",
+            "date_modified": "2022-08-27T01:43:46Z"
+        },
+        {
+            "id": "YAYA-shiori/yaya-as-saori",
+            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "title": "yaya-as-saori",
+            "date_published": "2021-11-12T09:11:59Z",
+            "date_modified": "2022-07-10T10:22:05Z"
+        },
+        {
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2022-06-05T03:07:03Z"
+        }
+    ]
+}

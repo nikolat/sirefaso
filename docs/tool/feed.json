@@ -1,0 +1,86 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "tool | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/tool/",
+    "feed_url": "https://nikolat.github.io/sirefaso/tool/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "kanadelab/Satolist2",
+            "url": "https://github.com/kanadelab/Satolist2",
+            "title": "Satolist2",
+            "date_published": "2022-02-11T16:27:32Z",
+            "date_modified": "2023-01-11T13:39:54Z"
+        },
+        {
+            "id": "nikolat/DirectSSTPTester",
+            "url": "https://github.com/nikolat/DirectSSTPTester",
+            "title": "DirectSSTPTester",
+            "date_published": "2021-11-12T08:28:32Z",
+            "date_modified": "2023-01-10T00:53:35Z"
+        },
+        {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z"
+        },
+        {
+            "id": "YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z"
+        },
+        {
+            "id": "kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2022-12-17T07:16:50Z"
+        },
+        {
+            "id": "ambergon/VimUkagakaSSTP",
+            "url": "https://github.com/ambergon/VimUkagakaSSTP",
+            "title": "VimUkagakaSSTP",
+            "date_published": "2022-11-17T14:08:43Z",
+            "date_modified": "2022-11-17T14:47:19Z"
+        },
+        {
+            "id": "YAYA-shiori/tama",
+            "url": "https://github.com/YAYA-shiori/tama",
+            "title": "tama",
+            "date_published": "2022-02-12T05:08:54Z",
+            "date_modified": "2022-09-26T16:20:18Z"
+        },
+        {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2022-09-20T13:22:52Z"
+        },
+        {
+            "id": "Tatakinov/yayalint_for_vscode",
+            "url": "https://github.com/Tatakinov/yayalint_for_vscode",
+            "title": "yayalint_for_vscode",
+            "date_published": "2022-07-09T13:01:20Z",
+            "date_modified": "2022-08-08T12:49:15Z"
+        },
+        {
+            "id": "ukatech/nar-thumbnail-provider",
+            "url": "https://github.com/ukatech/nar-thumbnail-provider",
+            "title": "nar-thumbnail-provider",
+            "date_published": "2022-03-17T11:37:08Z",
+            "date_modified": "2022-08-04T17:41:57Z"
+        },
+        {
+            "id": "ambergon/ukagakaTool-CreateAnimationPng",
+            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "title": "ukagakaTool-CreateAnimationPng",
+            "date_published": "2022-06-23T03:06:58Z",
+            "date_modified": "2022-06-27T08:24:11Z"
+        }
+    ]
+}

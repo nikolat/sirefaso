@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "apxxxxxxe | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/apxxxxxxe/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/apxxxxxxe/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "apxxxxxxe/Bouyomi",
+            "url": "https://github.com/apxxxxxxe/Bouyomi",
+            "title": "Bouyomi",
+            "date_published": "2022-05-21T01:32:02Z",
+            "date_modified": "2023-01-20T12:55:38Z"
+        },
+        {
+            "id": "apxxxxxxe/Youto",
+            "url": "https://github.com/apxxxxxxe/Youto",
+            "title": "Youto",
+            "date_published": "2022-05-26T09:48:26Z",
+            "date_modified": "2023-01-04T13:39:05Z"
+        }
+    ]
+}
