@@ -10,196 +10,603 @@
             "url": "https://github.com/nikolat/sudohaikuyu",
             "title": "sudohaikuyu",
             "date_published": "2021-11-29T05:25:03Z",
-            "date_modified": "2023-01-20T10:38:04Z"
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
             "date_published": "2021-11-24T13:17:47Z",
-            "date_modified": "2023-01-19T02:04:05Z"
+            "date_modified": "2023-01-19T02:04:05Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "nikolat/github-nar-station",
             "url": "https://github.com/nikolat/github-nar-station",
             "title": "github-nar-station",
             "date_published": "2022-04-23T00:34:06Z",
-            "date_modified": "2023-01-14T00:05:40Z"
+            "date_modified": "2023-01-14T00:05:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
         },
         {
             "id": "nikolat/github-dau-crawler",
             "url": "https://github.com/nikolat/github-dau-crawler",
             "title": "github-dau-crawler",
             "date_published": "2022-04-27T04:23:02Z",
-            "date_modified": "2023-01-14T00:05:26Z"
+            "date_modified": "2023-01-14T00:05:26Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
         },
         {
             "id": "nikolat/DirectSSTPTester",
             "url": "https://github.com/nikolat/DirectSSTPTester",
             "title": "DirectSSTPTester",
             "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2023-01-10T00:53:35Z"
+            "date_modified": "2023-01-10T00:53:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         },
         {
             "id": "nikolat/bee",
             "url": "https://github.com/nikolat/bee",
             "title": "bee",
             "date_published": "2023-01-02T00:50:55Z",
-            "date_modified": "2023-01-02T01:40:17Z"
+            "date_modified": "2023-01-02T01:40:17Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/ghostbook",
             "url": "https://github.com/nikolat/ghostbook",
             "title": "ghostbook",
             "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-01-02T01:39:28Z"
+            "date_modified": "2023-01-02T01:39:28Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/recv_net",
             "url": "https://github.com/nikolat/recv_net",
             "title": "recv_net",
             "date_published": "2012-10-28T13:22:29Z",
-            "date_modified": "2022-12-25T23:08:13Z"
+            "date_modified": "2022-12-25T23:08:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         },
         {
             "id": "nikolat/MahjongUtil",
             "url": "https://github.com/nikolat/MahjongUtil",
             "title": "MahjongUtil",
             "date_published": "2021-07-29T12:28:35Z",
-            "date_modified": "2022-12-25T06:33:21Z"
+            "date_modified": "2022-12-25T06:33:21Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "nikolat/shellbook",
             "url": "https://github.com/nikolat/shellbook",
             "title": "shellbook",
             "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2022-12-13T12:56:00Z"
+            "date_modified": "2022-12-13T12:56:00Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/jong-chunchun",
             "url": "https://github.com/nikolat/jong-chunchun",
             "title": "jong-chunchun",
             "date_published": "2021-06-09T06:33:06Z",
-            "date_modified": "2022-12-11T03:51:42Z"
+            "date_modified": "2022-12-11T03:51:42Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "kawari",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/jong-whanwhan",
             "url": "https://github.com/nikolat/jong-whanwhan",
             "title": "jong-whanwhan",
             "date_published": "2021-06-09T06:35:45Z",
-            "date_modified": "2022-12-11T03:51:36Z"
+            "date_modified": "2022-12-11T03:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "satori",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/jong-rinrin",
             "url": "https://github.com/nikolat/jong-rinrin",
             "title": "jong-rinrin",
             "date_published": "2021-06-09T06:30:29Z",
-            "date_modified": "2022-12-11T03:51:32Z"
+            "date_modified": "2022-12-11T03:51:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/si-near-future",
             "url": "https://github.com/nikolat/si-near-future",
             "title": "si-near-future",
             "date_published": "2022-06-04T06:38:10Z",
-            "date_modified": "2022-12-04T11:20:25Z"
+            "date_modified": "2022-12-04T11:20:25Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/ukagaka-party-parrot",
             "url": "https://github.com/nikolat/ukagaka-party-parrot",
             "title": "ukagaka-party-parrot",
             "date_published": "2021-10-09T11:59:18Z",
-            "date_modified": "2022-11-12T11:40:35Z"
+            "date_modified": "2022-11-12T11:40:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "party-parrot",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/cultural-festival",
             "url": "https://github.com/nikolat/cultural-festival",
             "title": "cultural-festival",
             "date_published": "2022-11-09T11:15:34Z",
-            "date_modified": "2022-11-09T11:29:32Z"
+            "date_modified": "2022-11-09T11:29:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/ukagaka-simultaneous-interpreter",
             "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
             "title": "ukagaka-simultaneous-interpreter",
             "date_published": "2022-10-31T10:26:35Z",
-            "date_modified": "2022-10-31T10:35:36Z"
+            "date_modified": "2022-10-31T10:35:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/crawler_uploader",
             "url": "https://github.com/nikolat/crawler_uploader",
             "title": "crawler_uploader",
             "date_published": "2011-04-16T11:44:13Z",
-            "date_modified": "2022-10-19T10:01:32Z"
+            "date_modified": "2022-10-19T10:01:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/jong-bari",
             "url": "https://github.com/nikolat/jong-bari",
             "title": "jong-bari",
             "date_published": "2021-06-09T05:21:25Z",
-            "date_modified": "2022-10-10T05:22:57Z"
+            "date_modified": "2022-10-10T05:22:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/ukagaka-hakoirimusume",
             "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
             "title": "ukagaka-hakoirimusume",
             "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2022-08-27T04:21:36Z"
+            "date_modified": "2022-08-27T04:21:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "klotski",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
             "date_published": "2021-11-03T23:33:48Z",
-            "date_modified": "2022-08-27T01:43:46Z"
+            "date_modified": "2022-08-27T01:43:46Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "nikolat/ukaten",
             "url": "https://github.com/nikolat/ukaten",
             "title": "ukaten",
             "date_published": "2021-11-12T06:44:37Z",
-            "date_modified": "2022-08-27T00:58:57Z"
+            "date_modified": "2022-08-27T00:58:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "weather-forecast"
+            ]
         },
         {
             "id": "nikolat/reshibainu",
             "url": "https://github.com/nikolat/reshibainu",
             "title": "reshibainu",
             "date_published": "2022-01-26T03:28:11Z",
-            "date_modified": "2022-08-27T00:56:15Z"
+            "date_modified": "2022-08-27T00:56:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "nikolat/jb-standard-balloon",
             "url": "https://github.com/nikolat/jb-standard-balloon",
             "title": "jb-standard-balloon",
             "date_published": "2021-08-14T00:45:23Z",
-            "date_modified": "2022-08-27T00:54:15Z"
+            "date_modified": "2022-08-27T00:54:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
         },
         {
             "id": "nikolat/jb-standard",
             "url": "https://github.com/nikolat/jb-standard",
             "title": "jb-standard",
             "date_published": "2021-08-08T03:50:11Z",
-            "date_modified": "2022-08-27T00:53:56Z"
+            "date_modified": "2022-08-27T00:53:56Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
         },
         {
             "id": "nikolat/CharameLNetwork",
             "url": "https://github.com/nikolat/CharameLNetwork",
             "title": "CharameLNetwork",
             "date_published": "2022-01-10T08:05:43Z",
-            "date_modified": "2022-08-27T00:51:36Z"
+            "date_modified": "2022-08-27T00:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/balloonselector",
             "url": "https://github.com/nikolat/balloonselector",
             "title": "balloonselector",
             "date_published": "2021-10-23T02:01:36Z",
-            "date_modified": "2022-08-27T00:51:18Z"
+            "date_modified": "2022-08-27T00:51:18Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/ukagaka-caramelldansen-patch",
             "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
             "title": "ukagaka-caramelldansen-patch",
             "date_published": "2022-04-26T22:25:36Z",
-            "date_modified": "2022-05-30T10:25:23Z"
+            "date_modified": "2022-05-30T10:25:23Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka-supplement"
+            ]
         }
     ]
 }

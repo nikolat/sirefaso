@@ -10,28 +10,76 @@
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-01-19T00:28:50Z"
+            "date_modified": "2023-01-19T00:28:50Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
         },
         {
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",
             "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2022-10-14T11:58:40Z"
+            "date_modified": "2022-10-14T11:58:40Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
         },
         {
             "id": "ukatech/nar-thumbnail-provider",
             "url": "https://github.com/ukatech/nar-thumbnail-provider",
             "title": "nar-thumbnail-provider",
             "date_published": "2022-03-17T11:37:08Z",
-            "date_modified": "2022-08-04T17:41:57Z"
+            "date_modified": "2022-08-04T17:41:57Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         },
         {
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
             "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2022-06-05T03:07:03Z"
+            "date_modified": "2022-06-05T03:07:03Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         }
     ]
 }

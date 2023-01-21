@@ -10,7 +10,28 @@
             "url": "https://github.com/Taromati2/Taromati2",
             "title": "Taromati2",
             "date_published": "2021-02-22T07:50:19Z",
-            "date_modified": "2023-01-12T15:57:10Z"
+            "date_modified": "2023-01-12T15:57:10Z",
+            "authors": [
+                {
+                    "name": "Taromati2",
+                    "url": "https://github.com/Taromati2",
+                    "avatar": "https://avatars.githubusercontent.com/u/79416721?v=4"
+                }
+            ],
+            "tags": [
+                "a-topic",
+                "aya",
+                "ghost",
+                "kikka",
+                "nar",
+                "sakurascript",
+                "sirefaso",
+                "sosiremi",
+                "taromati",
+                "taromati2",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         }
     ]
 }

@@ -10,14 +10,38 @@
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",
             "date_published": "2022-02-11T16:27:32Z",
-            "date_modified": "2023-01-11T13:39:54Z"
+            "date_modified": "2023-01-11T13:39:54Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         },
         {
             "id": "kanadelab/vscode-surfaces",
             "url": "https://github.com/kanadelab/vscode-surfaces",
             "title": "vscode-surfaces",
             "date_published": "2022-12-17T06:49:55Z",
-            "date_modified": "2022-12-17T07:16:50Z"
+            "date_modified": "2022-12-17T07:16:50Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         }
     ]
 }

@@ -10,70 +10,206 @@
             "url": "https://github.com/apxxxxxxe/Bouyomi",
             "title": "Bouyomi",
             "date_published": "2022-05-21T01:32:02Z",
-            "date_modified": "2023-01-20T12:55:38Z"
+            "date_modified": "2023-01-20T12:55:38Z",
+            "authors": [
+                {
+                    "name": "apxxxxxxe",
+                    "url": "https://github.com/apxxxxxxe",
+                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "nikolat/sudohaikuyu",
             "url": "https://github.com/nikolat/sudohaikuyu",
             "title": "sudohaikuyu",
             "date_published": "2021-11-29T05:25:03Z",
-            "date_modified": "2023-01-20T10:38:04Z"
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
             "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
             "title": "ukagakaPlugin_CeVIO-Talker",
             "date_published": "2022-12-21T05:27:12Z",
-            "date_modified": "2023-01-19T10:22:23Z"
+            "date_modified": "2023-01-19T10:22:23Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
             "date_published": "2021-11-24T13:17:47Z",
-            "date_modified": "2023-01-19T02:04:05Z"
+            "date_modified": "2023-01-19T02:04:05Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/ukagakaPlugin_getWindowTitle",
             "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
             "title": "ukagakaPlugin_getWindowTitle",
             "date_published": "2023-01-06T15:23:47Z",
-            "date_modified": "2023-01-07T13:39:58Z"
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/UkagakaPlugin_DBdiary",
             "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
             "title": "UkagakaPlugin_DBdiary",
             "date_published": "2023-01-03T14:47:18Z",
-            "date_modified": "2023-01-04T07:57:49Z"
+            "date_modified": "2023-01-04T07:57:49Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "nikolat/ukaten",
             "url": "https://github.com/nikolat/ukaten",
             "title": "ukaten",
             "date_published": "2021-11-12T06:44:37Z",
-            "date_modified": "2022-08-27T00:58:57Z"
+            "date_modified": "2022-08-27T00:58:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "weather-forecast"
+            ]
         },
         {
             "id": "nikolat/CharameLNetwork",
             "url": "https://github.com/nikolat/CharameLNetwork",
             "title": "CharameLNetwork",
             "date_published": "2022-01-10T08:05:43Z",
-            "date_modified": "2022-08-27T00:51:36Z"
+            "date_modified": "2022-08-27T00:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
         },
         {
             "id": "nikolat/balloonselector",
             "url": "https://github.com/nikolat/balloonselector",
             "title": "balloonselector",
             "date_published": "2021-10-23T02:01:36Z",
-            "date_modified": "2022-08-27T00:51:18Z"
+            "date_modified": "2022-08-27T00:51:18Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
         },
         {
             "id": "Tatakinov/kagari_as_plugin",
             "url": "https://github.com/Tatakinov/kagari_as_plugin",
             "title": "kagari_as_plugin",
             "date_published": "2022-08-06T07:39:03Z",
-            "date_modified": "2022-08-06T11:57:03Z"
+            "date_modified": "2022-08-06T11:57:03Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         }
     ]
 }

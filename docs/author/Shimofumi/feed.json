@@ -10,7 +10,20 @@
             "url": "https://github.com/Shimofumi/HamirLore",
             "title": "HamirLore",
             "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2023-01-06T12:40:37Z"
+            "date_modified": "2023-01-06T12:40:37Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         }
     ]
 }

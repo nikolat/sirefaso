@@ -10,28 +10,80 @@
             "url": "https://github.com/etwaslangsam/myalice2",
             "title": "myalice2",
             "date_published": "2016-03-28T11:24:49Z",
-            "date_modified": "2023-01-14T13:56:23Z"
+            "date_modified": "2023-01-14T13:56:23Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "etwaslangsam/d2k",
             "url": "https://github.com/etwaslangsam/d2k",
             "title": "d2k",
             "date_published": "2018-06-12T05:12:00Z",
-            "date_modified": "2023-01-08T13:09:40Z"
+            "date_modified": "2023-01-08T13:09:40Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "etwaslangsam/Gertrude",
             "url": "https://github.com/etwaslangsam/Gertrude",
             "title": "Gertrude",
             "date_published": "2018-11-09T10:41:18Z",
-            "date_modified": "2023-01-03T09:05:08Z"
+            "date_modified": "2023-01-03T09:05:08Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "etwaslangsam/bath_ane",
             "url": "https://github.com/etwaslangsam/bath_ane",
             "title": "bath_ane",
             "date_published": "2021-10-09T03:58:11Z",
-            "date_modified": "2022-12-16T23:39:15Z"
+            "date_modified": "2022-12-16T23:39:15Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         }
     ]
 }

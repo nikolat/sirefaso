@@ -10,28 +10,79 @@
             "url": "https://github.com/tukinami/taidanaSanoSan",
             "title": "taidanaSanoSan",
             "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2023-01-20T10:58:03Z"
+            "date_modified": "2023-01-20T10:58:03Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
         },
         {
             "id": "tukinami/talismanic_beast_pattern",
             "url": "https://github.com/tukinami/talismanic_beast_pattern",
             "title": "talismanic_beast_pattern",
             "date_published": "2023-01-19T12:51:40Z",
-            "date_modified": "2023-01-19T12:55:59Z"
+            "date_modified": "2023-01-19T12:55:59Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
         },
         {
             "id": "tukinami/small_HE-Chan_sama",
             "url": "https://github.com/tukinami/small_HE-Chan_sama",
             "title": "small_HE-Chan_sama",
             "date_published": "2023-01-05T08:12:39Z",
-            "date_modified": "2023-01-05T11:05:21Z"
+            "date_modified": "2023-01-05T11:05:21Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
         },
         {
             "id": "tukinami/saori-resized-png",
             "url": "https://github.com/tukinami/saori-resized-png",
             "title": "saori-resized-png",
             "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2022-12-26T10:30:23Z"
+            "date_modified": "2022-12-26T10:30:23Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "image-processing",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         }
     ]
 }

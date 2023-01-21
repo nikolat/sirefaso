@@ -10,35 +10,100 @@
             "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
             "title": "ukagakaPlugin_CeVIO-Talker",
             "date_published": "2022-12-21T05:27:12Z",
-            "date_modified": "2023-01-19T10:22:23Z"
+            "date_modified": "2023-01-19T10:22:23Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/ukagakaPlugin_getWindowTitle",
             "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
             "title": "ukagakaPlugin_getWindowTitle",
             "date_published": "2023-01-06T15:23:47Z",
-            "date_modified": "2023-01-07T13:39:58Z"
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/UkagakaPlugin_DBdiary",
             "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
             "title": "UkagakaPlugin_DBdiary",
             "date_published": "2023-01-03T14:47:18Z",
-            "date_modified": "2023-01-04T07:57:49Z"
+            "date_modified": "2023-01-04T07:57:49Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
         },
         {
             "id": "ambergon/VimUkagakaSSTP",
             "url": "https://github.com/ambergon/VimUkagakaSSTP",
             "title": "VimUkagakaSSTP",
             "date_published": "2022-11-17T14:08:43Z",
-            "date_modified": "2022-11-17T14:47:19Z"
+            "date_modified": "2022-11-17T14:47:19Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         },
         {
             "id": "ambergon/ukagakaTool-CreateAnimationPng",
             "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
             "title": "ukagakaTool-CreateAnimationPng",
             "date_published": "2022-06-23T03:06:58Z",
-            "date_modified": "2022-06-27T08:24:11Z"
+            "date_modified": "2022-06-27T08:24:11Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         }
     ]
 }

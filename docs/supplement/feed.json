@@ -10,7 +10,19 @@
             "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
             "title": "ukagaka-caramelldansen-patch",
             "date_published": "2022-04-26T22:25:36Z",
-            "date_modified": "2022-05-30T10:25:23Z"
+            "date_modified": "2022-05-30T10:25:23Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka-supplement"
+            ]
         }
     ]
 }

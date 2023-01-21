@@ -10,7 +10,19 @@
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-01-19T00:28:50Z"
+            "date_modified": "2023-01-19T00:28:50Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
         }
     ]
 }

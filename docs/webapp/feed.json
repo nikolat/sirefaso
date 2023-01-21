@@ -10,21 +10,58 @@
             "url": "https://github.com/dullNeko/WebClapModoki-GAS",
             "title": "WebClapModoki-GAS",
             "date_published": "2022-12-23T09:10:35Z",
-            "date_modified": "2023-01-20T16:37:45Z"
+            "date_modified": "2023-01-20T16:37:45Z",
+            "authors": [
+                {
+                    "name": "dullNeko",
+                    "url": "https://github.com/dullNeko",
+                    "avatar": "https://avatars.githubusercontent.com/u/120681133?v=4"
+                }
+            ],
+            "tags": [
+                "google-apps-script",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
         },
         {
             "id": "nikolat/github-nar-station",
             "url": "https://github.com/nikolat/github-nar-station",
             "title": "github-nar-station",
             "date_published": "2022-04-23T00:34:06Z",
-            "date_modified": "2023-01-14T00:05:40Z"
+            "date_modified": "2023-01-14T00:05:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
         },
         {
             "id": "nikolat/github-dau-crawler",
             "url": "https://github.com/nikolat/github-dau-crawler",
             "title": "github-dau-crawler",
             "date_published": "2022-04-27T04:23:02Z",
-            "date_modified": "2023-01-14T00:05:26Z"
+            "date_modified": "2023-01-14T00:05:26Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
         }
     ]
 }

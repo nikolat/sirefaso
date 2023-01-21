@@ -10,42 +10,120 @@
             "url": "https://github.com/tukinami/saori-resized-png",
             "title": "saori-resized-png",
             "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2022-12-26T10:30:23Z"
+            "date_modified": "2022-12-26T10:30:23Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "image-processing",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "nikolat/MahjongUtil",
             "url": "https://github.com/nikolat/MahjongUtil",
             "title": "MahjongUtil",
             "date_published": "2021-07-29T12:28:35Z",
-            "date_modified": "2022-12-25T06:33:21Z"
+            "date_modified": "2022-12-25T06:33:21Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "Tatakinov/TexasHoldemUtil",
             "url": "https://github.com/Tatakinov/TexasHoldemUtil",
             "title": "TexasHoldemUtil",
             "date_published": "2022-11-27T12:54:46Z",
-            "date_modified": "2022-11-27T13:01:58Z"
+            "date_modified": "2022-11-27T13:01:58Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
             "date_published": "2021-11-03T23:33:48Z",
-            "date_modified": "2022-08-27T01:43:46Z"
+            "date_modified": "2022-08-27T01:43:46Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         },
         {
             "id": "YAYA-shiori/yaya-as-saori",
             "url": "https://github.com/YAYA-shiori/yaya-as-saori",
             "title": "yaya-as-saori",
             "date_published": "2021-11-12T09:11:59Z",
-            "date_modified": "2022-07-10T10:22:05Z"
+            "date_modified": "2022-07-10T10:22:05Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori",
+                "yaya"
+            ]
         },
         {
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
             "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2022-06-05T03:07:03Z"
+            "date_modified": "2022-06-05T03:07:03Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
         }
     ]
 }
