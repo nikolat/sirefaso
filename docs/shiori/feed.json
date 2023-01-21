@@ -9,6 +9,7 @@
             "id": "Tatakinov/kotori",
             "url": "https://github.com/Tatakinov/kotori",
             "title": "kotori",
+            "content_text": null,
             "date_published": "2022-11-14T13:22:30Z",
             "date_modified": "2022-11-15T12:44:43Z",
             "authors": [
@@ -28,6 +29,7 @@
             "id": "Tatakinov/kagari_shiori",
             "url": "https://github.com/Tatakinov/kagari_shiori",
             "title": "kagari_shiori",
+            "content_text": null,
             "date_published": "2022-11-14T13:17:19Z",
             "date_modified": "2022-11-15T12:44:01Z",
             "authors": [
@@ -47,6 +49,7 @@
             "id": "YAYA-shiori/yaya-dic",
             "url": "https://github.com/YAYA-shiori/yaya-dic",
             "title": "yaya-dic",
+            "content_text": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
             "date_published": "2018-12-13T11:29:14Z",
             "date_modified": "2022-10-27T02:00:32Z",
             "authors": [
@@ -66,6 +69,7 @@
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",
+            "content_text": "Yet Another SATORI",
             "date_published": "2015-05-12T01:11:04Z",
             "date_modified": "2022-10-14T11:58:40Z",
             "authors": [
@@ -85,6 +89,7 @@
             "id": "YAYA-shiori/yaya-shiori",
             "url": "https://github.com/YAYA-shiori/yaya-shiori",
             "title": "yaya-shiori",
+            "content_text": "Yet Another AYA",
             "date_published": "2015-05-29T01:09:27Z",
             "date_modified": "2022-09-23T11:53:59Z",
             "authors": [
@@ -104,6 +109,7 @@
             "id": "ponapalt/aya5-shiori",
             "url": "https://github.com/ponapalt/aya5-shiori",
             "title": "aya5-shiori",
+            "content_text": "Old plain AYA5 code with small fixes (AYA5＋小修正のみ)",
             "date_published": "2018-12-04T02:17:32Z",
             "date_modified": "2018-12-04T02:20:29Z",
             "authors": [

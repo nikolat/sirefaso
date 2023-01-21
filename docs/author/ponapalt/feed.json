@@ -9,6 +9,7 @@
             "id": "ponapalt/b_f_watersurface",
             "url": "https://github.com/ponapalt/b_f_watersurface",
             "title": "b_f_watersurface",
+            "content_text": "/balloon/for/watersurface",
             "date_published": "2020-06-24T01:31:00Z",
             "date_modified": "2021-12-26T11:19:19Z",
             "authors": [
@@ -28,6 +29,7 @@
             "id": "ponapalt/StayseeBalloon",
             "url": "https://github.com/ponapalt/StayseeBalloon",
             "title": "StayseeBalloon",
+            "content_text": "Balloon for Staysee Syncfield",
             "date_published": "2020-06-26T13:49:09Z",
             "date_modified": "2021-11-05T20:04:32Z",
             "authors": [
@@ -47,6 +49,7 @@
             "id": "ponapalt/sleety_rain",
             "url": "https://github.com/ponapalt/sleety_rain",
             "title": "sleety_rain",
+            "content_text": "Balloon for Mizore",
             "date_published": "2021-10-18T07:07:25Z",
             "date_modified": "2021-10-18T11:56:35Z",
             "authors": [
@@ -66,6 +69,7 @@
             "id": "ponapalt/ToothandNailBalloon",
             "url": "https://github.com/ponapalt/ToothandNailBalloon",
             "title": "ToothandNailBalloon",
+            "content_text": "Balloon for Tooth and Nail",
             "date_published": "2020-06-24T01:38:20Z",
             "date_modified": "2020-06-26T19:54:08Z",
             "authors": [
@@ -85,6 +89,7 @@
             "id": "ponapalt/aya5-shiori",
             "url": "https://github.com/ponapalt/aya5-shiori",
             "title": "aya5-shiori",
+            "content_text": "Old plain AYA5 code with small fixes (AYA5＋小修正のみ)",
             "date_published": "2018-12-04T02:17:32Z",
             "date_modified": "2018-12-04T02:20:29Z",
             "authors": [

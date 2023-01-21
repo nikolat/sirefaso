@@ -9,6 +9,7 @@
             "id": "tukinami/saori-resized-png",
             "url": "https://github.com/tukinami/saori-resized-png",
             "title": "saori-resized-png",
+            "content_text": "SAORI for UKAGAKA. Convert a image file to resized png file.",
             "date_published": "2022-12-09T07:24:27Z",
             "date_modified": "2022-12-26T10:30:23Z",
             "authors": [
@@ -29,6 +30,7 @@
             "id": "nikolat/MahjongUtil",
             "url": "https://github.com/nikolat/MahjongUtil",
             "title": "MahjongUtil",
+            "content_text": "麻雀に関する機能を提供するSAORI",
             "date_published": "2021-07-29T12:28:35Z",
             "date_modified": "2022-12-25T06:33:21Z",
             "authors": [
@@ -51,6 +53,7 @@
             "id": "Tatakinov/TexasHoldemUtil",
             "url": "https://github.com/Tatakinov/TexasHoldemUtil",
             "title": "TexasHoldemUtil",
+            "content_text": null,
             "date_published": "2022-11-27T12:54:46Z",
             "date_modified": "2022-11-27T13:01:58Z",
             "authors": [
@@ -70,6 +73,7 @@
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
+            "content_text": "AKARI as SAORI",
             "date_published": "2021-11-03T23:33:48Z",
             "date_modified": "2022-08-27T01:43:46Z",
             "authors": [
@@ -90,6 +94,7 @@
             "id": "YAYA-shiori/yaya-as-saori",
             "url": "https://github.com/YAYA-shiori/yaya-as-saori",
             "title": "yaya-as-saori",
+            "content_text": "YAYA as SAORI",
             "date_published": "2021-11-12T09:11:59Z",
             "date_modified": "2022-07-10T10:22:05Z",
             "authors": [
@@ -110,6 +115,7 @@
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
+            "content_text": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
             "date_published": "2015-09-19T02:09:22Z",
             "date_modified": "2022-06-05T03:07:03Z",
             "authors": [
