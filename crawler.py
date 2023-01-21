@@ -97,7 +97,23 @@ class GitHubApiCrawler(abc.ABC):
 			'home_page_url': base_url,
 			'feed_url': f'{base_url}{self.__JSON_FEED_FILENAME}',
 			'description': self._config['site_description'],
-			'items': [{'id': e['id'], 'url': e['html_url'], 'title': e['title'], 'date_published': e['created_at_time'], 'date_modified': e['updated_at_time']} for e in entries]
+			'items': [
+				{
+					'id': e['id'],
+					'url': e['html_url'],
+					'title': e['title'],
+					'date_published': e['created_at_time'],
+					'date_modified': e['updated_at_time'],
+					'authors': [
+						{
+							'name': e['author'],
+							'url': e['author_url'],
+							'avatar': e['author_avatar']
+						}
+					],
+					'tags': e['tags']
+				}
+			for e in entries]
 		}
 
 	def export(self):
