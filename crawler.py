@@ -102,6 +102,7 @@ class GitHubApiCrawler(abc.ABC):
 					'id': e['id'],
 					'url': e['html_url'],
 					'title': e['title'],
+					'content_text': e['content_text'],
 					'date_published': e['created_at_time'],
 					'date_modified': e['updated_at_time'],
 					'authors': [
