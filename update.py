@@ -50,7 +50,7 @@ class GitHubDauCrawler(crawler.GitHubApiCrawler):
 				else:
 					classname = 'days-over-365'
 				entry = {
-					'id': item['full_name'].replace('/', '_'),
+					'id': item['full_name'],
 					'title': item['name'],
 					'category': category,
 					'classname': classname,
