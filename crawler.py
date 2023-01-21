@@ -7,6 +7,7 @@ import time
 import requests
 import yaml
 import abc
+import json
 from jinja2 import Environment, FileSystemLoader
 
 class GitHubApiCrawler(abc.ABC):
@@ -104,6 +105,16 @@ class GitHubApiCrawler(abc.ABC):
 			rendered = template.render(data)
 			with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
 				f.write(rendered + '\n')
+		jsonfeed = {
+			'version': 'https://jsonfeed.org/version/1.1',
+			'title': config['site_title'],
+			'home_page_url': config['self_url'],
+			'feed_url': f'{config["self_url"]}feed.json',
+			'description': config['site_description'],
+			'items': [{'id': e['html_url'], 'url': e['html_url'], 'title': e['title'], 'date_published': e['created_at_time'], 'date_modified': e['updated_at_time']} for e in entries]
+		}
+		with open('docs/feed.json', 'w', encoding='utf-8') as f:
+			json.dump(jsonfeed, f, ensure_ascii=False, indent=4)
 		# category
 		for category in categories:
 			shutil.rmtree(f'docs/{category}/', ignore_errors=True)
