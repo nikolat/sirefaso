@@ -57,7 +57,7 @@ class GitHubDauCrawler(crawler.GitHubApiCrawler):
 					'author': item['owner']['login'],
 					'author_url': item['owner']['html_url'],
 					'author_avatar': item['owner']['avatar_url'],
-					'content_text': item['description'],
+					'content_text': item['description'] if 'description' in item else '',
 					'tags': item['topics'],
 					'html_url': item['html_url'],
 					'created_at_time': item['created_at'],
