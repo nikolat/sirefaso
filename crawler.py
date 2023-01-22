@@ -13,7 +13,7 @@ from jinja2 import Environment, FileSystemLoader
 class GitHubApiCrawler(abc.ABC):
 
 	__CONFIG_FILENAME = 'config.yml'
-	__JSON_FEED_FILENAME = 'feed.json'
+	_JSON_FEED_FILENAME = 'feed.json'
 
 	def __init__(self, user_agent='nikolat/GitHubApiCrawler'):
 		self._logger = self.__get_custom_logger()
@@ -90,39 +90,16 @@ class GitHubApiCrawler(abc.ABC):
 		self._authors = []
 		return self
 
-	def __get_feed_dict(self, title, base_url, entries):
-		return {
-			'version': 'https://jsonfeed.org/version/1.1',
-			'title': title,
-			'home_page_url': base_url,
-			'feed_url': f'{base_url}{self.__JSON_FEED_FILENAME}',
-			'description': self._config['site_description'],
-			'items': [
-				{
-					'id': e['id'],
-					'url': e['html_url'],
-					'title': e['title'],
-					'content_text': e['content_text'],
-					'date_published': e['created_at_time'],
-					'date_modified': e['updated_at_time'],
-					'authors': [
-						{
-							'name': e['author'],
-							'url': e['author_url'],
-							'avatar': e['author_avatar']
-						}
-					],
-					'tags': e['tags']
-				}
-			for e in entries]
-		}
+	@abc.abstractmethod
+	def _get_feed_dict(self):
+		return {}
 
 	def export(self):
 		config = self._config
 		entries = self._entries
 		categories = self._categories
 		authors = self._authors
-		filename_json = self.__JSON_FEED_FILENAME
+		filename_json = self._JSON_FEED_FILENAME
 		env = Environment(loader=FileSystemLoader('./templates', encoding='utf8'), autoescape=True)
 		# top page
 		data = {
@@ -135,7 +112,7 @@ class GitHubApiCrawler(abc.ABC):
 			with open(f'docs/{filename}', 'w', encoding='utf-8') as f:
 				f.write(rendered + '\n')
 		with open(f'docs/{filename_json}', 'w', encoding='utf-8') as f:
-			json.dump(self.__get_feed_dict(config['site_title'], config['self_url'], entries), f, ensure_ascii=False, indent=4)
+			json.dump(self._get_feed_dict(config['site_title'], config['self_url'], config['site_description'], entries), f, ensure_ascii=False, indent=4)
 		# category
 		for category in categories:
 			shutil.rmtree(f'docs/{category}/', ignore_errors=True)
@@ -151,7 +128,7 @@ class GitHubApiCrawler(abc.ABC):
 				with open(f'docs/{category}/{filename}', 'w', encoding='utf-8') as f:
 					f.write(rendered + '\n')
 			with open(f'docs/{category}/{filename_json}', 'w', encoding='utf-8') as f:
-				json.dump(self.__get_feed_dict(f'{category} | {config["site_title"]}', f'{config["self_url"]}{category}/', target_entries), f, ensure_ascii=False, indent=4)
+				json.dump(self._get_feed_dict(f'{category} | {config["site_title"]}', f'{config["self_url"]}{category}/', config['site_description'], target_entries), f, ensure_ascii=False, indent=4)
 		# author
 		shutil.rmtree('docs/author/', ignore_errors=True)
 		os.mkdir('docs/author/')
@@ -168,7 +145,7 @@ class GitHubApiCrawler(abc.ABC):
 				with open(f'docs/author/{author}/{filename}', 'w', encoding='utf-8') as f:
 					f.write(rendered + '\n')
 			with open(f'docs/author/{author}/{filename_json}', 'w', encoding='utf-8') as f:
-				json.dump(self.__get_feed_dict(f'{author} | {config["site_title"]}', f'{config["self_url"]}author/{author}/', target_entries), f, ensure_ascii=False, indent=4)
+				json.dump(self._get_feed_dict(f'{author} | {config["site_title"]}', f'{config["self_url"]}author/{author}/', config['site_description'], target_entries), f, ensure_ascii=False, indent=4)
 		# sitemap
 		data = {
 			'categories': categories,
