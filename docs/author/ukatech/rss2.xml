@@ -11,7 +11,7 @@
     <description>ukadoc: ukagaka documentation project</description>
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/ukadoc</guid>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Thu, 19 Jan 2023 09:28:50 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>Yet Another SATORI</description>
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/satoriya-shiori</guid>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Fri, 14 Oct 2022 20:58:40 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>NAR thumbnail provider for Windows Explorer</description>
     <category>tool</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/nar-thumbnail-provider</guid>
+    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
     <pubDate>Fri, 05 Aug 2022 02:41:57 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
     <category>saori</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/csaori</guid>
+    <guid isPermaLink="false">ukatech/csaori</guid>
     <pubDate>Sun, 05 Jun 2022 12:07:03 +0900</pubDate>
 </item>
 </channel>

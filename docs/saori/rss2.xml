@@ -11,7 +11,7 @@
     <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
     <category>saori</category>
     <dc:creator>tukinami</dc:creator>
-    <guid>tukinami/saori-resized-png</guid>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
     <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>麻雀に関する機能を提供するSAORI</description>
     <category>saori</category>
     <dc:creator>nikolat</dc:creator>
-    <guid>nikolat/MahjongUtil</guid>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
     <pubDate>Sun, 25 Dec 2022 15:33:21 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description></description>
     <category>saori</category>
     <dc:creator>Tatakinov</dc:creator>
-    <guid>Tatakinov/TexasHoldemUtil</guid>
+    <guid isPermaLink="false">Tatakinov/TexasHoldemUtil</guid>
     <pubDate>Sun, 27 Nov 2022 22:01:58 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>AKARI as SAORI</description>
     <category>saori</category>
     <dc:creator>nikolat</dc:creator>
-    <guid>nikolat/akari-as-saori</guid>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
     <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
 </item>
 <item>
@@ -47,7 +47,7 @@
     <description>YAYA as SAORI</description>
     <category>saori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-as-saori</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Sun, 10 Jul 2022 19:22:05 +0900</pubDate>
 </item>
 <item>
@@ -56,7 +56,7 @@
     <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
     <category>saori</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/csaori</guid>
+    <guid isPermaLink="false">ukatech/csaori</guid>
     <pubDate>Sun, 05 Jun 2022 12:07:03 +0900</pubDate>
 </item>
 </channel>

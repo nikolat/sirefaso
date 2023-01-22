@@ -11,7 +11,7 @@
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
     <category>tool</category>
     <dc:creator>kanadelab</dc:creator>
-    <guid>kanadelab/Satolist2</guid>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
     <pubDate>Wed, 11 Jan 2023 22:39:54 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>DirectSSTPを送信するシンプルなテストツール</description>
     <category>tool</category>
     <dc:creator>nikolat</dc:creator>
-    <guid>nikolat/DirectSSTPTester</guid>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
     <pubDate>Tue, 10 Jan 2023 09:53:35 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>里々ログビューア</description>
     <category>tool</category>
     <dc:creator>nikolat</dc:creator>
-    <guid>nikolat/recv_net</guid>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
     <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>ayaya vs code extension</description>
     <category>tool</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/ayaya-vs-code-extension</guid>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
     <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
@@ -47,7 +47,7 @@
     <description>vscode用surfaces.txtエクステンション</description>
     <category>tool</category>
     <dc:creator>kanadelab</dc:creator>
-    <guid>kanadelab/vscode-surfaces</guid>
+    <guid isPermaLink="false">kanadelab/vscode-surfaces</guid>
     <pubDate>Sat, 17 Dec 2022 16:16:50 +0900</pubDate>
 </item>
 <item>
@@ -56,7 +56,7 @@
     <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
     <category>tool</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/VimUkagakaSSTP</guid>
+    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
     <pubDate>Thu, 17 Nov 2022 23:47:19 +0900</pubDate>
 </item>
 <item>
@@ -65,7 +65,7 @@
     <description>Tama - AYA5 Console</description>
     <category>tool</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/tama</guid>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
     <pubDate>Tue, 27 Sep 2022 01:20:18 +0900</pubDate>
 </item>
 <item>
@@ -74,7 +74,7 @@
     <description>a linter of YAYA</description>
     <category>tool</category>
     <dc:creator>Tatakinov</dc:creator>
-    <guid>Tatakinov/yayalint</guid>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
     <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
 </item>
 <item>
@@ -83,7 +83,7 @@
     <description></description>
     <category>tool</category>
     <dc:creator>Tatakinov</dc:creator>
-    <guid>Tatakinov/yayalint_for_vscode</guid>
+    <guid isPermaLink="false">Tatakinov/yayalint_for_vscode</guid>
     <pubDate>Mon, 08 Aug 2022 21:49:15 +0900</pubDate>
 </item>
 <item>
@@ -92,7 +92,7 @@
     <description>NAR thumbnail provider for Windows Explorer</description>
     <category>tool</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/nar-thumbnail-provider</guid>
+    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
     <pubDate>Fri, 05 Aug 2022 02:41:57 +0900</pubDate>
 </item>
 <item>
@@ -101,7 +101,7 @@
     <description>連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。</description>
     <category>tool</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/ukagakaTool-CreateAnimationPng</guid>
+    <guid isPermaLink="false">ambergon/ukagakaTool-CreateAnimationPng</guid>
     <pubDate>Mon, 27 Jun 2022 17:24:11 +0900</pubDate>
 </item>
 </channel>

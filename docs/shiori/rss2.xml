@@ -11,7 +11,7 @@
     <description></description>
     <category>shiori</category>
     <dc:creator>Tatakinov</dc:creator>
-    <guid>Tatakinov/kotori</guid>
+    <guid isPermaLink="false">Tatakinov/kotori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:43 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description></description>
     <category>shiori</category>
     <dc:creator>Tatakinov</dc:creator>
-    <guid>Tatakinov/kagari_shiori</guid>
+    <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-dic</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>Yet Another SATORI</description>
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
-    <guid>ukatech/satoriya-shiori</guid>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Fri, 14 Oct 2022 20:58:40 +0900</pubDate>
 </item>
 <item>
@@ -47,7 +47,7 @@
     <description>Yet Another AYA</description>
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-shiori</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
 </item>
 <item>
@@ -56,7 +56,7 @@
     <description>Old plain AYA5 code with small fixes (AYA5＋小修正のみ)</description>
     <category>shiori</category>
     <dc:creator>ponapalt</dc:creator>
-    <guid>ponapalt/aya5-shiori</guid>
+    <guid isPermaLink="false">ponapalt/aya5-shiori</guid>
     <pubDate>Tue, 04 Dec 2018 11:20:29 +0900</pubDate>
 </item>
 </channel>

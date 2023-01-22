@@ -11,7 +11,7 @@
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
     <category>tool</category>
     <dc:creator>kanadelab</dc:creator>
-    <guid>kanadelab/Satolist2</guid>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
     <pubDate>Wed, 11 Jan 2023 22:39:54 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>vscode用surfaces.txtエクステンション</description>
     <category>tool</category>
     <dc:creator>kanadelab</dc:creator>
-    <guid>kanadelab/vscode-surfaces</guid>
+    <guid isPermaLink="false">kanadelab/vscode-surfaces</guid>
     <pubDate>Sat, 17 Dec 2022 16:16:50 +0900</pubDate>
 </item>
 </channel>

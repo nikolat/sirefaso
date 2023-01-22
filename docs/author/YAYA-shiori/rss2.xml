@@ -11,7 +11,7 @@
     <description></description>
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/konnoyayame</guid>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
     <pubDate>Fri, 30 Dec 2022 17:18:39 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>ayaya vs code extension</description>
     <category>tool</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/ayaya-vs-code-extension</guid>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
     <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-dic</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>Tama - AYA5 Console</description>
     <category>tool</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/tama</guid>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
     <pubDate>Tue, 27 Sep 2022 01:20:18 +0900</pubDate>
 </item>
 <item>
@@ -47,7 +47,7 @@
     <description>Yet Another AYA</description>
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-shiori</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
 </item>
 <item>
@@ -56,7 +56,7 @@
     <description>YAYA as SAORI</description>
     <category>saori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid>YAYA-shiori/yaya-as-saori</guid>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Sun, 10 Jul 2022 19:22:05 +0900</pubDate>
 </item>
 </channel>

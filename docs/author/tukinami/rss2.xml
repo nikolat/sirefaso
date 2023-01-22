@@ -11,7 +11,7 @@
     <description>伺か雑談系ゴースト</description>
     <category>ghost</category>
     <dc:creator>tukinami</dc:creator>
-    <guid>tukinami/taidanaSanoSan</guid>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
     <pubDate>Fri, 20 Jan 2023 19:58:03 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>伺か用バルーン「魔除けの獣面紋」</description>
     <category>balloon</category>
     <dc:creator>tukinami</dc:creator>
-    <guid>tukinami/talismanic_beast_pattern</guid>
+    <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Thu, 19 Jan 2023 21:55:59 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
     <category>shell</category>
     <dc:creator>tukinami</dc:creator>
-    <guid>tukinami/small_HE-Chan_sama</guid>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
     <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
     <category>saori</category>
     <dc:creator>tukinami</dc:creator>
-    <guid>tukinami/saori-resized-png</guid>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
     <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
 </item>
 </channel>

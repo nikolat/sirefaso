@@ -11,7 +11,7 @@
     <description>伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。</description>
     <category>plugin</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/ukagakaPlugin_CeVIO-Talker</guid>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-Talker</guid>
     <pubDate>Thu, 19 Jan 2023 19:22:23 +0900</pubDate>
 </item>
 <item>
@@ -20,7 +20,7 @@
     <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
     <category>plugin</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/ukagakaPlugin_getWindowTitle</guid>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
     <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
@@ -29,7 +29,7 @@
     <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
     <category>plugin</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/UkagakaPlugin_DBdiary</guid>
+    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
     <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
 </item>
 <item>
@@ -38,7 +38,7 @@
     <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
     <category>tool</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/VimUkagakaSSTP</guid>
+    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
     <pubDate>Thu, 17 Nov 2022 23:47:19 +0900</pubDate>
 </item>
 <item>
@@ -47,7 +47,7 @@
     <description>連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。</description>
     <category>tool</category>
     <dc:creator>ambergon</dc:creator>
-    <guid>ambergon/ukagakaTool-CreateAnimationPng</guid>
+    <guid isPermaLink="false">ambergon/ukagakaTool-CreateAnimationPng</guid>
     <pubDate>Mon, 27 Jun 2022 17:24:11 +0900</pubDate>
 </item>
 </channel>
