@@ -9,7 +9,8 @@
             "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
             "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
             "title": "ukagakaPlugin_CeVIO-Talker",
-            "content_text": "伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。",
+            "content_text": "",
+            "summary": "伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。",
             "date_published": "2022-12-21T05:27:12Z",
             "date_modified": "2023-01-19T10:22:23Z",
             "authors": [
@@ -30,7 +31,8 @@
             "id": "ambergon/ukagakaPlugin_getWindowTitle",
             "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
             "title": "ukagakaPlugin_getWindowTitle",
-            "content_text": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
             "date_published": "2023-01-06T15:23:47Z",
             "date_modified": "2023-01-07T13:39:58Z",
             "authors": [
@@ -51,7 +53,8 @@
             "id": "ambergon/UkagakaPlugin_DBdiary",
             "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
             "title": "UkagakaPlugin_DBdiary",
-            "content_text": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
+            "content_text": "",
+            "summary": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
             "date_published": "2023-01-03T14:47:18Z",
             "date_modified": "2023-01-04T07:57:49Z",
             "authors": [
@@ -72,7 +75,8 @@
             "id": "ambergon/VimUkagakaSSTP",
             "url": "https://github.com/ambergon/VimUkagakaSSTP",
             "title": "VimUkagakaSSTP",
-            "content_text": "vimから伺か・ゴーストにテキストを投げるプラグイン",
+            "content_text": "",
+            "summary": "vimから伺か・ゴーストにテキストを投げるプラグイン",
             "date_published": "2022-11-17T14:08:43Z",
             "date_modified": "2022-11-17T14:47:19Z",
             "authors": [
@@ -93,7 +97,8 @@
             "id": "ambergon/ukagakaTool-CreateAnimationPng",
             "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
             "title": "ukagakaTool-CreateAnimationPng",
-            "content_text": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
+            "content_text": "",
+            "summary": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
             "date_published": "2022-06-23T03:06:58Z",
             "date_modified": "2022-06-27T08:24:11Z",
             "authors": [

@@ -9,7 +9,8 @@
             "id": "kanadelab/Satolist2",
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",
-            "content_text": "里々ゴーストエディタ「さとりすと」 ver2",
+            "content_text": "",
+            "summary": "里々ゴーストエディタ「さとりすと」 ver2",
             "date_published": "2022-02-11T16:27:32Z",
             "date_modified": "2023-01-11T13:39:54Z",
             "authors": [
@@ -29,7 +30,8 @@
             "id": "kanadelab/vscode-surfaces",
             "url": "https://github.com/kanadelab/vscode-surfaces",
             "title": "vscode-surfaces",
-            "content_text": "vscode用surfaces.txtエクステンション",
+            "content_text": "",
+            "summary": "vscode用surfaces.txtエクステンション",
             "date_published": "2022-12-17T06:49:55Z",
             "date_modified": "2022-12-17T07:16:50Z",
             "authors": [
