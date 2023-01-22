@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/nikolat/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 22 Jan 2023 21:15:04 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Sun, 22 Jan 2023 21:14:57 +0900</pubDate>
+</item>
+<item>
     <title>sudohaikuyu</title>
     <link>https://github.com/nikolat/sudohaikuyu</link>
     <description>スドハイククライアント</description>
@@ -22,24 +40,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukadonyu</guid>
     <pubDate>Thu, 19 Jan 2023 11:04:05 +0900</pubDate>
-</item>
-<item>
-    <title>github-nar-station</title>
-    <link>https://github.com/nikolat/github-nar-station</link>
-    <description>GitHubで公開されているNARファイルを一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-nar-station</guid>
-    <pubDate>Sat, 14 Jan 2023 09:05:40 +0900</pubDate>
-</item>
-<item>
-    <title>github-dau-crawler</title>
-    <link>https://github.com/nikolat/github-dau-crawler</link>
-    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
-    <pubDate>Sat, 14 Jan 2023 09:05:26 +0900</pubDate>
 </item>
 <item>
     <title>DirectSSTPTester</title>
