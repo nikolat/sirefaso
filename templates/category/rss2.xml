@@ -11,7 +11,7 @@
     <description>{{ item.summary }}</description>
     <category>{{ item.category }}</category>
     <dc:creator>{{ item.author }}</dc:creator>
-    <guid>{{ item.id }}</guid>
+    <guid isPermaLink="false">{{ item.id }}</guid>
     <pubDate>{{ item.updated_at_rss2 }}</pubDate>
 </item>{% endfor %}
 </channel>
