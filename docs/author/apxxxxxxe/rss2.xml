@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>apxxxxxxe | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/author/apxxxxxxe/</link>
@@ -8,12 +8,18 @@
 <item>
     <title>Bouyomi</title>
     <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <description>伺かプラグイン</description>
+    <category>plugin</category>
+    <dc:creator>apxxxxxxe</dc:creator>
     <guid>apxxxxxxe/Bouyomi</guid>
     <pubDate>Fri, 20 Jan 2023 21:55:38 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
     <link>https://github.com/apxxxxxxe/Youto</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>apxxxxxxe</dc:creator>
     <guid>apxxxxxxe/Youto</guid>
     <pubDate>Wed, 04 Jan 2023 22:39:05 +0900</pubDate>
 </item>

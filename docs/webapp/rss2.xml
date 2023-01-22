@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>webapp | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/webapp/</link>
@@ -8,18 +8,27 @@
 <item>
     <title>WebClapModoki-GAS</title>
     <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
+    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
+    <category>webapp</category>
+    <dc:creator>dullNeko</dc:creator>
     <guid>dullNeko/WebClapModoki-GAS</guid>
     <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
 </item>
 <item>
     <title>github-nar-station</title>
     <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
     <guid>nikolat/github-nar-station</guid>
     <pubDate>Sat, 14 Jan 2023 09:05:40 +0900</pubDate>
 </item>
 <item>
     <title>github-dau-crawler</title>
     <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
     <guid>nikolat/github-dau-crawler</guid>
     <pubDate>Sat, 14 Jan 2023 09:05:26 +0900</pubDate>
 </item>

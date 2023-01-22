@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>Taromati2 | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/author/Taromati2/</link>
@@ -8,6 +8,9 @@
 <item>
     <title>Taromati2</title>
     <link>https://github.com/Taromati2/Taromati2</link>
+    <description>黑色的猫咪 银发的少女 没有结局的故事</description>
+    <category>ghost</category>
+    <dc:creator>Taromati2</dc:creator>
     <guid>Taromati2/Taromati2</guid>
     <pubDate>Fri, 13 Jan 2023 00:57:10 +0900</pubDate>
 </item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>YAYA-shiori | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/author/YAYA-shiori/</link>
@@ -8,36 +8,54 @@
 <item>
     <title>konnoyayame</title>
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/konnoyayame</guid>
     <pubDate>Fri, 30 Dec 2022 17:18:39 +0900</pubDate>
 </item>
 <item>
     <title>ayaya-vs-code-extension</title>
     <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <description>ayaya vs code extension</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/ayaya-vs-code-extension</guid>
     <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
     <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
     <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/tama</guid>
     <pubDate>Tue, 27 Sep 2022 01:20:18 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
 </item>
 <item>
     <title>yaya-as-saori</title>
     <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
+    <description>YAYA as SAORI</description>
+    <category>saori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Sun, 10 Jul 2022 19:22:05 +0900</pubDate>
 </item>

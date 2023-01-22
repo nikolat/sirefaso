@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>spec | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/spec/</link>
@@ -8,6 +8,9 @@
 <item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
     <guid>ukatech/ukadoc</guid>
     <pubDate>Thu, 19 Jan 2023 09:28:50 +0900</pubDate>
 </item>

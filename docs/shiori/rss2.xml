@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>shiori | 偽SiReFaSo</title>
 <link>https://nikolat.github.io/sirefaso/shiori/</link>
@@ -8,36 +8,54 @@
 <item>
     <title>kotori</title>
     <link>https://github.com/Tatakinov/kotori</link>
+    <description></description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
     <guid>Tatakinov/kotori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:43 +0900</pubDate>
 </item>
 <item>
     <title>kagari_shiori</title>
     <link>https://github.com/Tatakinov/kagari_shiori</link>
+    <description></description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
     <guid>Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
     <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
     <guid>ukatech/satoriya-shiori</guid>
     <pubDate>Fri, 14 Oct 2022 20:58:40 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
     <guid>YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
 </item>
 <item>
     <title>aya5-shiori</title>
     <link>https://github.com/ponapalt/aya5-shiori</link>
+    <description>Old plain AYA5 code with small fixes (AYA5＋小修正のみ)</description>
+    <category>shiori</category>
+    <dc:creator>ponapalt</dc:creator>
     <guid>ponapalt/aya5-shiori</guid>
     <pubDate>Tue, 04 Dec 2018 11:20:29 +0900</pubDate>
 </item>
