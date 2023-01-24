@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2022-12-30T08:18:39Z",
+            "date_modified": "2023-01-24T07:13:25Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -24,6 +24,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
+            "content_text": "",
+            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2023-01-24T06:59:53Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
             ]
         },
         {
@@ -49,27 +70,6 @@
                 "ukagaka-tool",
                 "vscode-extension",
                 "yaya"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-dic",
-            "url": "https://github.com/YAYA-shiori/yaya-dic",
-            "title": "yaya-dic",
-            "content_text": "",
-            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
-            "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2022-10-27T02:00:32Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {

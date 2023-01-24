@@ -6,6 +6,42 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>bee</title>
+    <link>https://github.com/nikolat/bee</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/bee</guid>
+    <pubDate>Tue, 24 Jan 2023 16:29:39 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
+</item>
+<item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
+    <pubDate>Tue, 24 Jan 2023 16:13:25 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-dic</title>
+    <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
+    <pubDate>Tue, 24 Jan 2023 15:59:53 +0900</pubDate>
+</item>
+<item>
     <title>github-dau-crawler</title>
     <link>https://github.com/nikolat/github-dau-crawler</link>
     <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
@@ -111,7 +147,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Fri, 13 Jan 2023 00:57:10 +0900</pubDate>
+    <pubDate>Tue, 24 Jan 2023 16:04:41 +0900</pubDate>
 </item>
 <item>
     <title>Satolist2</title>
@@ -247,33 +283,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
     <pubDate>Tue, 03 Jan 2023 18:05:08 +0900</pubDate>
-</item>
-<item>
-    <title>bee</title>
-    <link>https://github.com/nikolat/bee</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/bee</guid>
-    <pubDate>Mon, 02 Jan 2023 10:40:17 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Mon, 02 Jan 2023 10:39:28 +0900</pubDate>
-</item>
-<item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Fri, 30 Dec 2022 17:18:39 +0900</pubDate>
 </item>
 <item>
     <title>saori-resized-png</title>
@@ -436,15 +445,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
     <pubDate>Mon, 31 Oct 2022 19:35:36 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-dic</title>
-    <link>https://github.com/YAYA-shiori/yaya-dic</link>
-    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
-    <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>

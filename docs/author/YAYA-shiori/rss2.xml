@@ -12,7 +12,16 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Fri, 30 Dec 2022 17:18:39 +0900</pubDate>
+    <pubDate>Tue, 24 Jan 2023 16:13:25 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-dic</title>
+    <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
+    <pubDate>Tue, 24 Jan 2023 15:59:53 +0900</pubDate>
 </item>
 <item>
     <title>ayaya-vs-code-extension</title>
@@ -22,15 +31,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
     <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-dic</title>
-    <link>https://github.com/YAYA-shiori/yaya-dic</link>
-    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
-    <pubDate>Thu, 27 Oct 2022 11:00:32 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
