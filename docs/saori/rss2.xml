@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/saori/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sat, 28 Jan 2023 20:15:42 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png</title>
     <link>https://github.com/tukinami/saori-resized-png</link>
     <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
@@ -13,15 +22,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-resized-png</guid>
     <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
-</item>
-<item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sun, 25 Dec 2022 15:33:21 +0900</pubDate>
 </item>
 <item>
     <title>TexasHoldemUtil</title>
