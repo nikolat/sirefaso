@@ -520,28 +520,6 @@
             ]
         },
         {
-            "id": "Tatakinov/desktop_tempter",
-            "url": "https://github.com/Tatakinov/desktop_tempter",
-            "title": "desktop_tempter",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-11-03T12:40:16Z",
-            "date_modified": "2023-01-07T05:41:11Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "Tatakinov/desktop_tempter_casino_chip_blue",
             "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
             "title": "desktop_tempter_casino_chip_blue",
@@ -629,28 +607,6 @@
             ]
         },
         {
-            "id": "Shimofumi/HamirLore",
-            "url": "https://github.com/Shimofumi/HamirLore",
-            "title": "HamirLore",
-            "content_text": "",
-            "summary": "Ukagaka ghost HamirLore",
-            "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2023-01-06T12:40:37Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "tukinami/small_HE-Chan_sama",
             "url": "https://github.com/tukinami/small_HE-Chan_sama",
             "title": "small_HE-Chan_sama",
@@ -669,6 +625,49 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "apxxxxxxe/Youto",
+            "url": "https://github.com/apxxxxxxe/Youto",
+            "title": "Youto",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2022-05-26T09:48:26Z",
+            "date_modified": "2023-01-04T13:39:05Z",
+            "authors": [
+                {
+                    "name": "apxxxxxxe",
+                    "url": "https://github.com/apxxxxxxe",
+                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "ambergon/UkagakaPlugin_DBdiary",
+            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
+            "title": "UkagakaPlugin_DBdiary",
+            "content_text": "",
+            "summary": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
+            "date_published": "2023-01-03T14:47:18Z",
+            "date_modified": "2023-01-04T07:57:49Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
             ]
         },
         {
