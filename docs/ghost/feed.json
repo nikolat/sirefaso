@@ -191,6 +191,28 @@
             ]
         },
         {
+            "id": "Tatakinov/desktop_tempter",
+            "url": "https://github.com/Tatakinov/desktop_tempter",
+            "title": "desktop_tempter",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:40:16Z",
+            "date_modified": "2023-01-07T05:41:11Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/desktop_tempter_casino_chip_blue",
             "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
             "title": "desktop_tempter_casino_chip_blue",
@@ -278,23 +300,24 @@
             ]
         },
         {
-            "id": "apxxxxxxe/Youto",
-            "url": "https://github.com/apxxxxxxe/Youto",
-            "title": "Youto",
+            "id": "Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
             "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2022-05-26T09:48:26Z",
-            "date_modified": "2023-01-04T13:39:05Z",
+            "summary": "Ukagaka ghost HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2023-01-06T12:40:37Z",
             "authors": [
                 {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
                 "sosiremi",
+                "ukagaka",
                 "ukagaka-ghost"
             ]
         },

@@ -72,28 +72,6 @@
             ]
         },
         {
-            "id": "ambergon/UkagakaPlugin_DBdiary",
-            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
-            "title": "UkagakaPlugin_DBdiary",
-            "content_text": "",
-            "summary": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
-            "date_published": "2023-01-03T14:47:18Z",
-            "date_modified": "2023-01-04T07:57:49Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "ambergon/VimUkagakaSSTP",
             "url": "https://github.com/ambergon/VimUkagakaSSTP",
             "title": "VimUkagakaSSTP",

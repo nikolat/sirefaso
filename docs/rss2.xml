@@ -213,6 +213,15 @@
     <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
+    <title>desktop_tempter</title>
+    <link>https://github.com/Tatakinov/desktop_tempter</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
+    <pubDate>Sat, 07 Jan 2023 14:41:11 +0900</pubDate>
+</item>
+<item>
     <title>desktop_tempter_casino_chip_blue</title>
     <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_blue</link>
     <description></description>
@@ -249,6 +258,15 @@
     <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
 </item>
 <item>
+    <title>HamirLore</title>
+    <link>https://github.com/Shimofumi/HamirLore</link>
+    <description>Ukagaka ghost HamirLore</description>
+    <category>ghost</category>
+    <dc:creator>Shimofumi</dc:creator>
+    <guid isPermaLink="false">Shimofumi/HamirLore</guid>
+    <pubDate>Fri, 06 Jan 2023 21:40:37 +0900</pubDate>
+</item>
+<item>
     <title>small_HE-Chan_sama</title>
     <link>https://github.com/tukinami/small_HE-Chan_sama</link>
     <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
@@ -256,24 +274,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
     <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
-</item>
-<item>
-    <title>Youto</title>
-    <link>https://github.com/apxxxxxxe/Youto</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
-    <pubDate>Wed, 04 Jan 2023 22:39:05 +0900</pubDate>
-</item>
-<item>
-    <title>UkagakaPlugin_DBdiary</title>
-    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
-    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
-    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
