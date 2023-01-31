@@ -15,15 +15,6 @@
     <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
 </item>
 <item>
-    <title>github-dau-crawler</title>
-    <link>https://github.com/nikolat/github-dau-crawler</link>
-    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
-    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
-</item>
-<item>
     <title>WebClapModoki-GAS</title>
     <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
     <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
