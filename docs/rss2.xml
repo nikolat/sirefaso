@@ -33,6 +33,15 @@
     <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
 </item>
 <item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
+</item>
+<item>
     <title>MahjongUtil</title>
     <link>https://github.com/nikolat/MahjongUtil</link>
     <description>麻雀に関する機能を提供するSAORI</description>
@@ -265,15 +274,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
     <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
-</item>
-<item>
-    <title>Youto</title>
-    <link>https://github.com/apxxxxxxe/Youto</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
-    <pubDate>Wed, 04 Jan 2023 22:39:05 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
