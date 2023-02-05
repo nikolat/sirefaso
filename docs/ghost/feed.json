@@ -28,6 +28,27 @@
             ]
         },
         {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2023-02-03T04:37:14Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "tukinami/taidanaSanoSan",
             "url": "https://github.com/tukinami/taidanaSanoSan",
             "title": "taidanaSanoSan",
@@ -297,27 +318,6 @@
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "apxxxxxxe/Youto",
-            "url": "https://github.com/apxxxxxxe/Youto",
-            "title": "Youto",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2022-05-26T09:48:26Z",
-            "date_modified": "2023-01-04T13:39:05Z",
-            "authors": [
-                {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
                 "ukagaka-ghost"
             ]
         },
