@@ -15,15 +15,6 @@
     <pubDate>Sun, 05 Feb 2023 23:08:05 +0900</pubDate>
 </item>
 <item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Fri, 03 Feb 2023 13:37:14 +0900</pubDate>
-</item>
-<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -130,6 +121,15 @@
     <dc:creator>Shimofumi</dc:creator>
     <guid isPermaLink="false">Shimofumi/HamirLore</guid>
     <pubDate>Fri, 06 Jan 2023 21:40:37 +0900</pubDate>
+</item>
+<item>
+    <title>Youto</title>
+    <link>https://github.com/apxxxxxxe/Youto</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
+    <pubDate>Wed, 04 Jan 2023 22:39:05 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
