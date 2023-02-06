@@ -150,6 +150,15 @@
     <pubDate>Sat, 12 Nov 2022 20:40:35 +0900</pubDate>
 </item>
 <item>
+    <title>cultural-festival</title>
+    <link>https://github.com/nikolat/cultural-festival</link>
+    <description>ゴースト「卓上誘技」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/cultural-festival</guid>
+    <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-simultaneous-interpreter</title>
     <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
     <description>Simultaneous Interpreter Ghost</description>
@@ -211,33 +220,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/reshibainu</guid>
     <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
-</item>
-<item>
-    <title>jb-standard-balloon</title>
-    <link>https://github.com/nikolat/jb-standard-balloon</link>
-    <description>ゴースト「雀々BARIBARI」用バルーン</description>
-    <category>balloon</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
-    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
-</item>
-<item>
-    <title>jb-standard</title>
-    <link>https://github.com/nikolat/jb-standard</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-standard</guid>
-    <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
-</item>
-<item>
-    <title>CharameLNetwork</title>
-    <link>https://github.com/nikolat/CharameLNetwork</link>
-    <description>CharameLをSNS風に見せる何か</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/CharameLNetwork</guid>
-    <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
 </item>
 <item>
     <title>jb-standard-balloon</title>
