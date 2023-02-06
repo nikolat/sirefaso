@@ -24,6 +24,15 @@
     <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
 </item>
 <item>
+    <title>jb-standard-balloon</title>
+    <link>https://github.com/nikolat/jb-standard-balloon</link>
+    <description>ゴースト「雀々BARIBARI」用バルーン</description>
+    <category>balloon</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
+    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
+</item>
+<item>
     <title>b_f_watersurface</title>
     <link>https://github.com/ponapalt/b_f_watersurface</link>
     <description>/balloon/for/watersurface</description>

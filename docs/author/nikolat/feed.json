@@ -381,29 +381,6 @@
             ]
         },
         {
-            "id": "nikolat/cultural-festival",
-            "url": "https://github.com/nikolat/cultural-festival",
-            "title": "cultural-festival",
-            "content_text": "",
-            "summary": "ゴースト「卓上誘技」用追加シェル",
-            "date_published": "2022-11-09T11:15:34Z",
-            "date_modified": "2022-11-09T11:29:32Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/ukagaka-simultaneous-interpreter",
             "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
             "title": "ukagaka-simultaneous-interpreter",
@@ -567,6 +544,79 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/jb-standard-balloon",
+            "url": "https://github.com/nikolat/jb-standard-balloon",
+            "title": "jb-standard-balloon",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用バルーン",
+            "date_published": "2021-08-14T00:45:23Z",
+            "date_modified": "2022-08-27T00:54:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "nikolat/CharameLNetwork",
+            "url": "https://github.com/nikolat/CharameLNetwork",
+            "title": "CharameLNetwork",
+            "content_text": "",
+            "summary": "CharameLをSNS風に見せる何か",
+            "date_published": "2022-01-10T08:05:43Z",
+            "date_modified": "2022-08-27T00:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
             ]
         },
         {
