@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>nar-thumbnail-provider</title>
+    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
+    <description>NAR thumbnail provider for Windows Explorer</description>
+    <category>tool</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
+    <pubDate>Wed, 08 Feb 2023 03:03:11 +0900</pubDate>
+</item>
+<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>
@@ -22,15 +31,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Thu, 19 Jan 2023 09:28:50 +0900</pubDate>
-</item>
-<item>
-    <title>nar-thumbnail-provider</title>
-    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
-    <description>NAR thumbnail provider for Windows Explorer</description>
-    <category>tool</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
-    <pubDate>Fri, 05 Aug 2022 02:41:57 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
