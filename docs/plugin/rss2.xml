@@ -69,6 +69,15 @@
     <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
 </item>
 <item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <description>伺か天気予報プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukaten</guid>
+    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
+</item>
+<item>
     <title>CharameLNetwork</title>
     <link>https://github.com/nikolat/CharameLNetwork</link>
     <description>CharameLをSNS風に見せる何か</description>
