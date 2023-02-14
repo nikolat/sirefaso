@@ -366,6 +366,24 @@
     <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
 </item>
 <item>
+    <title>ayaya-vs-code-extension</title>
+    <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <description>ayaya vs code extension</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
+    <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
+</item>
+<item>
+    <title>bath_ane</title>
+    <link>https://github.com/etwaslangsam/bath_ane</link>
+    <description>風呂上がりの姉貴</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
+    <pubDate>Sat, 17 Dec 2022 08:39:15 +0900</pubDate>
+</item>
+<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
@@ -526,24 +544,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/akari-as-saori</guid>
     <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
-</item>
-<item>
-    <title>ukaten</title>
-    <link>https://github.com/nikolat/ukaten</link>
-    <description>伺か天気予報プラグイン</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukaten</guid>
-    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
-</item>
-<item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
 </item>
 <item>
     <title>ukaten</title>

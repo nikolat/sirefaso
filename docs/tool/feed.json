@@ -138,6 +138,31 @@
             ]
         },
         {
+            "id": "YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "content_text": "",
+            "summary": "ayaya vs code extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "sirefaso",
+                "syntax-highlighting",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension",
+                "yaya"
+            ]
+        },
+        {
             "id": "ambergon/VimUkagakaSSTP",
             "url": "https://github.com/ambergon/VimUkagakaSSTP",
             "title": "VimUkagakaSSTP",

@@ -150,6 +150,15 @@
     <pubDate>Tue, 03 Jan 2023 18:05:08 +0900</pubDate>
 </item>
 <item>
+    <title>bath_ane</title>
+    <link>https://github.com/etwaslangsam/bath_ane</link>
+    <description>風呂上がりの姉貴</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
+    <pubDate>Sat, 17 Dec 2022 08:39:15 +0900</pubDate>
+</item>
+<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
@@ -229,15 +238,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
     <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
-</item>
-<item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
 </item>
 <item>
     <title>reshibainu</title>
