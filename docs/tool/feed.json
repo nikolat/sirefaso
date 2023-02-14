@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
+            "content_text": "",
+            "summary": "vscode用surfaces.txtエクステンション",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2023-02-14T11:55:47Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "ukatech/nar-thumbnail-provider",
             "url": "https://github.com/ukatech/nar-thumbnail-provider",
             "title": "nar-thumbnail-provider",
@@ -139,27 +160,6 @@
                 "ukagaka-tool",
                 "vscode-extension",
                 "yaya"
-            ]
-        },
-        {
-            "id": "kanadelab/vscode-surfaces",
-            "url": "https://github.com/kanadelab/vscode-surfaces",
-            "title": "vscode-surfaces",
-            "content_text": "",
-            "summary": "vscode用surfaces.txtエクステンション",
-            "date_published": "2022-12-17T06:49:55Z",
-            "date_modified": "2022-12-17T07:16:50Z",
-            "authors": [
-                {
-                    "name": "kanadelab",
-                    "url": "https://github.com/kanadelab",
-                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
