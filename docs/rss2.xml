@@ -276,24 +276,6 @@
     <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
-    <title>desktop_tempter</title>
-    <link>https://github.com/Tatakinov/desktop_tempter</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
-    <pubDate>Sat, 07 Jan 2023 14:41:11 +0900</pubDate>
-</item>
-<item>
-    <title>desktop_tempter_casino_chip_blue</title>
-    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_blue</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_blue</guid>
-    <pubDate>Sat, 07 Jan 2023 14:38:08 +0900</pubDate>
-</item>
-<item>
     <title>mosu</title>
     <link>https://github.com/Tatakinov/mosu</link>
     <description>Kagari/Kotori Sample Ghost</description>
@@ -544,6 +526,24 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
     <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
+</item>
+<item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <description>伺か天気予報プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukaten</guid>
+    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
 </item>
 <item>
     <title>akari-as-saori</title>
