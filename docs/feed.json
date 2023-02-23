@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "Nostr日本語リレーから投稿を取得して伺かにDirectSSTPを送信します",
             "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2023-02-23T08:09:08Z",
+            "date_modified": "2023-02-23T12:40:10Z",
             "authors": [
                 {
                     "name": "nikolat",
@@ -30,6 +30,27 @@
                 "ukagaka",
                 "ukagaka-webapp",
                 "windows"
+            ]
+        },
+        {
+            "id": "apxxxxxxe/Youto",
+            "url": "https://github.com/apxxxxxxe/Youto",
+            "title": "Youto",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2022-05-26T09:48:26Z",
+            "date_modified": "2023-02-23T12:38:55Z",
+            "authors": [
+                {
+                    "name": "apxxxxxxe",
+                    "url": "https://github.com/apxxxxxxe",
+                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka-ghost"
             ]
         },
         {
@@ -827,27 +848,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "apxxxxxxe/Youto",
-            "url": "https://github.com/apxxxxxxe/Youto",
-            "title": "Youto",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2022-05-26T09:48:26Z",
-            "date_modified": "2023-01-04T13:39:05Z",
-            "authors": [
-                {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-ghost"
             ]
         },
         {
