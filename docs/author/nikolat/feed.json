@@ -572,52 +572,6 @@
             ]
         },
         {
-            "id": "nikolat/akari-as-saori",
-            "url": "https://github.com/nikolat/akari-as-saori",
-            "title": "akari-as-saori",
-            "content_text": "",
-            "summary": "AKARI as SAORI",
-            "date_published": "2021-11-03T23:33:48Z",
-            "date_modified": "2022-08-27T01:43:46Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "nikolat/ukaten",
-            "url": "https://github.com/nikolat/ukaten",
-            "title": "ukaten",
-            "content_text": "",
-            "summary": "伺か天気予報プラグイン",
-            "date_published": "2021-11-12T06:44:37Z",
-            "date_modified": "2022-08-27T00:58:57Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "weather-forecast"
-            ]
-        },
-        {
             "id": "nikolat/reshibainu",
             "url": "https://github.com/nikolat/reshibainu",
             "title": "reshibainu",
