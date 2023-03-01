@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ponapalt/b_f_watersurface",
+            "url": "https://github.com/ponapalt/b_f_watersurface",
+            "title": "b_f_watersurface",
+            "content_text": "",
+            "summary": "/balloon/for/watersurface",
+            "date_published": "2020-06-24T01:31:00Z",
+            "date_modified": "2023-03-01T00:58:55Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
             "id": "nikolat/angolmois-electron",
             "url": "https://github.com/nikolat/angolmois-electron",
             "title": "angolmois-electron",
@@ -29,27 +50,6 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "ponapalt/b_f_watersurface",
-            "url": "https://github.com/ponapalt/b_f_watersurface",
-            "title": "b_f_watersurface",
-            "content_text": "",
-            "summary": "/balloon/for/watersurface",
-            "date_published": "2020-06-24T01:31:00Z",
-            "date_modified": "2023-02-28T12:35:27Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
             ]
         },
         {
@@ -426,7 +426,7 @@
             "content_text": "",
             "summary": "黑色的猫咪 银发的少女 没有结局的故事",
             "date_published": "2021-02-22T07:50:19Z",
-            "date_modified": "2023-02-13T07:50:42Z",
+            "date_modified": "2023-03-01T00:59:09Z",
             "authors": [
                 {
                     "name": "Taromati2",
