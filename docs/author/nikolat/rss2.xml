@@ -8,7 +8,7 @@
 <item>
     <title>angolmois-electron</title>
     <link>https://github.com/nikolat/angolmois-electron</link>
-    <description>Nostr日本語リレーから投稿を取得して伺かにDirectSSTPを送信します</description>
+    <description>Nostr日本語リレーから投稿を取得して伺かにSSTPを送信します</description>
     <category>webapp</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois-electron</guid>
