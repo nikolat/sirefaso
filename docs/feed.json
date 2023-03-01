@@ -6,6 +6,32 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/angolmois-electron",
+            "url": "https://github.com/nikolat/angolmois-electron",
+            "title": "angolmois-electron",
+            "content_text": "",
+            "summary": "Nostr日本語リレーから投稿を取得して伺かにSSTPを送信します",
+            "date_published": "2023-02-17T02:14:04Z",
+            "date_modified": "2023-03-01T14:41:23Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "electron",
+                "electron-app",
+                "nostr",
+                "nostr-client",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "kanadelab/Satolist2",
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",
@@ -45,32 +71,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "nikolat/angolmois-electron",
-            "url": "https://github.com/nikolat/angolmois-electron",
-            "title": "angolmois-electron",
-            "content_text": "",
-            "summary": "Nostr日本語リレーから投稿を取得して伺かにSSTPを送信します",
-            "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2023-03-01T05:33:01Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "electron",
-                "electron-app",
-                "nostr",
-                "nostr-client",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
             ]
         },
         {
