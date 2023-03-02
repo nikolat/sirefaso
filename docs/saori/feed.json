@@ -95,6 +95,28 @@
             ]
         },
         {
+            "id": "nikolat/akari-as-saori",
+            "url": "https://github.com/nikolat/akari-as-saori",
+            "title": "akari-as-saori",
+            "content_text": "",
+            "summary": "AKARI as SAORI",
+            "date_published": "2021-11-03T23:33:48Z",
+            "date_modified": "2022-08-27T01:43:46Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-as-saori",
             "url": "https://github.com/YAYA-shiori/yaya-as-saori",
             "title": "yaya-as-saori",

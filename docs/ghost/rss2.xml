@@ -87,15 +87,6 @@
     <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
 </item>
 <item>
-    <title>d2k</title>
-    <link>https://github.com/etwaslangsam/d2k</link>
-    <description>芹那と妃音with玄恵</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/d2k</guid>
-    <pubDate>Sun, 08 Jan 2023 22:09:40 +0900</pubDate>
-</item>
-<item>
     <title>desktop_tempter</title>
     <link>https://github.com/Tatakinov/desktop_tempter</link>
     <description></description>
@@ -168,24 +159,6 @@
     <pubDate>Tue, 13 Dec 2022 21:56:00 +0900</pubDate>
 </item>
 <item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Sun, 11 Dec 2022 12:51:42 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sun, 11 Dec 2022 12:51:36 +0900</pubDate>
-</item>
-<item>
     <title>jong-rinrin</title>
     <link>https://github.com/nikolat/jong-rinrin</link>
     <description>麻雀クライアントゴースト</description>
@@ -229,6 +202,24 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
     <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>

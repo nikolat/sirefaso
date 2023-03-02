@@ -673,52 +673,6 @@
             ]
         },
         {
-            "id": "nikolat/ukadonyu",
-            "url": "https://github.com/nikolat/ukadonyu",
-            "title": "ukadonyu",
-            "content_text": "",
-            "summary": "うかどんクライアント",
-            "date_published": "2021-11-24T13:17:47Z",
-            "date_modified": "2023-01-19T02:04:05Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "mastodon-client",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "etwaslangsam/d2k",
-            "url": "https://github.com/etwaslangsam/d2k",
-            "title": "d2k",
-            "content_text": "",
-            "summary": "芹那と妃音with玄恵",
-            "date_published": "2018-06-12T05:12:00Z",
-            "date_modified": "2023-01-08T13:09:40Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "ambergon/ukagakaPlugin_getWindowTitle",
             "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
             "title": "ukagakaPlugin_getWindowTitle",
@@ -847,27 +801,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "tukinami/small_HE-Chan_sama",
-            "url": "https://github.com/tukinami/small_HE-Chan_sama",
-            "title": "small_HE-Chan_sama",
-            "content_text": "",
-            "summary": "伺かゴースト「ヘイミル・ロゥ」用追加シェル",
-            "date_published": "2023-01-05T08:12:39Z",
-            "date_modified": "2023-01-05T11:05:21Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shell"
             ]
         },
         {
@@ -1023,58 +956,6 @@
             ],
             "tags": [
                 "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/jong-chunchun",
-            "url": "https://github.com/nikolat/jong-chunchun",
-            "title": "jong-chunchun",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:33:06Z",
-            "date_modified": "2022-12-11T03:51:42Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "kawari",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/jong-whanwhan",
-            "url": "https://github.com/nikolat/jong-whanwhan",
-            "title": "jong-whanwhan",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:35:45Z",
-            "date_modified": "2022-12-11T03:51:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "satori",
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
@@ -1313,27 +1194,6 @@
             ]
         },
         {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
-            "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2022-09-23T11:53:59Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "Tatakinov/yayalint",
             "url": "https://github.com/Tatakinov/yayalint",
             "title": "yayalint",
@@ -1353,6 +1213,150 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/ukagaka-hakoirimusume",
+            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "title": "ukagaka-hakoirimusume",
+            "content_text": "",
+            "summary": "Klotski for UKAGAKA",
+            "date_published": "2021-11-10T12:05:19Z",
+            "date_modified": "2022-08-27T04:21:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "klotski",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/akari-as-saori",
+            "url": "https://github.com/nikolat/akari-as-saori",
+            "title": "akari-as-saori",
+            "content_text": "",
+            "summary": "AKARI as SAORI",
+            "date_published": "2021-11-03T23:33:48Z",
+            "date_modified": "2022-08-27T01:43:46Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "nikolat/ukaten",
+            "url": "https://github.com/nikolat/ukaten",
+            "title": "ukaten",
+            "content_text": "",
+            "summary": "伺か天気予報プラグイン",
+            "date_published": "2021-11-12T06:44:37Z",
+            "date_modified": "2022-08-27T00:58:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "weather-forecast"
+            ]
+        },
+        {
+            "id": "nikolat/reshibainu",
+            "url": "https://github.com/nikolat/reshibainu",
+            "title": "reshibainu",
+            "content_text": "",
+            "summary": "「里々」ログビューア「れしば.NET」のゴースト版",
+            "date_published": "2022-01-26T03:28:11Z",
+            "date_modified": "2022-08-27T00:56:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/jb-standard-balloon",
+            "url": "https://github.com/nikolat/jb-standard-balloon",
+            "title": "jb-standard-balloon",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用バルーン",
+            "date_published": "2021-08-14T00:45:23Z",
+            "date_modified": "2022-08-27T00:54:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
             ]
         },
         {

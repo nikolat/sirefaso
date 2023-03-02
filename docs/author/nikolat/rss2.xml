@@ -87,15 +87,6 @@
     <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Thu, 19 Jan 2023 11:04:05 +0900</pubDate>
-</item>
-<item>
     <title>recv_net</title>
     <link>https://github.com/nikolat/recv_net</link>
     <description>里々ログビューア</description>
@@ -112,24 +103,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/shellbook</guid>
     <pubDate>Tue, 13 Dec 2022 21:56:00 +0900</pubDate>
-</item>
-<item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Sun, 11 Dec 2022 12:51:42 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sun, 11 Dec 2022 12:51:36 +0900</pubDate>
 </item>
 <item>
     <title>jong-rinrin</title>
@@ -193,6 +166,60 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
     <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
+</item>
+<item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <description>伺か天気予報プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukaten</guid>
+    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
+</item>
+<item>
+    <title>jb-standard-balloon</title>
+    <link>https://github.com/nikolat/jb-standard-balloon</link>
+    <description>ゴースト「雀々BARIBARI」用バルーン</description>
+    <category>balloon</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
+    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
+</item>
+<item>
+    <title>jb-standard</title>
+    <link>https://github.com/nikolat/jb-standard</link>
+    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-standard</guid>
+    <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>
