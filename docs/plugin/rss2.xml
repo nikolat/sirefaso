@@ -33,6 +33,15 @@
     <pubDate>Fri, 27 Jan 2023 21:02:07 +0900</pubDate>
 </item>
 <item>
+    <title>ukadonyu</title>
+    <link>https://github.com/nikolat/ukadonyu</link>
+    <description>うかどんクライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukadonyu</guid>
+    <pubDate>Thu, 19 Jan 2023 11:04:05 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_getWindowTitle</title>
     <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
     <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
@@ -49,15 +58,6 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
     <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
-</item>
-<item>
-    <title>ukaten</title>
-    <link>https://github.com/nikolat/ukaten</link>
-    <description>伺か天気予報プラグイン</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukaten</guid>
-    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
 </item>
 <item>
     <title>ukaten</title>
