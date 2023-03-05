@@ -69,6 +69,15 @@
     <pubDate>Sat, 04 Mar 2023 20:07:24 +0900</pubDate>
 </item>
 <item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Fri, 03 Mar 2023 21:51:24 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png-mini</title>
     <link>https://github.com/tukinami/saori-resized-png-mini</link>
     <description>SAORI to resize image and save as png (limited edition)</description>
@@ -94,6 +103,15 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/tama</guid>
     <pubDate>Mon, 27 Feb 2023 22:12:59 +0900</pubDate>
+</item>
+<item>
+    <title>Youto</title>
+    <link>https://github.com/apxxxxxxe/Youto</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
+    <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
 </item>
 <item>
     <title>VimUkagakaSSTP</title>
@@ -130,6 +148,24 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>nar-thumbnail-provider</title>
+    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
+    <description>NAR thumbnail provider for Windows Explorer</description>
+    <category>tool</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
+    <pubDate>Wed, 08 Feb 2023 03:03:11 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-dic</title>
+    <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
+    <pubDate>Tue, 07 Feb 2023 16:43:24 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
@@ -238,42 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ghostbook</guid>
     <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
-</item>
-<item>
-    <title>WebClapModoki-GAS</title>
-    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
-    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
-    <category>webapp</category>
-    <dc:creator>dullNeko</dc:creator>
-    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
-    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Thu, 19 Jan 2023 11:04:05 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_getWindowTitle</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
-    <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
-    <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>
