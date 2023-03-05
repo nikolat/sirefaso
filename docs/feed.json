@@ -169,29 +169,6 @@
             ]
         },
         {
-            "id": "nikolat/shellbook",
-            "url": "https://github.com/nikolat/shellbook",
-            "title": "shellbook",
-            "content_text": "",
-            "summary": "freeshell Wiki viewer",
-            "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2023-03-03T12:51:24Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "tukinami/saori-resized-png-mini",
             "url": "https://github.com/tukinami/saori-resized-png-mini",
             "title": "saori-resized-png-mini",
@@ -256,27 +233,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "apxxxxxxe/Youto",
-            "url": "https://github.com/apxxxxxxe/Youto",
-            "title": "Youto",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2022-05-26T09:48:26Z",
-            "date_modified": "2023-02-24T12:10:34Z",
-            "authors": [
-                {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -362,48 +318,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "ukatech/nar-thumbnail-provider",
-            "url": "https://github.com/ukatech/nar-thumbnail-provider",
-            "title": "nar-thumbnail-provider",
-            "content_text": "",
-            "summary": "NAR thumbnail provider for Windows Explorer",
-            "date_published": "2022-03-17T11:37:08Z",
-            "date_modified": "2023-02-07T18:03:11Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-dic",
-            "url": "https://github.com/YAYA-shiori/yaya-dic",
-            "title": "yaya-dic",
-            "content_text": "",
-            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
-            "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2023-02-07T07:43:24Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
@@ -668,6 +582,98 @@
                 "ukagaka",
                 "ukagaka-ghost",
                 "yaya"
+            ]
+        },
+        {
+            "id": "dullNeko/WebClapModoki-GAS",
+            "url": "https://github.com/dullNeko/WebClapModoki-GAS",
+            "title": "WebClapModoki-GAS",
+            "content_text": "",
+            "summary": "WebClap-like system by using Google Apps Script & Google spreadsheet.",
+            "date_published": "2022-12-23T09:10:35Z",
+            "date_modified": "2023-01-20T16:37:45Z",
+            "authors": [
+                {
+                    "name": "dullNeko",
+                    "url": "https://github.com/dullNeko",
+                    "avatar": "https://avatars.githubusercontent.com/u/120681133?v=4"
+                }
+            ],
+            "tags": [
+                "google-apps-script",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "content_text": "",
+            "summary": "うかどんクライアント",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-01-19T02:04:05Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
             ]
         },
         {
