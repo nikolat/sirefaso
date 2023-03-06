@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>angolmois</title>
+    <link>https://github.com/nikolat/angolmois</link>
+    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/angolmois</guid>
+    <pubDate>Mon, 06 Mar 2023 20:51:42 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <description>ukadoc: ukagaka documentation project</description>
@@ -13,15 +22,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Mon, 06 Mar 2023 17:20:20 +0900</pubDate>
-</item>
-<item>
-    <title>angolmois-electron</title>
-    <link>https://github.com/nikolat/angolmois-electron</link>
-    <description>Nostr日本語リレーから投稿を取得して伺かにSSTPを送信します</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/angolmois-electron</guid>
-    <pubDate>Sun, 05 Mar 2023 23:13:41 +0900</pubDate>
 </item>
 <item>
     <title>b_f_watersurface</title>
@@ -57,7 +57,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Wed, 01 Mar 2023 09:59:09 +0900</pubDate>
+    <pubDate>Mon, 06 Mar 2023 21:55:08 +0900</pubDate>
 </item>
 <item>
     <title>myalice2</title>
@@ -106,11 +106,11 @@
 </item>
 <item>
     <title>Youto</title>
-    <link>https://github.com/apxxxxxxe/Youto</link>
+    <link>https://github.com/qitoso/Youto</link>
     <description>伺かゴースト</description>
     <category>ghost</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
+    <dc:creator>qitoso</dc:creator>
+    <guid isPermaLink="false">qitoso/Youto</guid>
     <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
 </item>
 <item>
@@ -133,11 +133,11 @@
 </item>
 <item>
     <title>Bouyomi</title>
-    <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <link>https://github.com/qitoso/Bouyomi</link>
     <description>伺かプラグイン</description>
     <category>plugin</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
+    <dc:creator>qitoso</dc:creator>
+    <guid isPermaLink="false">qitoso/Bouyomi</guid>
     <pubDate>Tue, 14 Feb 2023 14:21:58 +0900</pubDate>
 </item>
 <item>
@@ -183,7 +183,7 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Fri, 03 Feb 2023 13:37:14 +0900</pubDate>
+    <pubDate>Mon, 06 Mar 2023 21:29:42 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>
