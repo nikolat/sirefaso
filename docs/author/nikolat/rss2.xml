@@ -87,15 +87,6 @@
     <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
 </item>
 <item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -159,15 +150,6 @@
     <pubDate>Sat, 12 Nov 2022 20:40:35 +0900</pubDate>
 </item>
 <item>
-    <title>cultural-festival</title>
-    <link>https://github.com/nikolat/cultural-festival</link>
-    <description>ゴースト「卓上誘技」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/cultural-festival</guid>
-    <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
-</item>
-<item>
     <title>ukagaka-simultaneous-interpreter</title>
     <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
     <description>Simultaneous Interpreter Ghost</description>
@@ -193,6 +175,24 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
     <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>

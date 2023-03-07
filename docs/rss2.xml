@@ -276,24 +276,6 @@
     <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
 </item>
 <item>
-    <title>WebClapModoki-GAS</title>
-    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
-    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
-    <category>webapp</category>
-    <dc:creator>dullNeko</dc:creator>
-    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
-    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -501,15 +483,6 @@
     <pubDate>Sat, 12 Nov 2022 20:40:35 +0900</pubDate>
 </item>
 <item>
-    <title>cultural-festival</title>
-    <link>https://github.com/nikolat/cultural-festival</link>
-    <description>ゴースト「卓上誘技」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/cultural-festival</guid>
-    <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
-</item>
-<item>
     <title>ukagaka-simultaneous-interpreter</title>
     <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
     <description>Simultaneous Interpreter Ghost</description>
@@ -544,6 +517,33 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
 </item>
 <item>
     <title>yayalint</title>
