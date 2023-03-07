@@ -209,6 +209,30 @@
             ]
         },
         {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
@@ -381,6 +405,29 @@
             ]
         },
         {
+            "id": "nikolat/cultural-festival",
+            "url": "https://github.com/nikolat/cultural-festival",
+            "title": "cultural-festival",
+            "content_text": "",
+            "summary": "ゴースト「卓上誘技」用追加シェル",
+            "date_published": "2022-11-09T11:15:34Z",
+            "date_modified": "2022-11-09T11:29:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
+        },
+        {
             "id": "nikolat/ukagaka-simultaneous-interpreter",
             "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
             "title": "ukagaka-simultaneous-interpreter",
@@ -450,52 +497,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2022-08-27T04:21:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/akari-as-saori",
-            "url": "https://github.com/nikolat/akari-as-saori",
-            "title": "akari-as-saori",
-            "content_text": "",
-            "summary": "AKARI as SAORI",
-            "date_published": "2021-11-03T23:33:48Z",
-            "date_modified": "2022-08-27T01:43:46Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {

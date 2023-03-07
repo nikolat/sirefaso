@@ -71,6 +71,29 @@
             ]
         },
         {
+            "id": "nikolat/cultural-festival",
+            "url": "https://github.com/nikolat/cultural-festival",
+            "title": "cultural-festival",
+            "content_text": "",
+            "summary": "ゴースト「卓上誘技」用追加シェル",
+            "date_published": "2022-11-09T11:15:34Z",
+            "date_modified": "2022-11-09T11:29:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
+        },
+        {
             "id": "nikolat/jb-standard",
             "url": "https://github.com/nikolat/jb-standard",
             "title": "jb-standard",
