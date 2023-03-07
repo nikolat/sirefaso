@@ -6,22 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Tue, 07 Mar 2023 08:05:20 +0900</pubDate>
-</item>
-<item>
     <title>angolmois</title>
     <link>https://github.com/nikolat/angolmois</link>
     <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
     <category>webapp</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
-    <pubDate>Mon, 06 Mar 2023 20:51:42 +0900</pubDate>
+    <pubDate>Tue, 07 Mar 2023 20:19:18 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -30,7 +21,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Mon, 06 Mar 2023 17:20:20 +0900</pubDate>
+    <pubDate>Tue, 07 Mar 2023 19:42:53 +0900</pubDate>
+</item>
+<item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
+    <pubDate>Tue, 07 Mar 2023 08:05:20 +0900</pubDate>
 </item>
 <item>
     <title>b_f_watersurface</title>
