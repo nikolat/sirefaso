@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "etwaslangsam/myalice2",
+            "url": "https://github.com/etwaslangsam/myalice2",
+            "title": "myalice2",
+            "content_text": "",
+            "summary": "ゴースト「僕のアリス2」",
+            "date_published": "2016-03-28T11:24:49Z",
+            "date_modified": "2023-03-08T11:38:41Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/jong-rinrin",
             "url": "https://github.com/nikolat/jong-rinrin",
             "title": "jong-rinrin",
@@ -100,28 +122,6 @@
                 "sosiremi",
                 "taromati",
                 "taromati2",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "etwaslangsam/myalice2",
-            "url": "https://github.com/etwaslangsam/myalice2",
-            "title": "myalice2",
-            "content_text": "",
-            "summary": "ゴースト「僕のアリス2」",
-            "date_published": "2016-03-28T11:24:49Z",
-            "date_modified": "2023-03-04T11:07:24Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
