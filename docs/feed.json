@@ -6,6 +6,51 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/nar-thumbnail-provider",
+            "url": "https://github.com/ukatech/nar-thumbnail-provider",
+            "title": "nar-thumbnail-provider",
+            "content_text": "",
+            "summary": "NAR thumbnail provider for Windows Explorer",
+            "date_published": "2022-03-17T11:37:08Z",
+            "date_modified": "2023-03-09T10:26:59Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/tama",
+            "url": "https://github.com/YAYA-shiori/tama",
+            "title": "tama",
+            "content_text": "",
+            "summary": "Tama - AYA5 Console",
+            "date_published": "2022-02-12T05:08:54Z",
+            "date_modified": "2023-03-09T09:51:57Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "aya5",
+                "shiori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "nikolat/angolmois",
             "url": "https://github.com/nikolat/angolmois",
             "title": "angolmois",
@@ -27,30 +72,6 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/tama",
-            "url": "https://github.com/YAYA-shiori/tama",
-            "title": "tama",
-            "content_text": "",
-            "summary": "Tama - AYA5 Console",
-            "date_published": "2022-02-12T05:08:54Z",
-            "date_modified": "2023-03-09T05:49:51Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "aya",
-                "aya5",
-                "shiori",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
@@ -214,7 +235,7 @@
             "content_text": "",
             "summary": "黑色的猫咪 银发的少女 没有结局的故事",
             "date_published": "2021-02-22T07:50:19Z",
-            "date_modified": "2023-03-09T07:45:13Z",
+            "date_modified": "2023-03-09T10:08:04Z",
             "authors": [
                 {
                     "name": "Taromati2",
@@ -407,27 +428,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "ukatech/nar-thumbnail-provider",
-            "url": "https://github.com/ukatech/nar-thumbnail-provider",
-            "title": "nar-thumbnail-provider",
-            "content_text": "",
-            "summary": "NAR thumbnail provider for Windows Explorer",
-            "date_published": "2022-03-17T11:37:08Z",
-            "date_modified": "2023-02-07T18:03:11Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
