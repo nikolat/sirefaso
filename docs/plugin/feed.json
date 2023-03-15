@@ -6,6 +6,30 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "content_text": "",
+            "summary": "うかどんクライアント",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-03-15T22:16:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "apxxxxxxe/Bouyomi",
             "url": "https://github.com/apxxxxxxe/Bouyomi",
             "title": "Bouyomi",
@@ -68,30 +92,6 @@
                 "sirefaso",
                 "sosiremi",
                 "sudo-haiku",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/ukadonyu",
-            "url": "https://github.com/nikolat/ukadonyu",
-            "title": "ukadonyu",
-            "content_text": "",
-            "summary": "うかどんクライアント",
-            "date_published": "2021-11-24T13:17:47Z",
-            "date_modified": "2023-01-19T02:04:05Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "mastodon-client",
-                "sirefaso",
-                "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
             ]
