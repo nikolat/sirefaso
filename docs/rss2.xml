@@ -546,6 +546,51 @@
     <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
 </item>
 <item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Sat, 27 Aug 2022 10:43:46 +0900</pubDate>
+</item>
+<item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <description>伺か天気予報プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukaten</guid>
+    <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
+</item>
+<item>
     <title>reshibainu</title>
     <link>https://github.com/nikolat/reshibainu</link>
     <description>「里々」ログビューア「れしば.NET」のゴースト版</description>

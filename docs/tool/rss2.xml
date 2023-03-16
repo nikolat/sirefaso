@@ -78,6 +78,15 @@
     <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
+</item>
+<item>
     <title>yayalint_for_vscode</title>
     <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
     <description></description>
