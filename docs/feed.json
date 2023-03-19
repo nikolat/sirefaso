@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-03-19T06:10:57Z",
+            "date_modified": "2023-03-19T07:21:11Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -24,6 +24,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "kanadelab/Satolist2",
+            "url": "https://github.com/kanadelab/Satolist2",
+            "title": "Satolist2",
+            "content_text": "",
+            "summary": "里々ゴーストエディタ「さとりすと」 ver2",
+            "date_published": "2022-02-11T16:27:32Z",
+            "date_modified": "2023-03-19T07:09:22Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {
@@ -251,27 +272,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "kanadelab/Satolist2",
-            "url": "https://github.com/kanadelab/Satolist2",
-            "title": "Satolist2",
-            "content_text": "",
-            "summary": "里々ゴーストエディタ「さとりすと」 ver2",
-            "date_published": "2022-02-11T16:27:32Z",
-            "date_modified": "2023-03-05T11:42:34Z",
-            "authors": [
-                {
-                    "name": "kanadelab",
-                    "url": "https://github.com/kanadelab",
-                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
