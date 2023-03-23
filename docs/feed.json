@@ -1353,6 +1353,99 @@
             ]
         },
         {
+            "id": "nikolat/jong-bari",
+            "url": "https://github.com/nikolat/jong-bari",
+            "title": "jong-bari",
+            "content_text": "",
+            "summary": "麻雀サーバーゴースト",
+            "date_published": "2021-06-09T05:21:25Z",
+            "date_modified": "2022-10-10T05:22:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "content_text": "",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2022-09-23T11:53:59Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2022-09-20T13:22:52Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/ukagaka-hakoirimusume",
+            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "title": "ukagaka-hakoirimusume",
+            "content_text": "",
+            "summary": "Klotski for UKAGAKA",
+            "date_published": "2021-11-10T12:05:19Z",
+            "date_modified": "2022-08-27T04:21:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "klotski",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
@@ -1448,6 +1541,54 @@
             ]
         },
         {
+            "id": "nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "nikolat/CharameLNetwork",
+            "url": "https://github.com/nikolat/CharameLNetwork",
+            "title": "CharameLNetwork",
+            "content_text": "",
+            "summary": "CharameLをSNS風に見せる何か",
+            "date_published": "2022-01-10T08:05:43Z",
+            "date_modified": "2022-08-27T00:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
+        },
+        {
             "id": "nikolat/balloonselector",
             "url": "https://github.com/nikolat/balloonselector",
             "title": "balloonselector",
@@ -1536,6 +1677,28 @@
             ]
         },
         {
+            "id": "ambergon/ukagakaTool-CreateAnimationPng",
+            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "title": "ukagakaTool-CreateAnimationPng",
+            "content_text": "",
+            "summary": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
+            "date_published": "2022-06-23T03:06:58Z",
+            "date_modified": "2022-06-27T08:24:11Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
@@ -1606,6 +1769,27 @@
             "summary": "Balloon for Mizore",
             "date_published": "2021-10-18T07:07:25Z",
             "date_modified": "2021-10-18T11:56:35Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "ponapalt/ToothandNailBalloon",
+            "url": "https://github.com/ponapalt/ToothandNailBalloon",
+            "title": "ToothandNailBalloon",
+            "content_text": "",
+            "summary": "Balloon for Tooth and Nail",
+            "date_published": "2020-06-24T01:38:20Z",
+            "date_modified": "2020-06-26T19:54:08Z",
             "authors": [
                 {
                     "name": "ponapalt",

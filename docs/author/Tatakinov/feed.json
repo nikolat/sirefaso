@@ -200,6 +200,28 @@
             ]
         },
         {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2022-09-20T13:22:52Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "Tatakinov/yayalint_for_vscode",
             "url": "https://github.com/Tatakinov/yayalint_for_vscode",
             "title": "yayalint_for_vscode",
