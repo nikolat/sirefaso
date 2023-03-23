@@ -27,6 +27,31 @@
             ]
         },
         {
+            "id": "nikolat/Majiang",
+            "url": "https://github.com/nikolat/Majiang",
+            "title": "Majiang",
+            "content_text": "",
+            "summary": "HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」",
+            "date_published": "2022-04-13T07:11:05Z",
+            "date_modified": "2023-03-22T04:11:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "opera7133/SSP-AIVOICE",
             "url": "https://github.com/opera7133/SSP-AIVOICE",
             "title": "SSP-AIVOICE",

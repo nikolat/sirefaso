@@ -15,6 +15,15 @@
     <pubDate>Wed, 22 Mar 2023 20:52:07 +0900</pubDate>
 </item>
 <item>
+    <title>Majiang</title>
+    <link>https://github.com/nikolat/Majiang</link>
+    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/Majiang</guid>
+    <pubDate>Wed, 22 Mar 2023 13:11:58 +0900</pubDate>
+</item>
+<item>
     <title>SSP-AIVOICE</title>
     <link>https://github.com/opera7133/SSP-AIVOICE</link>
     <description>伺かとA.I.VOICEを連携</description>
