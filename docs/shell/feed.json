@@ -92,31 +92,6 @@
                 "ukagaka-shell",
                 "yaya"
             ]
-        },
-        {
-            "id": "nikolat/jb-standard",
-            "url": "https://github.com/nikolat/jb-standard",
-            "title": "jb-standard",
-            "content_text": "",
-            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
-            "date_published": "2021-08-08T03:50:11Z",
-            "date_modified": "2022-08-27T00:53:56Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
-            ]
         }
     ]
 }

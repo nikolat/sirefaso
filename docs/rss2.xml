@@ -546,42 +546,6 @@
     <pubDate>Wed, 19 Oct 2022 19:01:32 +0900</pubDate>
 </item>
 <item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
-</item>
-<item>
-    <title>yayalint</title>
-    <link>https://github.com/Tatakinov/yayalint</link>
-    <description>a linter of YAYA</description>
-    <category>tool</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/yayalint</guid>
-    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
-</item>
-<item>
     <title>akari-as-saori</title>
     <link>https://github.com/nikolat/akari-as-saori</link>
     <description>AKARI as SAORI</description>
@@ -616,24 +580,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
     <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
-</item>
-<item>
-    <title>jb-standard</title>
-    <link>https://github.com/nikolat/jb-standard</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-standard</guid>
-    <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
-</item>
-<item>
-    <title>CharameLNetwork</title>
-    <link>https://github.com/nikolat/CharameLNetwork</link>
-    <description>CharameLをSNS風に見せる何か</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/CharameLNetwork</guid>
-    <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
 </item>
 <item>
     <title>balloonselector</title>
@@ -672,15 +618,6 @@
     <pubDate>Sun, 10 Jul 2022 19:22:05 +0900</pubDate>
 </item>
 <item>
-    <title>ukagakaTool-CreateAnimationPng</title>
-    <link>https://github.com/ambergon/ukagakaTool-CreateAnimationPng</link>
-    <description>連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。</description>
-    <category>tool</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaTool-CreateAnimationPng</guid>
-    <pubDate>Mon, 27 Jun 2022 17:24:11 +0900</pubDate>
-</item>
-<item>
     <title>csaori</title>
     <link>https://github.com/ukatech/csaori</link>
     <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
@@ -715,15 +652,6 @@
     <dc:creator>ponapalt</dc:creator>
     <guid isPermaLink="false">ponapalt/sleety_rain</guid>
     <pubDate>Mon, 18 Oct 2021 20:56:35 +0900</pubDate>
-</item>
-<item>
-    <title>ToothandNailBalloon</title>
-    <link>https://github.com/ponapalt/ToothandNailBalloon</link>
-    <description>Balloon for Tooth and Nail</description>
-    <category>balloon</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/ToothandNailBalloon</guid>
-    <pubDate>Sat, 27 Jun 2020 04:54:08 +0900</pubDate>
 </item>
 <item>
     <title>aya5-shiori</title>

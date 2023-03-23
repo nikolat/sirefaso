@@ -185,28 +185,6 @@
             ]
         },
         {
-            "id": "Tatakinov/yayalint",
-            "url": "https://github.com/Tatakinov/yayalint",
-            "title": "yayalint",
-            "content_text": "",
-            "summary": "a linter of YAYA",
-            "date_published": "2021-12-14T12:38:17Z",
-            "date_modified": "2022-09-20T13:22:52Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "lint",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "Tatakinov/yayalint_for_vscode",
             "url": "https://github.com/Tatakinov/yayalint_for_vscode",
             "title": "yayalint_for_vscode",
@@ -226,28 +204,6 @@
                 "ukagaka",
                 "ukagaka-tool",
                 "vscode-extension"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaTool-CreateAnimationPng",
-            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
-            "title": "ukagakaTool-CreateAnimationPng",
-            "content_text": "",
-            "summary": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
-            "date_published": "2022-06-23T03:06:58Z",
-            "date_modified": "2022-06-27T08:24:11Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         }
     ]
