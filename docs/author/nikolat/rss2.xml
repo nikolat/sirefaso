@@ -213,6 +213,24 @@
     <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
 </item>
 <item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Sat, 27 Aug 2022 13:21:36 +0900</pubDate>
+</item>
+<item>
     <title>akari-as-saori</title>
     <link>https://github.com/nikolat/akari-as-saori</link>
     <description>AKARI as SAORI</description>
