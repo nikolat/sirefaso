@@ -33,6 +33,15 @@
     <pubDate>Sat, 07 Jan 2023 14:38:08 +0900</pubDate>
 </item>
 <item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Sat, 07 Jan 2023 14:36:03 +0900</pubDate>
+</item>
+<item>
     <title>desktop_tempter_casino_chip_green</title>
     <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_green</link>
     <description></description>
@@ -76,15 +85,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
-</item>
-<item>
-    <title>yayalint</title>
-    <link>https://github.com/Tatakinov/yayalint</link>
-    <description>a linter of YAYA</description>
-    <category>tool</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/yayalint</guid>
-    <pubDate>Tue, 20 Sep 2022 22:22:52 +0900</pubDate>
 </item>
 <item>
     <title>yayalint</title>

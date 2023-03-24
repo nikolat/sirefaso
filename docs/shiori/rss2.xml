@@ -24,6 +24,15 @@
     <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
 </item>
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sat, 28 Jan 2023 12:36:30 +0900</pubDate>
+</item>
+<item>
     <title>kotori</title>
     <link>https://github.com/Tatakinov/kotori</link>
     <description></description>
@@ -40,15 +49,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Fri, 23 Sep 2022 20:53:59 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
