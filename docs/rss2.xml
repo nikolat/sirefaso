@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
-    <pubDate>Sun, 26 Mar 2023 12:35:35 +0900</pubDate>
+    <pubDate>Sun, 26 Mar 2023 19:37:39 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-dic</title>
+    <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
+    <pubDate>Sun, 26 Mar 2023 19:35:45 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -220,15 +229,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-dic</title>
-    <link>https://github.com/YAYA-shiori/yaya-dic</link>
-    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
-    <pubDate>Tue, 07 Feb 2023 16:43:24 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
