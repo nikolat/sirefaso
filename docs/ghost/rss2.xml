@@ -6,6 +6,42 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Wed, 29 Mar 2023 11:48:32 +0900</pubDate>
+</item>
+<item>
+    <title>jong-rinrin</title>
+    <link>https://github.com/nikolat/jong-rinrin</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
+    <pubDate>Wed, 29 Mar 2023 11:11:43 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Wed, 29 Mar 2023 11:11:38 +0900</pubDate>
+</item>
+<item>
+    <title>bee</title>
+    <link>https://github.com/nikolat/bee</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/bee</guid>
+    <pubDate>Wed, 29 Mar 2023 11:11:15 +0900</pubDate>
+</item>
+<item>
     <title>Taromati2</title>
     <link>https://github.com/Taromati2/Taromati2</link>
     <description>黑色的猫咪 银发的少女 没有结局的故事</description>
@@ -51,15 +87,6 @@
     <pubDate>Wed, 08 Mar 2023 20:38:41 +0900</pubDate>
 </item>
 <item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Wed, 08 Mar 2023 20:29:53 +0900</pubDate>
-</item>
-<item>
     <title>konnoyayame</title>
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
     <description></description>
@@ -94,24 +121,6 @@
     <dc:creator>apxxxxxxe</dc:creator>
     <guid isPermaLink="false">apxxxxxxe/Youto</guid>
     <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
-</item>
-<item>
-    <title>bee</title>
-    <link>https://github.com/nikolat/bee</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/bee</guid>
-    <pubDate>Tue, 24 Jan 2023 16:29:39 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Tue, 24 Jan 2023 16:29:36 +0900</pubDate>
 </item>
 <item>
     <title>d2k</title>
@@ -220,15 +229,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/crawler_uploader</guid>
     <pubDate>Wed, 19 Oct 2022 19:01:32 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Mon, 10 Oct 2022 14:22:57 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>
