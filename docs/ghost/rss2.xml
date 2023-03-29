@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
+    <pubDate>Wed, 29 Mar 2023 21:19:08 +0900</pubDate>
+</item>
+<item>
     <title>jong-rinrin</title>
     <link>https://github.com/nikolat/jong-rinrin</link>
     <description>麻雀クライアントゴースト</description>
@@ -57,7 +66,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Tue, 28 Mar 2023 20:49:15 +0900</pubDate>
+    <pubDate>Wed, 29 Mar 2023 21:06:13 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
@@ -193,15 +202,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
     <pubDate>Sat, 17 Dec 2022 08:39:15 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sun, 11 Dec 2022 12:51:36 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-party-parrot</title>
