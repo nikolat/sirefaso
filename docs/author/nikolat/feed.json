@@ -6,6 +6,55 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/wallet_of_unyu",
+            "url": "https://github.com/nikolat/wallet_of_unyu",
+            "title": "wallet_of_unyu",
+            "content_text": "",
+            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
+            "date_published": "2023-03-26T02:58:58Z",
+            "date_modified": "2023-03-29T21:19:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/jong-bari",
+            "url": "https://github.com/nikolat/jong-bari",
+            "title": "jong-bari",
+            "content_text": "",
+            "summary": "麻雀サーバーゴースト",
+            "date_published": "2021-06-09T05:21:25Z",
+            "date_modified": "2023-03-29T20:39:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/Majiang",
             "url": "https://github.com/nikolat/Majiang",
             "title": "Majiang",
@@ -28,29 +77,6 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/wallet_of_unyu",
-            "url": "https://github.com/nikolat/wallet_of_unyu",
-            "title": "wallet_of_unyu",
-            "content_text": "",
-            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
-            "date_published": "2023-03-26T02:58:58Z",
-            "date_modified": "2023-03-29T12:42:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
             ]
         },
         {
@@ -123,32 +149,6 @@
             "tags": [
                 "japanese-mahjong",
                 "kawari",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/jong-bari",
-            "url": "https://github.com/nikolat/jong-bari",
-            "title": "jong-bari",
-            "content_text": "",
-            "summary": "麻雀サーバーゴースト",
-            "date_published": "2021-06-09T05:21:25Z",
-            "date_modified": "2023-03-29T02:48:32Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "japanese-mahjong",
                 "mahjong",
                 "riichi-mahjong",
                 "sirefaso",
