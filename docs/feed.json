@@ -6,6 +6,100 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/ukagaka-hakoirimusume",
+            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "title": "ukagaka-hakoirimusume",
+            "content_text": "",
+            "summary": "Klotski for UKAGAKA",
+            "date_published": "2021-11-10T12:05:19Z",
+            "date_modified": "2023-03-31T10:21:00Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "klotski",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/shellbook",
+            "url": "https://github.com/nikolat/shellbook",
+            "title": "shellbook",
+            "content_text": "",
+            "summary": "freeshell Wiki viewer",
+            "date_published": "2021-11-10T11:28:28Z",
+            "date_modified": "2023-03-31T10:19:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/ukagaka-simultaneous-interpreter",
+            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "title": "ukagaka-simultaneous-interpreter",
+            "content_text": "",
+            "summary": "Simultaneous Interpreter Ghost",
+            "date_published": "2022-10-31T10:26:35Z",
+            "date_modified": "2023-03-31T10:18:54Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/ukagaka-party-parrot",
+            "url": "https://github.com/nikolat/ukagaka-party-parrot",
+            "title": "ukagaka-party-parrot",
+            "content_text": "",
+            "summary": "Party Parrot for UKAGAKA",
+            "date_published": "2021-10-09T11:59:18Z",
+            "date_modified": "2023-03-31T10:18:38Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "party-parrot",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/jong-bari",
             "url": "https://github.com/nikolat/jong-bari",
             "title": "jong-bari",
@@ -580,29 +674,6 @@
             ],
             "tags": [
                 "sirefaso",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/shellbook",
-            "url": "https://github.com/nikolat/shellbook",
-            "title": "shellbook",
-            "content_text": "",
-            "summary": "freeshell Wiki viewer",
-            "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2023-03-03T12:51:24Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
@@ -1331,30 +1402,6 @@
             ]
         },
         {
-            "id": "nikolat/ukagaka-party-parrot",
-            "url": "https://github.com/nikolat/ukagaka-party-parrot",
-            "title": "ukagaka-party-parrot",
-            "content_text": "",
-            "summary": "Party Parrot for UKAGAKA",
-            "date_published": "2021-10-09T11:59:18Z",
-            "date_modified": "2022-11-12T11:40:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "party-parrot",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "nikolat/cultural-festival",
             "url": "https://github.com/nikolat/cultural-festival",
             "title": "cultural-festival",
@@ -1375,29 +1422,6 @@
                 "ukagaka",
                 "ukagaka-shell",
                 "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-simultaneous-interpreter",
-            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
-            "title": "ukagaka-simultaneous-interpreter",
-            "content_text": "",
-            "summary": "Simultaneous Interpreter Ghost",
-            "date_published": "2022-10-31T10:26:35Z",
-            "date_modified": "2022-10-31T10:35:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -1464,30 +1488,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2022-08-27T04:21:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
