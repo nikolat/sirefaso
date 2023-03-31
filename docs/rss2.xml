@@ -12,16 +12,7 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 19:21:00 +0900</pubDate>
-</item>
-<item>
-    <title>shellbook</title>
-    <link>https://github.com/nikolat/shellbook</link>
-    <description>freeshell Wiki viewer</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/shellbook</guid>
-    <pubDate>Fri, 31 Mar 2023 19:19:35 +0900</pubDate>
+    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-simultaneous-interpreter</title>
@@ -30,16 +21,16 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Fri, 31 Mar 2023 19:18:54 +0900</pubDate>
+    <pubDate>Fri, 31 Mar 2023 21:17:29 +0900</pubDate>
 </item>
 <item>
-    <title>ukagaka-party-parrot</title>
-    <link>https://github.com/nikolat/ukagaka-party-parrot</link>
-    <description>Party Parrot for UKAGAKA</description>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-party-parrot</guid>
-    <pubDate>Fri, 31 Mar 2023 19:18:38 +0900</pubDate>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:31 +0900</pubDate>
 </item>
 <item>
     <title>jong-bari</title>
@@ -48,7 +39,43 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Fri, 31 Mar 2023 18:06:50 +0900</pubDate>
+    <pubDate>Fri, 31 Mar 2023 21:15:18 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-party-parrot</title>
+    <link>https://github.com/nikolat/ukagaka-party-parrot</link>
+    <description>Party Parrot for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-party-parrot</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
+</item>
+<item>
+    <title>crawler_uploader</title>
+    <link>https://github.com/nikolat/crawler_uploader</link>
+    <description>UKAGAKA Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:05 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Fri, 31 Mar 2023 21:14:56 +0900</pubDate>
+</item>
+<item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Fri, 31 Mar 2023 20:59:34 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -175,15 +202,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
     <pubDate>Thu, 23 Mar 2023 17:48:06 +0900</pubDate>
-</item>
-<item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Wed, 22 Mar 2023 20:52:07 +0900</pubDate>
 </item>
 <item>
     <title>SSP-AIVOICE</title>
@@ -573,15 +591,6 @@
     <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
 </item>
 <item>
-    <title>crawler_uploader</title>
-    <link>https://github.com/nikolat/crawler_uploader</link>
-    <description>UKAGAKA Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
-    <pubDate>Wed, 19 Oct 2022 19:01:32 +0900</pubDate>
-</item>
-<item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
     <description>Yet Another AYA</description>
@@ -616,15 +625,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukaten</guid>
     <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
-</item>
-<item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Sat, 27 Aug 2022 09:56:15 +0900</pubDate>
 </item>
 <item>
     <title>jb-standard-balloon</title>
