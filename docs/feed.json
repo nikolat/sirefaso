@@ -6,6 +6,49 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/yaya-as-saori",
+            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "title": "yaya-as-saori",
+            "content_text": "",
+            "summary": "YAYA as SAORI",
+            "date_published": "2021-11-12T09:11:59Z",
+            "date_modified": "2023-04-02T11:25:09Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori",
+                "yaya"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2023-04-02T11:09:51Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "tukinami/taidanaSanoSan",
             "url": "https://github.com/tukinami/taidanaSanoSan",
             "title": "taidanaSanoSan",
@@ -216,27 +259,6 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2023-04-01T01:26:51Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
@@ -1697,28 +1719,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-as-saori",
-            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
-            "title": "yaya-as-saori",
-            "content_text": "",
-            "summary": "YAYA as SAORI",
-            "date_published": "2021-11-12T09:11:59Z",
-            "date_modified": "2022-07-10T10:22:05Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori",
-                "yaya"
             ]
         },
         {
