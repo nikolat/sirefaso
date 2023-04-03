@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/akari-as-saori",
+            "url": "https://github.com/nikolat/akari-as-saori",
+            "title": "akari-as-saori",
+            "content_text": "",
+            "summary": "AKARI as SAORI",
+            "date_published": "2021-11-03T23:33:48Z",
+            "date_modified": "2023-04-03T22:44:17Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-dic",
             "url": "https://github.com/YAYA-shiori/yaya-dic",
             "title": "yaya-dic",
@@ -1534,28 +1556,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/akari-as-saori",
-            "url": "https://github.com/nikolat/akari-as-saori",
-            "title": "akari-as-saori",
-            "content_text": "",
-            "summary": "AKARI as SAORI",
-            "date_published": "2021-11-03T23:33:48Z",
-            "date_modified": "2022-08-27T01:43:46Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {
