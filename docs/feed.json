@@ -6,6 +6,30 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/angolmois",
+            "url": "https://github.com/nikolat/angolmois",
+            "title": "angolmois",
+            "content_text": "",
+            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
+            "date_published": "2023-02-17T02:14:04Z",
+            "date_modified": "2023-04-05T08:53:38Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "nostr",
+                "nostr-client",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
@@ -274,30 +298,6 @@
                 "japanese-mahjong",
                 "mahjong",
                 "riichi-mahjong",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/angolmois",
-            "url": "https://github.com/nikolat/angolmois",
-            "title": "angolmois",
-            "content_text": "",
-            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
-            "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2023-04-01T12:40:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "nostr",
-                "nostr-client",
                 "sirefaso",
                 "sstp",
                 "ukagaka",
