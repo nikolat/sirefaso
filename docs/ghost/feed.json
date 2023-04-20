@@ -361,103 +361,6 @@
             ]
         },
         {
-            "id": "nikolat/jong-rinrin",
-            "url": "https://github.com/nikolat/jong-rinrin",
-            "title": "jong-rinrin",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:30:29Z",
-            "date_modified": "2023-03-29T09:53:46Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/jong-chunchun",
-            "url": "https://github.com/nikolat/jong-chunchun",
-            "title": "jong-chunchun",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:33:06Z",
-            "date_modified": "2023-03-29T09:45:23Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "kawari",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ghostbook",
-            "url": "https://github.com/nikolat/ghostbook",
-            "title": "ghostbook",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-03-29T02:11:38Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
-            ]
-        },
-        {
-            "id": "etwaslangsam/Gertrude",
-            "url": "https://github.com/etwaslangsam/Gertrude",
-            "title": "Gertrude",
-            "content_text": "",
-            "summary": "俺が嫁",
-            "date_published": "2018-11-09T10:41:18Z",
-            "date_modified": "2023-03-23T08:48:06Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "etwaslangsam/myalice2",
             "url": "https://github.com/etwaslangsam/myalice2",
             "title": "myalice2",
@@ -600,6 +503,28 @@
                     "name": "Tatakinov",
                     "url": "https://github.com/Tatakinov",
                     "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "etwaslangsam/bath_ane",
+            "url": "https://github.com/etwaslangsam/bath_ane",
+            "title": "bath_ane",
+            "content_text": "",
+            "summary": "風呂上がりの姉貴",
+            "date_published": "2021-10-09T03:58:11Z",
+            "date_modified": "2022-12-16T23:39:15Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
                 }
             ],
             "tags": [

@@ -276,42 +276,6 @@
     <pubDate>Wed, 29 Mar 2023 22:29:39 +0900</pubDate>
 </item>
 <item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Wed, 29 Mar 2023 18:53:46 +0900</pubDate>
-</item>
-<item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Wed, 29 Mar 2023 18:45:23 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Wed, 29 Mar 2023 11:11:38 +0900</pubDate>
-</item>
-<item>
-    <title>Gertrude</title>
-    <link>https://github.com/etwaslangsam/Gertrude</link>
-    <description>俺が嫁</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
-    <pubDate>Thu, 23 Mar 2023 17:48:06 +0900</pubDate>
-</item>
-<item>
     <title>SSP-AIVOICE</title>
     <link>https://github.com/opera7133/SSP-AIVOICE</link>
     <description>伺かとA.I.VOICEを連携</description>
@@ -544,6 +508,42 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
     <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
+</item>
+<item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <description>里々ログビューア</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
+    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
+</item>
+<item>
+    <title>ayaya-vs-code-extension</title>
+    <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <description>ayaya vs code extension</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
+    <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
+</item>
+<item>
+    <title>bath_ane</title>
+    <link>https://github.com/etwaslangsam/bath_ane</link>
+    <description>風呂上がりの姉貴</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
+    <pubDate>Sat, 17 Dec 2022 08:39:15 +0900</pubDate>
+</item>
+<item>
+    <title>si-near-future</title>
+    <link>https://github.com/nikolat/si-near-future</link>
+    <description>additional shell for simultaneous-interpreter</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/si-near-future</guid>
+    <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
 </item>
 <item>
     <title>saori-resized-png</title>

@@ -33,6 +33,15 @@
     <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
 </item>
 <item>
+    <title>si-near-future</title>
+    <link>https://github.com/nikolat/si-near-future</link>
+    <description>additional shell for simultaneous-interpreter</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/si-near-future</guid>
+    <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
+</item>
+<item>
     <title>cultural-festival</title>
     <link>https://github.com/nikolat/cultural-festival</link>
     <description>ゴースト「卓上誘技」用追加シェル</description>
