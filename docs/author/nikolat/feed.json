@@ -316,6 +316,81 @@
             ]
         },
         {
+            "id": "nikolat/jong-rinrin",
+            "url": "https://github.com/nikolat/jong-rinrin",
+            "title": "jong-rinrin",
+            "content_text": "",
+            "summary": "麻雀クライアントゴースト",
+            "date_published": "2021-06-09T06:30:29Z",
+            "date_modified": "2023-03-29T09:53:46Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/jong-chunchun",
+            "url": "https://github.com/nikolat/jong-chunchun",
+            "title": "jong-chunchun",
+            "content_text": "",
+            "summary": "麻雀クライアントゴースト",
+            "date_published": "2021-06-09T06:33:06Z",
+            "date_modified": "2023-03-29T09:45:23Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "kawari",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/ghostbook",
+            "url": "https://github.com/nikolat/ghostbook",
+            "title": "ghostbook",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2023-01-02T00:50:38Z",
+            "date_modified": "2023-03-29T02:11:38Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
+        },
+        {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
@@ -471,52 +546,6 @@
                 "sudo-haiku",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/recv_net",
-            "url": "https://github.com/nikolat/recv_net",
-            "title": "recv_net",
-            "content_text": "",
-            "summary": "里々ログビューア",
-            "date_published": "2012-10-28T13:22:29Z",
-            "date_modified": "2022-12-25T23:08:13Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "dotnet-framework",
-                "satori",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/si-near-future",
-            "url": "https://github.com/nikolat/si-near-future",
-            "title": "si-near-future",
-            "content_text": "",
-            "summary": "additional shell for simultaneous-interpreter",
-            "date_published": "2022-06-04T06:38:10Z",
-            "date_modified": "2022-12-04T11:20:25Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
             ]
         },
         {
