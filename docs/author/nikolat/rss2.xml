@@ -213,15 +213,6 @@
     <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
-    <title>recv_net</title>
-    <link>https://github.com/nikolat/recv_net</link>
-    <description>里々ログビューア</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/recv_net</guid>
-    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
-</item>
-<item>
     <title>si-near-future</title>
     <link>https://github.com/nikolat/si-near-future</link>
     <description>additional shell for simultaneous-interpreter</description>
