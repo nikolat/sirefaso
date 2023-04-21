@@ -33,15 +33,6 @@
     <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
 </item>
 <item>
-    <title>VimUkagakaSSTP</title>
-    <link>https://github.com/ambergon/VimUkagakaSSTP</link>
-    <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
-    <category>tool</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
-    <pubDate>Sun, 19 Feb 2023 20:21:47 +0900</pubDate>
-</item>
-<item>
     <title>vscode-surfaces</title>
     <link>https://github.com/kanadelab/vscode-surfaces</link>
     <description>vscode用surfaces.txtエクステンション</description>
@@ -58,6 +49,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
     <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
+</item>
+<item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <description>里々ログビューア</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
+    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
 </item>
 <item>
     <title>recv_net</title>

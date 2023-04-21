@@ -72,28 +72,6 @@
             ]
         },
         {
-            "id": "ambergon/VimUkagakaSSTP",
-            "url": "https://github.com/ambergon/VimUkagakaSSTP",
-            "title": "VimUkagakaSSTP",
-            "content_text": "",
-            "summary": "vimから伺か・ゴーストにテキストを投げるプラグイン",
-            "date_published": "2022-11-17T14:08:43Z",
-            "date_modified": "2023-02-19T11:21:47Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "kanadelab/vscode-surfaces",
             "url": "https://github.com/kanadelab/vscode-surfaces",
             "title": "vscode-surfaces",
@@ -132,6 +110,29 @@
             "tags": [
                 "sirefaso",
                 "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "content_text": "",
+            "summary": "里々ログビューア",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
             ]
