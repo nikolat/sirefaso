@@ -549,6 +549,29 @@
             ]
         },
         {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "content_text": "",
+            "summary": "里々ログビューア",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "nikolat/si-near-future",
             "url": "https://github.com/nikolat/si-near-future",
             "title": "si-near-future",
