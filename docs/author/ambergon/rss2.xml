@@ -33,6 +33,15 @@
     <pubDate>Wed, 29 Mar 2023 22:29:39 +0900</pubDate>
 </item>
 <item>
+    <title>VimUkagakaSSTP</title>
+    <link>https://github.com/ambergon/VimUkagakaSSTP</link>
+    <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
+    <category>tool</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
+    <pubDate>Sun, 19 Feb 2023 20:21:47 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_getWindowTitle</title>
     <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
     <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
