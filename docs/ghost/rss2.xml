@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>myalice2</title>
+    <link>https://github.com/etwaslangsam/myalice2</link>
+    <description>ゴースト「僕のアリス2」</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/myalice2</guid>
+    <pubDate>Fri, 28 Apr 2023 18:30:32 +0900</pubDate>
+</item>
+<item>
     <title>bee</title>
     <link>https://github.com/nikolat/bee</link>
     <description>伺かゴースト</description>
@@ -175,15 +184,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
     <pubDate>Thu, 23 Mar 2023 17:48:06 +0900</pubDate>
-</item>
-<item>
-    <title>myalice2</title>
-    <link>https://github.com/etwaslangsam/myalice2</link>
-    <description>ゴースト「僕のアリス2」</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/myalice2</guid>
-    <pubDate>Wed, 08 Mar 2023 20:38:41 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
