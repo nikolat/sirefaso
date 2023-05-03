@@ -546,6 +546,24 @@
     <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
 </item>
 <item>
+    <title>UkagakaPlugin_DBdiary</title>
+    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
+    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
+    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
+</item>
+<item>
     <title>recv_net</title>
     <link>https://github.com/nikolat/recv_net</link>
     <description>里々ログビューア</description>
@@ -589,6 +607,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 15 Nov 2022 21:44:01 +0900</pubDate>
+</item>
+<item>
+    <title>cultural-festival</title>
+    <link>https://github.com/nikolat/cultural-festival</link>
+    <description>ゴースト「卓上誘技」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/cultural-festival</guid>
+    <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -688,6 +715,15 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/csaori</guid>
     <pubDate>Sun, 05 Jun 2022 12:07:03 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-caramelldansen-patch</title>
+    <link>https://github.com/nikolat/ukagaka-caramelldansen-patch</link>
+    <description>caramelldansen修正用supplement</description>
+    <category>supplement</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-caramelldansen-patch</guid>
+    <pubDate>Mon, 30 May 2022 19:25:23 +0900</pubDate>
 </item>
 <item>
     <title>StayseeBalloon</title>
