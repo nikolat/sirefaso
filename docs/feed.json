@@ -1358,50 +1358,6 @@
             ]
         },
         {
-            "id": "ambergon/UkagakaPlugin_DBdiary",
-            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
-            "title": "UkagakaPlugin_DBdiary",
-            "content_text": "",
-            "summary": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
-            "date_published": "2023-01-03T14:47:18Z",
-            "date_modified": "2023-01-04T07:57:49Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png",
-            "url": "https://github.com/tukinami/saori-resized-png",
-            "title": "saori-resized-png",
-            "content_text": "",
-            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
-            "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2022-12-26T10:30:23Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "image-processing",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
             "id": "nikolat/recv_net",
             "url": "https://github.com/nikolat/recv_net",
             "title": "recv_net",
@@ -1512,29 +1468,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "nikolat/cultural-festival",
-            "url": "https://github.com/nikolat/cultural-festival",
-            "title": "cultural-festival",
-            "content_text": "",
-            "summary": "ゴースト「卓上誘技」用追加シェル",
-            "date_published": "2022-11-09T11:15:34Z",
-            "date_modified": "2022-11-09T11:29:32Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
             ]
         },
         {
@@ -1784,27 +1717,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-caramelldansen-patch",
-            "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
-            "title": "ukagaka-caramelldansen-patch",
-            "content_text": "",
-            "summary": "caramelldansen修正用supplement",
-            "date_published": "2022-04-26T22:25:36Z",
-            "date_modified": "2022-05-30T10:25:23Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-supplement"
             ]
         },
         {

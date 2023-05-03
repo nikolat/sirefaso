@@ -595,29 +595,6 @@
             ]
         },
         {
-            "id": "nikolat/cultural-festival",
-            "url": "https://github.com/nikolat/cultural-festival",
-            "title": "cultural-festival",
-            "content_text": "",
-            "summary": "ゴースト「卓上誘技」用追加シェル",
-            "date_published": "2022-11-09T11:15:34Z",
-            "date_modified": "2022-11-09T11:29:32Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/ukaten",
             "url": "https://github.com/nikolat/ukaten",
             "title": "ukaten",
@@ -735,27 +712,6 @@
                 "ukagaka",
                 "ukagaka-plugin",
                 "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-caramelldansen-patch",
-            "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
-            "title": "ukagaka-caramelldansen-patch",
-            "content_text": "",
-            "summary": "caramelldansen修正用supplement",
-            "date_published": "2022-04-26T22:25:36Z",
-            "date_modified": "2022-05-30T10:25:23Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-supplement"
             ]
         }
     ]
