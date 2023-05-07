@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sun, 07 May 2023 18:30:19 +0900</pubDate>
+</item>
+<item>
     <title>angolmois</title>
     <link>https://github.com/nikolat/angolmois</link>
     <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
@@ -76,15 +85,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Tue, 25 Apr 2023 21:50:23 +0900</pubDate>
-</item>
-<item>
-    <title>tama</title>
-    <link>https://github.com/YAYA-shiori/tama</link>
-    <description>Tama - AYA5 Console</description>
-    <category>tool</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/tama</guid>
-    <pubDate>Mon, 24 Apr 2023 01:38:11 +0900</pubDate>
 </item>
 <item>
     <title>bee</title>
@@ -183,7 +183,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Sun, 07 May 2023 12:49:20 +0900</pubDate>
+    <pubDate>Sun, 07 May 2023 18:30:41 +0900</pubDate>
 </item>
 <item>
     <title>desktop_tempter</title>
