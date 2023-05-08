@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/banjou_no_sumikko_de",
+            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
+            "title": "banjou_no_sumikko_de",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2021-05-27T13:38:48Z",
+            "date_modified": "2023-05-08T12:46:12Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/tama",
             "url": "https://github.com/YAYA-shiori/tama",
             "title": "tama",
@@ -95,28 +117,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "Tatakinov/banjou_no_sumikko_de",
-            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
-            "title": "banjou_no_sumikko_de",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2021-05-27T13:38:48Z",
-            "date_modified": "2023-04-30T13:08:06Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
