@@ -87,15 +87,6 @@
     <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
-    <title>UkagakaPlugin_DBdiary</title>
-    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
-    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
-    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
-</item>
-<item>
     <title>ukaten</title>
     <link>https://github.com/nikolat/ukaten</link>
     <description>伺か天気予報プラグイン</description>
@@ -112,15 +103,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/CharameLNetwork</guid>
     <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
-</item>
-<item>
-    <title>balloonselector</title>
-    <link>https://github.com/nikolat/balloonselector</link>
-    <description>バルーン選択支援プラグイン</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/balloonselector</guid>
-    <pubDate>Sat, 27 Aug 2022 09:51:18 +0900</pubDate>
 </item>
 <item>
     <title>kagari_as_plugin</title>

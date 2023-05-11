@@ -48,29 +48,6 @@
             ]
         },
         {
-            "id": "nikolat/si-near-future",
-            "url": "https://github.com/nikolat/si-near-future",
-            "title": "si-near-future",
-            "content_text": "",
-            "summary": "additional shell for simultaneous-interpreter",
-            "date_published": "2022-06-04T06:38:10Z",
-            "date_modified": "2022-12-04T11:20:25Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/cultural-festival",
             "url": "https://github.com/nikolat/cultural-festival",
             "title": "cultural-festival",
