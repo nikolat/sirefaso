@@ -208,6 +208,28 @@
             ]
         },
         {
+            "id": "ambergon/UkagakaPlugin_DBdiary",
+            "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
+            "title": "UkagakaPlugin_DBdiary",
+            "content_text": "",
+            "summary": "伺か・ゴーストから日記を書いたり読んだりするyaya as plugin",
+            "date_published": "2023-01-03T14:47:18Z",
+            "date_modified": "2023-01-04T07:57:49Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/ukaten",
             "url": "https://github.com/nikolat/ukaten",
             "title": "ukaten",
@@ -239,6 +261,29 @@
             "summary": "CharameLをSNS風に見せる何か",
             "date_published": "2022-01-10T08:05:43Z",
             "date_modified": "2022-08-27T00:51:36Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/balloonselector",
+            "url": "https://github.com/nikolat/balloonselector",
+            "title": "balloonselector",
+            "content_text": "",
+            "summary": "バルーン選択支援プラグイン",
+            "date_published": "2021-10-23T02:01:36Z",
+            "date_modified": "2022-08-27T00:51:18Z",
             "authors": [
                 {
                     "name": "nikolat",
