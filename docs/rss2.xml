@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sat, 13 May 2023 23:55:51 +0900</pubDate>
+</item>
+<item>
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
@@ -40,15 +49,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Mon, 08 May 2023 21:46:12 +0900</pubDate>
-</item>
-<item>
-    <title>tama</title>
-    <link>https://github.com/YAYA-shiori/tama</link>
-    <description>Tama - AYA5 Console</description>
-    <category>tool</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/tama</guid>
-    <pubDate>Mon, 08 May 2023 01:36:28 +0900</pubDate>
 </item>
 <item>
     <title>angolmois</title>
@@ -183,7 +183,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Thu, 11 May 2023 00:43:39 +0900</pubDate>
+    <pubDate>Sun, 14 May 2023 00:15:45 +0900</pubDate>
 </item>
 <item>
     <title>desktop_tempter</title>
