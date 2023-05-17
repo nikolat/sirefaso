@@ -249,6 +249,15 @@
     <pubDate>Fri, 31 Mar 2023 21:15:31 +0900</pubDate>
 </item>
 <item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:18 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-party-parrot</title>
     <link>https://github.com/nikolat/ukagaka-party-parrot</link>
     <description>Party Parrot for UKAGAKA</description>
@@ -258,22 +267,13 @@
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
 </item>
 <item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <title>crawler_uploader</title>
+    <link>https://github.com/nikolat/crawler_uploader</link>
+    <description>UKAGAKA Ghost</description>
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Fri, 31 Mar 2023 21:14:56 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_SSP-SlaveConsole</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_SSP-SlaveConsole</link>
-    <description>伺かのトークを拾って通知したりコマンドを実行したりできるプラグイン。設定はlua。</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_SSP-SlaveConsole</guid>
-    <pubDate>Wed, 29 Mar 2023 22:29:39 +0900</pubDate>
+    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:05 +0900</pubDate>
 </item>
 <item>
     <title>reshibainu</title>

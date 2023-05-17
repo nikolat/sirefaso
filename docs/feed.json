@@ -618,6 +618,32 @@
             ]
         },
         {
+            "id": "nikolat/jong-bari",
+            "url": "https://github.com/nikolat/jong-bari",
+            "title": "jong-bari",
+            "content_text": "",
+            "summary": "麻雀サーバーゴースト",
+            "date_published": "2021-06-09T05:21:25Z",
+            "date_modified": "2023-03-31T12:15:18Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/ukagaka-party-parrot",
             "url": "https://github.com/nikolat/ukagaka-party-parrot",
             "title": "ukagaka-party-parrot",
@@ -642,13 +668,13 @@
             ]
         },
         {
-            "id": "nikolat/reshibainu",
-            "url": "https://github.com/nikolat/reshibainu",
-            "title": "reshibainu",
+            "id": "nikolat/crawler_uploader",
+            "url": "https://github.com/nikolat/crawler_uploader",
+            "title": "crawler_uploader",
             "content_text": "",
-            "summary": "「里々」ログビューア「れしば.NET」のゴースト版",
-            "date_published": "2022-01-26T03:28:11Z",
-            "date_modified": "2023-03-31T12:14:56Z",
+            "summary": "UKAGAKA Ghost",
+            "date_published": "2011-04-16T11:44:13Z",
+            "date_modified": "2023-03-31T12:15:05Z",
             "authors": [
                 {
                     "name": "nikolat",
@@ -658,33 +684,10 @@
             ],
             "tags": [
                 "dotnet-framework",
-                "satori",
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "url": "https://github.com/ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "title": "ukagakaPlugin_SSP-SlaveConsole",
-            "content_text": "",
-            "summary": "伺かのトークを拾って通知したりコマンドを実行したりできるプラグイン。設定はlua。",
-            "date_published": "2023-03-29T13:11:32Z",
-            "date_modified": "2023-03-29T13:29:39Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         },
         {
