@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
             "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2023-06-01T05:46:39Z",
+            "date_modified": "2023-06-01T12:32:41Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -24,6 +24,29 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "nikolat/ghostbook",
+            "url": "https://github.com/nikolat/ghostbook",
+            "title": "ghostbook",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2023-01-02T00:50:38Z",
+            "date_modified": "2023-06-01T12:22:11Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
             ]
         },
         {
@@ -830,29 +853,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ghostbook",
-            "url": "https://github.com/nikolat/ghostbook",
-            "title": "ghostbook",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-03-29T02:11:38Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
             ]
         },
         {
