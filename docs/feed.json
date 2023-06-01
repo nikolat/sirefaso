@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/banjou_no_sumikko_de",
+            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
+            "title": "banjou_no_sumikko_de",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2021-05-27T13:38:48Z",
+            "date_modified": "2023-06-01T13:29:17Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-dic",
             "url": "https://github.com/YAYA-shiori/yaya-dic",
             "title": "yaya-dic",
@@ -56,7 +78,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-06-01T11:24:28Z",
+            "date_modified": "2023-06-01T13:01:54Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -110,28 +132,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "Tatakinov/banjou_no_sumikko_de",
-            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
-            "title": "banjou_no_sumikko_de",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2021-05-27T13:38:48Z",
-            "date_modified": "2023-05-28T13:09:48Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
