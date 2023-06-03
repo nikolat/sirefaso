@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-06-03T12:19:16Z",
+            "date_modified": "2023-06-03T23:31:20Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -24,6 +24,78 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "nikolat/ghostbook",
+            "url": "https://github.com/nikolat/ghostbook",
+            "title": "ghostbook",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2023-01-02T00:50:38Z",
+            "date_modified": "2023-06-03T23:21:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/jong-rinrin",
+            "url": "https://github.com/nikolat/jong-rinrin",
+            "title": "jong-rinrin",
+            "content_text": "",
+            "summary": "麻雀クライアントゴースト",
+            "date_published": "2021-06-09T06:30:29Z",
+            "date_modified": "2023-06-03T23:21:11Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/bee",
+            "url": "https://github.com/nikolat/bee",
+            "title": "bee",
+            "content_text": "",
+            "summary": "伺かゴースト",
+            "date_published": "2023-01-02T00:50:55Z",
+            "date_modified": "2023-06-03T23:21:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost",
+                "yaya"
             ]
         },
         {
@@ -67,29 +139,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "nikolat/ghostbook",
-            "url": "https://github.com/nikolat/ghostbook",
-            "title": "ghostbook",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-06-01T12:22:11Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
             ]
         },
         {
@@ -313,29 +362,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/bee",
-            "url": "https://github.com/nikolat/bee",
-            "title": "bee",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:55Z",
-            "date_modified": "2023-04-16T01:59:15Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
             ]
         },
         {
@@ -801,32 +827,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/jong-rinrin",
-            "url": "https://github.com/nikolat/jong-rinrin",
-            "title": "jong-rinrin",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:30:29Z",
-            "date_modified": "2023-03-29T09:53:46Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
             ]
         },
         {
