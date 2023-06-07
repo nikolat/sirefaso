@@ -102,29 +102,6 @@
             ]
         },
         {
-            "id": "nikolat/wallet_of_unyu",
-            "url": "https://github.com/nikolat/wallet_of_unyu",
-            "title": "wallet_of_unyu",
-            "content_text": "",
-            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
-            "date_published": "2023-03-26T02:58:58Z",
-            "date_modified": "2023-05-05T22:36:17Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/ukagaka-simultaneous-interpreter",
             "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
             "title": "ukagaka-simultaneous-interpreter",
@@ -145,6 +122,29 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/wallet_of_unyu",
+            "url": "https://github.com/nikolat/wallet_of_unyu",
+            "title": "wallet_of_unyu",
+            "content_text": "",
+            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
+            "date_published": "2023-03-26T02:58:58Z",
+            "date_modified": "2023-05-05T22:36:17Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
             ]
         },
         {

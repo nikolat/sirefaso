@@ -144,6 +144,29 @@
             ]
         },
         {
+            "id": "nikolat/ukagaka-simultaneous-interpreter",
+            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "title": "ukagaka-simultaneous-interpreter",
+            "content_text": "",
+            "summary": "Simultaneous Interpreter Ghost",
+            "date_published": "2022-10-31T10:26:35Z",
+            "date_modified": "2023-05-05T22:47:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "etwaslangsam/bath_ane",
             "url": "https://github.com/etwaslangsam/bath_ane",
             "title": "bath_ane",
@@ -181,29 +204,6 @@
                 }
             ],
             "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-simultaneous-interpreter",
-            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
-            "title": "ukagaka-simultaneous-interpreter",
-            "content_text": "",
-            "summary": "Simultaneous Interpreter Ghost",
-            "date_published": "2022-10-31T10:26:35Z",
-            "date_modified": "2023-05-05T22:47:13Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
