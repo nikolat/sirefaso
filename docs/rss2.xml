@@ -15,6 +15,15 @@
     <pubDate>Tue, 06 Jun 2023 22:05:07 +0900</pubDate>
 </item>
 <item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Wed, 07 Jun 2023 11:56:46 +0900</pubDate>
+</item>
+<item>
     <title>ghostbook</title>
     <link>https://github.com/nikolat/ghostbook</link>
     <description>伺かゴースト</description>
@@ -222,6 +231,15 @@
     <pubDate>Sat, 01 Apr 2023 22:02:00 +0900</pubDate>
 </item>
 <item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
+</item>
+<item>
     <title>jong-whanwhan</title>
     <link>https://github.com/nikolat/jong-whanwhan</link>
     <description>麻雀クライアントゴースト</description>
@@ -256,24 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
     <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
-    <title>shellbook</title>
-    <link>https://github.com/nikolat/shellbook</link>
-    <description>freeshell Wiki viewer</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/shellbook</guid>
-    <pubDate>Fri, 31 Mar 2023 21:15:31 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Fri, 31 Mar 2023 21:15:18 +0900</pubDate>
 </item>
 <item>
     <title>shellbook</title>
