@@ -27,6 +27,31 @@
             ]
         },
         {
+            "id": "nikolat/jb-pura-vida",
+            "url": "https://github.com/nikolat/jb-pura-vida",
+            "title": "jb-pura-vida",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2023-06-09T07:38:06Z",
+            "date_modified": "2023-06-09T10:56:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
             "id": "nikolat/jong-bari",
             "url": "https://github.com/nikolat/jong-bari",
             "title": "jong-bari",
