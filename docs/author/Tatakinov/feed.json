@@ -71,6 +71,27 @@
             ]
         },
         {
+            "id": "Tatakinov/kotori",
+            "url": "https://github.com/Tatakinov/kotori",
+            "title": "kotori",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-14T13:22:30Z",
+            "date_modified": "2023-04-01T12:55:55Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "Tatakinov/desktop_tempter_casino_chip_blue",
             "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
             "title": "desktop_tempter_casino_chip_blue",
@@ -100,28 +121,6 @@
             "summary": "",
             "date_published": "2022-11-03T12:52:07Z",
             "date_modified": "2023-01-07T05:28:26Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/desktop_tempter_casino_chip_red",
-            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
-            "title": "desktop_tempter_casino_chip_red",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-11-03T12:48:19Z",
-            "date_modified": "2023-01-07T05:25:57Z",
             "authors": [
                 {
                     "name": "Tatakinov",
