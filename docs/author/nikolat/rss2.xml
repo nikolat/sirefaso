@@ -96,24 +96,6 @@
     <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
 </item>
 <item>
-    <title>Majiang</title>
-    <link>https://github.com/nikolat/Majiang</link>
-    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/Majiang</guid>
-    <pubDate>Sat, 01 Apr 2023 21:45:36 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
@@ -220,6 +202,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
     <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
+</item>
+<item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <description>里々ログビューア</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
+    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
 </item>
 <item>
     <title>recv_net</title>

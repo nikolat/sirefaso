@@ -246,55 +246,6 @@
             ]
         },
         {
-            "id": "nikolat/Majiang",
-            "url": "https://github.com/nikolat/Majiang",
-            "title": "Majiang",
-            "content_text": "",
-            "summary": "HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」",
-            "date_published": "2022-04-13T07:11:05Z",
-            "date_modified": "2023-04-01T12:45:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2023-03-31T12:17:30Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "nikolat/shellbook",
             "url": "https://github.com/nikolat/shellbook",
             "title": "shellbook",
@@ -570,6 +521,29 @@
                 "sudo-haiku",
                 "ukagaka",
                 "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "content_text": "",
+            "summary": "里々ログビューア",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {

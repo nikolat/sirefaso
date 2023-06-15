@@ -15,15 +15,6 @@
     <pubDate>Sun, 14 May 2023 14:23:15 +0900</pubDate>
 </item>
 <item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Fri, 03 Mar 2023 19:31:50 +0900</pubDate>
-</item>
-<item>
     <title>taidanaSanoSan_shell_master-l</title>
     <link>https://github.com/tukinami/taidanaSanoSan_shell_master-l</link>
     <description>伺か用ゴースト「怠惰な佐野さん」追加シェル「master-l」</description>
@@ -40,6 +31,24 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
 </item>
 <item>
     <title>small_HE-Chan_sama</title>

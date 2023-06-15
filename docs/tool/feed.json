@@ -94,27 +94,6 @@
             ]
         },
         {
-            "id": "kanadelab/vscode-surfaces",
-            "url": "https://github.com/kanadelab/vscode-surfaces",
-            "title": "vscode-surfaces",
-            "content_text": "",
-            "summary": "vscode用surfaces.txtエクステンション",
-            "date_published": "2022-12-17T06:49:55Z",
-            "date_modified": "2023-02-14T11:55:47Z",
-            "authors": [
-                {
-                    "name": "kanadelab",
-                    "url": "https://github.com/kanadelab",
-                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "nikolat/DirectSSTPTester",
             "url": "https://github.com/nikolat/DirectSSTPTester",
             "title": "DirectSSTPTester",
@@ -134,6 +113,54 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "content_text": "",
+            "summary": "里々ログビューア",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2022-12-25T23:08:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "content_text": "",
+            "summary": "ayaya vs code extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "sirefaso",
+                "syntax-highlighting",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension",
+                "yaya"
             ]
         },
         {

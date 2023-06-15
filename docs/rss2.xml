@@ -276,33 +276,6 @@
     <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
 </item>
 <item>
-    <title>kotori</title>
-    <link>https://github.com/Tatakinov/kotori</link>
-    <description></description>
-    <category>shiori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/kotori</guid>
-    <pubDate>Sat, 01 Apr 2023 21:55:55 +0900</pubDate>
-</item>
-<item>
-    <title>Majiang</title>
-    <link>https://github.com/nikolat/Majiang</link>
-    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/Majiang</guid>
-    <pubDate>Sat, 01 Apr 2023 21:45:36 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
@@ -411,15 +384,6 @@
     <pubDate>Fri, 10 Mar 2023 22:15:55 +0900</pubDate>
 </item>
 <item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Fri, 03 Mar 2023 19:31:50 +0900</pubDate>
-</item>
-<item>
     <title>Youto</title>
     <link>https://github.com/apxxxxxxe/Youto</link>
     <description>伺かゴースト</description>
@@ -427,15 +391,6 @@
     <dc:creator>apxxxxxxe</dc:creator>
     <guid isPermaLink="false">apxxxxxxe/Youto</guid>
     <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
-</item>
-<item>
-    <title>vscode-surfaces</title>
-    <link>https://github.com/kanadelab/vscode-surfaces</link>
-    <description>vscode用surfaces.txtエクステンション</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/vscode-surfaces</guid>
-    <pubDate>Tue, 14 Feb 2023 20:55:47 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan_shell_master-l</title>
@@ -544,6 +499,51 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_green</guid>
     <pubDate>Sat, 07 Jan 2023 14:28:26 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
+</item>
+<item>
+    <title>UkagakaPlugin_DBdiary</title>
+    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
+    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
+    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
+</item>
+<item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <description>里々ログビューア</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
+    <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
+</item>
+<item>
+    <title>ayaya-vs-code-extension</title>
+    <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <description>ayaya vs code extension</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
+    <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
     <title>desktop_tempter_casino_chip_red</title>

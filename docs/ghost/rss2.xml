@@ -141,15 +141,6 @@
     <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
 </item>
 <item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
