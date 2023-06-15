@@ -60,15 +60,6 @@
     <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
 </item>
 <item>
-    <title>UkagakaPlugin_DBdiary</title>
-    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
-    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
-    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
-</item>
-<item>
     <title>ukagakaTool-CreateAnimationPng</title>
     <link>https://github.com/ambergon/ukagakaTool-CreateAnimationPng</link>
     <description>連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。</description>
