@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2023-06-21T13:28:45Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "Tatakinov/banjou_no_sumikko_de",
             "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
             "title": "banjou_no_sumikko_de",
@@ -197,28 +219,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "Tatakinov/yayalint",
-            "url": "https://github.com/Tatakinov/yayalint",
-            "title": "yayalint",
-            "content_text": "",
-            "summary": "a linter of YAYA",
-            "date_published": "2021-12-14T12:38:17Z",
-            "date_modified": "2022-09-20T13:22:52Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "lint",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
