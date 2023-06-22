@@ -33,24 +33,6 @@
     <pubDate>Sun, 18 Jun 2023 20:49:07 +0900</pubDate>
 </item>
 <item>
-    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
-    <description></description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
-    <pubDate>Tue, 13 Jun 2023 10:05:35 +0900</pubDate>
-</item>
-<item>
-    <title>banjou_no_sumikko_de</title>
-    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
-    <pubDate>Sat, 10 Jun 2023 21:09:25 +0900</pubDate>
-</item>
-<item>
     <title>jb-pura-vida</title>
     <link>https://github.com/nikolat/jb-pura-vida</link>
     <description>ゴースト「雀々BARIBARI」用追加シェル</description>
@@ -85,15 +67,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ghostbook</guid>
     <pubDate>Sun, 04 Jun 2023 08:21:15 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Sun, 04 Jun 2023 08:21:11 +0900</pubDate>
 </item>
 <item>
     <title>bee</title>
@@ -139,15 +112,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/d2k</guid>
     <pubDate>Mon, 22 May 2023 21:37:37 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 14 May 2023 14:23:15 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
@@ -274,6 +238,42 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/mosu</guid>
     <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
+</item>
+<item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
+    <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
+</item>
+<item>
+    <title>kotori</title>
+    <link>https://github.com/Tatakinov/kotori</link>
+    <description></description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/kotori</guid>
+    <pubDate>Sat, 01 Apr 2023 21:55:55 +0900</pubDate>
+</item>
+<item>
+    <title>Majiang</title>
+    <link>https://github.com/nikolat/Majiang</link>
+    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/Majiang</guid>
+    <pubDate>Sat, 01 Apr 2023 21:45:36 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
 </item>
 <item>
     <title>jong-whanwhan</title>
