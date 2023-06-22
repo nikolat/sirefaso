@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ambergon/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
+    <description></description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
+    <pubDate>Tue, 13 Jun 2023 10:05:35 +0900</pubDate>
+</item>
+<item>
     <title>VimUkagakaSSTP</title>
     <link>https://github.com/ambergon/VimUkagakaSSTP</link>
     <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>

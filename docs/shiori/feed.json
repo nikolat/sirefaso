@@ -69,27 +69,6 @@
             ]
         },
         {
-            "id": "Tatakinov/kotori",
-            "url": "https://github.com/Tatakinov/kotori",
-            "title": "kotori",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-11-14T13:22:30Z",
-            "date_modified": "2023-04-01T12:55:55Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "nikolat/dnproxy",
             "url": "https://github.com/nikolat/dnproxy",
             "title": "dnproxy",

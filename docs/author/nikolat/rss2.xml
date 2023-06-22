@@ -33,6 +33,15 @@
     <pubDate>Sun, 04 Jun 2023 08:21:15 +0900</pubDate>
 </item>
 <item>
+    <title>jong-rinrin</title>
+    <link>https://github.com/nikolat/jong-rinrin</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
+    <pubDate>Sun, 04 Jun 2023 08:21:11 +0900</pubDate>
+</item>
+<item>
     <title>bee</title>
     <link>https://github.com/nikolat/bee</link>
     <description>伺かゴースト</description>
@@ -76,33 +85,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/akari-as-saori</guid>
     <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
-</item>
-<item>
-    <title>Majiang</title>
-    <link>https://github.com/nikolat/Majiang</link>
-    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/Majiang</guid>
-    <pubDate>Sat, 01 Apr 2023 21:45:36 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
 </item>
 <item>
     <title>jong-whanwhan</title>

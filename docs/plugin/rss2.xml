@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/plugin/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
+    <description></description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
+    <pubDate>Tue, 13 Jun 2023 10:05:35 +0900</pubDate>
+</item>
+<item>
     <title>wallet_of_unyu</title>
     <link>https://github.com/nikolat/wallet_of_unyu</link>
     <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
