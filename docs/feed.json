@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "content_text": "",
+            "summary": "伺か雑談系ゴースト",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2023-06-27T11:17:53Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "tukinami/saori-pie-chart",
             "url": "https://github.com/tukinami/saori-pie-chart",
             "title": "saori-pie-chart",
@@ -354,28 +376,6 @@
                     "name": "etwaslangsam",
                     "url": "https://github.com/etwaslangsam",
                     "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
-            "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2023-05-14T05:23:15Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
                 }
             ],
             "tags": [
