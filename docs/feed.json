@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ambergon/VimUkagakaSSTP",
+            "url": "https://github.com/ambergon/VimUkagakaSSTP",
+            "title": "VimUkagakaSSTP",
+            "content_text": "",
+            "summary": "vimから伺か・ゴーストにテキストを投げるプラグイン",
+            "date_published": "2022-11-17T14:08:43Z",
+            "date_modified": "2023-07-19T02:47:00Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "nikolat/dsstp-hsp",
             "url": "https://github.com/nikolat/dsstp-hsp",
             "title": "dsstp-hsp",
@@ -406,28 +428,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ambergon/VimUkagakaSSTP",
-            "url": "https://github.com/ambergon/VimUkagakaSSTP",
-            "title": "VimUkagakaSSTP",
-            "content_text": "",
-            "summary": "vimから伺か・ゴーストにテキストを投げるプラグイン",
-            "date_published": "2022-11-17T14:08:43Z",
-            "date_modified": "2023-05-24T12:27:42Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
