@@ -69,15 +69,6 @@
     <pubDate>Sun, 02 Jul 2023 16:29:37 +0900</pubDate>
 </item>
 <item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
-</item>
-<item>
     <title>csaori</title>
     <link>https://github.com/ukatech/csaori</link>
     <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
@@ -112,15 +103,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Sat, 10 Jun 2023 21:09:25 +0900</pubDate>
-</item>
-<item>
-    <title>jb-pura-vida</title>
-    <link>https://github.com/nikolat/jb-pura-vida</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
-    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>jong-bari</title>
@@ -274,6 +256,24 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/akari-as-saori</guid>
     <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-as-saori</title>
+    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
+    <description>YAYA as SAORI</description>
+    <category>saori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
+    <pubDate>Sun, 02 Apr 2023 20:25:09 +0900</pubDate>
+</item>
+<item>
+    <title>Taromati2</title>
+    <link>https://github.com/Taromati2/Taromati2</link>
+    <description>黑色的猫咪 银发的少女 没有结局的故事</description>
+    <category>ghost</category>
+    <dc:creator>Taromati2</dc:creator>
+    <guid isPermaLink="false">Taromati2/Taromati2</guid>
+    <pubDate>Tue, 04 Jul 2023 22:02:49 +0900</pubDate>
 </item>
 <item>
     <title>yaya-as-saori</title>
