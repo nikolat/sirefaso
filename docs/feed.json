@@ -6,6 +6,30 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/angolmois",
+            "url": "https://github.com/nikolat/angolmois",
+            "title": "angolmois",
+            "content_text": "",
+            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
+            "date_published": "2023-02-17T02:14:04Z",
+            "date_modified": "2023-07-25T00:13:28Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "nostr",
+                "nostr-client",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "kanadelab/Satolist2",
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",
@@ -474,30 +498,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/angolmois",
-            "url": "https://github.com/nikolat/angolmois",
-            "title": "angolmois",
-            "content_text": "",
-            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
-            "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2023-05-07T02:05:09Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "nostr",
-                "nostr-client",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
             ]
         },
         {
