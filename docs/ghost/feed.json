@@ -281,152 +281,6 @@
             ]
         },
         {
-            "id": "Taromati2/Taromati2",
-            "url": "https://github.com/Taromati2/Taromati2",
-            "title": "Taromati2",
-            "content_text": "",
-            "summary": "黑色的猫咪 银发的少女 没有结局的故事",
-            "date_published": "2021-02-22T07:50:19Z",
-            "date_modified": "2023-07-04T13:02:49Z",
-            "authors": [
-                {
-                    "name": "Taromati2",
-                    "url": "https://github.com/Taromati2",
-                    "avatar": "https://avatars.githubusercontent.com/u/79416721?v=4"
-                }
-            ],
-            "tags": [
-                "a-topic",
-                "aya",
-                "ghost",
-                "kikka",
-                "nar",
-                "sakurascript",
-                "sirefaso",
-                "sosiremi",
-                "taromati",
-                "taromati2",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/desktop_tempter",
-            "url": "https://github.com/Tatakinov/desktop_tempter",
-            "title": "desktop_tempter",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-11-03T12:40:16Z",
-            "date_modified": "2023-04-01T13:02:00Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/mosu",
-            "url": "https://github.com/Tatakinov/mosu",
-            "title": "mosu",
-            "content_text": "",
-            "summary": "Kagari/Kotori Sample Ghost",
-            "date_published": "2021-09-25T12:56:53Z",
-            "date_modified": "2023-04-01T13:00:31Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/jong-whanwhan",
-            "url": "https://github.com/nikolat/jong-whanwhan",
-            "title": "jong-whanwhan",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:35:45Z",
-            "date_modified": "2023-04-01T12:59:37Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "satori",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2023-03-31T12:17:30Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/shellbook",
-            "url": "https://github.com/nikolat/shellbook",
-            "title": "shellbook",
-            "content_text": "",
-            "summary": "freeshell Wiki viewer",
-            "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2023-03-31T12:15:31Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "nikolat/ukagaka-party-parrot",
             "url": "https://github.com/nikolat/ukagaka-party-parrot",
             "title": "ukagaka-party-parrot",
@@ -567,23 +421,68 @@
             ]
         },
         {
-            "id": "apxxxxxxe/Youto",
-            "url": "https://github.com/apxxxxxxe/Youto",
-            "title": "Youto",
+            "id": "Tatakinov/desktop_tempter_casino_chip_blue",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "title": "desktop_tempter_casino_chip_blue",
             "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2022-05-26T09:48:26Z",
-            "date_modified": "2023-02-24T12:10:34Z",
+            "summary": "",
+            "date_published": "2022-11-03T12:55:19Z",
+            "date_modified": "2023-01-07T05:38:08Z",
             "authors": [
                 {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
                 "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_green",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_green",
+            "title": "desktop_tempter_casino_chip_green",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:52:07Z",
+            "date_modified": "2023-01-07T05:28:26Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_red",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
+            "title": "desktop_tempter_casino_chip_red",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:48:19Z",
+            "date_modified": "2023-01-07T05:25:57Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
                 "ukagaka-ghost"
             ]
         },

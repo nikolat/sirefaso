@@ -276,51 +276,6 @@
     <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
 </item>
 <item>
-    <title>yaya-as-saori</title>
-    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
-    <description>YAYA as SAORI</description>
-    <category>saori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
-    <pubDate>Sun, 02 Apr 2023 20:25:09 +0900</pubDate>
-</item>
-<item>
-    <title>Taromati2</title>
-    <link>https://github.com/Taromati2/Taromati2</link>
-    <description>黑色的猫咪 银发的少女 没有结局的故事</description>
-    <category>ghost</category>
-    <dc:creator>Taromati2</dc:creator>
-    <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Tue, 04 Jul 2023 22:02:49 +0900</pubDate>
-</item>
-<item>
-    <title>desktop_tempter</title>
-    <link>https://github.com/Tatakinov/desktop_tempter</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
-    <pubDate>Sat, 01 Apr 2023 22:02:00 +0900</pubDate>
-</item>
-<item>
-    <title>mosu</title>
-    <link>https://github.com/Tatakinov/mosu</link>
-    <description>Kagari/Kotori Sample Ghost</description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/mosu</guid>
-    <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
-</item>
-<item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
-</item>
-<item>
     <title>kotori</title>
     <link>https://github.com/Tatakinov/kotori</link>
     <description></description>
@@ -337,24 +292,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/Majiang</guid>
     <pubDate>Sat, 01 Apr 2023 21:45:36 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
-    <title>shellbook</title>
-    <link>https://github.com/nikolat/shellbook</link>
-    <description>freeshell Wiki viewer</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/shellbook</guid>
-    <pubDate>Fri, 31 Mar 2023 21:15:31 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-party-parrot</title>
@@ -438,15 +375,6 @@
     <pubDate>Sun, 12 Mar 2023 19:23:52 +0900</pubDate>
 </item>
 <item>
-    <title>nar-thumbnail-provider</title>
-    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
-    <description>NAR thumbnail provider for Windows Explorer</description>
-    <category>tool</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
-    <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
-</item>
-<item>
     <title>konnoyayame</title>
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
     <description></description>
@@ -463,15 +391,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
     <pubDate>Fri, 03 Mar 2023 19:31:50 +0900</pubDate>
-</item>
-<item>
-    <title>Youto</title>
-    <link>https://github.com/apxxxxxxe/Youto</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
-    <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
 </item>
 <item>
     <title>vscode-surfaces</title>
@@ -544,6 +463,87 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
+</item>
+<item>
+    <title>WebClapModoki-GAS</title>
+    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
+    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
+    <category>webapp</category>
+    <dc:creator>dullNeko</dc:creator>
+    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
+    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
+</item>
+<item>
+    <title>ukagakaPlugin_getWindowTitle</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
+    <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
+    <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_blue</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_blue</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_blue</guid>
+    <pubDate>Sat, 07 Jan 2023 14:38:08 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_green</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_green</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_green</guid>
+    <pubDate>Sat, 07 Jan 2023 14:28:26 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_red</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_red</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_red</guid>
+    <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
+</item>
+<item>
+    <title>UkagakaPlugin_DBdiary</title>
+    <link>https://github.com/ambergon/UkagakaPlugin_DBdiary</link>
+    <description>伺か・ゴーストから日記を書いたり読んだりするyaya as plugin</description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
+    <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>
