@@ -70,6 +70,28 @@
             ]
         },
         {
+            "id": "YAYA-shiori/yaya-as-saori",
+            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "title": "yaya-as-saori",
+            "content_text": "",
+            "summary": "YAYA as SAORI",
+            "date_published": "2021-11-12T09:11:59Z",
+            "date_modified": "2023-04-02T11:25:09Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori",
+                "yaya"
+            ]
+        },
+        {
             "id": "tukinami/saori-resized-png-mini",
             "url": "https://github.com/tukinami/saori-resized-png-mini",
             "title": "saori-resized-png-mini",
@@ -109,28 +131,6 @@
                 "japanese-mahjong",
                 "mahjong",
                 "riichi-mahjong",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png",
-            "url": "https://github.com/tukinami/saori-resized-png",
-            "title": "saori-resized-png",
-            "content_text": "",
-            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
-            "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2022-12-26T10:30:23Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "image-processing",
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"

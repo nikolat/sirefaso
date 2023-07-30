@@ -33,6 +33,15 @@
     <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
 </item>
 <item>
+    <title>yaya-as-saori</title>
+    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
+    <description>YAYA as SAORI</description>
+    <category>saori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
+    <pubDate>Sun, 02 Apr 2023 20:25:09 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png-mini</title>
     <link>https://github.com/tukinami/saori-resized-png-mini</link>
     <description>SAORI to resize image and save as png (limited edition)</description>
@@ -49,15 +58,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/MahjongUtil</guid>
     <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png</title>
-    <link>https://github.com/tukinami/saori-resized-png</link>
-    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
-    <pubDate>Mon, 26 Dec 2022 19:30:23 +0900</pubDate>
 </item>
 <item>
     <title>saori-resized-png</title>
