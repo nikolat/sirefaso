@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Fri, 04 Aug 2023 10:58:22 +0900</pubDate>
+</item>
+<item>
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
@@ -31,15 +40,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
     <pubDate>Tue, 25 Jul 2023 09:13:28 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Fri, 21 Jul 2023 10:50:20 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
