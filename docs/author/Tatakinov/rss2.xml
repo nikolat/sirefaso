@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/Tatakinov/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Sun, 06 Aug 2023 18:28:14 +0900</pubDate>
+</item>
+<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -31,15 +40,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
     <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>yayalint</title>
-    <link>https://github.com/Tatakinov/yayalint</link>
-    <description>a linter of YAYA</description>
-    <category>tool</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/yayalint</guid>
-    <pubDate>Wed, 21 Jun 2023 22:28:45 +0900</pubDate>
 </item>
 <item>
     <title>desktop_tempter</title>
