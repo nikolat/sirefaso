@@ -162,6 +162,52 @@
             ]
         },
         {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "ambergon/UkagakaPlugin_DBdiary",
             "url": "https://github.com/ambergon/UkagakaPlugin_DBdiary",
             "title": "UkagakaPlugin_DBdiary",
