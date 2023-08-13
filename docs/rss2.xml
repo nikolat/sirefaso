@@ -546,6 +546,24 @@
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
 </item>
 <item>
+    <title>WebClapModoki-GAS</title>
+    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
+    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
+    <category>webapp</category>
+    <dc:creator>dullNeko</dc:creator>
+    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
+    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_getWindowTitle</title>
     <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
     <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
