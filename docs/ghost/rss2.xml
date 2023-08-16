@@ -6,13 +6,94 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>banjou_no_sumikko_de</title>
-    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
-    <description></description>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
     <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
-    <pubDate>Sat, 05 Aug 2023 21:46:38 +0900</pubDate>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:25 +0900</pubDate>
+</item>
+<item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
+</item>
+<item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:25 +0900</pubDate>
+</item>
+<item>
+    <title>jong-rinrin</title>
+    <link>https://github.com/nikolat/jong-rinrin</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:05 +0900</pubDate>
+</item>
+<item>
+    <title>jong-chunchun</title>
+    <link>https://github.com/nikolat/jong-chunchun</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:00 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
+</item>
+<item>
+    <title>crawler_uploader</title>
+    <link>https://github.com/nikolat/crawler_uploader</link>
+    <description>UKAGAKA Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
+    <pubDate>Wed, 16 Aug 2023 21:22:19 +0900</pubDate>
 </item>
 <item>
     <title>bee</title>
@@ -21,7 +102,16 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/bee</guid>
-    <pubDate>Wed, 26 Jul 2023 11:09:40 +0900</pubDate>
+    <pubDate>Wed, 16 Aug 2023 21:22:04 +0900</pubDate>
+</item>
+<item>
+    <title>banjou_no_sumikko_de</title>
+    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
+    <pubDate>Sat, 05 Aug 2023 21:46:38 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
@@ -42,33 +132,6 @@
     <pubDate>Sun, 02 Jul 2023 16:29:37 +0900</pubDate>
 </item>
 <item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Fri, 09 Jun 2023 17:01:17 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Sun, 04 Jun 2023 08:21:15 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Sun, 04 Jun 2023 08:21:11 +0900</pubDate>
-</item>
-<item>
     <title>d2k</title>
     <link>https://github.com/etwaslangsam/d2k</link>
     <description>芹那と妃音with玄恵</description>
@@ -76,15 +139,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/d2k</guid>
     <pubDate>Mon, 22 May 2023 21:37:37 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-simultaneous-interpreter</title>
-    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
-    <description>Simultaneous Interpreter Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Sat, 06 May 2023 07:47:13 +0900</pubDate>
 </item>
 <item>
     <title>bath_ane</title>
@@ -141,33 +195,6 @@
     <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
 </item>
 <item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Sat, 01 Apr 2023 21:59:37 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Fri, 31 Mar 2023 21:17:30 +0900</pubDate>
-</item>
-<item>
-    <title>shellbook</title>
-    <link>https://github.com/nikolat/shellbook</link>
-    <description>freeshell Wiki viewer</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/shellbook</guid>
-    <pubDate>Fri, 31 Mar 2023 21:15:31 +0900</pubDate>
-</item>
-<item>
     <title>ukagaka-party-parrot</title>
     <link>https://github.com/nikolat/ukagaka-party-parrot</link>
     <description>Party Parrot for UKAGAKA</description>
@@ -175,33 +202,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-party-parrot</guid>
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
-</item>
-<item>
-    <title>crawler_uploader</title>
-    <link>https://github.com/nikolat/crawler_uploader</link>
-    <description>UKAGAKA Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
-    <pubDate>Fri, 31 Mar 2023 21:15:05 +0900</pubDate>
-</item>
-<item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Fri, 31 Mar 2023 21:14:56 +0900</pubDate>
-</item>
-<item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Wed, 29 Mar 2023 18:45:23 +0900</pubDate>
 </item>
 <item>
     <title>Gertrude</title>
