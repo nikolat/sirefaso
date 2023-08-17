@@ -204,6 +204,15 @@
     <pubDate>Sun, 02 Jul 2023 16:29:37 +0900</pubDate>
 </item>
 <item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
+</item>
+<item>
     <title>csaori</title>
     <link>https://github.com/ukatech/csaori</link>
     <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
@@ -211,6 +220,15 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/csaori</guid>
     <pubDate>Fri, 23 Jun 2023 11:03:47 +0900</pubDate>
+</item>
+<item>
+    <title>jb-pura-vida</title>
+    <link>https://github.com/nikolat/jb-pura-vida</link>
+    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
+    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
@@ -256,24 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
     <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
-</item>
-<item>
-    <title>bath_ane</title>
-    <link>https://github.com/etwaslangsam/bath_ane</link>
-    <description>風呂上がりの姉貴</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
-    <pubDate>Sun, 30 Apr 2023 11:50:09 +0900</pubDate>
-</item>
-<item>
-    <title>myalice2</title>
-    <link>https://github.com/etwaslangsam/myalice2</link>
-    <description>ゴースト「僕のアリス2」</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/myalice2</guid>
-    <pubDate>Fri, 28 Apr 2023 18:30:32 +0900</pubDate>
 </item>
 <item>
     <title>bath_ane</title>
