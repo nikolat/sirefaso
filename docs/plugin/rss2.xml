@@ -51,6 +51,15 @@
     <pubDate>Wed, 29 Mar 2023 22:29:39 +0900</pubDate>
 </item>
 <item>
+    <title>SSP-AIVOICE</title>
+    <link>https://github.com/opera7133/SSP-AIVOICE</link>
+    <description>伺かとA.I.VOICEを連携</description>
+    <category>plugin</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/SSP-AIVOICE</guid>
+    <pubDate>Sun, 19 Mar 2023 22:34:34 +0900</pubDate>
+</item>
+<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -58,24 +67,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukadonyu</guid>
     <pubDate>Thu, 16 Mar 2023 07:16:58 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_getWindowTitle</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
-    <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
-    <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
     <title>sudohaikuyu</title>

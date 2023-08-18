@@ -116,6 +116,28 @@
             ]
         },
         {
+            "id": "opera7133/SSP-AIVOICE",
+            "url": "https://github.com/opera7133/SSP-AIVOICE",
+            "title": "SSP-AIVOICE",
+            "content_text": "",
+            "summary": "伺かとA.I.VOICEを連携",
+            "date_published": "2023-03-16T08:12:38Z",
+            "date_modified": "2023-03-19T13:34:34Z",
+            "authors": [
+                {
+                    "name": "opera7133",
+                    "url": "https://github.com/opera7133",
+                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
@@ -133,52 +155,6 @@
             "tags": [
                 "akari",
                 "mastodon-client",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/sudohaikuyu",
-            "url": "https://github.com/nikolat/sudohaikuyu",
-            "title": "sudohaikuyu",
-            "content_text": "",
-            "summary": "スドハイククライアント",
-            "date_published": "2021-11-29T05:25:03Z",
-            "date_modified": "2023-01-20T10:38:04Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "sudo-haiku",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaPlugin_getWindowTitle",
-            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
-            "title": "ukagakaPlugin_getWindowTitle",
-            "content_text": "",
-            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
-            "date_published": "2023-01-06T15:23:47Z",
-            "date_modified": "2023-01-07T13:39:58Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",

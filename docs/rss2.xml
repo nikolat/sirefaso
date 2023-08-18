@@ -276,6 +276,15 @@
     <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
 </item>
 <item>
+    <title>bath_ane</title>
+    <link>https://github.com/etwaslangsam/bath_ane</link>
+    <description>風呂上がりの姉貴</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
+    <pubDate>Sun, 30 Apr 2023 11:50:09 +0900</pubDate>
+</item>
+<item>
     <title>myalice2</title>
     <link>https://github.com/etwaslangsam/myalice2</link>
     <description>ゴースト「僕のアリス2」</description>
@@ -402,6 +411,15 @@
     <pubDate>Thu, 23 Mar 2023 17:48:06 +0900</pubDate>
 </item>
 <item>
+    <title>SSP-AIVOICE</title>
+    <link>https://github.com/opera7133/SSP-AIVOICE</link>
+    <description>伺かとA.I.VOICEを連携</description>
+    <category>plugin</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/SSP-AIVOICE</guid>
+    <pubDate>Sun, 19 Mar 2023 22:34:34 +0900</pubDate>
+</item>
+<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -492,6 +510,15 @@
     <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
 </item>
 <item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
+</item>
+<item>
     <title>github-dau-crawler</title>
     <link>https://github.com/nikolat/github-dau-crawler</link>
     <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
@@ -517,33 +544,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
-</item>
-<item>
-    <title>WebClapModoki-GAS</title>
-    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
-    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
-    <category>webapp</category>
-    <dc:creator>dullNeko</dc:creator>
-    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
-    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_getWindowTitle</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
-    <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
-    <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>
