@@ -114,6 +114,15 @@
     <pubDate>Wed, 16 Aug 2023 21:22:04 +0900</pubDate>
 </item>
 <item>
+    <title>angolmois</title>
+    <link>https://github.com/nikolat/angolmois</link>
+    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/angolmois</guid>
+    <pubDate>Tue, 25 Jul 2023 09:13:28 +0900</pubDate>
+</item>
+<item>
     <title>dsstp-hsp</title>
     <link>https://github.com/nikolat/dsstp-hsp</link>
     <description>DirectSSTP Sample</description>
