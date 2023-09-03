@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/knowledgeable_kernel",
+            "url": "https://github.com/Tatakinov/knowledgeable_kernel",
+            "title": "knowledgeable_kernel",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:34:50Z",
+            "date_modified": "2023-09-03T12:47:37Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/yayalint",
             "url": "https://github.com/Tatakinov/yayalint",
             "title": "yayalint",
@@ -35,28 +57,6 @@
             "summary": "",
             "date_published": "2021-05-27T13:38:48Z",
             "date_modified": "2023-08-05T12:46:38Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/knowledgeable_kernel",
-            "url": "https://github.com/Tatakinov/knowledgeable_kernel",
-            "title": "knowledgeable_kernel",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-07-17T12:34:50Z",
-            "date_modified": "2023-07-20T12:46:14Z",
             "authors": [
                 {
                     "name": "Tatakinov",
