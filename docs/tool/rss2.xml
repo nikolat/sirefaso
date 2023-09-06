@@ -15,15 +15,6 @@
     <pubDate>Sun, 06 Aug 2023 18:28:14 +0900</pubDate>
 </item>
 <item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Sun, 30 Jul 2023 20:47:27 +0900</pubDate>
-</item>
-<item>
     <title>VimUkagakaSSTP</title>
     <link>https://github.com/ambergon/VimUkagakaSSTP</link>
     <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
@@ -40,6 +31,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
     <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
+</item>
+<item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sat, 13 May 2023 23:55:51 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
