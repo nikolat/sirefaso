@@ -294,15 +294,6 @@
     <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
 </item>
 <item>
-    <title>bath_ane</title>
-    <link>https://github.com/etwaslangsam/bath_ane</link>
-    <description>風呂上がりの姉貴</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
-    <pubDate>Sun, 30 Apr 2023 11:50:09 +0900</pubDate>
-</item>
-<item>
     <title>myalice2</title>
     <link>https://github.com/etwaslangsam/myalice2</link>
     <description>ゴースト「僕のアリス2」</description>
@@ -544,6 +535,15 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
+</item>
+<item>
+    <title>WebClapModoki-GAS</title>
+    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
+    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
+    <category>webapp</category>
+    <dc:creator>dullNeko</dc:creator>
+    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
+    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>
