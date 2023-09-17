@@ -222,15 +222,6 @@
     <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
 </item>
 <item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
     <title>recv_net</title>
     <link>https://github.com/nikolat/recv_net</link>
     <description>里々ログビューア</description>
@@ -283,15 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jb-standard</guid>
     <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
-</item>
-<item>
-    <title>CharameLNetwork</title>
-    <link>https://github.com/nikolat/CharameLNetwork</link>
-    <description>CharameLをSNS風に見せる何か</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/CharameLNetwork</guid>
-    <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
 </item>
 <item>
     <title>balloonselector</title>

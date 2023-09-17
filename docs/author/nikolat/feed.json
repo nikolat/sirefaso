@@ -573,30 +573,6 @@
             ]
         },
         {
-            "id": "nikolat/sudohaikuyu",
-            "url": "https://github.com/nikolat/sudohaikuyu",
-            "title": "sudohaikuyu",
-            "content_text": "",
-            "summary": "スドハイククライアント",
-            "date_published": "2021-11-29T05:25:03Z",
-            "date_modified": "2023-01-20T10:38:04Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "sudo-haiku",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "nikolat/recv_net",
             "url": "https://github.com/nikolat/recv_net",
             "title": "recv_net",
@@ -737,29 +713,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "nikolat/CharameLNetwork",
-            "url": "https://github.com/nikolat/CharameLNetwork",
-            "title": "CharameLNetwork",
-            "content_text": "",
-            "summary": "CharameLをSNS風に見せる何か",
-            "date_published": "2022-01-10T08:05:43Z",
-            "date_modified": "2022-08-27T00:51:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
             ]
         },
         {
