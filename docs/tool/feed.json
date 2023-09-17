@@ -251,6 +251,28 @@
                 "ukagaka-tool",
                 "vscode-extension"
             ]
+        },
+        {
+            "id": "ambergon/ukagakaTool-CreateAnimationPng",
+            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "title": "ukagakaTool-CreateAnimationPng",
+            "content_text": "",
+            "summary": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
+            "date_published": "2022-06-23T03:06:58Z",
+            "date_modified": "2022-06-27T08:24:11Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         }
     ]
 }
