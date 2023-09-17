@@ -24,6 +24,15 @@
     <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
 </item>
 <item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-hakoirimusume</title>
     <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
     <description>Klotski for UKAGAKA</description>
@@ -130,15 +139,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
     <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
-</item>
-<item>
-    <title>wallet_of_unyu</title>
-    <link>https://github.com/nikolat/wallet_of_unyu</link>
-    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
-    <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
 </item>
 <item>
     <title>wallet_of_unyu</title>

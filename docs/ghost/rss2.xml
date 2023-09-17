@@ -15,6 +15,15 @@
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
 </item>
 <item>
+    <title>Taromati2</title>
+    <link>https://github.com/Taromati2/Taromati2</link>
+    <description>黑色的猫咪 银发的少女 没有结局的故事</description>
+    <category>ghost</category>
+    <dc:creator>Taromati2</dc:creator>
+    <guid isPermaLink="false">Taromati2/Taromati2</guid>
+    <pubDate>Fri, 01 Sep 2023 09:43:09 +0900</pubDate>
+</item>
+<item>
     <title>jong-bari</title>
     <link>https://github.com/nikolat/jong-bari</link>
     <description>麻雀サーバーゴースト</description>
@@ -22,6 +31,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
     <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>
@@ -130,15 +148,6 @@
     <dc:creator>etwaslangsam</dc:creator>
     <guid isPermaLink="false">etwaslangsam/d2k</guid>
     <pubDate>Mon, 22 May 2023 21:37:37 +0900</pubDate>
-</item>
-<item>
-    <title>bath_ane</title>
-    <link>https://github.com/etwaslangsam/bath_ane</link>
-    <description>風呂上がりの姉貴</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
-    <pubDate>Sun, 30 Apr 2023 11:50:09 +0900</pubDate>
 </item>
 <item>
     <title>bath_ane</title>
