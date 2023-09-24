@@ -276,6 +276,33 @@
     <pubDate>Mon, 22 May 2023 21:37:37 +0900</pubDate>
 </item>
 <item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sat, 13 May 2023 23:55:51 +0900</pubDate>
+</item>
+<item>
+    <title>wallet_of_unyu</title>
+    <link>https://github.com/nikolat/wallet_of_unyu</link>
+    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
+    <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
+</item>
+<item>
+    <title>bath_ane</title>
+    <link>https://github.com/etwaslangsam/bath_ane</link>
+    <description>風呂上がりの姉貴</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/bath_ane</guid>
+    <pubDate>Sun, 30 Apr 2023 11:50:09 +0900</pubDate>
+</item>
+<item>
     <title>myalice2</title>
     <link>https://github.com/etwaslangsam/myalice2</link>
     <description>ゴースト「僕のアリス2」</description>
@@ -292,6 +319,15 @@
     <dc:creator>Shimofumi</dc:creator>
     <guid isPermaLink="false">Shimofumi/HamirLore</guid>
     <pubDate>Sat, 08 Apr 2023 01:11:37 +0900</pubDate>
+</item>
+<item>
+    <title>ukagakaPlugin_CeVIO-Talker</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker</link>
+    <description>伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。</description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-Talker</guid>
+    <pubDate>Thu, 06 Apr 2023 15:27:00 +0900</pubDate>
 </item>
 <item>
     <title>Bouyomi</title>
@@ -508,42 +544,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
-</item>
-<item>
-    <title>WebClapModoki-GAS</title>
-    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
-    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
-    <category>webapp</category>
-    <dc:creator>dullNeko</dc:creator>
-    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
-    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_getWindowTitle</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
-    <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_getWindowTitle</guid>
-    <pubDate>Sat, 07 Jan 2023 22:39:58 +0900</pubDate>
-</item>
-<item>
-    <title>desktop_tempter_casino_chip_blue</title>
-    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_blue</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_blue</guid>
-    <pubDate>Sat, 07 Jan 2023 14:38:08 +0900</pubDate>
 </item>
 <item>
     <title>WebClapModoki-GAS</title>

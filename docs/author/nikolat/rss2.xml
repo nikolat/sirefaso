@@ -141,6 +141,15 @@
     <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
+    <title>wallet_of_unyu</title>
+    <link>https://github.com/nikolat/wallet_of_unyu</link>
+    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
+    <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
+</item>
+<item>
     <title>akari-as-saori</title>
     <link>https://github.com/nikolat/akari-as-saori</link>
     <description>AKARI as SAORI</description>
@@ -211,15 +220,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/MahjongUtil</guid>
     <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
-</item>
-<item>
-    <title>sudohaikuyu</title>
-    <link>https://github.com/nikolat/sudohaikuyu</link>
-    <description>スドハイククライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
-    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
     <title>sudohaikuyu</title>
