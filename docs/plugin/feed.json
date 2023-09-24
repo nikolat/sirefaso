@@ -52,51 +52,6 @@
             ]
         },
         {
-            "id": "nikolat/wallet_of_unyu",
-            "url": "https://github.com/nikolat/wallet_of_unyu",
-            "title": "wallet_of_unyu",
-            "content_text": "",
-            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
-            "date_published": "2023-03-26T02:58:58Z",
-            "date_modified": "2023-05-05T22:36:17Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
-            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
-            "title": "ukagakaPlugin_CeVIO-Talker",
-            "content_text": "",
-            "summary": "伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。",
-            "date_published": "2022-12-21T05:27:12Z",
-            "date_modified": "2023-04-06T06:27:00Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "apxxxxxxe/Bouyomi",
             "url": "https://github.com/apxxxxxxe/Bouyomi",
             "title": "Bouyomi",
@@ -152,6 +107,52 @@
                     "name": "opera7133",
                     "url": "https://github.com/opera7133",
                     "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
                 }
             ],
             "tags": [

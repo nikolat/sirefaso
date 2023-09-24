@@ -701,75 +701,6 @@
             ]
         },
         {
-            "id": "YAYA-shiori/tama",
-            "url": "https://github.com/YAYA-shiori/tama",
-            "title": "tama",
-            "content_text": "",
-            "summary": "Tama - AYA5 Console",
-            "date_published": "2022-02-12T05:08:54Z",
-            "date_modified": "2023-05-13T14:55:51Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "aya",
-                "aya5",
-                "shiori",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/wallet_of_unyu",
-            "url": "https://github.com/nikolat/wallet_of_unyu",
-            "title": "wallet_of_unyu",
-            "content_text": "",
-            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
-            "date_published": "2023-03-26T02:58:58Z",
-            "date_modified": "2023-05-05T22:36:17Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
-            ]
-        },
-        {
-            "id": "etwaslangsam/bath_ane",
-            "url": "https://github.com/etwaslangsam/bath_ane",
-            "title": "bath_ane",
-            "content_text": "",
-            "summary": "風呂上がりの姉貴",
-            "date_published": "2021-10-09T03:58:11Z",
-            "date_modified": "2023-04-30T02:50:09Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "etwaslangsam/myalice2",
             "url": "https://github.com/etwaslangsam/myalice2",
             "title": "myalice2",
@@ -811,28 +742,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
-            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
-            "title": "ukagakaPlugin_CeVIO-Talker",
-            "content_text": "",
-            "summary": "伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。",
-            "date_published": "2022-12-21T05:27:12Z",
-            "date_modified": "2023-04-06T06:27:00Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         },
         {
@@ -1356,6 +1265,96 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "dullNeko/WebClapModoki-GAS",
+            "url": "https://github.com/dullNeko/WebClapModoki-GAS",
+            "title": "WebClapModoki-GAS",
+            "content_text": "",
+            "summary": "WebClap-like system by using Google Apps Script & Google spreadsheet.",
+            "date_published": "2022-12-23T09:10:35Z",
+            "date_modified": "2023-01-20T16:37:45Z",
+            "authors": [
+                {
+                    "name": "dullNeko",
+                    "url": "https://github.com/dullNeko",
+                    "avatar": "https://avatars.githubusercontent.com/u/120681133?v=4"
+                }
+            ],
+            "tags": [
+                "google-apps-script",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_blue",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "title": "desktop_tempter_casino_chip_blue",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:55:19Z",
+            "date_modified": "2023-01-07T05:38:08Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
