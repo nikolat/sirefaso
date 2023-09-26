@@ -50,13 +50,13 @@
             ]
         },
         {
-            "id": "ambergon/ukagakaPlugin_CeVIO-Talker",
-            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker",
-            "title": "ukagakaPlugin_CeVIO-Talker",
+            "id": "ambergon/ukagakaPlugin_SSP-SlaveConsole",
+            "url": "https://github.com/ambergon/ukagakaPlugin_SSP-SlaveConsole",
+            "title": "ukagakaPlugin_SSP-SlaveConsole",
             "content_text": "",
-            "summary": "伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。",
-            "date_published": "2022-12-21T05:27:12Z",
-            "date_modified": "2023-04-06T06:27:00Z",
+            "summary": "伺かのトークを拾って通知したりコマンドを実行したりできるプラグイン。設定はlua。",
+            "date_published": "2023-03-29T13:11:32Z",
+            "date_modified": "2023-03-29T13:29:39Z",
             "authors": [
                 {
                     "name": "ambergon",
@@ -72,13 +72,13 @@
             ]
         },
         {
-            "id": "ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "url": "https://github.com/ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "title": "ukagakaPlugin_SSP-SlaveConsole",
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
             "content_text": "",
-            "summary": "伺かのトークを拾って通知したりコマンドを実行したりできるプラグイン。設定はlua。",
-            "date_published": "2023-03-29T13:11:32Z",
-            "date_modified": "2023-03-29T13:29:39Z",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
             "authors": [
                 {
                     "name": "ambergon",
