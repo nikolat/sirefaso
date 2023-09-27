@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>csaori</title>
+    <link>https://github.com/ukatech/csaori</link>
+    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
+    <category>saori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/csaori</guid>
+    <pubDate>Thu, 28 Sep 2023 00:48:17 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <description>ukadoc: ukagaka documentation project</description>
@@ -13,15 +22,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Sat, 16 Sep 2023 13:04:31 +0900</pubDate>
-</item>
-<item>
-    <title>csaori</title>
-    <link>https://github.com/ukatech/csaori</link>
-    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
-    <category>saori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/csaori</guid>
-    <pubDate>Fri, 23 Jun 2023 11:03:47 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
