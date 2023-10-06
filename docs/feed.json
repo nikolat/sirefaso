@@ -1358,6 +1358,28 @@
             ]
         },
         {
+            "id": "tukinami/talismanic_beast_pattern",
+            "url": "https://github.com/tukinami/talismanic_beast_pattern",
+            "title": "talismanic_beast_pattern",
+            "content_text": "",
+            "summary": "伺か用バルーン「魔除けの獣面紋」",
+            "date_published": "2023-01-19T12:51:40Z",
+            "date_modified": "2023-01-24T10:21:35Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
             "id": "dullNeko/WebClapModoki-GAS",
             "url": "https://github.com/dullNeko/WebClapModoki-GAS",
             "title": "WebClapModoki-GAS",
@@ -1577,6 +1599,31 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "content_text": "",
+            "summary": "ayaya vs code extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "sirefaso",
+                "syntax-highlighting",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension",
+                "yaya"
             ]
         },
         {

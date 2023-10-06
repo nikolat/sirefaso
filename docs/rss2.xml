@@ -546,6 +546,15 @@
     <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
 </item>
 <item>
+    <title>talismanic_beast_pattern</title>
+    <link>https://github.com/tukinami/talismanic_beast_pattern</link>
+    <description>伺か用バルーン「魔除けの獣面紋」</description>
+    <category>balloon</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
+    <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
+</item>
+<item>
     <title>WebClapModoki-GAS</title>
     <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
     <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
@@ -634,6 +643,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/recv_net</guid>
     <pubDate>Mon, 26 Dec 2022 08:08:13 +0900</pubDate>
+</item>
+<item>
+    <title>ayaya-vs-code-extension</title>
+    <link>https://github.com/YAYA-shiori/ayaya-vs-code-extension</link>
+    <description>ayaya vs code extension</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayaya-vs-code-extension</guid>
+    <pubDate>Sun, 18 Dec 2022 11:58:40 +0900</pubDate>
 </item>
 <item>
     <title>si-near-future</title>
