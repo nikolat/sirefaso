@@ -392,6 +392,28 @@
             ]
         },
         {
+            "id": "etwaslangsam/d2k",
+            "url": "https://github.com/etwaslangsam/d2k",
+            "title": "d2k",
+            "content_text": "",
+            "summary": "芹那と妃音with玄恵",
+            "date_published": "2018-06-12T05:12:00Z",
+            "date_modified": "2023-05-22T12:37:37Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "etwaslangsam/myalice2",
             "url": "https://github.com/etwaslangsam/myalice2",
             "title": "myalice2",
