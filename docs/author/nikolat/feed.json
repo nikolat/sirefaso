@@ -573,30 +573,6 @@
             ]
         },
         {
-            "id": "nikolat/sudohaikuyu",
-            "url": "https://github.com/nikolat/sudohaikuyu",
-            "title": "sudohaikuyu",
-            "content_text": "",
-            "summary": "スドハイククライアント",
-            "date_published": "2021-11-29T05:25:03Z",
-            "date_modified": "2023-01-20T10:38:04Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "sudo-haiku",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "nikolat/recv_net",
             "url": "https://github.com/nikolat/recv_net",
             "title": "recv_net",
@@ -663,30 +639,6 @@
                 "ukagaka",
                 "ukagaka-shell",
                 "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/ukaten",
-            "url": "https://github.com/nikolat/ukaten",
-            "title": "ukaten",
-            "content_text": "",
-            "summary": "伺か天気予報プラグイン",
-            "date_published": "2021-11-12T06:44:37Z",
-            "date_modified": "2022-08-27T00:58:57Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "weather-forecast"
             ]
         },
         {

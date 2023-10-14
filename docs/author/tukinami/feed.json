@@ -91,28 +91,6 @@
             ]
         },
         {
-            "id": "tukinami/talismanic_beast_pattern",
-            "url": "https://github.com/tukinami/talismanic_beast_pattern",
-            "title": "talismanic_beast_pattern",
-            "content_text": "",
-            "summary": "伺か用バルーン「魔除けの獣面紋」",
-            "date_published": "2023-01-19T12:51:40Z",
-            "date_modified": "2023-01-24T10:21:35Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
-        {
             "id": "tukinami/small_HE-Chan_sama",
             "url": "https://github.com/tukinami/small_HE-Chan_sama",
             "title": "small_HE-Chan_sama",
@@ -131,28 +109,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png",
-            "url": "https://github.com/tukinami/saori-resized-png",
-            "title": "saori-resized-png",
-            "content_text": "",
-            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
-            "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2022-12-26T10:30:23Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "image-processing",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         }
     ]
