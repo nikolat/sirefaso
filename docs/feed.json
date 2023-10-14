@@ -1358,6 +1358,162 @@
             ]
         },
         {
+            "id": "tukinami/talismanic_beast_pattern",
+            "url": "https://github.com/tukinami/talismanic_beast_pattern",
+            "title": "talismanic_beast_pattern",
+            "content_text": "",
+            "summary": "伺か用バルーン「魔除けの獣面紋」",
+            "date_published": "2023-01-19T12:51:40Z",
+            "date_modified": "2023-01-24T10:21:35Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "dullNeko/WebClapModoki-GAS",
+            "url": "https://github.com/dullNeko/WebClapModoki-GAS",
+            "title": "WebClapModoki-GAS",
+            "content_text": "",
+            "summary": "WebClap-like system by using Google Apps Script & Google spreadsheet.",
+            "date_published": "2022-12-23T09:10:35Z",
+            "date_modified": "2023-01-20T16:37:45Z",
+            "authors": [
+                {
+                    "name": "dullNeko",
+                    "url": "https://github.com/dullNeko",
+                    "avatar": "https://avatars.githubusercontent.com/u/120681133?v=4"
+                }
+            ],
+            "tags": [
+                "google-apps-script",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/sudohaikuyu",
+            "url": "https://github.com/nikolat/sudohaikuyu",
+            "title": "sudohaikuyu",
+            "content_text": "",
+            "summary": "スドハイククライアント",
+            "date_published": "2021-11-29T05:25:03Z",
+            "date_modified": "2023-01-20T10:38:04Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "sudo-haiku",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaPlugin_getWindowTitle",
+            "url": "https://github.com/ambergon/ukagakaPlugin_getWindowTitle",
+            "title": "ukagakaPlugin_getWindowTitle",
+            "content_text": "",
+            "summary": "伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。",
+            "date_published": "2023-01-06T15:23:47Z",
+            "date_modified": "2023-01-07T13:39:58Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_blue",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "title": "desktop_tempter_casino_chip_blue",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:55:19Z",
+            "date_modified": "2023-01-07T05:38:08Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_green",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_green",
+            "title": "desktop_tempter_casino_chip_green",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:52:07Z",
+            "date_modified": "2023-01-07T05:28:26Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_red",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
+            "title": "desktop_tempter_casino_chip_red",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:48:19Z",
+            "date_modified": "2023-01-07T05:25:57Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "tukinami/small_HE-Chan_sama",
             "url": "https://github.com/tukinami/small_HE-Chan_sama",
             "title": "small_HE-Chan_sama",
@@ -1398,6 +1554,28 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "tukinami/saori-resized-png",
+            "url": "https://github.com/tukinami/saori-resized-png",
+            "title": "saori-resized-png",
+            "content_text": "",
+            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
+            "date_published": "2022-12-09T07:24:27Z",
+            "date_modified": "2022-12-26T10:30:23Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "image-processing",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
             ]
         },
         {
@@ -1555,6 +1733,30 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "nikolat/ukaten",
+            "url": "https://github.com/nikolat/ukaten",
+            "title": "ukaten",
+            "content_text": "",
+            "summary": "伺か天気予報プラグイン",
+            "date_published": "2021-11-12T06:44:37Z",
+            "date_modified": "2022-08-27T00:58:57Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "weather-forecast"
             ]
         },
         {
