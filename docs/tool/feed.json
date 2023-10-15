@@ -71,25 +71,25 @@
             ]
         },
         {
-            "id": "YAYA-shiori/tama",
-            "url": "https://github.com/YAYA-shiori/tama",
-            "title": "tama",
+            "id": "nikolat/dsstp-hsp",
+            "url": "https://github.com/nikolat/dsstp-hsp",
+            "title": "dsstp-hsp",
             "content_text": "",
-            "summary": "Tama - AYA5 Console",
-            "date_published": "2022-02-12T05:08:54Z",
-            "date_modified": "2023-05-13T14:55:51Z",
+            "summary": "DirectSSTP Sample",
+            "date_published": "2023-07-18T11:19:36Z",
+            "date_modified": "2023-07-18T11:22:58Z",
             "authors": [
                 {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
                 }
             ],
             "tags": [
-                "aya",
-                "aya5",
-                "shiori",
+                "hsp",
+                "hsp3",
                 "sirefaso",
+                "sstp",
                 "ukagaka",
                 "ukagaka-tool"
             ]
