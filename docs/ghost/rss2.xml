@@ -96,15 +96,6 @@
     <pubDate>Wed, 16 Aug 2023 21:23:25 +0900</pubDate>
 </item>
 <item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Wed, 16 Aug 2023 21:23:05 +0900</pubDate>
-</item>
-<item>
     <title>jong-chunchun</title>
     <link>https://github.com/nikolat/jong-chunchun</link>
     <description>麻雀クライアントゴースト</description>
@@ -132,22 +123,22 @@
     <pubDate>Wed, 16 Aug 2023 21:22:19 +0900</pubDate>
 </item>
 <item>
-    <title>banjou_no_sumikko_de</title>
-    <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
-    <description></description>
+    <title>d2k</title>
+    <link>https://github.com/etwaslangsam/d2k</link>
+    <description>芹那と妃音with玄恵</description>
     <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
-    <pubDate>Sat, 05 Aug 2023 21:46:38 +0900</pubDate>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/d2k</guid>
+    <pubDate>Mon, 22 May 2023 21:37:37 +0900</pubDate>
 </item>
 <item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
+    <title>myalice2</title>
+    <link>https://github.com/etwaslangsam/myalice2</link>
+    <description>ゴースト「僕のアリス2」</description>
     <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 02 Jul 2023 16:29:37 +0900</pubDate>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/myalice2</guid>
+    <pubDate>Fri, 28 Apr 2023 18:30:32 +0900</pubDate>
 </item>
 <item>
     <title>d2k</title>

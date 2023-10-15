@@ -250,32 +250,6 @@
             ]
         },
         {
-            "id": "nikolat/jong-rinrin",
-            "url": "https://github.com/nikolat/jong-rinrin",
-            "title": "jong-rinrin",
-            "content_text": "",
-            "summary": "麻雀クライアントゴースト",
-            "date_published": "2021-06-09T06:30:29Z",
-            "date_modified": "2023-08-16T12:23:05Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/jong-chunchun",
             "url": "https://github.com/nikolat/jong-chunchun",
             "title": "jong-chunchun",
@@ -348,18 +322,18 @@
             ]
         },
         {
-            "id": "Tatakinov/banjou_no_sumikko_de",
-            "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
-            "title": "banjou_no_sumikko_de",
+            "id": "etwaslangsam/d2k",
+            "url": "https://github.com/etwaslangsam/d2k",
+            "title": "d2k",
             "content_text": "",
-            "summary": "",
-            "date_published": "2021-05-27T13:38:48Z",
-            "date_modified": "2023-08-05T12:46:38Z",
+            "summary": "芹那と妃音with玄恵",
+            "date_published": "2018-06-12T05:12:00Z",
+            "date_modified": "2023-05-22T12:37:37Z",
             "authors": [
                 {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
                 }
             ],
             "tags": [
@@ -370,18 +344,18 @@
             ]
         },
         {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
+            "id": "etwaslangsam/myalice2",
+            "url": "https://github.com/etwaslangsam/myalice2",
+            "title": "myalice2",
             "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2023-07-02T07:29:37Z",
+            "summary": "ゴースト「僕のアリス2」",
+            "date_published": "2016-03-28T11:24:49Z",
+            "date_modified": "2023-04-28T09:30:32Z",
             "authors": [
                 {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
                 }
             ],
             "tags": [

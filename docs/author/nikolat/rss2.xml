@@ -78,15 +78,6 @@
     <pubDate>Wed, 16 Aug 2023 21:23:25 +0900</pubDate>
 </item>
 <item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Wed, 16 Aug 2023 21:23:05 +0900</pubDate>
-</item>
-<item>
     <title>jong-chunchun</title>
     <link>https://github.com/nikolat/jong-chunchun</link>
     <description>麻雀クライアントゴースト</description>
@@ -123,15 +114,6 @@
     <pubDate>Tue, 25 Jul 2023 09:13:28 +0900</pubDate>
 </item>
 <item>
-    <title>dsstp-hsp</title>
-    <link>https://github.com/nikolat/dsstp-hsp</link>
-    <description>DirectSSTP Sample</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
-    <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
-</item>
-<item>
     <title>jb-pura-vida</title>
     <link>https://github.com/nikolat/jb-pura-vida</link>
     <description>ゴースト「雀々BARIBARI」用追加シェル</description>
@@ -139,6 +121,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
     <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
+</item>
+<item>
+    <title>wallet_of_unyu</title>
+    <link>https://github.com/nikolat/wallet_of_unyu</link>
+    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
+    <pubDate>Sat, 06 May 2023 07:36:17 +0900</pubDate>
 </item>
 <item>
     <title>wallet_of_unyu</title>
