@@ -51,6 +51,15 @@
     <pubDate>Sat, 13 May 2023 23:55:51 +0900</pubDate>
 </item>
 <item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sat, 13 May 2023 23:55:51 +0900</pubDate>
+</item>
+<item>
     <title>nar-thumbnail-provider</title>
     <link>https://github.com/ukatech/nar-thumbnail-provider</link>
     <description>NAR thumbnail provider for Windows Explorer</description>

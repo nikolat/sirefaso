@@ -27,13 +27,13 @@
             ]
         },
         {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
             "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2023-09-27T15:48:17Z",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2023-05-28T19:54:39Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -44,7 +44,7 @@
             "tags": [
                 "sirefaso",
                 "ukagaka",
-                "ukagaka-saori"
+                "ukagaka-shiori"
             ]
         },
         {
