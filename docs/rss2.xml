@@ -42,6 +42,15 @@
     <pubDate>Fri, 13 Oct 2023 15:11:28 +0900</pubDate>
 </item>
 <item>
+    <title>Bouyomi</title>
+    <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <description>伺かプラグイン</description>
+    <category>plugin</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
+    <pubDate>Fri, 13 Oct 2023 10:42:52 +0900</pubDate>
+</item>
+<item>
     <title>bath_ane</title>
     <link>https://github.com/etwaslangsam/bath_ane</link>
     <description>風呂上がりの姉貴</description>
@@ -346,15 +355,6 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-Talker</guid>
     <pubDate>Thu, 06 Apr 2023 15:27:00 +0900</pubDate>
-</item>
-<item>
-    <title>Bouyomi</title>
-    <link>https://github.com/apxxxxxxe/Bouyomi</link>
-    <description>伺かプラグイン</description>
-    <category>plugin</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
-    <pubDate>Fri, 13 Oct 2023 10:42:52 +0900</pubDate>
 </item>
 <item>
     <title>akari-as-saori</title>
