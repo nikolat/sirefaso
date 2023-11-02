@@ -1078,28 +1078,6 @@
             ]
         },
         {
-            "id": "ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "url": "https://github.com/ambergon/ukagakaPlugin_SSP-SlaveConsole",
-            "title": "ukagakaPlugin_SSP-SlaveConsole",
-            "content_text": "",
-            "summary": "伺かのトークを拾って通知したりコマンドを実行したりできるプラグイン。設定はlua。",
-            "date_published": "2023-03-29T13:11:32Z",
-            "date_modified": "2023-03-29T13:29:39Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "opera7133/SSP-AIVOICE",
             "url": "https://github.com/opera7133/SSP-AIVOICE",
             "title": "SSP-AIVOICE",
