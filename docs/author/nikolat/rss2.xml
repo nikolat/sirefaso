@@ -222,6 +222,15 @@
     <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
 </item>
 <item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
+</item>
+<item>
     <title>sudohaikuyu</title>
     <link>https://github.com/nikolat/sudohaikuyu</link>
     <description>スドハイククライアント</description>
