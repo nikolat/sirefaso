@@ -276,6 +276,24 @@
     <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
 </item>
 <item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
+</item>
+<item>
     <title>jb-pura-vida</title>
     <link>https://github.com/nikolat/jb-pura-vida</link>
     <description>ゴースト「雀々BARIBARI」用追加シェル</description>
@@ -526,24 +544,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
     <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
-</item>
-<item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
-</item>
-<item>
-    <title>talismanic_beast_pattern</title>
-    <link>https://github.com/tukinami/talismanic_beast_pattern</link>
-    <description>伺か用バルーン「魔除けの獣面紋」</description>
-    <category>balloon</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
-    <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
 </item>
 <item>
     <title>MahjongUtil</title>

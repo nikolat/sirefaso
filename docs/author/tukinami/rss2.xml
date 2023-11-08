@@ -33,6 +33,15 @@
     <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
 </item>
 <item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png-mini</title>
     <link>https://github.com/tukinami/saori-resized-png-mini</link>
     <description>SAORI to resize image and save as png (limited edition)</description>
@@ -49,15 +58,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
-</item>
-<item>
-    <title>talismanic_beast_pattern</title>
-    <link>https://github.com/tukinami/talismanic_beast_pattern</link>
-    <description>伺か用バルーン「魔除けの獣面紋」</description>
-    <category>balloon</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
-    <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
 </item>
 <item>
     <title>talismanic_beast_pattern</title>
