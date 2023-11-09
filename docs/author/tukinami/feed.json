@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "伺か用フリーシェル。男子高校生二人組。",
             "date_published": "2023-11-08T09:01:05Z",
-            "date_modified": "2023-11-08T09:02:17Z",
+            "date_modified": "2023-11-09T12:26:59Z",
             "authors": [
                 {
                     "name": "tukinami",
@@ -57,6 +57,27 @@
             "summary": "西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI",
             "date_published": "2023-10-27T10:17:31Z",
             "date_modified": "2023-10-27T10:19:52Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/saori-pie-chart",
+            "url": "https://github.com/tukinami/saori-pie-chart",
+            "title": "saori-pie-chart",
+            "content_text": "",
+            "summary": "円グラフを作成するSAORI",
+            "date_published": "2023-06-27T03:07:34Z",
+            "date_modified": "2023-06-27T03:17:44Z",
             "authors": [
                 {
                     "name": "tukinami",

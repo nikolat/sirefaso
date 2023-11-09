@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "伺か用フリーシェル。男子高校生二人組。",
             "date_published": "2023-11-08T09:01:05Z",
-            "date_modified": "2023-11-08T09:02:17Z",
+            "date_modified": "2023-11-09T12:26:59Z",
             "authors": [
                 {
                     "name": "tukinami",
@@ -23,6 +23,30 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "nikolat/jb-pura-vida",
+            "url": "https://github.com/nikolat/jb-pura-vida",
+            "title": "jb-pura-vida",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2023-06-09T07:38:06Z",
+            "date_modified": "2023-06-09T10:56:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
             ]

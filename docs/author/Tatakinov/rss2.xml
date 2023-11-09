@@ -24,15 +24,6 @@
     <pubDate>Sat, 16 Sep 2023 21:42:58 +0900</pubDate>
 </item>
 <item>
-    <title>knowledgeable_kernel</title>
-    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
-    <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
-</item>
-<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -40,6 +31,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Sat, 05 Aug 2023 21:46:38 +0900</pubDate>
+</item>
+<item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
 </item>
 <item>
     <title>balloon_terminal</title>

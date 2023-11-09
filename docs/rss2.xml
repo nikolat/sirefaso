@@ -12,7 +12,7 @@
     <category>shell</category>
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
-    <pubDate>Wed, 08 Nov 2023 18:02:17 +0900</pubDate>
+    <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -123,15 +123,6 @@
     <pubDate>Sat, 16 Sep 2023 21:42:58 +0900</pubDate>
 </item>
 <item>
-    <title>knowledgeable_kernel</title>
-    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
-    <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
-</item>
-<item>
     <title>ukagakaPlugin_CeVIO-TalkerV2</title>
     <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
     <description></description>
@@ -157,15 +148,6 @@
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
     <pubDate>Wed, 01 Nov 2023 09:44:16 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-simultaneous-interpreter</title>
@@ -240,15 +222,6 @@
     <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
 </item>
 <item>
-    <title>crawler_uploader</title>
-    <link>https://github.com/nikolat/crawler_uploader</link>
-    <description>UKAGAKA Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/crawler_uploader</guid>
-    <pubDate>Wed, 16 Aug 2023 21:22:19 +0900</pubDate>
-</item>
-<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -274,6 +247,33 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
     <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
+</item>
+<item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
+</item>
+<item>
+    <title>jb-pura-vida</title>
+    <link>https://github.com/nikolat/jb-pura-vida</link>
+    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
+    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>balloon_terminal</title>

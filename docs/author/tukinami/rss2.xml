@@ -12,7 +12,7 @@
     <category>shell</category>
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
-    <pubDate>Wed, 08 Nov 2023 18:02:17 +0900</pubDate>
+    <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -31,6 +31,15 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
     <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
 </item>
 <item>
     <title>saori-pie-chart</title>
