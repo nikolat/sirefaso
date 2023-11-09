@@ -49,6 +49,28 @@
             ]
         },
         {
+            "id": "Tatakinov/knowledgeable_kernel",
+            "url": "https://github.com/Tatakinov/knowledgeable_kernel",
+            "title": "knowledgeable_kernel",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:34:50Z",
+            "date_modified": "2023-09-03T12:47:37Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/banjou_no_sumikko_de",
             "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
             "title": "banjou_no_sumikko_de",
@@ -68,27 +90,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/balloon_terminal",
-            "url": "https://github.com/Tatakinov/balloon_terminal",
-            "title": "balloon_terminal",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-07-17T12:55:46Z",
-            "date_modified": "2023-07-17T12:58:08Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
             ]
         },
         {
