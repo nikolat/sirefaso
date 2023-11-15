@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2023-11-15T12:43:23Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "Tatakinov/saori_budoux",
             "url": "https://github.com/Tatakinov/saori_budoux",
             "title": "saori_budoux",
@@ -24,28 +46,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "Tatakinov/yayalint",
-            "url": "https://github.com/Tatakinov/yayalint",
-            "title": "yayalint",
-            "content_text": "",
-            "summary": "a linter of YAYA",
-            "date_published": "2021-12-14T12:38:17Z",
-            "date_modified": "2023-09-16T12:42:58Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "lint",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {

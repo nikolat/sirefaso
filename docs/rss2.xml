@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -112,15 +121,6 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
     <pubDate>Wed, 20 Sep 2023 14:15:43 +0900</pubDate>
-</item>
-<item>
-    <title>yayalint</title>
-    <link>https://github.com/Tatakinov/yayalint</link>
-    <description>a linter of YAYA</description>
-    <category>tool</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/yayalint</guid>
-    <pubDate>Sat, 16 Sep 2023 21:42:58 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
