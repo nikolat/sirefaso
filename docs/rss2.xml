@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>kotori</title>
+    <link>https://github.com/Tatakinov/kotori</link>
+    <description></description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/kotori</guid>
+    <pubDate>Sun, 19 Nov 2023 21:44:41 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -409,15 +418,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/mosu</guid>
     <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
-</item>
-<item>
-    <title>kotori</title>
-    <link>https://github.com/Tatakinov/kotori</link>
-    <description></description>
-    <category>shiori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/kotori</guid>
-    <pubDate>Sat, 01 Apr 2023 21:55:55 +0900</pubDate>
 </item>
 <item>
     <title>Majiang</title>
