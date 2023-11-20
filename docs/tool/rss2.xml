@@ -42,6 +42,15 @@
     <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
 </item>
 <item>
+    <title>dsstp-hsp</title>
+    <link>https://github.com/nikolat/dsstp-hsp</link>
+    <description>DirectSSTP Sample</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
+    <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
+</item>
+<item>
     <title>tama</title>
     <link>https://github.com/YAYA-shiori/tama</link>
     <description>Tama - AYA5 Console</description>

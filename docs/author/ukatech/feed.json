@@ -27,27 +27,6 @@
             ]
         },
         {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
-            "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2023-10-22T20:23:16Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",

@@ -71,28 +71,6 @@
             ]
         },
         {
-            "id": "tukinami/double-danshi-KouKousei",
-            "url": "https://github.com/tukinami/double-danshi-KouKousei",
-            "title": "double-danshi-KouKousei",
-            "content_text": "",
-            "summary": "伺か用フリーシェル。男子高校生二人組。",
-            "date_published": "2023-11-08T09:01:05Z",
-            "date_modified": "2023-11-09T12:26:59Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
-            ]
-        },
-        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -147,27 +125,6 @@
                     "name": "tukinami",
                     "url": "https://github.com/tukinami",
                     "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
-            "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2023-10-22T20:23:16Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
                 }
             ],
             "tags": [
@@ -456,53 +413,6 @@
             ]
         },
         {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2023-08-16T12:24:25Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/shellbook",
-            "url": "https://github.com/nikolat/shellbook",
-            "title": "shellbook",
-            "content_text": "",
-            "summary": "freeshell Wiki viewer",
-            "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2023-08-16T12:23:47Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "nikolat/reshibainu",
             "url": "https://github.com/nikolat/reshibainu",
             "title": "reshibainu",
@@ -694,6 +604,96 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/dsstp-hsp",
+            "url": "https://github.com/nikolat/dsstp-hsp",
+            "title": "dsstp-hsp",
+            "content_text": "",
+            "summary": "DirectSSTP Sample",
+            "date_published": "2023-07-18T11:19:36Z",
+            "date_modified": "2023-07-18T11:22:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "hsp",
+                "hsp3",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "Tatakinov/balloon_terminal",
+            "url": "https://github.com/Tatakinov/balloon_terminal",
+            "title": "balloon_terminal",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:55:46Z",
+            "date_modified": "2023-07-17T12:58:08Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "tukinami/saori-pie-chart",
+            "url": "https://github.com/tukinami/saori-pie-chart",
+            "title": "saori-pie-chart",
+            "content_text": "",
+            "summary": "円グラフを作成するSAORI",
+            "date_published": "2023-06-27T03:07:34Z",
+            "date_modified": "2023-06-27T03:17:44Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "nikolat/jb-pura-vida",
+            "url": "https://github.com/nikolat/jb-pura-vida",
+            "title": "jb-pura-vida",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2023-06-09T07:38:06Z",
+            "date_modified": "2023-06-09T10:56:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
             ]
         },
         {
