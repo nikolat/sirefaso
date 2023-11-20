@@ -15,6 +15,15 @@
     <pubDate>Thu, 02 Nov 2023 21:14:18 +0900</pubDate>
 </item>
 <item>
+    <title>csaori</title>
+    <link>https://github.com/ukatech/csaori</link>
+    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
+    <category>saori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/csaori</guid>
+    <pubDate>Mon, 23 Oct 2023 05:23:16 +0900</pubDate>
+</item>
+<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>

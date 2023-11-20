@@ -15,6 +15,15 @@
     <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
 </item>
 <item>
+    <title>csaori</title>
+    <link>https://github.com/ukatech/csaori</link>
+    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
+    <category>saori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/csaori</guid>
+    <pubDate>Mon, 23 Oct 2023 05:23:16 +0900</pubDate>
+</item>
+<item>
     <title>saori_budoux</title>
     <link>https://github.com/Tatakinov/saori_budoux</link>
     <description>budouxを伺かで使えるようにした的なアレ</description>
@@ -22,15 +31,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/saori_budoux</guid>
     <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
 </item>
 <item>
     <title>saori-pie-chart</title>

@@ -33,6 +33,15 @@
     <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
 </item>
 <item>
+    <title>double-danshi-KouKousei</title>
+    <link>https://github.com/tukinami/double-danshi-KouKousei</link>
+    <description>伺か用フリーシェル。男子高校生二人組。</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
+    <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <description>ukadoc: ukagaka documentation project</description>
@@ -58,6 +67,15 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
     <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
+</item>
+<item>
+    <title>csaori</title>
+    <link>https://github.com/ukatech/csaori</link>
+    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
+    <category>saori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/csaori</guid>
+    <pubDate>Mon, 23 Oct 2023 05:23:16 +0900</pubDate>
 </item>
 <item>
     <title>Satolist2</title>
@@ -168,6 +186,24 @@
     <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
 </item>
 <item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:25 +0900</pubDate>
+</item>
+<item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
+</item>
+<item>
     <title>reshibainu</title>
     <link>https://github.com/nikolat/reshibainu</link>
     <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
@@ -238,42 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
     <pubDate>Tue, 25 Jul 2023 09:13:28 +0900</pubDate>
-</item>
-<item>
-    <title>dsstp-hsp</title>
-    <link>https://github.com/nikolat/dsstp-hsp</link>
-    <description>DirectSSTP Sample</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
-    <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
-</item>
-<item>
-    <title>balloon_terminal</title>
-    <link>https://github.com/Tatakinov/balloon_terminal</link>
-    <description></description>
-    <category>balloon</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
-    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
-</item>
-<item>
-    <title>jb-pura-vida</title>
-    <link>https://github.com/nikolat/jb-pura-vida</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
-    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>dsstp-hsp</title>

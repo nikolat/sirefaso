@@ -27,6 +27,27 @@
             ]
         },
         {
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "content_text": "",
+            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2023-10-22T20:23:16Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "Tatakinov/saori_budoux",
             "url": "https://github.com/Tatakinov/saori_budoux",
             "title": "saori_budoux",
@@ -39,27 +60,6 @@
                     "name": "Tatakinov",
                     "url": "https://github.com/Tatakinov",
                     "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "tukinami/saori-pie-chart",
-            "url": "https://github.com/tukinami/saori-pie-chart",
-            "title": "saori-pie-chart",
-            "content_text": "",
-            "summary": "円グラフを作成するSAORI",
-            "date_published": "2023-06-27T03:07:34Z",
-            "date_modified": "2023-06-27T03:17:44Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
                 }
             ],
             "tags": [

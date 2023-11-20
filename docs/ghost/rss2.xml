@@ -78,6 +78,24 @@
     <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
 </item>
 <item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:25 +0900</pubDate>
+</item>
+<item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
+</item>
+<item>
     <title>reshibainu</title>
     <link>https://github.com/nikolat/reshibainu</link>
     <description>「里々」ログビューア「れしば.NET」のゴースト版</description>

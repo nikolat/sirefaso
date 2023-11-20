@@ -15,6 +15,15 @@
     <pubDate>Sun, 19 Nov 2023 16:33:32 +0900</pubDate>
 </item>
 <item>
+    <title>double-danshi-KouKousei</title>
+    <link>https://github.com/tukinami/double-danshi-KouKousei</link>
+    <description>伺か用フリーシェル。男子高校生二人組。</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
+    <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
+</item>
+<item>
     <title>saori-japanese-gengou</title>
     <link>https://github.com/tukinami/saori-japanese-gengou</link>
     <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
@@ -22,15 +31,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
     <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
 </item>
 <item>
     <title>saori-pie-chart</title>

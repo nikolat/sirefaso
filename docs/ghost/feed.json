@@ -197,6 +197,53 @@
             ]
         },
         {
+            "id": "nikolat/ukagaka-hakoirimusume",
+            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
+            "title": "ukagaka-hakoirimusume",
+            "content_text": "",
+            "summary": "Klotski for UKAGAKA",
+            "date_published": "2021-11-10T12:05:19Z",
+            "date_modified": "2023-08-16T12:24:25Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "klotski",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/shellbook",
+            "url": "https://github.com/nikolat/shellbook",
+            "title": "shellbook",
+            "content_text": "",
+            "summary": "freeshell Wiki viewer",
+            "date_published": "2021-11-10T11:28:28Z",
+            "date_modified": "2023-08-16T12:23:47Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/reshibainu",
             "url": "https://github.com/nikolat/reshibainu",
             "title": "reshibainu",
