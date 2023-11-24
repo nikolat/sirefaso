@@ -73,6 +73,27 @@
             ]
         },
         {
+            "id": "tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "content_text": "",
+            "summary": "伺かゴースト「ヘイミル・ロゥ」用追加シェル",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
             "id": "nikolat/si-near-future",
             "url": "https://github.com/nikolat/si-near-future",
             "title": "si-near-future",

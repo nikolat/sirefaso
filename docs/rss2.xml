@@ -546,6 +546,51 @@
     <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
 </item>
 <item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
+</item>
+<item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
+</item>
+<item>
+    <title>talismanic_beast_pattern</title>
+    <link>https://github.com/tukinami/talismanic_beast_pattern</link>
+    <description>伺か用バルーン「魔除けの獣面紋」</description>
+    <category>balloon</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
+    <pubDate>Tue, 24 Jan 2023 19:21:35 +0900</pubDate>
+</item>
+<item>
+    <title>WebClapModoki-GAS</title>
+    <link>https://github.com/dullNeko/WebClapModoki-GAS</link>
+    <description>WebClap-like system by using Google Apps Script &amp; Google spreadsheet.</description>
+    <category>webapp</category>
+    <dc:creator>dullNeko</dc:creator>
+    <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
+    <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
+</item>
+<item>
     <title>ukagakaPlugin_getWindowTitle</title>
     <link>https://github.com/ambergon/ukagakaPlugin_getWindowTitle</link>
     <description>伺か ・ゴーストがあなたの作業を覗き込むようになるプラグイン。</description>
@@ -580,6 +625,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_red</guid>
     <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
 </item>
 <item>
     <title>UkagakaPlugin_DBdiary</title>
