@@ -204,24 +204,6 @@
     <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
 </item>
 <item>
-    <title>github-dau-crawler</title>
-    <link>https://github.com/nikolat/github-dau-crawler</link>
-    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
-    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
-</item>
-<item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
-</item>
-<item>
     <title>sudohaikuyu</title>
     <link>https://github.com/nikolat/sudohaikuyu</link>
     <description>スドハイククライアント</description>
@@ -265,15 +247,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukaten</guid>
     <pubDate>Sat, 27 Aug 2022 09:58:57 +0900</pubDate>
-</item>
-<item>
-    <title>jb-standard-balloon</title>
-    <link>https://github.com/nikolat/jb-standard-balloon</link>
-    <description>ゴースト「雀々BARIBARI」用バルーン</description>
-    <category>balloon</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
-    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
 </item>
 <item>
     <title>jb-standard</title>
