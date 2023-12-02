@@ -51,15 +51,6 @@
     <pubDate>Sun, 26 Nov 2023 17:10:00 +0900</pubDate>
 </item>
 <item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 26 Nov 2023 14:01:59 +0900</pubDate>
-</item>
-<item>
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
@@ -85,15 +76,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kotori</guid>
     <pubDate>Fri, 24 Nov 2023 21:45:48 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Thu, 23 Nov 2023 09:14:20 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -139,15 +121,6 @@
     <dc:creator>apxxxxxxe</dc:creator>
     <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
     <pubDate>Sat, 28 Oct 2023 21:21:55 +0900</pubDate>
-</item>
-<item>
-    <title>saori-japanese-gengou</title>
-    <link>https://github.com/tukinami/saori-japanese-gengou</link>
-    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
-    <pubDate>Fri, 27 Oct 2023 19:19:52 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
@@ -213,15 +186,6 @@
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
 </item>
 <item>
-    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
-    <description></description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
-    <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -274,6 +238,42 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/shellbook</guid>
     <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
+</item>
+<item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:25 +0900</pubDate>
+</item>
+<item>
+    <title>jong-chunchun</title>
+    <link>https://github.com/nikolat/jong-chunchun</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:00 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
 </item>
 <item>
     <title>reshibainu</title>

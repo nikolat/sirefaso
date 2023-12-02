@@ -6,28 +6,6 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
-            "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2023-11-26T05:01:59Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "tukinami/double-danshi-KouKousei",
             "url": "https://github.com/tukinami/double-danshi-KouKousei",
             "title": "double-danshi-KouKousei",
@@ -47,27 +25,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "tukinami/saori-japanese-gengou",
-            "url": "https://github.com/tukinami/saori-japanese-gengou",
-            "title": "saori-japanese-gengou",
-            "content_text": "",
-            "summary": "西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI",
-            "date_published": "2023-10-27T10:17:31Z",
-            "date_modified": "2023-10-27T10:19:52Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {
