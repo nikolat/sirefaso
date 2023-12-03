@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>d2k</title>
+    <link>https://github.com/etwaslangsam/d2k</link>
+    <description>芹那と妃音with玄恵</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/d2k</guid>
+    <pubDate>Sun, 03 Dec 2023 12:01:59 +0900</pubDate>
+</item>
+<item>
     <title>yaya-as-saori</title>
     <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
     <description>YAYA as SAORI</description>
@@ -22,15 +31,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Sat, 02 Dec 2023 05:36:03 +0900</pubDate>
-</item>
-<item>
-    <title>d2k</title>
-    <link>https://github.com/etwaslangsam/d2k</link>
-    <description>芹那と妃音with玄恵</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/d2k</guid>
-    <pubDate>Wed, 29 Nov 2023 22:32:48 +0900</pubDate>
 </item>
 <item>
     <title>phiori</title>
