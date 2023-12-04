@@ -51,6 +51,15 @@
     <pubDate>Thu, 23 Nov 2023 07:44:37 +0900</pubDate>
 </item>
 <item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
     <title>kagari_shiori</title>
     <link>https://github.com/Tatakinov/kagari_shiori</link>
     <description></description>
