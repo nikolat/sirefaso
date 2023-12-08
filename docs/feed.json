@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2023-12-08T06:20:57Z",
+            "date_modified": "2023-12-08T06:38:15Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -2022,6 +2022,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "ponapalt/aya5-shiori",
+            "url": "https://github.com/ponapalt/aya5-shiori",
+            "title": "aya5-shiori",
+            "content_text": "",
+            "summary": "Old plain AYA5 code with small fixes (AYA5＋小修正のみ)",
+            "date_published": "2018-12-04T02:17:32Z",
+            "date_modified": "2018-12-04T02:20:29Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
             ]
         }
     ]
