@@ -68,14 +68,5 @@
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Fri, 24 Nov 2023 21:40:44 +0900</pubDate>
 </item>
-<item>
-    <title>aya5-shiori</title>
-    <link>https://github.com/ponapalt/aya5-shiori</link>
-    <description>Old plain AYA5 code with small fixes (AYA5＋小修正のみ)</description>
-    <category>shiori</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/aya5-shiori</guid>
-    <pubDate>Tue, 04 Dec 2018 11:20:29 +0900</pubDate>
-</item>
 </channel>
 </rss>
