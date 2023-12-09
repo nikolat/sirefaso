@@ -92,6 +92,30 @@
             ]
         },
         {
+            "id": "nikolat/dsstp-hsp",
+            "url": "https://github.com/nikolat/dsstp-hsp",
+            "title": "dsstp-hsp",
+            "content_text": "",
+            "summary": "DirectSSTP Sample",
+            "date_published": "2023-07-18T11:19:36Z",
+            "date_modified": "2023-07-18T11:22:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "hsp",
+                "hsp3",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "YAYA-shiori/tama",
             "url": "https://github.com/YAYA-shiori/tama",
             "title": "tama",
@@ -153,28 +177,6 @@
             ],
             "tags": [
                 "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2023-02-02T04:13:51Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
                 "ukagaka",
                 "ukagaka-tool"
             ]
