@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/phiori",
+            "url": "https://github.com/Tatakinov/phiori",
+            "title": "phiori",
+            "content_text": "",
+            "summary": "python3-based SHIORI for Ukagaka(伺か)",
+            "date_published": "2023-11-26T02:24:17Z",
+            "date_modified": "2023-12-13T13:37:30Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",
@@ -39,27 +60,6 @@
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "Tatakinov/phiori",
-            "url": "https://github.com/Tatakinov/phiori",
-            "title": "phiori",
-            "content_text": "",
-            "summary": "python3-based SHIORI for Ukagaka(伺か)",
-            "date_published": "2023-11-26T02:24:17Z",
-            "date_modified": "2023-11-27T12:31:05Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
                 }
             ],
             "tags": [

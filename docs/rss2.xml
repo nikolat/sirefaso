@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>phiori</title>
+    <link>https://github.com/Tatakinov/phiori</link>
+    <description>python3-based SHIORI for Ukagaka(伺か)</description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/phiori</guid>
+    <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
+</item>
+<item>
     <title>Oyatsu_ha_Macaroni</title>
     <link>https://github.com/Shimofumi/Oyatsu_ha_Macaroni</link>
     <description></description>
@@ -103,15 +112,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Sun, 03 Dec 2023 08:44:41 +0900</pubDate>
-</item>
-<item>
-    <title>phiori</title>
-    <link>https://github.com/Tatakinov/phiori</link>
-    <description>python3-based SHIORI for Ukagaka(伺か)</description>
-    <category>shiori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/phiori</guid>
-    <pubDate>Mon, 27 Nov 2023 21:31:05 +0900</pubDate>
 </item>
 <item>
     <title>angolmois</title>
