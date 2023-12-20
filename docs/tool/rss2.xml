@@ -24,6 +24,15 @@
     <pubDate>Mon, 04 Dec 2023 17:07:28 +0900</pubDate>
 </item>
 <item>
+    <title>VimUkagakaSSTP</title>
+    <link>https://github.com/ambergon/VimUkagakaSSTP</link>
+    <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
+    <category>tool</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
+    <pubDate>Sun, 03 Dec 2023 13:59:15 +0900</pubDate>
+</item>
+<item>
     <title>yayalint</title>
     <link>https://github.com/Tatakinov/yayalint</link>
     <description>a linter of YAYA</description>
