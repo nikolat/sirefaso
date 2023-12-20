@@ -114,15 +114,6 @@
     <pubDate>Mon, 04 Dec 2023 14:30:08 +0900</pubDate>
 </item>
 <item>
-    <title>VimUkagakaSSTP</title>
-    <link>https://github.com/ambergon/VimUkagakaSSTP</link>
-    <description>vimから伺か・ゴーストにテキストを投げるプラグイン</description>
-    <category>tool</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/VimUkagakaSSTP</guid>
-    <pubDate>Sun, 03 Dec 2023 13:59:15 +0900</pubDate>
-</item>
-<item>
     <title>yaya-as-saori</title>
     <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
     <description>YAYA as SAORI</description>
@@ -274,6 +265,15 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
     <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
+</item>
+<item>
+    <title>ukadonyu</title>
+    <link>https://github.com/nikolat/ukadonyu</link>
+    <description>うかどんクライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukadonyu</guid>
+    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
 </item>
 <item>
     <title>ukadonyu</title>
