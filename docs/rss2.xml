@@ -12,7 +12,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Thu, 21 Dec 2023 19:20:03 +0900</pubDate>
+    <pubDate>Thu, 21 Dec 2023 19:40:17 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -195,6 +195,15 @@
     <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
 </item>
 <item>
+    <title>Bouyomi</title>
+    <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <description>伺かプラグイン</description>
+    <category>plugin</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
+    <pubDate>Sat, 28 Oct 2023 21:21:55 +0900</pubDate>
+</item>
+<item>
     <title>saori-japanese-gengou</title>
     <link>https://github.com/tukinami/saori-japanese-gengou</link>
     <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
@@ -265,15 +274,6 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
     <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
-</item>
-<item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
 </item>
 <item>
     <title>ukadonyu</title>
