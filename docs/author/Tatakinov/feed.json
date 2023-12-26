@@ -307,28 +307,6 @@
             ]
         },
         {
-            "id": "Tatakinov/yayalint_for_vscode",
-            "url": "https://github.com/Tatakinov/yayalint_for_vscode",
-            "title": "yayalint_for_vscode",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-07-09T13:01:20Z",
-            "date_modified": "2022-08-08T12:49:15Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool",
-                "vscode-extension"
-            ]
-        },
-        {
             "id": "Tatakinov/kagari_as_plugin",
             "url": "https://github.com/Tatakinov/kagari_as_plugin",
             "title": "kagari_as_plugin",
