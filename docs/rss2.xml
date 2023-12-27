@@ -276,15 +276,6 @@
     <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
     <title>jong-bari</title>
     <link>https://github.com/nikolat/jong-bari</link>
     <description>麻雀サーバーゴースト</description>
@@ -391,24 +382,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
     <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
-</item>
-<item>
-    <title>jb-pura-vida</title>
-    <link>https://github.com/nikolat/jb-pura-vida</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
-    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
@@ -544,6 +517,33 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
+</item>
+<item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>
