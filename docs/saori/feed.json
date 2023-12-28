@@ -91,6 +91,27 @@
             ]
         },
         {
+            "id": "tukinami/saori-pie-chart",
+            "url": "https://github.com/tukinami/saori-pie-chart",
+            "title": "saori-pie-chart",
+            "content_text": "",
+            "summary": "円グラフを作成するSAORI",
+            "date_published": "2023-06-27T03:07:34Z",
+            "date_modified": "2023-06-27T03:17:44Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",

@@ -42,6 +42,15 @@
     <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
 </item>
 <item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Tue, 27 Jun 2023 12:17:44 +0900</pubDate>
+</item>
+<item>
     <title>akari-as-saori</title>
     <link>https://github.com/nikolat/akari-as-saori</link>
     <description>AKARI as SAORI</description>
