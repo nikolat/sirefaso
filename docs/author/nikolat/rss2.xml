@@ -177,6 +177,51 @@
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
 </item>
 <item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
+</item>
+<item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
+</item>
+<item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sun, 29 Jan 2023 07:54:18 +0900</pubDate>
+</item>
+<item>
     <title>sudohaikuyu</title>
     <link>https://github.com/nikolat/sudohaikuyu</link>
     <description>スドハイククライアント</description>
@@ -193,6 +238,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/recv_net</guid>
     <pubDate>Thu, 30 Nov 2023 13:54:34 +0900</pubDate>
+</item>
+<item>
+    <title>si-near-future</title>
+    <link>https://github.com/nikolat/si-near-future</link>
+    <description>additional shell for simultaneous-interpreter</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/si-near-future</guid>
+    <pubDate>Sun, 04 Dec 2022 20:20:25 +0900</pubDate>
 </item>
 <item>
     <title>cultural-festival</title>
