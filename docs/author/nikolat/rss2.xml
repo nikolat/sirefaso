@@ -33,42 +33,6 @@
     <pubDate>Sat, 14 Oct 2023 19:53:27 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-simultaneous-interpreter</title>
-    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
-    <description>Simultaneous Interpreter Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-hakoirimusume</title>
-    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
-    <description>Klotski for UKAGAKA</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:25 +0900</pubDate>
-</item>
-<item>
     <title>shellbook</title>
     <link>https://github.com/nikolat/shellbook</link>
     <description>freeshell Wiki viewer</description>
@@ -123,15 +87,6 @@
     <pubDate>Wed, 16 Aug 2023 21:22:19 +0900</pubDate>
 </item>
 <item>
-    <title>dsstp-hsp</title>
-    <link>https://github.com/nikolat/dsstp-hsp</link>
-    <description>DirectSSTP Sample</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dsstp-hsp</guid>
-    <pubDate>Tue, 18 Jul 2023 20:22:58 +0900</pubDate>
-</item>
-<item>
     <title>jb-pura-vida</title>
     <link>https://github.com/nikolat/jb-pura-vida</link>
     <description>ゴースト「雀々BARIBARI」用追加シェル</description>
@@ -175,6 +130,51 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-party-parrot</guid>
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
+</item>
+<item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
+</item>
+<item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>

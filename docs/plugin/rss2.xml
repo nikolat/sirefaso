@@ -24,15 +24,6 @@
     <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
     <title>wallet_of_unyu</title>
     <link>https://github.com/nikolat/wallet_of_unyu</link>
     <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
@@ -58,6 +49,15 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/SSP-AIVOICE</guid>
     <pubDate>Sun, 19 Mar 2023 22:34:34 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
     <title>sudohaikuyu</title>
