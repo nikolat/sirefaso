@@ -87,15 +87,6 @@
     <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
 </item>
 <item>
-    <title>DirectSSTPTester</title>
-    <link>https://github.com/nikolat/DirectSSTPTester</link>
-    <description>DirectSSTPを送信するシンプルなテストツール</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
-    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
-</item>
-<item>
     <title>recv_net</title>
     <link>https://github.com/nikolat/recv_net</link>
     <description>里々ログビューア</description>

@@ -114,6 +114,24 @@
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
 </item>
 <item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-hakoirimusume</title>
     <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
     <description>Klotski for UKAGAKA</description>

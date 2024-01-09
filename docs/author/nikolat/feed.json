@@ -78,6 +78,79 @@
             ]
         },
         {
+            "id": "nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "content_text": "",
+            "summary": "うかどんクライアント",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-08-20T06:35:30Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "nikolat/jong-bari",
+            "url": "https://github.com/nikolat/jong-bari",
+            "title": "jong-bari",
+            "content_text": "",
+            "summary": "麻雀サーバーゴースト",
+            "date_published": "2021-06-09T05:21:25Z",
+            "date_modified": "2023-08-16T12:24:55Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/ukagaka-simultaneous-interpreter",
+            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "title": "ukagaka-simultaneous-interpreter",
+            "content_text": "",
+            "summary": "Simultaneous Interpreter Ghost",
+            "date_published": "2022-10-31T10:26:35Z",
+            "date_modified": "2023-08-16T12:24:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/ukagaka-hakoirimusume",
             "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
             "title": "ukagaka-hakoirimusume",
@@ -295,6 +368,29 @@
             ]
         },
         {
+            "id": "nikolat/wallet_of_unyu",
+            "url": "https://github.com/nikolat/wallet_of_unyu",
+            "title": "wallet_of_unyu",
+            "content_text": "",
+            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
+            "date_published": "2023-03-26T02:58:58Z",
+            "date_modified": "2023-05-05T22:36:17Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin",
+                "yaya"
+            ]
+        },
+        {
             "id": "nikolat/akari-as-saori",
             "url": "https://github.com/nikolat/akari-as-saori",
             "title": "akari-as-saori",
@@ -363,92 +459,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/dnproxy",
-            "url": "https://github.com/nikolat/dnproxy",
-            "title": "dnproxy",
-            "content_text": "",
-            "summary": ".NET Framework SHIORI",
-            "date_published": "2023-02-02T10:08:45Z",
-            "date_modified": "2023-02-03T02:22:52Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "dotnet-framework",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2023-02-02T04:13:51Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/github-nar-station",
-            "url": "https://github.com/nikolat/github-nar-station",
-            "title": "github-nar-station",
-            "content_text": "",
-            "summary": "GitHubで公開されているNARファイルを一覧表示する",
-            "date_published": "2022-04-23T00:34:06Z",
-            "date_modified": "2023-01-29T10:13:00Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/github-dau-crawler",
-            "url": "https://github.com/nikolat/github-dau-crawler",
-            "title": "github-dau-crawler",
-            "content_text": "",
-            "summary": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
-            "date_published": "2022-04-27T04:23:02Z",
-            "date_modified": "2023-01-29T10:12:42Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-webapp"
             ]
         },
         {
