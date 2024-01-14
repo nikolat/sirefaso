@@ -6,6 +6,51 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/tama",
+            "url": "https://github.com/YAYA-shiori/tama",
+            "title": "tama",
+            "content_text": "",
+            "summary": "Tama - AYA5 Console",
+            "date_published": "2022-02-12T05:08:54Z",
+            "date_modified": "2024-01-14T05:55:27Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "aya5",
+                "shiori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2024-01-14T05:39:25Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "tukinami/taidanaSanoSan",
             "url": "https://github.com/tukinami/taidanaSanoSan",
             "title": "taidanaSanoSan",
@@ -46,27 +91,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2024-01-08T08:36:00Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
@@ -1019,30 +1043,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/tama",
-            "url": "https://github.com/YAYA-shiori/tama",
-            "title": "tama",
-            "content_text": "",
-            "summary": "Tama - AYA5 Console",
-            "date_published": "2022-02-12T05:08:54Z",
-            "date_modified": "2023-05-13T14:55:51Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "aya",
-                "aya5",
-                "shiori",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
