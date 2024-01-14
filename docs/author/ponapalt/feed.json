@@ -27,6 +27,48 @@
             ]
         },
         {
+            "id": "ponapalt/StayseeBalloon",
+            "url": "https://github.com/ponapalt/StayseeBalloon",
+            "title": "StayseeBalloon",
+            "content_text": "",
+            "summary": "Balloon for Staysee Syncfield",
+            "date_published": "2020-06-26T13:49:09Z",
+            "date_modified": "2021-11-05T20:04:32Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "ponapalt/sleety_rain",
+            "url": "https://github.com/ponapalt/sleety_rain",
+            "title": "sleety_rain",
+            "content_text": "",
+            "summary": "Balloon for Mizore",
+            "date_published": "2021-10-18T07:07:25Z",
+            "date_modified": "2021-10-18T11:56:35Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
             "id": "ponapalt/ToothandNailBalloon",
             "url": "https://github.com/ponapalt/ToothandNailBalloon",
             "title": "ToothandNailBalloon",
