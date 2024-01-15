@@ -49,6 +49,28 @@
             ]
         },
         {
+            "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "title": "ukagakaPlugin_CeVIO-TalkerV2",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-04-06T05:41:15Z",
+            "date_modified": "2023-08-23T06:43:19Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
