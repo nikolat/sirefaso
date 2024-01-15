@@ -33,6 +33,15 @@
     <pubDate>Mon, 23 Oct 2023 05:23:16 +0900</pubDate>
 </item>
 <item>
+    <title>saori_budoux</title>
+    <link>https://github.com/Tatakinov/saori_budoux</link>
+    <description>budouxを伺かで使えるようにした的なアレ</description>
+    <category>saori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/saori_budoux</guid>
+    <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
+</item>
+<item>
     <title>saori-pie-chart</title>
     <link>https://github.com/tukinami/saori-pie-chart</link>
     <description>円グラフを作成するSAORI</description>
