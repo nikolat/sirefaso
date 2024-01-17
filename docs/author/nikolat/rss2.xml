@@ -177,15 +177,6 @@
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
 </item>
 <item>
-    <title>dnproxy</title>
-    <link>https://github.com/nikolat/dnproxy</link>
-    <description>.NET Framework SHIORI</description>
-    <category>shiori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dnproxy</guid>
-    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
-</item>
-<item>
     <title>DirectSSTPTester</title>
     <link>https://github.com/nikolat/DirectSSTPTester</link>
     <description>DirectSSTPを送信するシンプルなテストツール</description>
