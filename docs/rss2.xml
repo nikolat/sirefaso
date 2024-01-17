@@ -276,15 +276,6 @@
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
 </item>
 <item>
-    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
-    <description></description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
-    <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -483,15 +474,6 @@
     <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
 </item>
 <item>
-    <title>SSP-AIVOICE</title>
-    <link>https://github.com/opera7133/SSP-AIVOICE</link>
-    <description>伺かとA.I.VOICEを連携</description>
-    <category>plugin</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/SSP-AIVOICE</guid>
-    <pubDate>Sun, 19 Mar 2023 22:34:34 +0900</pubDate>
-</item>
-<item>
     <title>b_f_watersurface</title>
     <link>https://github.com/ponapalt/b_f_watersurface</link>
     <description>/balloon/for/watersurface</description>
@@ -544,6 +526,24 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>

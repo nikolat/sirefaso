@@ -27,28 +27,6 @@
             ]
         },
         {
-            "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
-            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
-            "title": "ukagakaPlugin_CeVIO-TalkerV2",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-04-06T05:41:15Z",
-            "date_modified": "2023-08-23T06:43:19Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "nikolat/ukadonyu",
             "url": "https://github.com/nikolat/ukadonyu",
             "title": "ukadonyu",
@@ -108,28 +86,6 @@
                     "name": "ambergon",
                     "url": "https://github.com/ambergon",
                     "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "opera7133/SSP-AIVOICE",
-            "url": "https://github.com/opera7133/SSP-AIVOICE",
-            "title": "SSP-AIVOICE",
-            "content_text": "",
-            "summary": "伺かとA.I.VOICEを連携",
-            "date_published": "2023-03-16T08:12:38Z",
-            "date_modified": "2023-03-19T13:34:34Z",
-            "authors": [
-                {
-                    "name": "opera7133",
-                    "url": "https://github.com/opera7133",
-                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
                 }
             ],
             "tags": [
