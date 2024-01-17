@@ -15,6 +15,15 @@
     <pubDate>Sat, 28 Oct 2023 21:21:55 +0900</pubDate>
 </item>
 <item>
+    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
+    <description></description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
+    <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
+</item>
+<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -40,6 +49,15 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-Talker</guid>
     <pubDate>Thu, 06 Apr 2023 15:27:00 +0900</pubDate>
+</item>
+<item>
+    <title>SSP-AIVOICE</title>
+    <link>https://github.com/opera7133/SSP-AIVOICE</link>
+    <description>伺かとA.I.VOICEを連携</description>
+    <category>plugin</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/SSP-AIVOICE</guid>
+    <pubDate>Sun, 19 Mar 2023 22:34:34 +0900</pubDate>
 </item>
 <item>
     <title>sudohaikuyu</title>
