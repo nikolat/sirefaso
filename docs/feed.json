@@ -1353,6 +1353,28 @@
             ]
         },
         {
+            "id": "nikolat/dnproxy",
+            "url": "https://github.com/nikolat/dnproxy",
+            "title": "dnproxy",
+            "content_text": "",
+            "summary": ".NET Framework SHIORI",
+            "date_published": "2023-02-02T10:08:45Z",
+            "date_modified": "2023-02-03T02:22:52Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "nikolat/DirectSSTPTester",
             "url": "https://github.com/nikolat/DirectSSTPTester",
             "title": "DirectSSTPTester",
@@ -2001,27 +2023,6 @@
                 "sirefaso",
                 "sosiremi",
                 "ukagaka-supplement"
-            ]
-        },
-        {
-            "id": "ponapalt/StayseeBalloon",
-            "url": "https://github.com/ponapalt/StayseeBalloon",
-            "title": "StayseeBalloon",
-            "content_text": "",
-            "summary": "Balloon for Staysee Syncfield",
-            "date_published": "2020-06-26T13:49:09Z",
-            "date_modified": "2021-11-05T20:04:32Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
             ]
         },
         {

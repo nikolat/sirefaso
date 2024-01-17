@@ -546,6 +546,15 @@
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
 </item>
 <item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
     <title>DirectSSTPTester</title>
     <link>https://github.com/nikolat/DirectSSTPTester</link>
     <description>DirectSSTPを送信するシンプルなテストツール</description>
@@ -805,15 +814,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-caramelldansen-patch</guid>
     <pubDate>Mon, 30 May 2022 19:25:23 +0900</pubDate>
-</item>
-<item>
-    <title>StayseeBalloon</title>
-    <link>https://github.com/ponapalt/StayseeBalloon</link>
-    <description>Balloon for Staysee Syncfield</description>
-    <category>balloon</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/StayseeBalloon</guid>
-    <pubDate>Sat, 06 Nov 2021 05:04:32 +0900</pubDate>
 </item>
 <item>
     <title>StayseeBalloon</title>
