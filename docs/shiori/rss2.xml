@@ -42,6 +42,15 @@
     <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
 </item>
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sun, 10 Dec 2023 16:54:59 +0900</pubDate>
+</item>
+<item>
     <title>dnproxy</title>
     <link>https://github.com/nikolat/dnproxy</link>
     <description>.NET Framework SHIORI</description>
