@@ -73,6 +73,52 @@
             ]
         },
         {
+            "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "title": "ukagakaPlugin_CeVIO-TalkerV2",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-04-06T05:41:15Z",
+            "date_modified": "2023-08-23T06:43:19Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "nikolat/ukadonyu",
+            "url": "https://github.com/nikolat/ukadonyu",
+            "title": "ukadonyu",
+            "content_text": "",
+            "summary": "うかどんクライアント",
+            "date_published": "2021-11-24T13:17:47Z",
+            "date_modified": "2023-08-20T06:35:30Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "mastodon-client",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/wallet_of_unyu",
             "url": "https://github.com/nikolat/wallet_of_unyu",
             "title": "wallet_of_unyu",

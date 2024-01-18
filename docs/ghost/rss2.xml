@@ -15,15 +15,6 @@
     <pubDate>Sat, 13 Jan 2024 12:50:52 +0900</pubDate>
 </item>
 <item>
-    <title>Oyatsu_ha_Macaroni</title>
-    <link>https://github.com/Shimofumi/Oyatsu_ha_Macaroni</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Shimofumi</dc:creator>
-    <guid isPermaLink="false">Shimofumi/Oyatsu_ha_Macaroni</guid>
-    <pubDate>Sun, 07 Jan 2024 14:02:47 +0900</pubDate>
-</item>
-<item>
     <title>myalice2</title>
     <link>https://github.com/etwaslangsam/myalice2</link>
     <description>ゴースト「僕のアリス2」</description>
@@ -112,6 +103,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
+</item>
+<item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:55 +0900</pubDate>
 </item>
 <item>
     <title>jong-bari</title>
