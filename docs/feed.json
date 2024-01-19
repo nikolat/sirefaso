@@ -1353,6 +1353,28 @@
             ]
         },
         {
+            "id": "nikolat/dnproxy",
+            "url": "https://github.com/nikolat/dnproxy",
+            "title": "dnproxy",
+            "content_text": "",
+            "summary": ".NET Framework SHIORI",
+            "date_published": "2023-02-02T10:08:45Z",
+            "date_modified": "2023-02-03T02:22:52Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "nikolat/DirectSSTPTester",
             "url": "https://github.com/nikolat/DirectSSTPTester",
             "title": "DirectSSTPTester",
@@ -1594,6 +1616,27 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "content_text": "",
+            "summary": "伺かゴースト「ヘイミル・ロゥ」用追加シェル",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
             ]
         },
         {
@@ -1980,48 +2023,6 @@
                 "sirefaso",
                 "sosiremi",
                 "ukagaka-supplement"
-            ]
-        },
-        {
-            "id": "ponapalt/StayseeBalloon",
-            "url": "https://github.com/ponapalt/StayseeBalloon",
-            "title": "StayseeBalloon",
-            "content_text": "",
-            "summary": "Balloon for Staysee Syncfield",
-            "date_published": "2020-06-26T13:49:09Z",
-            "date_modified": "2021-11-05T20:04:32Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "ponapalt/sleety_rain",
-            "url": "https://github.com/ponapalt/sleety_rain",
-            "title": "sleety_rain",
-            "content_text": "",
-            "summary": "Balloon for Mizore",
-            "date_published": "2021-10-18T07:07:25Z",
-            "date_modified": "2021-10-18T11:56:35Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
             ]
         },
         {

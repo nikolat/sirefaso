@@ -546,6 +546,15 @@
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
 </item>
 <item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
     <title>DirectSSTPTester</title>
     <link>https://github.com/nikolat/DirectSSTPTester</link>
     <description>DirectSSTPを送信するシンプルなテストツール</description>
@@ -643,6 +652,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_red</guid>
     <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
 </item>
 <item>
     <title>UkagakaPlugin_DBdiary</title>
@@ -796,24 +814,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-caramelldansen-patch</guid>
     <pubDate>Mon, 30 May 2022 19:25:23 +0900</pubDate>
-</item>
-<item>
-    <title>StayseeBalloon</title>
-    <link>https://github.com/ponapalt/StayseeBalloon</link>
-    <description>Balloon for Staysee Syncfield</description>
-    <category>balloon</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/StayseeBalloon</guid>
-    <pubDate>Sat, 06 Nov 2021 05:04:32 +0900</pubDate>
-</item>
-<item>
-    <title>sleety_rain</title>
-    <link>https://github.com/ponapalt/sleety_rain</link>
-    <description>Balloon for Mizore</description>
-    <category>balloon</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/sleety_rain</guid>
-    <pubDate>Mon, 18 Oct 2021 20:56:35 +0900</pubDate>
 </item>
 <item>
     <title>StayseeBalloon</title>
