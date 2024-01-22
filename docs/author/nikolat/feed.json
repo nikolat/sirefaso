@@ -462,92 +462,6 @@
             ]
         },
         {
-            "id": "nikolat/dnproxy",
-            "url": "https://github.com/nikolat/dnproxy",
-            "title": "dnproxy",
-            "content_text": "",
-            "summary": ".NET Framework SHIORI",
-            "date_published": "2023-02-02T10:08:45Z",
-            "date_modified": "2023-02-03T02:22:52Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "dotnet-framework",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2023-02-02T04:13:51Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/github-nar-station",
-            "url": "https://github.com/nikolat/github-nar-station",
-            "title": "github-nar-station",
-            "content_text": "",
-            "summary": "GitHubで公開されているNARファイルを一覧表示する",
-            "date_published": "2022-04-23T00:34:06Z",
-            "date_modified": "2023-01-29T10:13:00Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/github-dau-crawler",
-            "url": "https://github.com/nikolat/github-dau-crawler",
-            "title": "github-dau-crawler",
-            "content_text": "",
-            "summary": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
-            "date_published": "2022-04-27T04:23:02Z",
-            "date_modified": "2023-01-29T10:12:42Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
             "id": "nikolat/MahjongUtil",
             "url": "https://github.com/nikolat/MahjongUtil",
             "title": "MahjongUtil",
@@ -626,29 +540,6 @@
             "summary": "additional shell for simultaneous-interpreter",
             "date_published": "2022-06-04T06:38:10Z",
             "date_modified": "2022-12-04T11:20:25Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell",
-                "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/cultural-festival",
-            "url": "https://github.com/nikolat/cultural-festival",
-            "title": "cultural-festival",
-            "content_text": "",
-            "summary": "ゴースト「卓上誘技」用追加シェル",
-            "date_published": "2022-11-09T11:15:34Z",
-            "date_modified": "2022-11-09T11:29:32Z",
             "authors": [
                 {
                     "name": "nikolat",
@@ -782,27 +673,6 @@
                 "ukagaka",
                 "ukagaka-plugin",
                 "yaya"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-caramelldansen-patch",
-            "url": "https://github.com/nikolat/ukagaka-caramelldansen-patch",
-            "title": "ukagaka-caramelldansen-patch",
-            "content_text": "",
-            "summary": "caramelldansen修正用supplement",
-            "date_published": "2022-04-26T22:25:36Z",
-            "date_modified": "2022-05-30T10:25:23Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-supplement"
             ]
         }
     ]
