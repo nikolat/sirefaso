@@ -455,29 +455,6 @@
             ]
         },
         {
-            "id": "nikolat/ghostbook",
-            "url": "https://github.com/nikolat/ghostbook",
-            "title": "ghostbook",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-08-16T12:22:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/crawler_uploader",
             "url": "https://github.com/nikolat/crawler_uploader",
             "title": "crawler_uploader",

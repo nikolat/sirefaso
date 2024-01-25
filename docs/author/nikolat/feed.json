@@ -274,29 +274,6 @@
             ]
         },
         {
-            "id": "nikolat/ghostbook",
-            "url": "https://github.com/nikolat/ghostbook",
-            "title": "ghostbook",
-            "content_text": "",
-            "summary": "伺かゴースト",
-            "date_published": "2023-01-02T00:50:38Z",
-            "date_modified": "2023-08-16T12:22:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost",
-                "yaya"
-            ]
-        },
-        {
             "id": "nikolat/crawler_uploader",
             "url": "https://github.com/nikolat/crawler_uploader",
             "title": "crawler_uploader",
@@ -459,6 +436,50 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/dnproxy",
+            "url": "https://github.com/nikolat/dnproxy",
+            "title": "dnproxy",
+            "content_text": "",
+            "summary": ".NET Framework SHIORI",
+            "date_published": "2023-02-02T10:08:45Z",
+            "date_modified": "2023-02-03T02:22:52Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "nikolat/DirectSSTPTester",
+            "url": "https://github.com/nikolat/DirectSSTPTester",
+            "title": "DirectSSTPTester",
+            "content_text": "",
+            "summary": "DirectSSTPを送信するシンプルなテストツール",
+            "date_published": "2021-11-12T08:28:32Z",
+            "date_modified": "2023-02-02T04:13:51Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {

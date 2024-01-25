@@ -276,15 +276,6 @@
     <pubDate>Sun, 03 Sep 2023 21:47:37 +0900</pubDate>
 </item>
 <item>
-    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
-    <description></description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
-    <pubDate>Wed, 23 Aug 2023 15:43:19 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -355,15 +346,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-chunchun</guid>
     <pubDate>Wed, 16 Aug 2023 21:23:00 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>
@@ -544,6 +526,24 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
     <pubDate>Thu, 09 Feb 2023 19:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>dnproxy</title>
+    <link>https://github.com/nikolat/dnproxy</link>
+    <description>.NET Framework SHIORI</description>
+    <category>shiori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/dnproxy</guid>
+    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 02 Feb 2023 13:13:51 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>
