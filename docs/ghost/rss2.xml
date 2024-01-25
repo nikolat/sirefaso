@@ -177,6 +177,15 @@
     <pubDate>Wed, 16 Aug 2023 21:23:00 +0900</pubDate>
 </item>
 <item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
+</item>
+<item>
     <title>crawler_uploader</title>
     <link>https://github.com/nikolat/crawler_uploader</link>
     <description>UKAGAKA Ghost</description>
