@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/DirectSSTPTester",
+            "url": "https://github.com/nikolat/DirectSSTPTester",
+            "title": "DirectSSTPTester",
+            "content_text": "",
+            "summary": "DirectSSTPを送信するシンプルなテストツール",
+            "date_published": "2021-11-12T08:28:32Z",
+            "date_modified": "2024-03-07T12:16:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "nikolat/ukaten",
             "url": "https://github.com/nikolat/ukaten",
             "title": "ukaten",
@@ -505,28 +527,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2023-02-02T04:13:51Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
