@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Fri, 15 Mar 2024 19:26:22 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Fri, 15 Mar 2024 19:26:14 +0900</pubDate>
+</item>
+<item>
     <title>kotori</title>
     <link>https://github.com/Tatakinov/kotori</link>
     <description></description>
@@ -589,24 +607,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/dnproxy</guid>
     <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
-</item>
-<item>
-    <title>github-nar-station</title>
-    <link>https://github.com/nikolat/github-nar-station</link>
-    <description>GitHubで公開されているNARファイルを一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-nar-station</guid>
-    <pubDate>Sun, 29 Jan 2023 19:13:00 +0900</pubDate>
-</item>
-<item>
-    <title>github-dau-crawler</title>
-    <link>https://github.com/nikolat/github-dau-crawler</link>
-    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
-    <pubDate>Sun, 29 Jan 2023 19:12:42 +0900</pubDate>
 </item>
 <item>
     <title>MahjongUtil</title>
