@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Sat, 16 Mar 2024 20:05:56 +0900</pubDate>
+</item>
+<item>
     <title>knowledgeable_kernel</title>
     <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
     <description></description>
@@ -139,15 +148,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/cage_head_with_blue_bird</guid>
     <pubDate>Tue, 13 Feb 2024 16:37:19 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sat, 10 Feb 2024 22:44:23 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
