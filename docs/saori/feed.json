@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/saori-qrcode",
+            "url": "https://github.com/nikolat/saori-qrcode",
+            "title": "saori-qrcode",
+            "content_text": "",
+            "summary": "SAORI for UKAGAKA.  Make QR Code.",
+            "date_published": "2024-03-31T04:24:37Z",
+            "date_modified": "2024-03-31T08:23:28Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "tukinami/saori-resized-png-mini",
             "url": "https://github.com/tukinami/saori-resized-png-mini",
             "title": "saori-resized-png-mini",

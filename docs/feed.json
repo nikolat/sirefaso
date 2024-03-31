@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "etwaslangsam/myalice2",
+            "url": "https://github.com/etwaslangsam/myalice2",
+            "title": "myalice2",
+            "content_text": "",
+            "summary": "ゴースト「僕のアリス2」",
+            "date_published": "2016-03-28T11:24:49Z",
+            "date_modified": "2024-03-31T08:42:53Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/saori-qrcode",
+            "url": "https://github.com/nikolat/saori-qrcode",
+            "title": "saori-qrcode",
+            "content_text": "",
+            "summary": "SAORI for UKAGAKA.  Make QR Code.",
+            "date_published": "2024-03-31T04:24:37Z",
+            "date_modified": "2024-03-31T08:23:28Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "tukinami/saori-resized-png-mini",
             "url": "https://github.com/tukinami/saori-resized-png-mini",
             "title": "saori-resized-png-mini",
@@ -67,28 +111,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "etwaslangsam/myalice2",
-            "url": "https://github.com/etwaslangsam/myalice2",
-            "title": "myalice2",
-            "content_text": "",
-            "summary": "ゴースト「僕のアリス2」",
-            "date_published": "2016-03-28T11:24:49Z",
-            "date_modified": "2024-03-24T08:34:46Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
