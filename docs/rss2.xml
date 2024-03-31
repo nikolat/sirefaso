@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Sun, 31 Mar 2024 16:53:14 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png</title>
     <link>https://github.com/tukinami/saori-resized-png</link>
     <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
@@ -571,15 +580,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
     <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Fri, 03 Mar 2023 19:31:50 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
