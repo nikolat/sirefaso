@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "etwaslangsam/Gertrude",
+            "url": "https://github.com/etwaslangsam/Gertrude",
+            "title": "Gertrude",
+            "content_text": "",
+            "summary": "俺が嫁",
+            "date_published": "2018-11-09T10:41:18Z",
+            "date_modified": "2024-04-18T13:16:46Z",
+            "authors": [
+                {
+                    "name": "etwaslangsam",
+                    "url": "https://github.com/etwaslangsam",
+                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "kanadelab/Satolist2",
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",
@@ -437,28 +459,6 @@
                 "ukagaka",
                 "ukagaka-plugin",
                 "yaya"
-            ]
-        },
-        {
-            "id": "etwaslangsam/Gertrude",
-            "url": "https://github.com/etwaslangsam/Gertrude",
-            "title": "Gertrude",
-            "content_text": "",
-            "summary": "俺が嫁",
-            "date_published": "2018-11-09T10:41:18Z",
-            "date_modified": "2024-03-07T15:08:08Z",
-            "authors": [
-                {
-                    "name": "etwaslangsam",
-                    "url": "https://github.com/etwaslangsam",
-                    "avatar": "https://avatars.githubusercontent.com/u/8955817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
