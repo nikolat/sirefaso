@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
+            "content_text": "",
+            "summary": "Ukagaka ghost HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2024-05-04T10:18:39Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/konnoyayame",
             "url": "https://github.com/YAYA-shiori/konnoyayame",
             "title": "konnoyayame",
@@ -188,28 +210,6 @@
             "summary": "",
             "date_published": "2023-12-10T12:23:00Z",
             "date_modified": "2024-01-07T05:02:47Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Shimofumi/HamirLore",
-            "url": "https://github.com/Shimofumi/HamirLore",
-            "title": "HamirLore",
-            "content_text": "",
-            "summary": "Ukagaka ghost HamirLore",
-            "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2023-12-26T12:23:23Z",
             "authors": [
                 {
                     "name": "Shimofumi",
