@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/tukinami/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 05 May 2024 14:33:23 +0900</pubDate>
+</item>
+<item>
     <title>lady-goldfish-bowl</title>
     <link>https://github.com/tukinami/lady-goldfish-bowl</link>
     <description>伺か用フリーシェル。金魚が入った金魚鉢の頭を持つ女性。</description>
@@ -13,15 +22,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/lady-goldfish-bowl</guid>
     <pubDate>Thu, 02 May 2024 00:58:39 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 28 Apr 2024 12:53:41 +0900</pubDate>
 </item>
 <item>
     <title>saori-calcs</title>
