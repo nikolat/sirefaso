@@ -1,0 +1,31 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "lost-nd-xxx | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/lost-nd-xxx/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/lost-nd-xxx/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "lost-nd-xxx/LilyNovelPlayer",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
+            "title": "LilyNovelPlayer",
+            "content_text": "",
+            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
+            "date_published": "2024-05-17T16:44:26Z",
+            "date_modified": "2024-05-17T19:28:27Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        }
+    ]
+}
