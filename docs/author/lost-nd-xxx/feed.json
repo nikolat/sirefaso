@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/unyu_lunchbox",
+            "url": "https://github.com/lost-nd-xxx/unyu_lunchbox",
+            "title": "unyu_lunchbox",
+            "content_text": "",
+            "summary": "ゴースト「うにゅうのお弁当箱」",
+            "date_published": "2024-05-18T06:48:45Z",
+            "date_modified": "2024-05-18T11:00:21Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/LilyNovelPlayer",
             "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
             "title": "LilyNovelPlayer",
