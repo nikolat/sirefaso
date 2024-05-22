@@ -12,7 +12,16 @@
     <category>ghost</category>
     <dc:creator>Shimofumi</dc:creator>
     <guid isPermaLink="false">Shimofumi/HamirLore</guid>
-    <pubDate>Wed, 22 May 2024 22:30:48 +0900</pubDate>
+    <pubDate>Wed, 22 May 2024 23:11:22 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
+    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
+    <pubDate>Wed, 22 May 2024 23:01:52 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>
@@ -49,15 +58,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/unyu_lunchbox</guid>
     <pubDate>Sat, 18 May 2024 20:00:21 +0900</pubDate>
-</item>
-<item>
-    <title>LilyNovelPlayer</title>
-    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
-    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
-    <pubDate>Sat, 18 May 2024 09:24:10 +0900</pubDate>
 </item>
 <item>
     <title>Gertrude</title>
