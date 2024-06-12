@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Wed, 12 Jun 2024 12:28:46 +0900</pubDate>
+</item>
+<item>
     <title>nostalk</title>
     <link>https://github.com/nikolat/nostalk</link>
     <description>Nostr player on Ukagaka</description>
@@ -202,15 +211,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/saori-qrcode</guid>
     <pubDate>Sun, 31 Mar 2024 17:23:28 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Sun, 31 Mar 2024 16:53:14 +0900</pubDate>
 </item>
 <item>
     <title>saori-resized-png</title>

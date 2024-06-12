@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/saori-resized-png-mini",
+            "url": "https://github.com/tukinami/saori-resized-png-mini",
+            "title": "saori-resized-png-mini",
+            "content_text": "",
+            "summary": "SAORI to resize image and save as png (limited edition)",
+            "date_published": "2023-03-03T10:30:17Z",
+            "date_modified": "2024-06-12T03:28:46Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "nikolat/MahjongUtil",
             "url": "https://github.com/nikolat/MahjongUtil",
             "title": "MahjongUtil",
@@ -132,27 +153,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png-mini",
-            "url": "https://github.com/tukinami/saori-resized-png-mini",
-            "title": "saori-resized-png-mini",
-            "content_text": "",
-            "summary": "SAORI to resize image and save as png (limited edition)",
-            "date_published": "2023-03-03T10:30:17Z",
-            "date_modified": "2024-03-31T07:53:14Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"
             ]
