@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
+            "content_text": "",
+            "summary": "Ukagaka ghost HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2024-06-12T15:30:55Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/nostalk",
             "url": "https://github.com/nikolat/nostalk",
             "title": "nostalk",
@@ -62,28 +84,6 @@
                     "name": "lost-nd-xxx",
                     "url": "https://github.com/lost-nd-xxx",
                     "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Shimofumi/HamirLore",
-            "url": "https://github.com/Shimofumi/HamirLore",
-            "title": "HamirLore",
-            "content_text": "",
-            "summary": "Ukagaka ghost HamirLore",
-            "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2024-05-23T11:10:15Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
                 }
             ],
             "tags": [
