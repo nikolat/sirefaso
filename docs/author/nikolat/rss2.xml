@@ -12,7 +12,16 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/nostalk</guid>
-    <pubDate>Wed, 12 Jun 2024 16:35:34 +0900</pubDate>
+    <pubDate>Thu, 13 Jun 2024 20:40:06 +0900</pubDate>
+</item>
+<item>
+    <title>angolmois</title>
+    <link>https://github.com/nikolat/angolmois</link>
+    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/angolmois</guid>
+    <pubDate>Thu, 13 Jun 2024 20:34:13 +0900</pubDate>
 </item>
 <item>
     <title>MahjongUtil</title>
@@ -85,15 +94,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukaten</guid>
     <pubDate>Mon, 29 Jan 2024 07:49:30 +0900</pubDate>
-</item>
-<item>
-    <title>angolmois</title>
-    <link>https://github.com/nikolat/angolmois</link>
-    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/angolmois</guid>
-    <pubDate>Mon, 27 Nov 2023 18:54:55 +0900</pubDate>
 </item>
 <item>
     <title>jong-rinrin</title>

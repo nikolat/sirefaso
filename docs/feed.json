@@ -6,6 +6,72 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2024-06-13T11:46:31Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "nikolat/nostalk",
+            "url": "https://github.com/nikolat/nostalk",
+            "title": "nostalk",
+            "content_text": "",
+            "summary": "Nostr player on Ukagaka",
+            "date_published": "2024-06-05T07:31:22Z",
+            "date_modified": "2024-06-13T11:40:06Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "nikolat/angolmois",
+            "url": "https://github.com/nikolat/angolmois",
+            "title": "angolmois",
+            "content_text": "",
+            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
+            "date_published": "2023-02-17T02:14:04Z",
+            "date_modified": "2024-06-13T11:34:13Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "nostr-client",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "Shimofumi/HamirLore",
             "url": "https://github.com/Shimofumi/HamirLore",
             "title": "HamirLore",
@@ -18,28 +84,6 @@
                     "name": "Shimofumi",
                     "url": "https://github.com/Shimofumi",
                     "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/nostalk",
-            "url": "https://github.com/nikolat/nostalk",
-            "title": "nostalk",
-            "content_text": "",
-            "summary": "Nostr player on Ukagaka",
-            "date_published": "2024-06-05T07:31:22Z",
-            "date_modified": "2024-06-12T07:35:34Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
                 }
             ],
             "tags": [
@@ -68,27 +112,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2024-06-09T09:17:27Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
@@ -942,29 +965,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/angolmois",
-            "url": "https://github.com/nikolat/angolmois",
-            "title": "angolmois",
-            "content_text": "",
-            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
-            "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2023-11-27T09:54:55Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "nostr-client",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
             ]
         },
         {
