@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/kagari_as_plugin",
+            "url": "https://github.com/Tatakinov/kagari_as_plugin",
+            "title": "kagari_as_plugin",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-08-06T07:39:03Z",
+            "date_modified": "2024-06-14T13:51:39Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "Tatakinov/banjou_no_sumikko_de",
             "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
             "title": "banjou_no_sumikko_de",
@@ -326,27 +347,6 @@
                 "ukagaka",
                 "ukagaka-tool",
                 "vscode-extension"
-            ]
-        },
-        {
-            "id": "Tatakinov/kagari_as_plugin",
-            "url": "https://github.com/Tatakinov/kagari_as_plugin",
-            "title": "kagari_as_plugin",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-08-06T07:39:03Z",
-            "date_modified": "2022-08-06T11:57:03Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         }
     ]

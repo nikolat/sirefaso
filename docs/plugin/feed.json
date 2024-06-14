@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/kagari_as_plugin",
+            "url": "https://github.com/Tatakinov/kagari_as_plugin",
+            "title": "kagari_as_plugin",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-08-06T07:39:03Z",
+            "date_modified": "2024-06-14T13:51:39Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "nikolat/wallet_of_unyu",
             "url": "https://github.com/nikolat/wallet_of_unyu",
             "title": "wallet_of_unyu",
@@ -275,27 +296,6 @@
                 "ukagaka",
                 "ukagaka-plugin",
                 "yaya"
-            ]
-        },
-        {
-            "id": "Tatakinov/kagari_as_plugin",
-            "url": "https://github.com/Tatakinov/kagari_as_plugin",
-            "title": "kagari_as_plugin",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-08-06T07:39:03Z",
-            "date_modified": "2022-08-06T11:57:03Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         }
     ]
