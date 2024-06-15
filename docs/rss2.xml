@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_as_plugin</guid>
-    <pubDate>Fri, 14 Jun 2024 22:51:39 +0900</pubDate>
+    <pubDate>Sat, 15 Jun 2024 10:37:02 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Sat, 15 Jun 2024 09:56:13 +0900</pubDate>
 </item>
 <item>
     <title>nostalk</title>
@@ -31,15 +40,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
     <pubDate>Fri, 14 Jun 2024 12:19:24 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Thu, 13 Jun 2024 21:59:24 +0900</pubDate>
 </item>
 <item>
     <title>angolmois</title>
