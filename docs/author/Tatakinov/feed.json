@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/kotori",
+            "url": "https://github.com/Tatakinov/kotori",
+            "title": "kotori",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-14T13:22:30Z",
+            "date_modified": "2024-06-15T22:14:27Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "Tatakinov/kagari_as_plugin",
             "url": "https://github.com/Tatakinov/kagari_as_plugin",
             "title": "kagari_as_plugin",
@@ -68,27 +89,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/kotori",
-            "url": "https://github.com/Tatakinov/kotori",
-            "title": "kotori",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2022-11-14T13:22:30Z",
-            "date_modified": "2024-03-13T13:02:21Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
