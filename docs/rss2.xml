@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Mon, 05 Aug 2024 22:20:57 +0900</pubDate>
+</item>
+<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>
@@ -148,15 +157,6 @@
     <dc:creator>Shimofumi</dc:creator>
     <guid isPermaLink="false">Shimofumi/HamirLore</guid>
     <pubDate>Thu, 13 Jun 2024 00:30:55 +0900</pubDate>
-</item>
-<item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Sat, 01 Jun 2024 23:30:39 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>
