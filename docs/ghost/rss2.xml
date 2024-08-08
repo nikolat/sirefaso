@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>HamirLore</title>
+    <link>https://github.com/Shimofumi/HamirLore</link>
+    <description>Ukagaka ghost HamirLore</description>
+    <category>ghost</category>
+    <dc:creator>Shimofumi</dc:creator>
+    <guid isPermaLink="false">Shimofumi/HamirLore</guid>
+    <pubDate>Thu, 08 Aug 2024 19:07:58 +0900</pubDate>
+</item>
+<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -85,15 +94,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
     <pubDate>Sun, 23 Jun 2024 12:38:32 +0900</pubDate>
-</item>
-<item>
-    <title>HamirLore</title>
-    <link>https://github.com/Shimofumi/HamirLore</link>
-    <description>Ukagaka ghost HamirLore</description>
-    <category>ghost</category>
-    <dc:creator>Shimofumi</dc:creator>
-    <guid isPermaLink="false">Shimofumi/HamirLore</guid>
-    <pubDate>Thu, 13 Jun 2024 00:30:55 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>

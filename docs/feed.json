@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "伺か的フリーシェル「海で一番強い生き物」ちゃん",
             "date_published": "2024-08-06T18:28:27Z",
-            "date_modified": "2024-08-06T19:08:19Z",
+            "date_modified": "2024-08-08T10:15:03Z",
             "authors": [
                 {
                     "name": "Shimofumi",
@@ -25,6 +25,28 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
+            "content_text": "",
+            "summary": "Ukagaka ghost HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2024-08-08T10:07:58Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
@@ -392,28 +414,6 @@
                 "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "Shimofumi/HamirLore",
-            "url": "https://github.com/Shimofumi/HamirLore",
-            "title": "HamirLore",
-            "content_text": "",
-            "summary": "Ukagaka ghost HamirLore",
-            "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2024-06-12T15:30:55Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
