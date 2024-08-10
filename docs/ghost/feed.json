@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/nostalk",
+            "url": "https://github.com/nikolat/nostalk",
+            "title": "nostalk",
+            "content_text": "",
+            "summary": "Nostr player on Ukagaka",
+            "date_published": "2024-06-05T07:31:22Z",
+            "date_modified": "2024-08-10T21:59:01Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Shimofumi/HamirLore",
             "url": "https://github.com/Shimofumi/HamirLore",
             "title": "HamirLore",
@@ -162,28 +184,6 @@
                     "name": "lost-nd-xxx",
                     "url": "https://github.com/lost-nd-xxx",
                     "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/nostalk",
-            "url": "https://github.com/nikolat/nostalk",
-            "title": "nostalk",
-            "content_text": "",
-            "summary": "Nostr player on Ukagaka",
-            "date_published": "2024-06-05T07:31:22Z",
-            "date_modified": "2024-07-06T10:57:39Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
                 }
             ],
             "tags": [
