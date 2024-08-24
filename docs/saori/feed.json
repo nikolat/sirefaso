@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "content_text": "",
+            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2024-08-24T09:47:30Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "tukinami/saori-resized-png-mini",
             "url": "https://github.com/tukinami/saori-resized-png-mini",
             "title": "saori-resized-png-mini",
@@ -174,27 +195,6 @@
             ],
             "tags": [
                 "image-processing",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
-            "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2023-10-22T20:23:16Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"

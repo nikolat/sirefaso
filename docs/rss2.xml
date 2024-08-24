@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>csaori</title>
+    <link>https://github.com/ukatech/csaori</link>
+    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
+    <category>saori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/csaori</guid>
+    <pubDate>Sat, 24 Aug 2024 18:47:30 +0900</pubDate>
+</item>
+<item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
     <description>Yet Another AYA</description>
@@ -481,15 +490,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
     <pubDate>Thu, 09 Nov 2023 21:26:59 +0900</pubDate>
-</item>
-<item>
-    <title>csaori</title>
-    <link>https://github.com/ukatech/csaori</link>
-    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
-    <category>saori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/csaori</guid>
-    <pubDate>Mon, 23 Oct 2023 05:23:16 +0900</pubDate>
 </item>
 <item>
     <title>bee</title>
