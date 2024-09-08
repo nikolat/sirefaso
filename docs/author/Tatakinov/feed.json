@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "",
             "date_published": "2021-05-27T13:38:48Z",
-            "date_modified": "2024-07-30T12:46:14Z",
+            "date_modified": "2024-09-08T12:43:44Z",
             "authors": [
                 {
                     "name": "Tatakinov",
@@ -25,6 +25,27 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/mahjong_nodoka",
+            "url": "https://github.com/Tatakinov/mahjong_nodoka",
+            "title": "mahjong_nodoka",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2024-09-08T12:23:00Z",
+            "date_modified": "2024-09-08T12:38:01Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
             ]
         },
         {
