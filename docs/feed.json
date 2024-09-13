@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/yakutai_nashi",
+            "url": "https://github.com/lost-nd-xxx/yakutai_nashi",
+            "title": "yakutai_nashi",
+            "content_text": "",
+            "summary": "ゴースト「益体無しの人生だった」",
+            "date_published": "2024-09-13T12:02:11Z",
+            "date_modified": "2024-09-13T14:49:13Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/mahjong_nodoka",
             "url": "https://github.com/Tatakinov/mahjong_nodoka",
             "title": "mahjong_nodoka",
