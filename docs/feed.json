@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/mahjong_nodoka",
+            "url": "https://github.com/Tatakinov/mahjong_nodoka",
+            "title": "mahjong_nodoka",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2024-09-08T12:23:00Z",
+            "date_modified": "2024-09-17T12:56:17Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/yakutai_nashi",
             "url": "https://github.com/lost-nd-xxx/yakutai_nashi",
             "title": "yakutai_nashi",
@@ -124,27 +145,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "Tatakinov/mahjong_nodoka",
-            "url": "https://github.com/Tatakinov/mahjong_nodoka",
-            "title": "mahjong_nodoka",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2024-09-08T12:23:00Z",
-            "date_modified": "2024-09-16T05:58:17Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {
