@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Gertrude</title>
+    <link>https://github.com/etwaslangsam/Gertrude</link>
+    <description>ゴースト「ロリコンの俺が罠にかかっていた狐を助けたら金髪巨乳外国人JKになって嫁に来た件。」</description>
+    <category>ghost</category>
+    <dc:creator>etwaslangsam</dc:creator>
+    <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
+    <pubDate>Wed, 16 Oct 2024 17:37:18 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -22,15 +31,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 01 Oct 2024 20:36:02 +0900</pubDate>
-</item>
-<item>
-    <title>Gertrude</title>
-    <link>https://github.com/etwaslangsam/Gertrude</link>
-    <description>ゴースト「ロリコンの俺が罠にかかっていた狐を助けたら金髪巨乳外国人JKになって嫁に来た件。」</description>
-    <category>ghost</category>
-    <dc:creator>etwaslangsam</dc:creator>
-    <guid isPermaLink="false">etwaslangsam/Gertrude</guid>
-    <pubDate>Tue, 24 Sep 2024 18:44:12 +0900</pubDate>
 </item>
 <item>
     <title>mahjong_nodoka</title>
