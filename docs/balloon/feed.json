@@ -6,6 +6,29 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/kumasan_with_deathplay",
+            "url": "https://github.com/lost-nd-xxx/kumasan_with_deathplay",
+            "title": "kumasan_with_deathplay",
+            "content_text": "",
+            "summary": "フリーシェル＆専用バルーン２種＆動作デモ用ゴースト",
+            "date_published": "2024-11-01T14:47:52Z",
+            "date_modified": "2024-11-01T15:19:52Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon",
+                "ukagaka-shell"
+            ]
+        },
+        {
             "id": "Tatakinov/balloon_terminal",
             "url": "https://github.com/Tatakinov/balloon_terminal",
             "title": "balloon_terminal",
