@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/saori-calcs",
+            "url": "https://github.com/tukinami/saori-calcs",
+            "title": "saori-calcs",
+            "content_text": "",
+            "summary": "四則演算+剰余の計算をするSAORI。",
+            "date_published": "2024-04-22T10:46:12Z",
+            "date_modified": "2024-11-04T01:11:12Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "Tatakinov/mahjong_nodoka",
             "url": "https://github.com/Tatakinov/mahjong_nodoka",
             "title": "mahjong_nodoka",
@@ -112,27 +133,6 @@
                 "ukagaka",
                 "ukagaka-saori",
                 "yaya"
-            ]
-        },
-        {
-            "id": "tukinami/saori-calcs",
-            "url": "https://github.com/tukinami/saori-calcs",
-            "title": "saori-calcs",
-            "content_text": "",
-            "summary": "四則演算+剰余の計算をするSAORI。",
-            "date_published": "2024-04-22T10:46:12Z",
-            "date_modified": "2024-04-22T10:48:09Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {
