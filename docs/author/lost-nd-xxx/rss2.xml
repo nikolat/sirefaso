@@ -32,23 +32,5 @@
     <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
     <pubDate>Mon, 15 Jul 2024 21:49:44 +0900</pubDate>
 </item>
-<item>
-    <title>WeatherTimeCapsule</title>
-    <link>https://github.com/lost-nd-xxx/WeatherTimeCapsule</link>
-    <description>天候情報を表示するゴースト</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/WeatherTimeCapsule</guid>
-    <pubDate>Tue, 21 May 2024 18:40:00 +0900</pubDate>
-</item>
-<item>
-    <title>unyu_lunchbox</title>
-    <link>https://github.com/lost-nd-xxx/unyu_lunchbox</link>
-    <description>ゴースト「うにゅうのお弁当箱」</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/unyu_lunchbox</guid>
-    <pubDate>Sat, 18 May 2024 20:00:21 +0900</pubDate>
-</item>
 </channel>
 </rss>
