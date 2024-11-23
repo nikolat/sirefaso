@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/nikolat/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>nostalk</title>
+    <link>https://github.com/nikolat/nostalk</link>
+    <description>Nostr player on Ukagaka</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/nostalk</guid>
+    <pubDate>Sat, 23 Nov 2024 10:13:27 +0900</pubDate>
+</item>
+<item>
     <title>jong-whanwhan</title>
     <link>https://github.com/nikolat/jong-whanwhan</link>
     <description>麻雀クライアントゴースト</description>
@@ -49,15 +58,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
     <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
-</item>
-<item>
-    <title>nostalk</title>
-    <link>https://github.com/nikolat/nostalk</link>
-    <description>Nostr player on Ukagaka</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/nostalk</guid>
-    <pubDate>Sun, 11 Aug 2024 06:59:01 +0900</pubDate>
 </item>
 <item>
     <title>MahjongUtil</title>
