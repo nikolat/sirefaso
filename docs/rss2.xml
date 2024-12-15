@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Sun, 15 Dec 2024 20:54:11 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -112,15 +121,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/kumasan_with_deathplay</guid>
     <pubDate>Sat, 02 Nov 2024 00:46:50 +0900</pubDate>
-</item>
-<item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Sat, 26 Oct 2024 10:48:03 +0900</pubDate>
 </item>
 <item>
     <title>kotori</title>
