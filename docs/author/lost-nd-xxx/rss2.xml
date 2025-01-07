@@ -6,10 +6,37 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/lost-nd-xxx/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>UkagakaGhostMessenger</title>
+    <link>https://github.com/lost-nd-xxx/UkagakaGhostMessenger</link>
+    <description>伺かベースウェア向けのメッセージアプリ風プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/UkagakaGhostMessenger</guid>
+    <pubDate>Mon, 06 Jan 2025 00:26:21 +0900</pubDate>
+</item>
+<item>
+    <title>countdown_to_the_end</title>
+    <link>https://github.com/lost-nd-xxx/countdown_to_the_end</link>
+    <description>伺かゴースト「終末までのカウントダウン」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/countdown_to_the_end</guid>
+    <pubDate>Wed, 01 Jan 2025 18:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>UGMNavigator_Umechan</title>
+    <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
+    <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/UGMNavigator_Umechan</guid>
+    <pubDate>Wed, 25 Dec 2024 00:35:41 +0900</pubDate>
+</item>
+<item>
     <title>kumasan_with_deathplay</title>
     <link>https://github.com/lost-nd-xxx/kumasan_with_deathplay</link>
     <description>フリーシェル＆専用バルーン２種＆動作デモ用ゴースト</description>
-    <category>balloon</category>
+    <category>shell</category>
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/kumasan_with_deathplay</guid>
     <pubDate>Sat, 02 Nov 2024 00:46:50 +0900</pubDate>
@@ -31,6 +58,15 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
     <pubDate>Mon, 15 Jul 2024 21:49:44 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer_Prototype_Scenarios</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</link>
+    <description>りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）</description>
+    <category>shell</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</guid>
+    <pubDate>Sun, 26 May 2024 07:52:48 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>
