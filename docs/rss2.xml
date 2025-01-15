@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Wed, 15 Jan 2025 17:19:43 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -274,15 +283,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
     <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sun, 25 Aug 2024 21:16:24 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
