@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <description>ukadoc: ukagaka documentation project</description>
@@ -391,15 +400,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/unyu_lunchbox</guid>
     <pubDate>Sat, 18 May 2024 20:00:21 +0900</pubDate>
-</item>
-<item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sun, 05 May 2024 18:53:40 +0900</pubDate>
 </item>
 <item>
     <title>lady-goldfish-bowl</title>
