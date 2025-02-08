@@ -6,6 +6,69 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>nostalk</title>
+    <link>https://github.com/nikolat/nostalk</link>
+    <description>Nostr player on Ukagaka</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/nostalk</guid>
+    <pubDate>Sat, 08 Feb 2025 11:54:55 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Sat, 08 Feb 2025 11:54:45 +0900</pubDate>
+</item>
+<item>
+    <title>bee</title>
+    <link>https://github.com/nikolat/bee</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/bee</guid>
+    <pubDate>Sat, 08 Feb 2025 11:54:34 +0900</pubDate>
+</item>
+<item>
+    <title>jong-whanwhan</title>
+    <link>https://github.com/nikolat/jong-whanwhan</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
+    <pubDate>Sat, 08 Feb 2025 11:07:37 +0900</pubDate>
+</item>
+<item>
+    <title>jong-chunchun</title>
+    <link>https://github.com/nikolat/jong-chunchun</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
+    <pubDate>Sat, 08 Feb 2025 11:06:41 +0900</pubDate>
+</item>
+<item>
+    <title>jong-rinrin</title>
+    <link>https://github.com/nikolat/jong-rinrin</link>
+    <description>麻雀クライアントゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
+    <pubDate>Sat, 08 Feb 2025 11:06:20 +0900</pubDate>
+</item>
+<item>
+    <title>jong-bari</title>
+    <link>https://github.com/nikolat/jong-bari</link>
+    <description>麻雀サーバーゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jong-bari</guid>
+    <pubDate>Sat, 08 Feb 2025 11:05:37 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -87,15 +150,6 @@
     <pubDate>Tue, 26 Nov 2024 04:57:32 +0900</pubDate>
 </item>
 <item>
-    <title>nostalk</title>
-    <link>https://github.com/nikolat/nostalk</link>
-    <description>Nostr player on Ukagaka</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/nostalk</guid>
-    <pubDate>Sat, 23 Nov 2024 18:49:48 +0900</pubDate>
-</item>
-<item>
     <title>bath_ane</title>
     <link>https://github.com/etwaslangsam/bath_ane</link>
     <description>風呂上がりの姉貴</description>
@@ -105,15 +159,6 @@
     <pubDate>Fri, 08 Nov 2024 17:55:49 +0900</pubDate>
 </item>
 <item>
-    <title>jong-whanwhan</title>
-    <link>https://github.com/nikolat/jong-whanwhan</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Thu, 19 Sep 2024 19:49:31 +0900</pubDate>
-</item>
-<item>
     <title>yakutai_nashi</title>
     <link>https://github.com/lost-nd-xxx/yakutai_nashi</link>
     <description>ゴースト「益体無しの人生だった」</description>
@@ -121,33 +166,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/yakutai_nashi</guid>
     <pubDate>Tue, 17 Sep 2024 21:21:58 +0900</pubDate>
-</item>
-<item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Mon, 16 Sep 2024 20:35:03 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Mon, 16 Sep 2024 20:34:56 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Sat, 14 Sep 2024 19:13:50 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
@@ -222,15 +240,6 @@
     <pubDate>Sun, 07 Jan 2024 14:02:47 +0900</pubDate>
 </item>
 <item>
-    <title>bee</title>
-    <link>https://github.com/nikolat/bee</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/bee</guid>
-    <pubDate>Sat, 14 Oct 2023 19:53:27 +0900</pubDate>
-</item>
-<item>
     <title>ukagaka-simultaneous-interpreter</title>
     <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
     <description>Simultaneous Interpreter Ghost</description>
@@ -265,15 +274,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/reshibainu</guid>
     <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>

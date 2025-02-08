@@ -6,22 +6,31 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/nikolat/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
-</item>
-<item>
     <title>nostalk</title>
     <link>https://github.com/nikolat/nostalk</link>
     <description>Nostr player on Ukagaka</description>
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/nostalk</guid>
-    <pubDate>Sat, 23 Nov 2024 18:49:48 +0900</pubDate>
+    <pubDate>Sat, 08 Feb 2025 11:54:55 +0900</pubDate>
+</item>
+<item>
+    <title>ghostbook</title>
+    <link>https://github.com/nikolat/ghostbook</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ghostbook</guid>
+    <pubDate>Sat, 08 Feb 2025 11:54:45 +0900</pubDate>
+</item>
+<item>
+    <title>bee</title>
+    <link>https://github.com/nikolat/bee</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/bee</guid>
+    <pubDate>Sat, 08 Feb 2025 11:54:34 +0900</pubDate>
 </item>
 <item>
     <title>jong-whanwhan</title>
@@ -30,7 +39,7 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-whanwhan</guid>
-    <pubDate>Thu, 19 Sep 2024 19:49:31 +0900</pubDate>
+    <pubDate>Sat, 08 Feb 2025 11:07:37 +0900</pubDate>
 </item>
 <item>
     <title>jong-chunchun</title>
@@ -39,7 +48,7 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Mon, 16 Sep 2024 20:35:03 +0900</pubDate>
+    <pubDate>Sat, 08 Feb 2025 11:06:41 +0900</pubDate>
 </item>
 <item>
     <title>jong-rinrin</title>
@@ -48,7 +57,7 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Mon, 16 Sep 2024 20:34:56 +0900</pubDate>
+    <pubDate>Sat, 08 Feb 2025 11:06:20 +0900</pubDate>
 </item>
 <item>
     <title>jong-bari</title>
@@ -57,7 +66,16 @@
     <category>ghost</category>
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Sat, 14 Sep 2024 19:13:50 +0900</pubDate>
+    <pubDate>Sat, 08 Feb 2025 11:05:37 +0900</pubDate>
+</item>
+<item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
 </item>
 <item>
     <title>angolmois</title>
@@ -132,15 +150,6 @@
     <pubDate>Mon, 29 Jan 2024 07:49:30 +0900</pubDate>
 </item>
 <item>
-    <title>bee</title>
-    <link>https://github.com/nikolat/bee</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/bee</guid>
-    <pubDate>Sat, 14 Oct 2023 19:53:27 +0900</pubDate>
-</item>
-<item>
     <title>ukadonyu</title>
     <link>https://github.com/nikolat/ukadonyu</link>
     <description>うかどんクライアント</description>
@@ -184,15 +193,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/reshibainu</guid>
     <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Wed, 16 Aug 2023 21:22:35 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>
