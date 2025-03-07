@@ -95,23 +95,5 @@
     <guid isPermaLink="false">tukinami/saori-resized-png</guid>
     <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
 </item>
-<item>
-    <title>saori_budoux</title>
-    <link>https://github.com/Tatakinov/saori_budoux</link>
-    <description>budouxを伺かで使えるようにした的なアレ</description>
-    <category>saori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/saori_budoux</guid>
-    <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
-</item>
-<item>
-    <title>akari-as-saori</title>
-    <link>https://github.com/nikolat/akari-as-saori</link>
-    <description>AKARI as SAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
-    <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
-</item>
 </channel>
 </rss>

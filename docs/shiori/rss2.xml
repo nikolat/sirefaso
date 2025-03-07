@@ -59,14 +59,5 @@
     <guid isPermaLink="false">Tatakinov/phiori</guid>
     <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
 </item>
-<item>
-    <title>dnproxy</title>
-    <link>https://github.com/nikolat/dnproxy</link>
-    <description>.NET Framework SHIORI</description>
-    <category>shiori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dnproxy</guid>
-    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
-</item>
 </channel>
 </rss>
