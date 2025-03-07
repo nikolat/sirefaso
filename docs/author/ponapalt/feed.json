@@ -1,31 +1,10 @@
 {
     "version": "https://jsonfeed.org/version/1.1",
-    "title": "balloon | 偽SiReFaSo",
-    "home_page_url": "https://nikolat.github.io/sirefaso/balloon/",
-    "feed_url": "https://nikolat.github.io/sirefaso/balloon/feed.json",
+    "title": "ponapalt | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/ponapalt/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/ponapalt/feed.json",
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
-        {
-            "id": "Tatakinov/balloon_terminal",
-            "url": "https://github.com/Tatakinov/balloon_terminal",
-            "title": "balloon_terminal",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-07-17T12:55:46Z",
-            "date_modified": "2023-07-17T12:58:08Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
         {
             "id": "ponapalt/b_f_watersurface",
             "url": "https://github.com/ponapalt/b_f_watersurface",
@@ -43,53 +22,6 @@
             ],
             "tags": [
                 "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "tukinami/talismanic_beast_pattern",
-            "url": "https://github.com/tukinami/talismanic_beast_pattern",
-            "title": "talismanic_beast_pattern",
-            "content_text": "",
-            "summary": "伺か用バルーン「魔除けの獣面紋」",
-            "date_published": "2023-01-19T12:51:40Z",
-            "date_modified": "2023-01-24T10:21:35Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "nikolat/jb-standard-balloon",
-            "url": "https://github.com/nikolat/jb-standard-balloon",
-            "title": "jb-standard-balloon",
-            "content_text": "",
-            "summary": "ゴースト「雀々BARIBARI」用バルーン",
-            "date_published": "2021-08-14T00:45:23Z",
-            "date_modified": "2022-08-27T00:54:15Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
                 "ukagaka",
                 "ukagaka-balloon"
             ]
@@ -155,6 +87,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "ponapalt/aya5-shiori",
+            "url": "https://github.com/ponapalt/aya5-shiori",
+            "title": "aya5-shiori",
+            "content_text": "",
+            "summary": "Old plain AYA5 code with small fixes (AYA5＋小修正のみ)",
+            "date_published": "2018-12-04T02:17:32Z",
+            "date_modified": "2018-12-04T02:20:29Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
             ]
         }
     ]

@@ -92,6 +92,208 @@
                 "ukagaka",
                 "ukagaka-tool"
             ]
+        },
+        {
+            "id": "tukinami/ayayatter",
+            "url": "https://github.com/tukinami/ayayatter",
+            "title": "ayayatter",
+            "content_text": "",
+            "summary": "formatter for yaya.",
+            "date_published": "2023-12-04T08:06:50Z",
+            "date_modified": "2023-12-04T08:07:28Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ambergon/VimUkagakaSSTP",
+            "url": "https://github.com/ambergon/VimUkagakaSSTP",
+            "title": "VimUkagakaSSTP",
+            "content_text": "",
+            "summary": "vimから伺か・ゴーストにテキストを投げるプラグイン",
+            "date_published": "2022-11-17T14:08:43Z",
+            "date_modified": "2023-12-03T04:59:15Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2023-11-15T12:43:23Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/dsstp-hsp",
+            "url": "https://github.com/nikolat/dsstp-hsp",
+            "title": "dsstp-hsp",
+            "content_text": "",
+            "summary": "DirectSSTP Sample",
+            "date_published": "2023-07-18T11:19:36Z",
+            "date_modified": "2023-07-18T11:22:58Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "hsp",
+                "hsp3",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukatech/nar-thumbnail-provider",
+            "url": "https://github.com/ukatech/nar-thumbnail-provider",
+            "title": "nar-thumbnail-provider",
+            "content_text": "",
+            "summary": "NAR thumbnail provider for Windows Explorer",
+            "date_published": "2022-03-17T11:37:08Z",
+            "date_modified": "2023-03-09T10:26:59Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "nikolat/recv_net",
+            "url": "https://github.com/nikolat/recv_net",
+            "title": "recv_net",
+            "content_text": "",
+            "summary": "里々ログビューア",
+            "date_published": "2012-10-28T13:22:29Z",
+            "date_modified": "2023-11-30T04:54:34Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayaya-vs-code-extension",
+            "url": "https://github.com/YAYA-shiori/ayaya-vs-code-extension",
+            "title": "ayaya-vs-code-extension",
+            "content_text": "",
+            "summary": "ayaya vs code extension",
+            "date_published": "2022-06-29T04:58:06Z",
+            "date_modified": "2022-12-18T02:58:40Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "sirefaso",
+                "syntax-highlighting",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension",
+                "yaya"
+            ]
+        },
+        {
+            "id": "Tatakinov/yayalint_for_vscode",
+            "url": "https://github.com/Tatakinov/yayalint_for_vscode",
+            "title": "yayalint_for_vscode",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-07-09T13:01:20Z",
+            "date_modified": "2022-08-08T12:49:15Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension"
+            ]
+        },
+        {
+            "id": "ambergon/ukagakaTool-CreateAnimationPng",
+            "url": "https://github.com/ambergon/ukagakaTool-CreateAnimationPng",
+            "title": "ukagakaTool-CreateAnimationPng",
+            "content_text": "",
+            "summary": "連番の画像ファイルを読み込んでRGBで指定した色を透過した後にSurface.txtを書き出してくれるツール。",
+            "date_published": "2022-06-23T03:06:58Z",
+            "date_modified": "2022-06-27T08:24:11Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         }
     ]
 }
