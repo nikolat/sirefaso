@@ -41,5 +41,122 @@
     <guid isPermaLink="false">Tatakinov/mahjong_nodoka</guid>
     <pubDate>Sun, 22 Sep 2024 14:16:42 +0900</pubDate>
 </item>
+<item>
+    <title>kagari_as_plugin</title>
+    <link>https://github.com/Tatakinov/kagari_as_plugin</link>
+    <description></description>
+    <category>plugin</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/kagari_as_plugin</guid>
+    <pubDate>Fri, 21 Jun 2024 22:08:56 +0900</pubDate>
+</item>
+<item>
+    <title>knowledgeable_kernel</title>
+    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
+    <pubDate>Wed, 20 Mar 2024 21:51:39 +0900</pubDate>
+</item>
+<item>
+    <title>phiori</title>
+    <link>https://github.com/Tatakinov/phiori</link>
+    <description>python3-based SHIORI for Ukagaka(伺か)</description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/phiori</guid>
+    <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
+</item>
+<item>
+    <title>saori_budoux</title>
+    <link>https://github.com/Tatakinov/saori_budoux</link>
+    <description>budouxを伺かで使えるようにした的なアレ</description>
+    <category>saori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/saori_budoux</guid>
+    <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
+</item>
+<item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter</title>
+    <link>https://github.com/Tatakinov/desktop_tempter</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
+    <pubDate>Sat, 01 Apr 2023 22:02:00 +0900</pubDate>
+</item>
+<item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_blue</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_blue</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_blue</guid>
+    <pubDate>Sat, 07 Jan 2023 14:38:08 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_green</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_green</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_green</guid>
+    <pubDate>Sat, 07 Jan 2023 14:28:26 +0900</pubDate>
+</item>
+<item>
+    <title>desktop_tempter_casino_chip_red</title>
+    <link>https://github.com/Tatakinov/desktop_tempter_casino_chip_red</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/desktop_tempter_casino_chip_red</guid>
+    <pubDate>Sat, 07 Jan 2023 14:25:57 +0900</pubDate>
+</item>
+<item>
+    <title>TexasHoldemUtil</title>
+    <link>https://github.com/Tatakinov/TexasHoldemUtil</link>
+    <description></description>
+    <category>saori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/TexasHoldemUtil</guid>
+    <pubDate>Sun, 27 Nov 2022 22:01:58 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint_for_vscode</title>
+    <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
+    <description></description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint_for_vscode</guid>
+    <pubDate>Mon, 08 Aug 2022 21:49:15 +0900</pubDate>
+</item>
 </channel>
 </rss>

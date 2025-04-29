@@ -89,6 +89,286 @@
                 "ukagaka",
                 "ukagaka-saori"
             ]
+        },
+        {
+            "id": "Tatakinov/kagari_as_plugin",
+            "url": "https://github.com/Tatakinov/kagari_as_plugin",
+            "title": "kagari_as_plugin",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-08-06T07:39:03Z",
+            "date_modified": "2024-06-21T13:08:56Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "Tatakinov/knowledgeable_kernel",
+            "url": "https://github.com/Tatakinov/knowledgeable_kernel",
+            "title": "knowledgeable_kernel",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:34:50Z",
+            "date_modified": "2024-03-20T12:51:39Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/phiori",
+            "url": "https://github.com/Tatakinov/phiori",
+            "title": "phiori",
+            "content_text": "",
+            "summary": "python3-based SHIORI for Ukagaka(伺か)",
+            "date_published": "2023-11-26T02:24:17Z",
+            "date_modified": "2023-12-13T13:37:30Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "Tatakinov/yayalint",
+            "url": "https://github.com/Tatakinov/yayalint",
+            "title": "yayalint",
+            "content_text": "",
+            "summary": "a linter of YAYA",
+            "date_published": "2021-12-14T12:38:17Z",
+            "date_modified": "2023-11-15T12:43:23Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "lint",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "Tatakinov/saori_budoux",
+            "url": "https://github.com/Tatakinov/saori_budoux",
+            "title": "saori_budoux",
+            "content_text": "",
+            "summary": "budouxを伺かで使えるようにした的なアレ",
+            "date_published": "2023-09-26T12:38:28Z",
+            "date_modified": "2023-09-26T12:56:32Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "Tatakinov/balloon_terminal",
+            "url": "https://github.com/Tatakinov/balloon_terminal",
+            "title": "balloon_terminal",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:55:46Z",
+            "date_modified": "2023-07-17T12:58:08Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter",
+            "url": "https://github.com/Tatakinov/desktop_tempter",
+            "title": "desktop_tempter",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:40:16Z",
+            "date_modified": "2023-04-01T13:02:00Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/mosu",
+            "url": "https://github.com/Tatakinov/mosu",
+            "title": "mosu",
+            "content_text": "",
+            "summary": "Kagari/Kotori Sample Ghost",
+            "date_published": "2021-09-25T12:56:53Z",
+            "date_modified": "2023-04-01T13:00:31Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_blue",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_blue",
+            "title": "desktop_tempter_casino_chip_blue",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:55:19Z",
+            "date_modified": "2023-01-07T05:38:08Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_green",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_green",
+            "title": "desktop_tempter_casino_chip_green",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:52:07Z",
+            "date_modified": "2023-01-07T05:28:26Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/desktop_tempter_casino_chip_red",
+            "url": "https://github.com/Tatakinov/desktop_tempter_casino_chip_red",
+            "title": "desktop_tempter_casino_chip_red",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-03T12:48:19Z",
+            "date_modified": "2023-01-07T05:25:57Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/TexasHoldemUtil",
+            "url": "https://github.com/Tatakinov/TexasHoldemUtil",
+            "title": "TexasHoldemUtil",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-11-27T12:54:46Z",
+            "date_modified": "2022-11-27T13:01:58Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "Tatakinov/yayalint_for_vscode",
+            "url": "https://github.com/Tatakinov/yayalint_for_vscode",
+            "title": "yayalint_for_vscode",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2022-07-09T13:01:20Z",
+            "date_modified": "2022-08-08T12:49:15Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool",
+                "vscode-extension"
+            ]
         }
     ]
 }
