@@ -50,32 +50,5 @@
     <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
     <pubDate>Tue, 01 Oct 2024 20:36:02 +0900</pubDate>
 </item>
-<item>
-    <title>phiori</title>
-    <link>https://github.com/Tatakinov/phiori</link>
-    <description>python3-based SHIORI for Ukagaka(伺か)</description>
-    <category>shiori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/phiori</guid>
-    <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
-</item>
-<item>
-    <title>dnproxy</title>
-    <link>https://github.com/nikolat/dnproxy</link>
-    <description>.NET Framework SHIORI</description>
-    <category>shiori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/dnproxy</guid>
-    <pubDate>Fri, 03 Feb 2023 11:22:52 +0900</pubDate>
-</item>
-<item>
-    <title>aya5-shiori</title>
-    <link>https://github.com/ponapalt/aya5-shiori</link>
-    <description>Old plain AYA5 code with small fixes (AYA5＋小修正のみ)</description>
-    <category>shiori</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/aya5-shiori</guid>
-    <pubDate>Tue, 04 Dec 2018 11:20:29 +0900</pubDate>
-</item>
 </channel>
 </rss>

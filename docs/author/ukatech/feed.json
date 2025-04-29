@@ -67,27 +67,6 @@
                 "ukagaka",
                 "ukagaka-saori"
             ]
-        },
-        {
-            "id": "ukatech/nar-thumbnail-provider",
-            "url": "https://github.com/ukatech/nar-thumbnail-provider",
-            "title": "nar-thumbnail-provider",
-            "content_text": "",
-            "summary": "NAR thumbnail provider for Windows Explorer",
-            "date_published": "2022-03-17T11:37:08Z",
-            "date_modified": "2023-03-09T10:26:59Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
         }
     ]
 }
