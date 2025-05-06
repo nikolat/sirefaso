@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/mosu",
+            "url": "https://github.com/Tatakinov/mosu",
+            "title": "mosu",
+            "content_text": "",
+            "summary": "Kagari/Kotori Sample Ghost",
+            "date_published": "2021-09-25T12:56:53Z",
+            "date_modified": "2025-05-06T04:13:34Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -1745,27 +1766,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/mosu",
-            "url": "https://github.com/Tatakinov/mosu",
-            "title": "mosu",
-            "content_text": "",
-            "summary": "Kagari/Kotori Sample Ghost",
-            "date_published": "2021-09-25T12:56:53Z",
-            "date_modified": "2023-04-01T13:00:31Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]

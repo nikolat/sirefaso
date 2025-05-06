@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/Tatakinov/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Tue, 06 May 2025 13:13:34 +0900</pubDate>
+</item>
+<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -103,15 +112,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
     <pubDate>Sat, 01 Apr 2023 22:02:00 +0900</pubDate>
-</item>
-<item>
-    <title>mosu</title>
-    <link>https://github.com/Tatakinov/mosu</link>
-    <description>Kagari/Kotori Sample Ghost</description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/mosu</guid>
-    <pubDate>Sat, 01 Apr 2023 22:00:31 +0900</pubDate>
 </item>
 <item>
     <title>desktop_tempter_casino_chip_blue</title>
