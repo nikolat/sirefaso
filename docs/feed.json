@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/UGMNavigator_Umechan",
+            "url": "https://github.com/lost-nd-xxx/UGMNavigator_Umechan",
+            "title": "UGMNavigator_Umechan",
+            "content_text": "",
+            "summary": "伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」",
+            "date_published": "2024-08-14T08:42:43Z",
+            "date_modified": "2025-06-12T09:56:36Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/UkagakaGhostMessenger",
+            "url": "https://github.com/lost-nd-xxx/UkagakaGhostMessenger",
+            "title": "UkagakaGhostMessenger",
+            "content_text": "",
+            "summary": "伺かベースウェア向けのメッセージアプリ風プラグイン",
+            "date_published": "2024-07-22T00:03:02Z",
+            "date_modified": "2025-06-12T09:51:42Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -396,28 +440,6 @@
             ]
         },
         {
-            "id": "lost-nd-xxx/UGMNavigator_Umechan",
-            "url": "https://github.com/lost-nd-xxx/UGMNavigator_Umechan",
-            "title": "UGMNavigator_Umechan",
-            "content_text": "",
-            "summary": "伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」",
-            "date_published": "2024-08-14T08:42:43Z",
-            "date_modified": "2025-01-24T18:51:37Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
@@ -457,28 +479,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/UkagakaGhostMessenger",
-            "url": "https://github.com/lost-nd-xxx/UkagakaGhostMessenger",
-            "title": "UkagakaGhostMessenger",
-            "content_text": "",
-            "summary": "伺かベースウェア向けのメッセージアプリ風プラグイン",
-            "date_published": "2024-07-22T00:03:02Z",
-            "date_modified": "2025-01-09T13:30:24Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         },
         {
