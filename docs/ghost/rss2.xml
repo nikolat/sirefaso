@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 15 Jun 2025 12:02:49 +0900</pubDate>
+</item>
+<item>
     <title>UGMNavigator_Umechan</title>
     <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
     <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
@@ -13,15 +22,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/UGMNavigator_Umechan</guid>
     <pubDate>Thu, 12 Jun 2025 18:56:36 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 08 Jun 2025 12:25:38 +0900</pubDate>
 </item>
 <item>
     <title>SakanaiUsoWoHitotsuDake</title>
