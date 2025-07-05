@@ -29,6 +29,31 @@
             ]
         },
         {
+            "id": "nikolat/Majiang",
+            "url": "https://github.com/nikolat/Majiang",
+            "title": "Majiang",
+            "content_text": "",
+            "summary": "HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」",
+            "date_published": "2022-04-13T07:11:05Z",
+            "date_modified": "2024-03-23T06:52:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "nikolat/github-dau-crawler",
             "url": "https://github.com/nikolat/github-dau-crawler",
             "title": "github-dau-crawler",
@@ -66,31 +91,6 @@
             ],
             "tags": [
                 "sirefaso",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
-            "id": "nikolat/Majiang",
-            "url": "https://github.com/nikolat/Majiang",
-            "title": "Majiang",
-            "content_text": "",
-            "summary": "HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」",
-            "date_published": "2022-04-13T07:11:05Z",
-            "date_modified": "2024-03-23T06:52:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "sstp",
                 "ukagaka",
                 "ukagaka-webapp"
             ]

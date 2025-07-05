@@ -465,6 +465,15 @@
     <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
 </item>
 <item>
+    <title>Majiang</title>
+    <link>https://github.com/nikolat/Majiang</link>
+    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/Majiang</guid>
+    <pubDate>Sat, 23 Mar 2024 15:52:35 +0900</pubDate>
+</item>
+<item>
     <title>knowledgeable_kernel</title>
     <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
     <description></description>
@@ -490,15 +499,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/github-nar-station</guid>
     <pubDate>Fri, 15 Mar 2024 19:26:14 +0900</pubDate>
-</item>
-<item>
-    <title>Majiang</title>
-    <link>https://github.com/nikolat/Majiang</link>
-    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/Majiang</guid>
-    <pubDate>Sat, 23 Mar 2024 15:52:35 +0900</pubDate>
 </item>
 <item>
     <title>wallet_of_unyu</title>
