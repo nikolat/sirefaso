@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/yakutai_nashi",
+            "url": "https://github.com/lost-nd-xxx/yakutai_nashi",
+            "title": "yakutai_nashi",
+            "content_text": "",
+            "summary": "ゴースト「益体無しの人生だった」",
+            "date_published": "2024-09-13T12:02:11Z",
+            "date_modified": "2025-07-13T13:27:44Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/something_like_balloon",
             "url": "https://github.com/lost-nd-xxx/something_like_balloon",
             "title": "something_like_balloon",
@@ -135,28 +157,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/yakutai_nashi",
-            "url": "https://github.com/lost-nd-xxx/yakutai_nashi",
-            "title": "yakutai_nashi",
-            "content_text": "",
-            "summary": "ゴースト「益体無しの人生だった」",
-            "date_published": "2024-09-13T12:02:11Z",
-            "date_modified": "2024-09-17T12:21:58Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
