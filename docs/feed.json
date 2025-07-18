@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "kanadelab/Satolist2",
+            "url": "https://github.com/kanadelab/Satolist2",
+            "title": "Satolist2",
+            "content_text": "",
+            "summary": "里々ゴーストエディタ「さとりすと」 ver2",
+            "date_published": "2022-02-11T16:27:32Z",
+            "date_modified": "2025-07-18T13:20:38Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/yakutai_nashi",
             "url": "https://github.com/lost-nd-xxx/yakutai_nashi",
             "title": "yakutai_nashi",
@@ -545,27 +566,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "kanadelab/Satolist2",
-            "url": "https://github.com/kanadelab/Satolist2",
-            "title": "Satolist2",
-            "content_text": "",
-            "summary": "里々ゴーストエディタ「さとりすと」 ver2",
-            "date_published": "2022-02-11T16:27:32Z",
-            "date_modified": "2024-12-19T10:21:29Z",
-            "authors": [
-                {
-                    "name": "kanadelab",
-                    "url": "https://github.com/kanadelab",
-                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
