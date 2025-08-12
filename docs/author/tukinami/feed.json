@@ -1,0 +1,332 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "tukinami | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/tukinami/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/tukinami/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "content_text": "",
+            "summary": "伺か雑談系ゴースト",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2025-07-27T03:19:05Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "tukinami/incubation_of_animas",
+            "url": "https://github.com/tukinami/incubation_of_animas",
+            "title": "incubation_of_animas",
+            "content_text": "",
+            "summary": "伺か用ゴースト。戦うくたびれたおじさんと話すゴースト。",
+            "date_published": "2024-05-18T10:41:29Z",
+            "date_modified": "2025-02-26T15:37:52Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "tukinami/saori-calcs",
+            "url": "https://github.com/tukinami/saori-calcs",
+            "title": "saori-calcs",
+            "content_text": "",
+            "summary": "四則演算+剰余の計算をするSAORI。",
+            "date_published": "2024-04-22T10:46:12Z",
+            "date_modified": "2024-11-04T01:11:12Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/purple-eyed-dressed-up-boy",
+            "url": "https://github.com/tukinami/purple-eyed-dressed-up-boy",
+            "title": "purple-eyed-dressed-up-boy",
+            "content_text": "",
+            "summary": "伺か用フリーシェル。着せ替えがついた紫の目を持つ少年。",
+            "date_published": "2024-08-28T10:43:44Z",
+            "date_modified": "2024-08-28T13:50:44Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/saori-resized-png-mini",
+            "url": "https://github.com/tukinami/saori-resized-png-mini",
+            "title": "saori-resized-png-mini",
+            "content_text": "",
+            "summary": "SAORI to resize image and save as png (limited edition)",
+            "date_published": "2023-03-03T10:30:17Z",
+            "date_modified": "2024-06-14T03:19:24Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/lady-goldfish-bowl",
+            "url": "https://github.com/tukinami/lady-goldfish-bowl",
+            "title": "lady-goldfish-bowl",
+            "content_text": "",
+            "summary": "伺か用フリーシェル。金魚が入った金魚鉢の頭を持つ女性。",
+            "date_published": "2024-05-01T15:35:04Z",
+            "date_modified": "2024-05-01T15:58:39Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/saori-japanese-gengou",
+            "url": "https://github.com/tukinami/saori-japanese-gengou",
+            "title": "saori-japanese-gengou",
+            "content_text": "",
+            "summary": "西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI",
+            "date_published": "2023-10-27T10:17:31Z",
+            "date_modified": "2024-04-01T10:26:28Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/saori-pie-chart",
+            "url": "https://github.com/tukinami/saori-pie-chart",
+            "title": "saori-pie-chart",
+            "content_text": "",
+            "summary": "円グラフを作成するSAORI",
+            "date_published": "2023-06-27T03:07:34Z",
+            "date_modified": "2024-04-01T10:06:26Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/saori-resized-png",
+            "url": "https://github.com/tukinami/saori-resized-png",
+            "title": "saori-resized-png",
+            "content_text": "",
+            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
+            "date_published": "2022-12-09T07:24:27Z",
+            "date_modified": "2024-03-31T06:56:19Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "image-processing",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/cage_head_with_blue_bird",
+            "url": "https://github.com/tukinami/cage_head_with_blue_bird",
+            "title": "cage_head_with_blue_bird",
+            "content_text": "",
+            "summary": "伺か用フリーシェル。青い鳥の入った鳥籠の頭を持つ男性。",
+            "date_published": "2024-02-12T12:26:35Z",
+            "date_modified": "2024-02-13T07:37:19Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/ayayatter",
+            "url": "https://github.com/tukinami/ayayatter",
+            "title": "ayayatter",
+            "content_text": "",
+            "summary": "formatter for yaya.",
+            "date_published": "2023-12-04T08:06:50Z",
+            "date_modified": "2023-12-04T08:07:28Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "tukinami/double-danshi-KouKousei",
+            "url": "https://github.com/tukinami/double-danshi-KouKousei",
+            "title": "double-danshi-KouKousei",
+            "content_text": "",
+            "summary": "伺か用フリーシェル。男子高校生二人組。",
+            "date_published": "2023-11-08T09:01:05Z",
+            "date_modified": "2023-11-09T12:26:59Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/taidanaSanoSan_shell_master-l",
+            "url": "https://github.com/tukinami/taidanaSanoSan_shell_master-l",
+            "title": "taidanaSanoSan_shell_master-l",
+            "content_text": "",
+            "summary": "伺か用ゴースト「怠惰な佐野さん」追加シェル「master-l」",
+            "date_published": "2023-01-24T23:43:17Z",
+            "date_modified": "2023-02-09T10:11:12Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/talismanic_beast_pattern",
+            "url": "https://github.com/tukinami/talismanic_beast_pattern",
+            "title": "talismanic_beast_pattern",
+            "content_text": "",
+            "summary": "伺か用バルーン「魔除けの獣面紋」",
+            "date_published": "2023-01-19T12:51:40Z",
+            "date_modified": "2023-01-24T10:21:35Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
+            "id": "tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "content_text": "",
+            "summary": "伺かゴースト「ヘイミル・ロゥ」用追加シェル",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "ukatech | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/ukatech/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/ukatech/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2025-08-11T00:22:59Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2025-02-02T11:06:36Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "content_text": "",
+            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2025-01-15T20:23:31Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "ukatech/nar-thumbnail-provider",
+            "url": "https://github.com/ukatech/nar-thumbnail-provider",
+            "title": "nar-thumbnail-provider",
+            "content_text": "",
+            "summary": "NAR thumbnail provider for Windows Explorer",
+            "date_published": "2022-03-17T11:37:08Z",
+            "date_modified": "2023-03-09T10:26:59Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        }
+    ]
+}
