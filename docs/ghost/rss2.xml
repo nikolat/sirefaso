@@ -6,13 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>incubation_of_animas</title>
+    <link>https://github.com/tukinami/incubation_of_animas</link>
+    <description>伺か用ゴースト。戦うくたびれたおじさんと話すゴースト。</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/incubation_of_animas</guid>
+    <pubDate>Fri, 15 Aug 2025 19:36:17 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
     <category>ghost</category>
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 27 Jul 2025 12:19:05 +0900</pubDate>
+    <pubDate>Fri, 15 Aug 2025 18:42:10 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
@@ -67,15 +76,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Mon, 07 Apr 2025 21:48:09 +0900</pubDate>
-</item>
-<item>
-    <title>incubation_of_animas</title>
-    <link>https://github.com/tukinami/incubation_of_animas</link>
-    <description>伺か用ゴースト。戦うくたびれたおじさんと話すゴースト。</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/incubation_of_animas</guid>
-    <pubDate>Thu, 27 Feb 2025 00:37:52 +0900</pubDate>
 </item>
 <item>
     <title>nostalk</title>
