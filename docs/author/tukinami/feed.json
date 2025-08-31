@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/who_is_cursing_him",
+            "url": "https://github.com/tukinami/who_is_cursing_him",
+            "title": "who_is_cursing_him",
+            "content_text": "",
+            "summary": "伺か用ゴースト。たった一人塔に住む弟と話すゴースト。",
+            "date_published": "2025-08-30T09:44:56Z",
+            "date_modified": "2025-08-30T09:56:48Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "tukinami/Yada-Yada-Yada",
             "url": "https://github.com/tukinami/Yada-Yada-Yada",
             "title": "Yada-Yada-Yada",
