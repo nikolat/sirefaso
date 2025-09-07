@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 07 Sep 2025 12:03:05 +0900</pubDate>
+</item>
+<item>
     <title>nostalk</title>
     <link>https://github.com/nikolat/nostalk</link>
     <description>Nostr player on Ukagaka</description>
@@ -40,15 +49,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/incubation_of_animas</guid>
     <pubDate>Fri, 15 Aug 2025 19:36:17 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Fri, 15 Aug 2025 18:42:10 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
