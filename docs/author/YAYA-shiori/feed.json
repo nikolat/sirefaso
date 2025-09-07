@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "YAYA-shiori/yaya-dic",
-            "url": "https://github.com/YAYA-shiori/yaya-dic",
-            "title": "yaya-dic",
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
             "content_text": "",
-            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
-            "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2025-02-09T10:34:50Z",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2025-09-07T19:26:43Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -27,13 +27,13 @@
             ]
         },
         {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
+            "id": "YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
             "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2025-01-15T20:10:31Z",
+            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2025-02-09T10:34:50Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
