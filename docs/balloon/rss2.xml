@@ -42,15 +42,6 @@
     <pubDate>Sun, 12 Mar 2023 19:23:52 +0900</pubDate>
 </item>
 <item>
-    <title>jb-standard-balloon</title>
-    <link>https://github.com/nikolat/jb-standard-balloon</link>
-    <description>ゴースト「雀々BARIBARI」用バルーン</description>
-    <category>balloon</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
-    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
-</item>
-<item>
     <title>StayseeBalloon</title>
     <link>https://github.com/ponapalt/StayseeBalloon</link>
     <description>Balloon for Staysee Syncfield</description>
@@ -58,15 +49,6 @@
     <dc:creator>ponapalt</dc:creator>
     <guid isPermaLink="false">ponapalt/StayseeBalloon</guid>
     <pubDate>Sat, 06 Nov 2021 05:04:32 +0900</pubDate>
-</item>
-<item>
-    <title>sleety_rain</title>
-    <link>https://github.com/ponapalt/sleety_rain</link>
-    <description>Balloon for Mizore</description>
-    <category>balloon</category>
-    <dc:creator>ponapalt</dc:creator>
-    <guid isPermaLink="false">ponapalt/sleety_rain</guid>
-    <pubDate>Mon, 18 Oct 2021 20:56:35 +0900</pubDate>
 </item>
 <item>
     <title>ToothandNailBalloon</title>

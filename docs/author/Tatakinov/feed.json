@@ -70,27 +70,6 @@
             ]
         },
         {
-            "id": "Tatakinov/mosu",
-            "url": "https://github.com/Tatakinov/mosu",
-            "title": "mosu",
-            "content_text": "",
-            "summary": "Kagari/Kotori Sample Ghost",
-            "date_published": "2021-09-25T12:56:53Z",
-            "date_modified": "2025-05-06T04:13:34Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "Tatakinov/banjou_no_sumikko_de",
             "url": "https://github.com/Tatakinov/banjou_no_sumikko_de",
             "title": "banjou_no_sumikko_de",
@@ -173,28 +152,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "Tatakinov/yayalint",
-            "url": "https://github.com/Tatakinov/yayalint",
-            "title": "yayalint",
-            "content_text": "",
-            "summary": "a linter of YAYA",
-            "date_published": "2021-12-14T12:38:17Z",
-            "date_modified": "2023-11-15T12:43:23Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "lint",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {

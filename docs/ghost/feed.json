@@ -50,28 +50,6 @@
             ]
         },
         {
-            "id": "tukinami/who_is_cursing_him",
-            "url": "https://github.com/tukinami/who_is_cursing_him",
-            "title": "who_is_cursing_him",
-            "content_text": "",
-            "summary": "伺か用ゴースト。たった一人塔に住む弟と話すゴースト。",
-            "date_published": "2025-08-30T09:44:56Z",
-            "date_modified": "2025-08-30T09:56:48Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "tukinami/Yada-Yada-Yada",
             "url": "https://github.com/tukinami/Yada-Yada-Yada",
             "title": "Yada-Yada-Yada",
@@ -199,27 +177,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Tatakinov/mosu",
-            "url": "https://github.com/Tatakinov/mosu",
-            "title": "mosu",
-            "content_text": "",
-            "summary": "Kagari/Kotori Sample Ghost",
-            "date_published": "2021-09-25T12:56:53Z",
-            "date_modified": "2025-05-06T04:13:34Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
@@ -626,77 +583,6 @@
             ]
         },
         {
-            "id": "nikolat/ukagaka-hakoirimusume",
-            "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
-            "title": "ukagaka-hakoirimusume",
-            "content_text": "",
-            "summary": "Klotski for UKAGAKA",
-            "date_published": "2021-11-10T12:05:19Z",
-            "date_modified": "2023-08-16T12:24:25Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "klotski",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/shellbook",
-            "url": "https://github.com/nikolat/shellbook",
-            "title": "shellbook",
-            "content_text": "",
-            "summary": "freeshell Wiki viewer",
-            "date_published": "2021-11-10T11:28:28Z",
-            "date_modified": "2023-08-16T12:23:47Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/reshibainu",
-            "url": "https://github.com/nikolat/reshibainu",
-            "title": "reshibainu",
-            "content_text": "",
-            "summary": "「里々」ログビューア「れしば.NET」のゴースト版",
-            "date_published": "2022-01-26T03:28:11Z",
-            "date_modified": "2023-08-16T12:23:39Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "dotnet-framework",
-                "satori",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "nikolat/crawler_uploader",
             "url": "https://github.com/nikolat/crawler_uploader",
             "title": "crawler_uploader",
@@ -735,30 +621,6 @@
                 }
             ],
             "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-party-parrot",
-            "url": "https://github.com/nikolat/ukagaka-party-parrot",
-            "title": "ukagaka-party-parrot",
-            "content_text": "",
-            "summary": "Party Parrot for UKAGAKA",
-            "date_published": "2021-10-09T11:59:18Z",
-            "date_modified": "2023-03-31T12:15:13Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "party-parrot",
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",

@@ -33,15 +33,6 @@
     <pubDate>Sat, 26 Jul 2025 16:08:32 +0900</pubDate>
 </item>
 <item>
-    <title>mosu</title>
-    <link>https://github.com/Tatakinov/mosu</link>
-    <description>Kagari/Kotori Sample Ghost</description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/mosu</guid>
-    <pubDate>Tue, 06 May 2025 13:13:34 +0900</pubDate>
-</item>
-<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -76,15 +67,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/phiori</guid>
     <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
-</item>
-<item>
-    <title>yayalint</title>
-    <link>https://github.com/Tatakinov/yayalint</link>
-    <description>a linter of YAYA</description>
-    <category>tool</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/yayalint</guid>
-    <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
 </item>
 <item>
     <title>saori_budoux</title>
