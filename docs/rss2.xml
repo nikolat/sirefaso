@@ -42,6 +42,15 @@
     <pubDate>Tue, 02 Sep 2025 17:32:26 +0900</pubDate>
 </item>
 <item>
+    <title>who_is_cursing_him</title>
+    <link>https://github.com/tukinami/who_is_cursing_him</link>
+    <description>伺か用ゴースト。たった一人塔に住む弟と話すゴースト。</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/who_is_cursing_him</guid>
+    <pubDate>Sat, 30 Aug 2025 18:56:48 +0900</pubDate>
+</item>
+<item>
     <title>Yada-Yada-Yada</title>
     <link>https://github.com/tukinami/Yada-Yada-Yada</link>
     <description>伺か用ゴースト。少女の様子を見るゴースト。嫌ゴ福袋企画2025 参加作品。</description>
@@ -49,6 +58,15 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/Yada-Yada-Yada</guid>
     <pubDate>Fri, 15 Aug 2025 19:48:45 +0900</pubDate>
+</item>
+<item>
+    <title>purple-eyed-dressed-up-boy</title>
+    <link>https://github.com/tukinami/purple-eyed-dressed-up-boy</link>
+    <description>伺か用フリーシェル。着せ替えがついた紫の目を持つ少年。</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/purple-eyed-dressed-up-boy</guid>
+    <pubDate>Fri, 15 Aug 2025 19:41:37 +0900</pubDate>
 </item>
 <item>
     <title>incubation_of_animas</title>
@@ -105,6 +123,15 @@
     <pubDate>Fri, 15 Aug 2025 18:54:53 +0900</pubDate>
 </item>
 <item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Wed, 06 Aug 2025 21:59:08 +0900</pubDate>
+</item>
+<item>
     <title>knowledgeable_kernel</title>
     <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
     <description></description>
@@ -141,6 +168,15 @@
     <pubDate>Wed, 23 Jul 2025 19:55:52 +0900</pubDate>
 </item>
 <item>
+    <title>yakutai_nashi</title>
+    <link>https://github.com/lost-nd-xxx/yakutai_nashi</link>
+    <description>ゴースト「益体無しの人生だった」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/yakutai_nashi</guid>
+    <pubDate>Sun, 13 Jul 2025 22:27:44 +0900</pubDate>
+</item>
+<item>
     <title>something_like_balloon</title>
     <link>https://github.com/lost-nd-xxx/something_like_balloon</link>
     <description>伺かのバルーン集と加工再配布可能なテンプレート</description>
@@ -148,6 +184,15 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something_like_balloon</guid>
     <pubDate>Tue, 08 Jul 2025 17:48:20 +0900</pubDate>
+</item>
+<item>
+    <title>UGMNavigator_Umechan</title>
+    <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
+    <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/UGMNavigator_Umechan</guid>
+    <pubDate>Thu, 12 Jun 2025 18:56:36 +0900</pubDate>
 </item>
 <item>
     <title>UkagakaGhostMessenger</title>
@@ -166,6 +211,15 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/SakanaiUsoWoHitotsuDake</guid>
     <pubDate>Mon, 26 May 2025 10:38:48 +0900</pubDate>
+</item>
+<item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Tue, 06 May 2025 13:13:34 +0900</pubDate>
 </item>
 <item>
     <title>banjou_no_sumikko_de</title>
@@ -240,6 +294,15 @@
     <pubDate>Sat, 08 Feb 2025 11:05:37 +0900</pubDate>
 </item>
 <item>
+    <title>MahjongUtil</title>
+    <link>https://github.com/nikolat/MahjongUtil</link>
+    <description>麻雀に関する機能を提供するSAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
+    <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
+</item>
+<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>
@@ -312,6 +375,33 @@
     <pubDate>Sat, 02 Nov 2024 11:22:20 +0900</pubDate>
 </item>
 <item>
+    <title>kumasan_with_deathplay</title>
+    <link>https://github.com/lost-nd-xxx/kumasan_with_deathplay</link>
+    <description>フリーシェル＆専用バルーン２種＆動作デモ用ゴースト</description>
+    <category>shell</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/kumasan_with_deathplay</guid>
+    <pubDate>Sat, 02 Nov 2024 00:46:50 +0900</pubDate>
+</item>
+<item>
+    <title>Steampunk</title>
+    <link>https://github.com/Shimofumi/Steampunk</link>
+    <description>「ロスト・ユー・サムウェア」用追加シェル「すちーむぱんく」</description>
+    <category>shell</category>
+    <dc:creator>Shimofumi</dc:creator>
+    <guid isPermaLink="false">Shimofumi/Steampunk</guid>
+    <pubDate>Fri, 18 Oct 2024 02:01:48 +0900</pubDate>
+</item>
+<item>
+    <title>mahjong_nodoka</title>
+    <link>https://github.com/Tatakinov/mahjong_nodoka</link>
+    <description></description>
+    <category>saori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mahjong_nodoka</guid>
+    <pubDate>Sun, 22 Sep 2024 14:16:42 +0900</pubDate>
+</item>
+<item>
     <title>angolmois</title>
     <link>https://github.com/nikolat/angolmois</link>
     <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
@@ -319,6 +409,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/angolmois</guid>
     <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
+</item>
+<item>
+    <title>zoomout_dra</title>
+    <link>https://github.com/Shimofumi/zoomout_dra</link>
+    <description>かつて嫌ゴと呼ばれたけれど 追加シェル「辰年（小）」</description>
+    <category>shell</category>
+    <dc:creator>Shimofumi</dc:creator>
+    <guid isPermaLink="false">Shimofumi/zoomout_dra</guid>
+    <pubDate>Mon, 19 Aug 2024 22:36:30 +0900</pubDate>
 </item>
 <item>
     <title>Saigai_no_ikimono_chan</title>
@@ -393,6 +492,15 @@
     <pubDate>Sat, 18 May 2024 20:00:21 +0900</pubDate>
 </item>
 <item>
+    <title>yaya-as-saori</title>
+    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
+    <description>YAYA as SAORI</description>
+    <category>saori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
+    <pubDate>Fri, 26 Apr 2024 08:48:31 +0900</pubDate>
+</item>
+<item>
     <title>saori-japanese-gengou</title>
     <link>https://github.com/tukinami/saori-japanese-gengou</link>
     <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
@@ -429,6 +537,33 @@
     <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
 </item>
 <item>
+    <title>Majiang</title>
+    <link>https://github.com/nikolat/Majiang</link>
+    <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/Majiang</guid>
+    <pubDate>Sat, 23 Mar 2024 15:52:35 +0900</pubDate>
+</item>
+<item>
+    <title>github-dau-crawler</title>
+    <link>https://github.com/nikolat/github-dau-crawler</link>
+    <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-dau-crawler</guid>
+    <pubDate>Fri, 15 Mar 2024 19:26:22 +0900</pubDate>
+</item>
+<item>
+    <title>github-nar-station</title>
+    <link>https://github.com/nikolat/github-nar-station</link>
+    <description>GitHubで公開されているNARファイルを一覧表示する</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/github-nar-station</guid>
+    <pubDate>Fri, 15 Mar 2024 19:26:14 +0900</pubDate>
+</item>
+<item>
     <title>wallet_of_unyu</title>
     <link>https://github.com/nikolat/wallet_of_unyu</link>
     <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
@@ -445,6 +580,33 @@
     <dc:creator>apxxxxxxe</dc:creator>
     <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
     <pubDate>Thu, 07 Mar 2024 21:39:36 +0900</pubDate>
+</item>
+<item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Thu, 07 Mar 2024 21:16:35 +0900</pubDate>
+</item>
+<item>
+    <title>ukaten</title>
+    <link>https://github.com/nikolat/ukaten</link>
+    <description>伺か天気予報プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukaten</guid>
+    <pubDate>Mon, 29 Jan 2024 07:49:30 +0900</pubDate>
+</item>
+<item>
+    <title>tama</title>
+    <link>https://github.com/YAYA-shiori/tama</link>
+    <description>Tama - AYA5 Console</description>
+    <category>tool</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/tama</guid>
+    <pubDate>Sun, 14 Jan 2024 14:55:27 +0900</pubDate>
 </item>
 <item>
     <title>Oyatsu_ha_Macaroni</title>
@@ -474,6 +636,15 @@
     <pubDate>Mon, 04 Dec 2023 17:07:28 +0900</pubDate>
 </item>
 <item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
+</item>
+<item>
     <title>saori_budoux</title>
     <link>https://github.com/Tatakinov/saori_budoux</link>
     <description>budouxを伺かで使えるようにした的なアレ</description>
@@ -492,6 +663,15 @@
     <pubDate>Mon, 23 Jun 2025 00:10:15 +0900</pubDate>
 </item>
 <item>
+    <title>ukadonyu</title>
+    <link>https://github.com/nikolat/ukadonyu</link>
+    <description>うかどんクライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukadonyu</guid>
+    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-simultaneous-interpreter</title>
     <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
     <description>Simultaneous Interpreter Ghost</description>
@@ -499,6 +679,33 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
     <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-hakoirimusume</title>
+    <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
+    <description>Klotski for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-hakoirimusume</guid>
+    <pubDate>Wed, 16 Aug 2023 21:24:25 +0900</pubDate>
+</item>
+<item>
+    <title>shellbook</title>
+    <link>https://github.com/nikolat/shellbook</link>
+    <description>freeshell Wiki viewer</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/shellbook</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
+</item>
+<item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>
@@ -546,6 +753,15 @@
     <pubDate>Thu, 06 Apr 2023 15:27:00 +0900</pubDate>
 </item>
 <item>
+    <title>akari-as-saori</title>
+    <link>https://github.com/nikolat/akari-as-saori</link>
+    <description>AKARI as SAORI</description>
+    <category>saori</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/akari-as-saori</guid>
+    <pubDate>Tue, 04 Apr 2023 07:44:17 +0900</pubDate>
+</item>
+<item>
     <title>desktop_tempter</title>
     <link>https://github.com/Tatakinov/desktop_tempter</link>
     <description></description>
@@ -553,6 +769,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/desktop_tempter</guid>
     <pubDate>Sat, 01 Apr 2023 22:02:00 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-party-parrot</title>
+    <link>https://github.com/nikolat/ukagaka-party-parrot</link>
+    <description>Party Parrot for UKAGAKA</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-party-parrot</guid>
+    <pubDate>Fri, 31 Mar 2023 21:15:13 +0900</pubDate>
 </item>
 <item>
     <title>SSP-AIVOICE</title>
@@ -571,6 +796,15 @@
     <dc:creator>ponapalt</dc:creator>
     <guid isPermaLink="false">ponapalt/b_f_watersurface</guid>
     <pubDate>Sun, 12 Mar 2023 19:23:52 +0900</pubDate>
+</item>
+<item>
+    <title>nar-thumbnail-provider</title>
+    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
+    <description>NAR thumbnail provider for Windows Explorer</description>
+    <category>tool</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
+    <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
 </item>
 <item>
     <title>Youto</title>
@@ -598,6 +832,15 @@
     <dc:creator>dullNeko</dc:creator>
     <guid isPermaLink="false">dullNeko/WebClapModoki-GAS</guid>
     <pubDate>Sat, 21 Jan 2023 01:37:45 +0900</pubDate>
+</item>
+<item>
+    <title>sudohaikuyu</title>
+    <link>https://github.com/nikolat/sudohaikuyu</link>
+    <description>スドハイククライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/sudohaikuyu</guid>
+    <pubDate>Fri, 20 Jan 2023 19:38:04 +0900</pubDate>
 </item>
 <item>
     <title>ukagakaPlugin_getWindowTitle</title>
@@ -699,6 +942,42 @@
     <pubDate>Wed, 09 Nov 2022 20:29:32 +0900</pubDate>
 </item>
 <item>
+    <title>jb-standard-balloon</title>
+    <link>https://github.com/nikolat/jb-standard-balloon</link>
+    <description>ゴースト「雀々BARIBARI」用バルーン</description>
+    <category>balloon</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-standard-balloon</guid>
+    <pubDate>Sat, 27 Aug 2022 09:54:15 +0900</pubDate>
+</item>
+<item>
+    <title>jb-standard</title>
+    <link>https://github.com/nikolat/jb-standard</link>
+    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/jb-standard</guid>
+    <pubDate>Sat, 27 Aug 2022 09:53:56 +0900</pubDate>
+</item>
+<item>
+    <title>CharameLNetwork</title>
+    <link>https://github.com/nikolat/CharameLNetwork</link>
+    <description>CharameLをSNS風に見せる何か</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/CharameLNetwork</guid>
+    <pubDate>Sat, 27 Aug 2022 09:51:36 +0900</pubDate>
+</item>
+<item>
+    <title>balloonselector</title>
+    <link>https://github.com/nikolat/balloonselector</link>
+    <description>バルーン選択支援プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/balloonselector</guid>
+    <pubDate>Sat, 27 Aug 2022 09:51:18 +0900</pubDate>
+</item>
+<item>
     <title>yayalint_for_vscode</title>
     <link>https://github.com/Tatakinov/yayalint_for_vscode</link>
     <description></description>
@@ -717,6 +996,15 @@
     <pubDate>Mon, 27 Jun 2022 17:24:11 +0900</pubDate>
 </item>
 <item>
+    <title>ukagaka-caramelldansen-patch</title>
+    <link>https://github.com/nikolat/ukagaka-caramelldansen-patch</link>
+    <description>caramelldansen修正用supplement</description>
+    <category>supplement</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-caramelldansen-patch</guid>
+    <pubDate>Mon, 30 May 2022 19:25:23 +0900</pubDate>
+</item>
+<item>
     <title>StayseeBalloon</title>
     <link>https://github.com/ponapalt/StayseeBalloon</link>
     <description>Balloon for Staysee Syncfield</description>
@@ -724,6 +1012,15 @@
     <dc:creator>ponapalt</dc:creator>
     <guid isPermaLink="false">ponapalt/StayseeBalloon</guid>
     <pubDate>Sat, 06 Nov 2021 05:04:32 +0900</pubDate>
+</item>
+<item>
+    <title>sleety_rain</title>
+    <link>https://github.com/ponapalt/sleety_rain</link>
+    <description>Balloon for Mizore</description>
+    <category>balloon</category>
+    <dc:creator>ponapalt</dc:creator>
+    <guid isPermaLink="false">ponapalt/sleety_rain</guid>
+    <pubDate>Mon, 18 Oct 2021 20:56:35 +0900</pubDate>
 </item>
 <item>
     <title>ToothandNailBalloon</title>

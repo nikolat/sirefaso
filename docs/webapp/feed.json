@@ -29,6 +29,73 @@
             ]
         },
         {
+            "id": "nikolat/Majiang",
+            "url": "https://github.com/nikolat/Majiang",
+            "title": "Majiang",
+            "content_text": "",
+            "summary": "HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」",
+            "date_published": "2022-04-13T07:11:05Z",
+            "date_modified": "2024-03-23T06:52:35Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/github-dau-crawler",
+            "url": "https://github.com/nikolat/github-dau-crawler",
+            "title": "github-dau-crawler",
+            "content_text": "",
+            "summary": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+            "date_published": "2022-04-27T04:23:02Z",
+            "date_modified": "2024-03-15T10:26:22Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
+            "id": "nikolat/github-nar-station",
+            "url": "https://github.com/nikolat/github-nar-station",
+            "title": "github-nar-station",
+            "content_text": "",
+            "summary": "GitHubで公開されているNARファイルを一覧表示する",
+            "date_published": "2022-04-23T00:34:06Z",
+            "date_modified": "2024-03-15T10:26:14Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-webapp"
+            ]
+        },
+        {
             "id": "dullNeko/WebClapModoki-GAS",
             "url": "https://github.com/dullNeko/WebClapModoki-GAS",
             "title": "WebClapModoki-GAS",

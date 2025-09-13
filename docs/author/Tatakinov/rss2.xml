@@ -33,6 +33,15 @@
     <pubDate>Sat, 26 Jul 2025 16:08:32 +0900</pubDate>
 </item>
 <item>
+    <title>mosu</title>
+    <link>https://github.com/Tatakinov/mosu</link>
+    <description>Kagari/Kotori Sample Ghost</description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mosu</guid>
+    <pubDate>Tue, 06 May 2025 13:13:34 +0900</pubDate>
+</item>
+<item>
     <title>banjou_no_sumikko_de</title>
     <link>https://github.com/Tatakinov/banjou_no_sumikko_de</link>
     <description></description>
@@ -40,6 +49,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Mon, 07 Apr 2025 21:48:09 +0900</pubDate>
+</item>
+<item>
+    <title>mahjong_nodoka</title>
+    <link>https://github.com/Tatakinov/mahjong_nodoka</link>
+    <description></description>
+    <category>saori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/mahjong_nodoka</guid>
+    <pubDate>Sun, 22 Sep 2024 14:16:42 +0900</pubDate>
 </item>
 <item>
     <title>kagari_as_plugin</title>
@@ -58,6 +76,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/phiori</guid>
     <pubDate>Wed, 13 Dec 2023 22:37:30 +0900</pubDate>
+</item>
+<item>
+    <title>yayalint</title>
+    <link>https://github.com/Tatakinov/yayalint</link>
+    <description>a linter of YAYA</description>
+    <category>tool</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/yayalint</guid>
+    <pubDate>Wed, 15 Nov 2023 21:43:23 +0900</pubDate>
 </item>
 <item>
     <title>saori_budoux</title>
