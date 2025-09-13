@@ -50,50 +50,6 @@
             ]
         },
         {
-            "id": "Shimofumi/Steampunk",
-            "url": "https://github.com/Shimofumi/Steampunk",
-            "title": "Steampunk",
-            "content_text": "",
-            "summary": "「ロスト・ユー・サムウェア」用追加シェル「すちーむぱんく」",
-            "date_published": "2024-10-17T16:47:19Z",
-            "date_modified": "2024-10-17T17:01:48Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "Shimofumi/zoomout_dra",
-            "url": "https://github.com/Shimofumi/zoomout_dra",
-            "title": "zoomout_dra",
-            "content_text": "",
-            "summary": "かつて嫌ゴと呼ばれたけれど 追加シェル「辰年（小）」",
-            "date_published": "2024-08-19T13:23:14Z",
-            "date_modified": "2024-08-19T13:36:30Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
-            ]
-        },
-        {
             "id": "Shimofumi/Saigai_no_ikimono_chan",
             "url": "https://github.com/Shimofumi/Saigai_no_ikimono_chan",
             "title": "Saigai_no_ikimono_chan",
