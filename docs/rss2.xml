@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 21 Sep 2025 12:11:48 +0900</pubDate>
+</item>
+<item>
     <title>LuminousModulation_Radio</title>
     <link>https://github.com/lost-nd-xxx/LuminousModulation_Radio</link>
     <description>伺かゴースト「LMラジオ: 晃波放送」 / 架空世界のラジオを聴取</description>
@@ -31,15 +40,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Wed, 17 Sep 2025 05:00:32 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 14 Sep 2025 12:54:24 +0900</pubDate>
 </item>
 <item>
     <title>nostalk</title>
