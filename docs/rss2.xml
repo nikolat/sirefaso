@@ -195,6 +195,15 @@
     <pubDate>Tue, 08 Jul 2025 17:48:20 +0900</pubDate>
 </item>
 <item>
+    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
+    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
+    <description></description>
+    <category>plugin</category>
+    <dc:creator>ambergon</dc:creator>
+    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
+    <pubDate>Mon, 23 Jun 2025 00:10:15 +0900</pubDate>
+</item>
+<item>
     <title>UGMNavigator_Umechan</title>
     <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
     <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
@@ -645,6 +654,15 @@
     <pubDate>Mon, 04 Dec 2023 17:07:28 +0900</pubDate>
 </item>
 <item>
+    <title>recv_net</title>
+    <link>https://github.com/nikolat/recv_net</link>
+    <description>里々ログビューア</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/recv_net</guid>
+    <pubDate>Thu, 30 Nov 2023 13:54:34 +0900</pubDate>
+</item>
+<item>
     <title>yayalint</title>
     <link>https://github.com/Tatakinov/yayalint</link>
     <description>a linter of YAYA</description>
@@ -661,15 +679,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/saori_budoux</guid>
     <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
-</item>
-<item>
-    <title>ukagakaPlugin_CeVIO-TalkerV2</title>
-    <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2</link>
-    <description></description>
-    <category>plugin</category>
-    <dc:creator>ambergon</dc:creator>
-    <guid isPermaLink="false">ambergon/ukagakaPlugin_CeVIO-TalkerV2</guid>
-    <pubDate>Mon, 23 Jun 2025 00:10:15 +0900</pubDate>
 </item>
 <item>
     <title>ukadonyu</title>
@@ -904,15 +913,6 @@
     <dc:creator>ambergon</dc:creator>
     <guid isPermaLink="false">ambergon/UkagakaPlugin_DBdiary</guid>
     <pubDate>Wed, 04 Jan 2023 16:57:49 +0900</pubDate>
-</item>
-<item>
-    <title>recv_net</title>
-    <link>https://github.com/nikolat/recv_net</link>
-    <description>里々ログビューア</description>
-    <category>tool</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/recv_net</guid>
-    <pubDate>Thu, 30 Nov 2023 13:54:34 +0900</pubDate>
 </item>
 <item>
     <title>ayaya-vs-code-extension</title>

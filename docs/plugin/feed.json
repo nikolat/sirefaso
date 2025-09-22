@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
+            "title": "ukagakaPlugin_CeVIO-TalkerV2",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-04-06T05:41:15Z",
+            "date_modified": "2025-06-22T15:10:15Z",
+            "authors": [
+                {
+                    "name": "ambergon",
+                    "url": "https://github.com/ambergon",
+                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/UkagakaGhostMessenger",
             "url": "https://github.com/lost-nd-xxx/UkagakaGhostMessenger",
             "title": "UkagakaGhostMessenger",
@@ -114,28 +136,6 @@
                 "ukagaka",
                 "ukagaka-plugin",
                 "weather-forecast"
-            ]
-        },
-        {
-            "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
-            "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
-            "title": "ukagakaPlugin_CeVIO-TalkerV2",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-04-06T05:41:15Z",
-            "date_modified": "2025-06-22T15:10:15Z",
-            "authors": [
-                {
-                    "name": "ambergon",
-                    "url": "https://github.com/ambergon",
-                    "avatar": "https://avatars.githubusercontent.com/u/30527985?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
             ]
         },
         {
