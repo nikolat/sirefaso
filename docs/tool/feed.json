@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "syobocat/ukadll_zig",
+            "url": "https://github.com/syobocat/ukadll_zig",
+            "title": "ukadll_zig",
+            "content_text": "",
+            "summary": "Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ",
+            "date_published": "2025-09-05T08:01:28Z",
+            "date_modified": "2025-09-24T05:26:33Z",
+            "authors": [
+                {
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "syobocat/shiori_zig",
+            "url": "https://github.com/syobocat/shiori_zig",
+            "title": "shiori_zig",
+            "content_text": "",
+            "summary": "Zig用のSHIORI/3.0パーサ",
+            "date_published": "2025-09-21T13:17:43Z",
+            "date_modified": "2025-09-23T10:42:54Z",
+            "authors": [
+                {
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "kanadelab/Satolist2",
             "url": "https://github.com/kanadelab/Satolist2",
             "title": "Satolist2",

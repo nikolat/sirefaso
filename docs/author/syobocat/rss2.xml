@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>syobocat | 偽SiReFaSo</title>
+<link>https://nikolat.github.io/sirefaso/author/syobocat/</link>
+<description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
+<atom:link href="https://nikolat.github.io/sirefaso/author/syobocat/rss2.xml" rel="self" type="application/rss+xml" />
+<item>
+    <title>ukadll_zig</title>
+    <link>https://github.com/syobocat/ukadll_zig</link>
+    <description>Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ</description>
+    <category>tool</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/ukadll_zig</guid>
+    <pubDate>Wed, 24 Sep 2025 14:26:33 +0900</pubDate>
+</item>
+<item>
+    <title>shiori_zig</title>
+    <link>https://github.com/syobocat/shiori_zig</link>
+    <description>Zig用のSHIORI/3.0パーサ</description>
+    <category>tool</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/shiori_zig</guid>
+    <pubDate>Tue, 23 Sep 2025 19:42:54 +0900</pubDate>
+</item>
+</channel>
+</rss>
