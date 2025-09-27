@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Youto</title>
+    <link>https://github.com/apxxxxxxe/Youto</link>
+    <description>伺かゴースト</description>
+    <category>ghost</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
+    <pubDate>Sat, 27 Sep 2025 12:18:00 +0900</pubDate>
+</item>
+<item>
     <title>ukadll_zig</title>
     <link>https://github.com/syobocat/ukadll_zig</link>
     <description>Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ</description>
@@ -841,15 +850,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
     <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
-</item>
-<item>
-    <title>Youto</title>
-    <link>https://github.com/apxxxxxxe/Youto</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>apxxxxxxe</dc:creator>
-    <guid isPermaLink="false">apxxxxxxe/Youto</guid>
-    <pubDate>Fri, 24 Feb 2023 21:10:34 +0900</pubDate>
 </item>
 <item>
     <title>dnproxy</title>
