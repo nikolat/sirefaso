@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 28 Sep 2025 12:25:11 +0900</pubDate>
+</item>
+<item>
     <title>Youto</title>
     <link>https://github.com/apxxxxxxe/Youto</link>
     <description>伺かゴースト</description>
@@ -40,15 +49,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/shiori_zig</guid>
     <pubDate>Tue, 23 Sep 2025 19:42:54 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 21 Sep 2025 12:11:48 +0900</pubDate>
 </item>
 <item>
     <title>LuminousModulation_Radio</title>
