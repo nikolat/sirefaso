@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>shiori_zig</title>
+    <link>https://github.com/syobocat/shiori_zig</link>
+    <description>Zig用のSHIORI/3.0パーサ</description>
+    <category>tool</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/shiori_zig</guid>
+    <pubDate>Wed, 08 Oct 2025 20:13:14 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -49,15 +58,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/ukadll_zig</guid>
     <pubDate>Wed, 24 Sep 2025 14:26:33 +0900</pubDate>
-</item>
-<item>
-    <title>shiori_zig</title>
-    <link>https://github.com/syobocat/shiori_zig</link>
-    <description>Zig用のSHIORI/3.0パーサ</description>
-    <category>tool</category>
-    <dc:creator>syobocat</dc:creator>
-    <guid isPermaLink="false">syobocat/shiori_zig</guid>
-    <pubDate>Tue, 23 Sep 2025 19:42:54 +0900</pubDate>
 </item>
 <item>
     <title>LuminousModulation_Radio</title>
