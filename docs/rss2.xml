@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>kagari_shiori</title>
+    <link>https://github.com/Tatakinov/kagari_shiori</link>
+    <description></description>
+    <category>shiori</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
+    <pubDate>Sun, 26 Oct 2025 14:13:54 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -193,15 +202,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kotori</guid>
     <pubDate>Sat, 26 Jul 2025 16:09:42 +0900</pubDate>
-</item>
-<item>
-    <title>kagari_shiori</title>
-    <link>https://github.com/Tatakinov/kagari_shiori</link>
-    <description></description>
-    <category>shiori</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/kagari_shiori</guid>
-    <pubDate>Sat, 26 Jul 2025 16:08:32 +0900</pubDate>
 </item>
 <item>
     <title>VimUkagakaSSTP</title>
