@@ -25,27 +25,6 @@
                 "sosiremi",
                 "ukagaka-ghost"
             ]
-        },
-        {
-            "id": "apxxxxxxe/Bouyomi",
-            "url": "https://github.com/apxxxxxxe/Bouyomi",
-            "title": "Bouyomi",
-            "content_text": "",
-            "summary": "伺かプラグイン",
-            "date_published": "2022-05-21T01:32:02Z",
-            "date_modified": "2024-03-07T12:39:36Z",
-            "authors": [
-                {
-                    "name": "apxxxxxxe",
-                    "url": "https://github.com/apxxxxxxe",
-                    "avatar": "https://avatars.githubusercontent.com/u/39634779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka-plugin"
-            ]
         }
     ]
 }

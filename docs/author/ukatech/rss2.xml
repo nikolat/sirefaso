@@ -14,32 +14,5 @@
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Tue, 30 Sep 2025 05:45:26 +0900</pubDate>
 </item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 02 Feb 2025 20:06:36 +0900</pubDate>
-</item>
-<item>
-    <title>csaori</title>
-    <link>https://github.com/ukatech/csaori</link>
-    <description>csaori: ukagaka &#34;SAORI&#34; (and PLUGIN) base library</description>
-    <category>saori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/csaori</guid>
-    <pubDate>Thu, 16 Jan 2025 05:23:31 +0900</pubDate>
-</item>
-<item>
-    <title>nar-thumbnail-provider</title>
-    <link>https://github.com/ukatech/nar-thumbnail-provider</link>
-    <description>NAR thumbnail provider for Windows Explorer</description>
-    <category>tool</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/nar-thumbnail-provider</guid>
-    <pubDate>Thu, 09 Mar 2023 19:26:59 +0900</pubDate>
-</item>
 </channel>
 </rss>

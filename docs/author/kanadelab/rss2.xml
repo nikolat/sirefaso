@@ -14,14 +14,5 @@
     <guid isPermaLink="false">kanadelab/Satolist2</guid>
     <pubDate>Wed, 06 Aug 2025 21:59:08 +0900</pubDate>
 </item>
-<item>
-    <title>vscode-surfaces</title>
-    <link>https://github.com/kanadelab/vscode-surfaces</link>
-    <description>vscode用surfaces.txtエクステンション</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/vscode-surfaces</guid>
-    <pubDate>Sat, 02 Nov 2024 11:22:20 +0900</pubDate>
-</item>
 </channel>
 </rss>
