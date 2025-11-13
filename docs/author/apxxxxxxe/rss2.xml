@@ -14,5 +14,14 @@
     <guid isPermaLink="false">apxxxxxxe/Youto</guid>
     <pubDate>Sat, 27 Sep 2025 12:18:00 +0900</pubDate>
 </item>
+<item>
+    <title>Bouyomi</title>
+    <link>https://github.com/apxxxxxxe/Bouyomi</link>
+    <description>伺かプラグイン</description>
+    <category>plugin</category>
+    <dc:creator>apxxxxxxe</dc:creator>
+    <guid isPermaLink="false">apxxxxxxe/Bouyomi</guid>
+    <pubDate>Thu, 07 Mar 2024 21:39:36 +0900</pubDate>
+</item>
 </channel>
 </rss>

@@ -113,6 +113,232 @@
                 "ukagaka",
                 "ukagaka-shell"
             ]
+        },
+        {
+            "id": "lost-nd-xxx/kumasan_with_deathplay",
+            "url": "https://github.com/lost-nd-xxx/kumasan_with_deathplay",
+            "title": "kumasan_with_deathplay",
+            "content_text": "",
+            "summary": "フリーシェル＆専用バルーン２種＆動作デモ用ゴースト",
+            "date_published": "2024-11-01T14:47:52Z",
+            "date_modified": "2024-11-01T15:46:50Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/Steampunk",
+            "url": "https://github.com/Shimofumi/Steampunk",
+            "title": "Steampunk",
+            "content_text": "",
+            "summary": "「ロスト・ユー・サムウェア」用追加シェル「すちーむぱんく」",
+            "date_published": "2024-10-17T16:47:19Z",
+            "date_modified": "2024-10-17T17:01:48Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/zoomout_dra",
+            "url": "https://github.com/Shimofumi/zoomout_dra",
+            "title": "zoomout_dra",
+            "content_text": "",
+            "summary": "かつて嫌ゴと呼ばれたけれど 追加シェル「辰年（小）」",
+            "date_published": "2024-08-19T13:23:14Z",
+            "date_modified": "2024-08-19T13:36:30Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/Saigai_no_ikimono_chan",
+            "url": "https://github.com/Shimofumi/Saigai_no_ikimono_chan",
+            "title": "Saigai_no_ikimono_chan",
+            "content_text": "",
+            "summary": "伺か的フリーシェル「海で一番強い生き物」ちゃん",
+            "date_published": "2024-08-06T18:28:27Z",
+            "date_modified": "2024-08-08T10:15:03Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
+            "title": "LilyNovelPlayer_Prototype_Scenarios",
+            "content_text": "",
+            "summary": "りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）",
+            "date_published": "2024-05-25T21:25:11Z",
+            "date_modified": "2024-05-25T22:52:48Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "nikolat/jb-pura-vida",
+            "url": "https://github.com/nikolat/jb-pura-vida",
+            "title": "jb-pura-vida",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2023-06-09T07:38:06Z",
+            "date_modified": "2023-06-09T10:56:40Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "tukinami/small_HE-Chan_sama",
+            "url": "https://github.com/tukinami/small_HE-Chan_sama",
+            "title": "small_HE-Chan_sama",
+            "content_text": "",
+            "summary": "伺かゴースト「ヘイミル・ロゥ」用追加シェル",
+            "date_published": "2023-01-05T08:12:39Z",
+            "date_modified": "2023-01-05T11:05:21Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "nikolat/si-near-future",
+            "url": "https://github.com/nikolat/si-near-future",
+            "title": "si-near-future",
+            "content_text": "",
+            "summary": "additional shell for simultaneous-interpreter",
+            "date_published": "2022-06-04T06:38:10Z",
+            "date_modified": "2022-12-04T11:20:25Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/cultural-festival",
+            "url": "https://github.com/nikolat/cultural-festival",
+            "title": "cultural-festival",
+            "content_text": "",
+            "summary": "ゴースト「卓上誘技」用追加シェル",
+            "date_published": "2022-11-09T11:15:34Z",
+            "date_modified": "2022-11-09T11:29:32Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell",
+                "yaya"
+            ]
+        },
+        {
+            "id": "nikolat/jb-standard",
+            "url": "https://github.com/nikolat/jb-standard",
+            "title": "jb-standard",
+            "content_text": "",
+            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
+            "date_published": "2021-08-08T03:50:11Z",
+            "date_modified": "2022-08-27T00:53:56Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "japanese-mahjong",
+                "mahjong",
+                "riichi-mahjong",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
         }
     ]
 }

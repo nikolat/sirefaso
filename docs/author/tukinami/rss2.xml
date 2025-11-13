@@ -95,5 +95,68 @@
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Fri, 15 Aug 2025 18:54:53 +0900</pubDate>
 </item>
+<item>
+    <title>saori-calcs</title>
+    <link>https://github.com/tukinami/saori-calcs</link>
+    <description>四則演算+剰余の計算をするSAORI。</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-calcs</guid>
+    <pubDate>Mon, 04 Nov 2024 10:11:12 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Fri, 14 Jun 2024 12:19:24 +0900</pubDate>
+</item>
+<item>
+    <title>saori-japanese-gengou</title>
+    <link>https://github.com/tukinami/saori-japanese-gengou</link>
+    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
+    <pubDate>Mon, 01 Apr 2024 19:26:28 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Mon, 01 Apr 2024 19:06:26 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
+</item>
+<item>
+    <title>ayayatter</title>
+    <link>https://github.com/tukinami/ayayatter</link>
+    <description>formatter for yaya.</description>
+    <category>tool</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/ayayatter</guid>
+    <pubDate>Mon, 04 Dec 2023 17:07:28 +0900</pubDate>
+</item>
+<item>
+    <title>small_HE-Chan_sama</title>
+    <link>https://github.com/tukinami/small_HE-Chan_sama</link>
+    <description>伺かゴースト「ヘイミル・ロゥ」用追加シェル</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/small_HE-Chan_sama</guid>
+    <pubDate>Thu, 05 Jan 2023 20:05:21 +0900</pubDate>
+</item>
 </channel>
 </rss>

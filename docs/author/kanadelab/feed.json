@@ -25,6 +25,27 @@
                 "ukagaka",
                 "ukagaka-tool"
             ]
+        },
+        {
+            "id": "kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
+            "content_text": "",
+            "summary": "vscode用surfaces.txtエクステンション",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2024-11-02T02:22:20Z",
+            "authors": [
+                {
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
         }
     ]
 }
