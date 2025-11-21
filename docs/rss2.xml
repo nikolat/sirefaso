@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sat, 22 Nov 2025 05:02:38 +0900</pubDate>
+</item>
+<item>
     <title>zoomout_dra</title>
     <link>https://github.com/Shimofumi/zoomout_dra</link>
     <description>かつて嫌ゴと呼ばれたけれど 追加シェル「辰年（小）」</description>
@@ -364,15 +373,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/MahjongUtil</guid>
     <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 02 Feb 2025 20:06:36 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
