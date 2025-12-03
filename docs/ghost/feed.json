@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Shimofumi/HamirLore",
+            "url": "https://github.com/Shimofumi/HamirLore",
+            "title": "HamirLore",
+            "content_text": "",
+            "summary": "Ukagaka ghost HamirLore",
+            "date_published": "2022-12-25T06:51:17Z",
+            "date_modified": "2025-12-03T11:00:41Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "tukinami/taidanaSanoSan",
             "url": "https://github.com/tukinami/taidanaSanoSan",
             "title": "taidanaSanoSan",
@@ -454,28 +476,6 @@
                 "japanese-mahjong",
                 "mahjong",
                 "riichi-mahjong",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "Shimofumi/HamirLore",
-            "url": "https://github.com/Shimofumi/HamirLore",
-            "title": "HamirLore",
-            "content_text": "",
-            "summary": "Ukagaka ghost HamirLore",
-            "date_published": "2022-12-25T06:51:17Z",
-            "date_modified": "2025-01-06T10:19:00Z",
-            "authors": [
-                {
-                    "name": "Shimofumi",
-                    "url": "https://github.com/Shimofumi",
-                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
-                }
-            ],
-            "tags": [
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
