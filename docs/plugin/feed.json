@@ -6,6 +6,41 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "arsuren/ghost-messenger",
+            "url": "https://github.com/arsuren/ghost-messenger",
+            "title": "ghost-messenger",
+            "content_text": "",
+            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
+            "date_published": "2026-01-10T05:27:33Z",
+            "date_modified": "2026-01-10T05:27:50Z",
+            "authors": [
+                {
+                    "name": "arsuren",
+                    "url": "https://github.com/arsuren",
+                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
+                }
+            ],
+            "tags": [
+                "custom-messenger",
+                "electron",
+                "end-to-end-encryption",
+                "facebook",
+                "jetpack-compose-",
+                "kotlin",
+                "kotlin-android",
+                "messager",
+                "messenger",
+                "sirefaso",
+                "sosiremi",
+                "telegram",
+                "theme",
+                "ukagaka",
+                "ukagaka-plugin",
+                "websocket",
+                "whatsapp"
+            ]
+        },
+        {
             "id": "ambergon/ukagakaPlugin_CeVIO-TalkerV2",
             "url": "https://github.com/ambergon/ukagakaPlugin_CeVIO-TalkerV2",
             "title": "ukagakaPlugin_CeVIO-TalkerV2",
