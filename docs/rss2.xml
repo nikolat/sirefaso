@@ -6,13 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Sun, 11 Jan 2026 12:42:14 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Sun, 11 Jan 2026 10:54:23 +0900</pubDate>
+    <pubDate>Sun, 11 Jan 2026 12:23:53 +0900</pubDate>
 </item>
 <item>
     <title>saori-japanese-gengou</title>
@@ -571,15 +580,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Fri, 26 Apr 2024 08:48:31 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Mon, 01 Apr 2024 19:06:26 +0900</pubDate>
 </item>
 <item>
     <title>saori-qrcode</title>
