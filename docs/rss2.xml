@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Sun, 11 Jan 2026 15:50:50 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Sun, 11 Jan 2026 15:16:55 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -546,15 +564,6 @@
     <pubDate>Fri, 21 Jun 2024 22:08:56 +0900</pubDate>
 </item>
 <item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Fri, 14 Jun 2024 12:19:24 +0900</pubDate>
-</item>
-<item>
     <title>LilyNovelPlayer_Prototype_Scenarios</title>
     <link>https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</link>
     <description>りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）</description>
@@ -589,15 +598,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/saori-qrcode</guid>
     <pubDate>Sun, 31 Mar 2024 17:23:28 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png</title>
-    <link>https://github.com/tukinami/saori-resized-png</link>
-    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
-    <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
 </item>
 <item>
     <title>Majiang</title>

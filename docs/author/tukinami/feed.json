@@ -6,6 +6,49 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/saori-resized-png-mini",
+            "url": "https://github.com/tukinami/saori-resized-png-mini",
+            "title": "saori-resized-png-mini",
+            "content_text": "",
+            "summary": "SAORI to resize image and save as png (limited edition)",
+            "date_published": "2023-03-03T10:30:17Z",
+            "date_modified": "2026-01-11T06:50:50Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "tukinami/saori-resized-png",
+            "url": "https://github.com/tukinami/saori-resized-png",
+            "title": "saori-resized-png",
+            "content_text": "",
+            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
+            "date_published": "2022-12-09T07:24:27Z",
+            "date_modified": "2026-01-11T06:16:55Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "image-processing",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
+            ]
+        },
+        {
             "id": "tukinami/saori-pie-chart",
             "url": "https://github.com/tukinami/saori-pie-chart",
             "title": "saori-pie-chart",
@@ -306,49 +349,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png-mini",
-            "url": "https://github.com/tukinami/saori-resized-png-mini",
-            "title": "saori-resized-png-mini",
-            "content_text": "",
-            "summary": "SAORI to resize image and save as png (limited edition)",
-            "date_published": "2023-03-03T10:30:17Z",
-            "date_modified": "2024-06-14T03:19:24Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "tukinami/saori-resized-png",
-            "url": "https://github.com/tukinami/saori-resized-png",
-            "title": "saori-resized-png",
-            "content_text": "",
-            "summary": "SAORI for UKAGAKA. Convert a image file to resized png file.",
-            "date_published": "2022-12-09T07:24:27Z",
-            "date_modified": "2024-03-31T06:56:19Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "image-processing",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
             ]
         },
         {

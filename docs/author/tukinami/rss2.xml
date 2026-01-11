@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/tukinami/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Sun, 11 Jan 2026 15:50:50 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Sun, 11 Jan 2026 15:16:55 +0900</pubDate>
+</item>
+<item>
     <title>saori-pie-chart</title>
     <link>https://github.com/tukinami/saori-pie-chart</link>
     <description>円グラフを作成するSAORI</description>
@@ -130,24 +148,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Fri, 15 Aug 2025 18:54:53 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Fri, 14 Jun 2024 12:19:24 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png</title>
-    <link>https://github.com/tukinami/saori-resized-png</link>
-    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
-    <pubDate>Sun, 31 Mar 2024 15:56:19 +0900</pubDate>
 </item>
 <item>
     <title>small_HE-Chan_sama</title>
