@@ -12,7 +12,25 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Sun, 11 Jan 2026 07:20:14 +0900</pubDate>
+    <pubDate>Sun, 11 Jan 2026 10:54:23 +0900</pubDate>
+</item>
+<item>
+    <title>saori-japanese-gengou</title>
+    <link>https://github.com/tukinami/saori-japanese-gengou</link>
+    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
+    <pubDate>Sun, 11 Jan 2026 10:42:50 +0900</pubDate>
+</item>
+<item>
+    <title>saori-calcs</title>
+    <link>https://github.com/tukinami/saori-calcs</link>
+    <description>四則演算+剰余の計算をするSAORI。</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-calcs</guid>
+    <pubDate>Sun, 11 Jan 2026 10:32:29 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
@@ -438,15 +456,6 @@
     <pubDate>Tue, 26 Nov 2024 04:57:32 +0900</pubDate>
 </item>
 <item>
-    <title>saori-calcs</title>
-    <link>https://github.com/tukinami/saori-calcs</link>
-    <description>四則演算+剰余の計算をするSAORI。</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-calcs</guid>
-    <pubDate>Mon, 04 Nov 2024 10:11:12 +0900</pubDate>
-</item>
-<item>
     <title>vscode-surfaces</title>
     <link>https://github.com/kanadelab/vscode-surfaces</link>
     <description>vscode用surfaces.txtエクステンション</description>
@@ -562,15 +571,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
     <pubDate>Fri, 26 Apr 2024 08:48:31 +0900</pubDate>
-</item>
-<item>
-    <title>saori-japanese-gengou</title>
-    <link>https://github.com/tukinami/saori-japanese-gengou</link>
-    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
-    <pubDate>Mon, 01 Apr 2024 19:26:28 +0900</pubDate>
 </item>
 <item>
     <title>saori-pie-chart</title>
