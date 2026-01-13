@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/LilyNovelPlayer",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
+            "title": "LilyNovelPlayer",
+            "content_text": "",
+            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
+            "date_published": "2024-05-17T16:44:26Z",
+            "date_modified": "2026-01-13T23:32:57Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/unyu_lunchbox",
             "url": "https://github.com/lost-nd-xxx/unyu_lunchbox",
             "title": "unyu_lunchbox",
@@ -222,28 +244,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/LilyNovelPlayer",
-            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
-            "title": "LilyNovelPlayer",
-            "content_text": "",
-            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
-            "date_published": "2024-05-17T16:44:26Z",
-            "date_modified": "2024-07-15T12:49:44Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
