@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ghost-messenger</title>
+    <link>https://github.com/arsuren/ghost-messenger</link>
+    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
+    <category>plugin</category>
+    <dc:creator>arsuren</dc:creator>
+    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
+    <pubDate>Fri, 16 Jan 2026 02:30:27 +0900</pubDate>
+</item>
+<item>
     <title>countdown_to_the_end</title>
     <link>https://github.com/lost-nd-xxx/countdown_to_the_end</link>
     <description>伺かゴースト「終末までのカウントダウン」</description>
@@ -13,15 +22,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/countdown_to_the_end</guid>
     <pubDate>Fri, 16 Jan 2026 00:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>ghost-messenger</title>
-    <link>https://github.com/arsuren/ghost-messenger</link>
-    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
-    <category>plugin</category>
-    <dc:creator>arsuren</dc:creator>
-    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 16 Jan 2026 00:09:36 +0900</pubDate>
 </item>
 <item>
     <title>LilyNovelPlayer</title>
