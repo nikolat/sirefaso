@@ -6,13 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 28 Jan 2026 15:31:15 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Wed, 28 Jan 2026 13:40:49 +0900</pubDate>
+    <pubDate>Wed, 28 Jan 2026 15:13:17 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -724,15 +733,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukadonyu</guid>
     <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-simultaneous-interpreter</title>
-    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
-    <description>Simultaneous Interpreter Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>

@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/nikolat/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 28 Jan 2026 15:31:15 +0900</pubDate>
+</item>
+<item>
     <title>nostalk</title>
     <link>https://github.com/nikolat/nostalk</link>
     <description>Nostr player on Ukagaka</description>
@@ -166,15 +175,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukadonyu</guid>
     <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-simultaneous-interpreter</title>
-    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
-    <description>Simultaneous Interpreter Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Wed, 16 Aug 2023 21:24:35 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-hakoirimusume</title>

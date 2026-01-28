@@ -6,13 +6,36 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "nikolat/ukagaka-simultaneous-interpreter",
+            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
+            "title": "ukagaka-simultaneous-interpreter",
+            "content_text": "",
+            "summary": "Simultaneous Interpreter Ghost",
+            "date_published": "2022-10-31T10:26:35Z",
+            "date_modified": "2026-01-28T06:31:15Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "akari",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-01-28T04:40:49Z",
+            "date_modified": "2026-01-28T06:13:17Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -1791,29 +1814,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/ukagaka-simultaneous-interpreter",
-            "url": "https://github.com/nikolat/ukagaka-simultaneous-interpreter",
-            "title": "ukagaka-simultaneous-interpreter",
-            "content_text": "",
-            "summary": "Simultaneous Interpreter Ghost",
-            "date_published": "2022-10-31T10:26:35Z",
-            "date_modified": "2023-08-16T12:24:35Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
