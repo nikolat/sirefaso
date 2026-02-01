@@ -6,35 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
-            "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2026-02-01T03:18:41Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-02-01T02:25:19Z",
+            "date_modified": "2026-02-01T05:20:49Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -60,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "content_text": "",
+            "summary": "伺か雑談系ゴースト",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2026-02-01T03:18:41Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
