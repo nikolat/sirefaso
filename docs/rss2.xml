@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Tue, 03 Feb 2026 14:55:00 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -13,15 +22,6 @@
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
     <pubDate>Tue, 03 Feb 2026 12:44:46 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Tue, 03 Feb 2026 12:04:47 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -726,15 +726,6 @@
     <pubDate>Tue, 26 Sep 2023 21:56:32 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
     <title>ukagaka-hakoirimusume</title>
     <link>https://github.com/nikolat/ukagaka-hakoirimusume</link>
     <description>Klotski for UKAGAKA</description>
@@ -751,15 +742,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/shellbook</guid>
     <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
-</item>
-<item>
-    <title>reshibainu</title>
-    <link>https://github.com/nikolat/reshibainu</link>
-    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/reshibainu</guid>
-    <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
 </item>
 <item>
     <title>crawler_uploader</title>
@@ -787,15 +769,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
     <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>jb-pura-vida</title>
-    <link>https://github.com/nikolat/jb-pura-vida</link>
-    <description>ゴースト「雀々BARIBARI」用追加シェル</description>
-    <category>shell</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jb-pura-vida</guid>
-    <pubDate>Fri, 09 Jun 2023 19:56:40 +0900</pubDate>
 </item>
 <item>
     <title>ukagakaPlugin_CeVIO-Talker</title>

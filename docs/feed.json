@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-02-03T05:55:00Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
@@ -38,27 +59,6 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-02-03T03:04:47Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
@@ -1793,30 +1793,6 @@
             ]
         },
         {
-            "id": "nikolat/ukadonyu",
-            "url": "https://github.com/nikolat/ukadonyu",
-            "title": "ukadonyu",
-            "content_text": "",
-            "summary": "うかどんクライアント",
-            "date_published": "2021-11-24T13:17:47Z",
-            "date_modified": "2023-08-20T06:35:30Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "akari",
-                "mastodon-client",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
             "id": "nikolat/ukagaka-hakoirimusume",
             "url": "https://github.com/nikolat/ukagaka-hakoirimusume",
             "title": "ukagaka-hakoirimusume",
@@ -1857,30 +1833,6 @@
             ],
             "tags": [
                 "akari",
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "nikolat/reshibainu",
-            "url": "https://github.com/nikolat/reshibainu",
-            "title": "reshibainu",
-            "content_text": "",
-            "summary": "「里々」ログビューア「れしば.NET」のゴースト版",
-            "date_published": "2022-01-26T03:28:11Z",
-            "date_modified": "2023-08-16T12:23:39Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "dotnet-framework",
-                "satori",
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
@@ -1953,30 +1905,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-balloon"
-            ]
-        },
-        {
-            "id": "nikolat/jb-pura-vida",
-            "url": "https://github.com/nikolat/jb-pura-vida",
-            "title": "jb-pura-vida",
-            "content_text": "",
-            "summary": "ゴースト「雀々BARIBARI」用追加シェル",
-            "date_published": "2023-06-09T07:38:06Z",
-            "date_modified": "2023-06-09T10:56:40Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "japanese-mahjong",
-                "mahjong",
-                "riichi-mahjong",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shell"
             ]
         },
         {

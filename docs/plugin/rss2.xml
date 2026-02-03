@@ -69,15 +69,6 @@
     <pubDate>Mon, 29 Jan 2024 07:49:30 +0900</pubDate>
 </item>
 <item>
-    <title>ukadonyu</title>
-    <link>https://github.com/nikolat/ukadonyu</link>
-    <description>うかどんクライアント</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukadonyu</guid>
-    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
-</item>
-<item>
     <title>ukagakaPlugin_CeVIO-Talker</title>
     <link>https://github.com/ambergon/ukagakaPlugin_CeVIO-Talker</link>
     <description>伺かSSPからCeVIO AIにトークを流し込んで読み上げてもらうプラグイン。調声が可能。読み上げるゴーストおよび声の設定が可能。</description>
