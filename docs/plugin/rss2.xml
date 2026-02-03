@@ -12,7 +12,7 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Tue, 03 Feb 2026 12:44:46 +0900</pubDate>
+    <pubDate>Tue, 03 Feb 2026 15:27:15 +0900</pubDate>
 </item>
 <item>
     <title>ukagakaPlugin_CeVIO-TalkerV2</title>
@@ -67,6 +67,15 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukaten</guid>
     <pubDate>Mon, 29 Jan 2024 07:49:30 +0900</pubDate>
+</item>
+<item>
+    <title>ukadonyu</title>
+    <link>https://github.com/nikolat/ukadonyu</link>
+    <description>うかどんクライアント</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukadonyu</guid>
+    <pubDate>Sun, 20 Aug 2023 15:35:30 +0900</pubDate>
 </item>
 <item>
     <title>ukagakaPlugin_CeVIO-Talker</title>

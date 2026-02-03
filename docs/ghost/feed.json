@@ -715,6 +715,30 @@
             ]
         },
         {
+            "id": "nikolat/reshibainu",
+            "url": "https://github.com/nikolat/reshibainu",
+            "title": "reshibainu",
+            "content_text": "",
+            "summary": "「里々」ログビューア「れしば.NET」のゴースト版",
+            "date_published": "2022-01-26T03:28:11Z",
+            "date_modified": "2023-08-16T12:23:39Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "dotnet-framework",
+                "satori",
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "nikolat/crawler_uploader",
             "url": "https://github.com/nikolat/crawler_uploader",
             "title": "crawler_uploader",

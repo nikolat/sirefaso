@@ -285,6 +285,15 @@
     <pubDate>Wed, 16 Aug 2023 21:23:47 +0900</pubDate>
 </item>
 <item>
+    <title>reshibainu</title>
+    <link>https://github.com/nikolat/reshibainu</link>
+    <description>「里々」ログビューア「れしば.NET」のゴースト版</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/reshibainu</guid>
+    <pubDate>Wed, 16 Aug 2023 21:23:39 +0900</pubDate>
+</item>
+<item>
     <title>crawler_uploader</title>
     <link>https://github.com/nikolat/crawler_uploader</link>
     <description>UKAGAKA Ghost</description>
