@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-02-14T23:34:05Z",
+            "date_modified": "2026-02-15T04:37:10Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,6 +41,28 @@
             ]
         },
         {
+            "id": "tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "content_text": "",
+            "summary": "伺か雑談系ゴースト",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2026-02-15T03:17:35Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -59,28 +81,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
-            "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2026-02-01T03:18:41Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
