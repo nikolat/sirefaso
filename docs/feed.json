@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-03T02:53:57Z",
+            "date_modified": "2026-03-03T05:06:47Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -59,6 +59,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/_the_hand_",
+            "url": "https://github.com/YAYA-shiori/_the_hand_",
+            "title": "_the_hand_",
+            "content_text": "",
+            "summary": "嫌ゴ「The Hand」Phase \"xxxx\"",
+            "date_published": "2026-02-23T08:22:16Z",
+            "date_modified": "2026-02-23T11:24:08Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
