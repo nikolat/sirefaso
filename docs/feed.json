@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "cronfox/quickshiori",
+            "url": "https://github.com/cronfox/quickshiori",
+            "title": "quickshiori",
+            "content_text": "",
+            "summary": "A js runtime of ukagaka. STILL IN UNSTABLE!",
+            "date_published": "2026-03-06T08:28:36Z",
+            "date_modified": "2026-03-10T05:29:58Z",
+            "authors": [
+                {
+                    "name": "cronfox",
+                    "url": "https://github.com/cronfox",
+                    "avatar": "https://avatars.githubusercontent.com/u/86996742?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
@@ -80,27 +101,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "cronfox/quickshiori",
-            "url": "https://github.com/cronfox/quickshiori",
-            "title": "quickshiori",
-            "content_text": "",
-            "summary": "A js runtime of ukagaka. STILL IN UNSTABLE!",
-            "date_published": "2026-03-06T08:28:36Z",
-            "date_modified": "2026-03-07T04:31:29Z",
-            "authors": [
-                {
-                    "name": "cronfox",
-                    "url": "https://github.com/cronfox",
-                    "avatar": "https://avatars.githubusercontent.com/u/86996742?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
