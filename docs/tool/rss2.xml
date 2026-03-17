@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/tool/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ghostdist</title>
+    <link>https://github.com/ukatech/ghostdist</link>
+    <description>ゴースト配布系自動化システム改</description>
+    <category>tool</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ghostdist</guid>
+    <pubDate>Wed, 18 Mar 2026 07:50:09 +0900</pubDate>
+</item>
+<item>
     <title>ayayatter</title>
     <link>https://github.com/tukinami/ayayatter</link>
     <description>formatter for yaya.</description>
@@ -31,15 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/SSPBundleTool</guid>
     <pubDate>Tue, 03 Mar 2026 21:12:21 +0900</pubDate>
-</item>
-<item>
-    <title>ghostdist</title>
-    <link>https://github.com/ukatech/ghostdist</link>
-    <description>ゴースト配布系自動化システム改</description>
-    <category>tool</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ghostdist</guid>
-    <pubDate>Wed, 14 Jan 2026 19:36:47 +0900</pubDate>
 </item>
 <item>
     <title>VimUkagakaSSTP</title>
