@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-16T21:03:11Z",
+            "date_modified": "2026-03-17T02:05:55Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -38,6 +38,50 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/YouSaveMe_ILoveYou",
+            "url": "https://github.com/lost-nd-xxx/YouSaveMe_ILoveYou",
+            "title": "YouSaveMe_ILoveYou",
+            "content_text": "",
+            "summary": "伺かゴースト「You save me, I love you.」",
+            "date_published": "2026-03-17T00:25:47Z",
+            "date_modified": "2026-03-17T01:08:00Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/perpetual_whisper",
+            "url": "https://github.com/lost-nd-xxx/perpetual_whisper",
+            "title": "perpetual_whisper",
+            "content_text": "",
+            "summary": "伺かゴースト「パペチュアル・ウィスパー」",
+            "date_published": "2026-03-17T00:24:51Z",
+            "date_modified": "2026-03-17T01:05:59Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
