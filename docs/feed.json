@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ghostdist",
-            "url": "https://github.com/ukatech/ghostdist",
-            "title": "ghostdist",
-            "content_text": "",
-            "summary": "ゴースト配布系自動化システム改",
-            "date_published": "2026-01-08T19:07:19Z",
-            "date_modified": "2026-03-17T22:50:09Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-17T21:01:11Z",
+            "date_modified": "2026-03-18T01:17:17Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -59,6 +38,27 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "ukatech/ghostdist",
+            "url": "https://github.com/ukatech/ghostdist",
+            "title": "ghostdist",
+            "content_text": "",
+            "summary": "ゴースト配布系自動化システム改",
+            "date_published": "2026-01-08T19:07:19Z",
+            "date_modified": "2026-03-17T22:50:09Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {
