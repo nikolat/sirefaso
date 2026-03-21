@@ -12,7 +12,25 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Sun, 22 Mar 2026 02:25:45 +0900</pubDate>
+    <pubDate>Sun, 22 Mar 2026 05:37:23 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sun, 22 Mar 2026 05:30:03 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Sun, 22 Mar 2026 05:16:16 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
@@ -85,15 +103,6 @@
     <dc:creator>cronfox</dc:creator>
     <guid isPermaLink="false">cronfox/quickshiori</guid>
     <pubDate>Tue, 10 Mar 2026 19:27:12 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sun, 08 Mar 2026 07:20:56 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
@@ -220,15 +229,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something_like_balloon</guid>
     <pubDate>Sun, 21 Dec 2025 19:42:39 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Tue, 09 Dec 2025 05:08:30 +0900</pubDate>
 </item>
 <item>
     <title>HamirLore</title>
