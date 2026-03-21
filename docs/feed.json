@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
-            "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2026-03-21T08:12:03Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-21T06:42:51Z",
+            "date_modified": "2026-03-21T09:37:16Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -59,6 +38,27 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
+            "content_text": "",
+            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2026-03-21T08:12:03Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori"
             ]
         },
         {
