@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
+            "id": "ukatech/csaori",
+            "url": "https://github.com/ukatech/csaori",
+            "title": "csaori",
             "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-03-21T22:11:07Z",
+            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
+            "date_published": "2015-09-19T02:09:22Z",
+            "date_modified": "2026-03-21T23:16:07Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -23,7 +23,28 @@
             "tags": [
                 "sirefaso",
                 "ukagaka",
-                "ukagaka-shiori"
+                "ukagaka-saori"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-03-21T22:58:59Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
             ]
         },
         {
@@ -33,7 +54,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-21T20:37:23Z",
+            "date_modified": "2026-03-21T22:52:54Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -62,6 +83,27 @@
             ]
         },
         {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-03-21T22:11:07Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-shiori",
             "url": "https://github.com/YAYA-shiori/yaya-shiori",
             "title": "yaya-shiori",
@@ -80,48 +122,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ukatech/csaori",
-            "url": "https://github.com/ukatech/csaori",
-            "title": "csaori",
-            "content_text": "",
-            "summary": "csaori: ukagaka \"SAORI\" (and PLUGIN) base library",
-            "date_published": "2015-09-19T02:09:22Z",
-            "date_modified": "2026-03-21T08:12:03Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-03-18T03:41:29Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
