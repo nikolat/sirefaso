@@ -6,6 +6,41 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "arsuren/ghost-messenger",
+            "url": "https://github.com/arsuren/ghost-messenger",
+            "title": "ghost-messenger",
+            "content_text": "",
+            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
+            "date_published": "2026-01-10T05:27:33Z",
+            "date_modified": "2026-03-22T02:06:10Z",
+            "authors": [
+                {
+                    "name": "arsuren",
+                    "url": "https://github.com/arsuren",
+                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
+                }
+            ],
+            "tags": [
+                "custom-messenger",
+                "electron",
+                "end-to-end-encryption",
+                "facebook",
+                "jetpack-compose-",
+                "kotlin",
+                "kotlin-android",
+                "messager",
+                "messenger",
+                "sirefaso",
+                "sosiremi",
+                "telegram",
+                "theme",
+                "ukagaka",
+                "ukagaka-plugin",
+                "websocket",
+                "whatsapp"
+            ]
+        },
+        {
             "id": "ukatech/csaori",
             "url": "https://github.com/ukatech/csaori",
             "title": "csaori",
@@ -45,41 +80,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "arsuren/ghost-messenger",
-            "url": "https://github.com/arsuren/ghost-messenger",
-            "title": "ghost-messenger",
-            "content_text": "",
-            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
-            "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-21T22:52:54Z",
-            "authors": [
-                {
-                    "name": "arsuren",
-                    "url": "https://github.com/arsuren",
-                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
-                }
-            ],
-            "tags": [
-                "custom-messenger",
-                "electron",
-                "end-to-end-encryption",
-                "facebook",
-                "jetpack-compose-",
-                "kotlin",
-                "kotlin-android",
-                "messager",
-                "messenger",
-                "sirefaso",
-                "sosiremi",
-                "telegram",
-                "theme",
-                "ukagaka",
-                "ukagaka-plugin",
-                "websocket",
-                "whatsapp"
             ]
         },
         {
