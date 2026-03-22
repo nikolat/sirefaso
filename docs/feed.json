@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-03-22T11:24:00Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -80,27 +101,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-saori"
-            ]
-        },
-        {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-03-21T22:11:07Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
