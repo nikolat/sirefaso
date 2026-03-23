@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 23 Mar 2026 22:24:46 +0900</pubDate>
+    <pubDate>Tue, 24 Mar 2026 02:07:14 +0900</pubDate>
+</item>
+<item>
+    <title>quickshiori</title>
+    <link>https://github.com/cronfox/quickshiori</link>
+    <description>A js runtime of ukagaka. STILL IN UNSTABLE!</description>
+    <category>shiori</category>
+    <dc:creator>cronfox</dc:creator>
+    <guid isPermaLink="false">cronfox/quickshiori</guid>
+    <pubDate>Tue, 24 Mar 2026 01:42:46 +0900</pubDate>
 </item>
 <item>
     <title>ghostdist</title>
@@ -103,15 +112,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
     <pubDate>Sun, 15 Mar 2026 14:16:10 +0900</pubDate>
-</item>
-<item>
-    <title>quickshiori</title>
-    <link>https://github.com/cronfox/quickshiori</link>
-    <description>A js runtime of ukagaka. STILL IN UNSTABLE!</description>
-    <category>shiori</category>
-    <dc:creator>cronfox</dc:creator>
-    <guid isPermaLink="false">cronfox/quickshiori</guid>
-    <pubDate>Tue, 10 Mar 2026 19:27:12 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
