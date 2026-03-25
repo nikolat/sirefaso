@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ayalilith</title>
+    <link>https://github.com/YAYA-shiori/ayalilith</link>
+    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
+    <pubDate>Thu, 26 Mar 2026 08:47:10 +0900</pubDate>
+</item>
+<item>
     <title>unyu_lunchbox</title>
     <link>https://github.com/lost-nd-xxx/unyu_lunchbox</link>
     <description>ゴースト「うにゅうのお弁当箱」</description>
@@ -211,15 +220,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/banjou_no_sumikko_de</guid>
     <pubDate>Mon, 07 Apr 2025 21:48:09 +0900</pubDate>
-</item>
-<item>
-    <title>ayalilith</title>
-    <link>https://github.com/YAYA-shiori/ayalilith</link>
-    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
-    <pubDate>Sun, 09 Feb 2025 19:38:45 +0900</pubDate>
 </item>
 <item>
     <title>ghostbook</title>
