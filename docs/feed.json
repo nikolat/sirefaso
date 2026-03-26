@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
-            "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2026-03-26T06:54:18Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-26T05:41:59Z",
+            "date_modified": "2026-03-26T08:52:44Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -62,55 +41,13 @@
             ]
         },
         {
-            "id": "cronfox/quickshiori",
-            "url": "https://github.com/cronfox/quickshiori",
-            "title": "quickshiori",
-            "content_text": "",
-            "summary": "A js runtime of ukagaka. STILL IN UNSTABLE!",
-            "date_published": "2026-03-06T08:28:36Z",
-            "date_modified": "2026-03-26T03:19:48Z",
-            "authors": [
-                {
-                    "name": "cronfox",
-                    "url": "https://github.com/cronfox",
-                    "avatar": "https://avatars.githubusercontent.com/u/86996742?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-dic",
-            "url": "https://github.com/YAYA-shiori/yaya-dic",
-            "title": "yaya-dic",
-            "content_text": "",
-            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
-            "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2026-03-26T01:10:00Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "YAYA-shiori/ayalilith",
             "url": "https://github.com/YAYA-shiori/ayalilith",
             "title": "ayalilith",
             "content_text": "",
             "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
             "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-03-26T01:06:59Z",
+            "date_modified": "2026-03-26T08:12:05Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -132,7 +69,7 @@
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-03-26T01:04:10Z",
+            "date_modified": "2026-03-26T08:11:11Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -144,6 +81,69 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
+            "content_text": "",
+            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2026-03-26T08:05:12Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "content_text": "",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2026-03-26T06:54:18Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "cronfox/quickshiori",
+            "url": "https://github.com/cronfox/quickshiori",
+            "title": "quickshiori",
+            "content_text": "",
+            "summary": "A js runtime of ukagaka. STILL IN UNSTABLE!",
+            "date_published": "2026-03-06T08:28:36Z",
+            "date_modified": "2026-03-26T03:19:48Z",
+            "authors": [
+                {
+                    "name": "cronfox",
+                    "url": "https://github.com/cronfox",
+                    "avatar": "https://avatars.githubusercontent.com/u/86996742?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
             ]
         },
         {
