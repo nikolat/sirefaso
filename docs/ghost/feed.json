@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
             "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-03-25T23:47:10Z",
+            "date_modified": "2026-03-26T01:06:59Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -23,6 +23,27 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-03-26T01:04:10Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
@@ -699,27 +720,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2024-11-25T19:57:32Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
