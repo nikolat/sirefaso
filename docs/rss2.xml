@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 27 Mar 2026 12:07:57 +0900</pubDate>
+    <pubDate>Fri, 27 Mar 2026 14:24:35 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Fri, 27 Mar 2026 14:21:23 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
@@ -85,15 +94,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Sun, 22 Mar 2026 20:24:00 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Sun, 22 Mar 2026 19:43:48 +0900</pubDate>
 </item>
 <item>
     <title>csaori</title>
