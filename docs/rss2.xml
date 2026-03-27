@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Fri, 27 Mar 2026 22:12:13 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -427,15 +436,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Fri, 15 Aug 2025 18:54:53 +0900</pubDate>
-</item>
-<item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Wed, 06 Aug 2025 21:59:08 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
