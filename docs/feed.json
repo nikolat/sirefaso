@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-03-30T21:34:26Z",
+            "date_modified": "2026-03-31T03:13:55Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -38,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/flele_aya",
+            "url": "https://github.com/YAYA-shiori/flele_aya",
+            "title": "flele_aya",
+            "content_text": "",
+            "summary": "FLELE v1",
+            "date_published": "2026-03-30T20:00:06Z",
+            "date_modified": "2026-03-31T02:26:32Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
