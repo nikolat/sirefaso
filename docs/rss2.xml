@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ayayatter</title>
+    <link>https://github.com/tukinami/ayayatter</link>
+    <description>formatter for yaya.</description>
+    <category>tool</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/ayayatter</guid>
+    <pubDate>Wed, 01 Apr 2026 19:43:10 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -31,15 +40,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Wed, 01 Apr 2026 11:22:08 +0900</pubDate>
-</item>
-<item>
-    <title>ayayatter</title>
-    <link>https://github.com/tukinami/ayayatter</link>
-    <description>formatter for yaya.</description>
-    <category>tool</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/ayayatter</guid>
-    <pubDate>Wed, 01 Apr 2026 07:32:38 +0900</pubDate>
 </item>
 <item>
     <title>Satolist2</title>
