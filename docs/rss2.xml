@@ -12,7 +12,7 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Wed, 01 Apr 2026 21:43:45 +0900</pubDate>
+    <pubDate>Thu, 02 Apr 2026 00:21:00 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
@@ -24,15 +24,6 @@
     <pubDate>Wed, 01 Apr 2026 19:43:10 +0900</pubDate>
 </item>
 <item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Wed, 01 Apr 2026 11:20:50 +0900</pubDate>
-</item>
-<item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
     <description>Yet Another AYA</description>
@@ -40,6 +31,15 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Wed, 01 Apr 2026 11:22:08 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Wed, 01 Apr 2026 11:20:50 +0900</pubDate>
 </item>
 <item>
     <title>Satolist2</title>

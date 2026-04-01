@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-04-01T12:43:45Z",
+            "date_modified": "2026-04-01T15:21:00Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -62,27 +62,6 @@
             ]
         },
         {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-04-01T02:20:50Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "YAYA-shiori/yaya-shiori",
             "url": "https://github.com/YAYA-shiori/yaya-shiori",
             "title": "yaya-shiori",
@@ -95,6 +74,27 @@
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-04-01T02:20:50Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
                 }
             ],
             "tags": [
