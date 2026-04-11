@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/balloon/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Sat, 11 Apr 2026 21:24:40 +0900</pubDate>
+</item>
+<item>
     <title>something_like_balloon</title>
     <link>https://github.com/lost-nd-xxx/something_like_balloon</link>
     <description>伺かのバルーン集と加工再配布可能なテンプレート</description>
@@ -22,15 +31,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/talismanic_beast_pattern</guid>
     <pubDate>Fri, 15 Aug 2025 18:54:53 +0900</pubDate>
-</item>
-<item>
-    <title>balloon_terminal</title>
-    <link>https://github.com/Tatakinov/balloon_terminal</link>
-    <description></description>
-    <category>balloon</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
-    <pubDate>Mon, 17 Jul 2023 21:58:08 +0900</pubDate>
 </item>
 <item>
     <title>b_f_watersurface</title>
