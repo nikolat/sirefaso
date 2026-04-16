@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Thu, 16 Apr 2026 19:02:57 +0900</pubDate>
+    <pubDate>Thu, 16 Apr 2026 21:31:55 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Thu, 16 Apr 2026 21:07:00 +0900</pubDate>
 </item>
 <item>
     <title>LilyNovelPlayer</title>
@@ -22,15 +31,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
     <pubDate>Sun, 12 Apr 2026 21:31:54 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Sun, 12 Apr 2026 20:31:59 +0900</pubDate>
 </item>
 <item>
     <title>balloon_terminal</title>
