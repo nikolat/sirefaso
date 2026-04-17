@@ -6,35 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2026-04-17T21:21:52Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-04-17T19:44:49Z",
+            "date_modified": "2026-04-17T22:05:50Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -60,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "nikolat/DirectSSTPTester",
+            "url": "https://github.com/nikolat/DirectSSTPTester",
+            "title": "DirectSSTPTester",
+            "content_text": "",
+            "summary": "DirectSSTPを送信するシンプルなテストツール",
+            "date_published": "2021-11-12T08:28:32Z",
+            "date_modified": "2026-04-17T21:21:52Z",
+            "authors": [
+                {
+                    "name": "nikolat",
+                    "url": "https://github.com/nikolat",
+                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sstp",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {
