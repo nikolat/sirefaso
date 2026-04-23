@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Thu, 23 Apr 2026 12:31:10 +0900</pubDate>
+    <pubDate>Thu, 23 Apr 2026 14:54:32 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Thu, 23 Apr 2026 14:23:39 +0900</pubDate>
 </item>
 <item>
     <title>unyu_lunchbox</title>
@@ -22,15 +31,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/unyu_lunchbox</guid>
     <pubDate>Wed, 22 Apr 2026 21:45:37 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Wed, 22 Apr 2026 08:40:55 +0900</pubDate>
 </item>
 <item>
     <title>DirectSSTPTester</title>
