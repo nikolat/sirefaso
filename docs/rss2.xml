@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>flele_aya</title>
+    <link>https://github.com/YAYA-shiori/flele_aya</link>
+    <description>FLELE v1</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/flele_aya</guid>
+    <pubDate>Sat, 25 Apr 2026 17:05:51 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -112,15 +121,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ghostdist</guid>
     <pubDate>Tue, 31 Mar 2026 15:42:01 +0900</pubDate>
-</item>
-<item>
-    <title>flele_aya</title>
-    <link>https://github.com/YAYA-shiori/flele_aya</link>
-    <description>FLELE v1</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/flele_aya</guid>
-    <pubDate>Tue, 31 Mar 2026 11:26:32 +0900</pubDate>
 </item>
 <item>
     <title>stampcollection</title>
