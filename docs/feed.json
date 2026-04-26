@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-04-26T15:59:53Z",
+            "date_modified": "2026-04-26T19:33:24Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,6 +41,27 @@
             ]
         },
         {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-04-26T19:29:01Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "YAYA-shiori/flele_aya",
             "url": "https://github.com/YAYA-shiori/flele_aya",
             "title": "flele_aya",
@@ -60,27 +81,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-04-23T19:48:36Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
