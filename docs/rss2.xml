@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Thu, 07 May 2026 01:33:52 +0900</pubDate>
+    <pubDate>Thu, 07 May 2026 05:44:03 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Thu, 07 May 2026 05:23:27 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -22,15 +31,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Wed, 06 May 2026 11:42:33 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Tue, 05 May 2026 08:45:04 +0900</pubDate>
 </item>
 <item>
     <title>UkagakaGhostMessenger</title>

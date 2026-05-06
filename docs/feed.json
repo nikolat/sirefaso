@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-05-06T16:33:52Z",
+            "date_modified": "2026-05-06T20:44:03Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,6 +41,27 @@
             ]
         },
         {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-05-06T20:23:27Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -59,27 +80,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-05-04T23:45:04Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {
