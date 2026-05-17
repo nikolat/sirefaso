@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Sun, 17 May 2026 07:41:28 +0900</pubDate>
+    <pubDate>Sun, 17 May 2026 11:08:04 +0900</pubDate>
+</item>
+<item>
+    <title>doll_at_the_bay_window</title>
+    <link>https://github.com/tukinami/doll_at_the_bay_window</link>
+    <description>ボロボロの窓辺に佇む人形を眺める伺かゴースト。</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/doll_at_the_bay_window</guid>
+    <pubDate>Sun, 17 May 2026 10:53:27 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>

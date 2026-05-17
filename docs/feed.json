@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-05-16T22:41:28Z",
+            "date_modified": "2026-05-17T02:08:04Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -38,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "tukinami/doll_at_the_bay_window",
+            "url": "https://github.com/tukinami/doll_at_the_bay_window",
+            "title": "doll_at_the_bay_window",
+            "content_text": "",
+            "summary": "ボロボロの窓辺に佇む人形を眺める伺かゴースト。",
+            "date_published": "2026-05-17T01:36:07Z",
+            "date_modified": "2026-05-17T01:53:27Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {

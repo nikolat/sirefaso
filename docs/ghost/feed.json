@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "tukinami/doll_at_the_bay_window",
+            "url": "https://github.com/tukinami/doll_at_the_bay_window",
+            "title": "doll_at_the_bay_window",
+            "content_text": "",
+            "summary": "ボロボロの窓辺に佇む人形を眺める伺かゴースト。",
+            "date_published": "2026-05-17T01:36:07Z",
+            "date_modified": "2026-05-17T01:53:27Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/UGMNavigator_Umechan",
             "url": "https://github.com/lost-nd-xxx/UGMNavigator_Umechan",
             "title": "UGMNavigator_Umechan",
