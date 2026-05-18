@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-05-18T05:21:13Z",
+            "date_modified": "2026-05-18T08:05:35Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -38,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/HopefullyEverAfter_Yume",
+            "url": "https://github.com/lost-nd-xxx/HopefullyEverAfter_Yume",
+            "title": "HopefullyEverAfter_Yume",
+            "content_text": "",
+            "summary": "伺かゴースト「きっと、いつまでも幸せに暮らしました。」",
+            "date_published": "2026-05-18T07:40:46Z",
+            "date_modified": "2026-05-18T07:50:00Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
@@ -280,27 +302,6 @@
             ]
         },
         {
-            "id": "Tatakinov/balloon_terminal",
-            "url": "https://github.com/Tatakinov/balloon_terminal",
-            "title": "balloon_terminal",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2023-07-17T12:55:46Z",
-            "date_modified": "2026-04-11T12:24:40Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-balloon"
-            ]
-        },
-        {
             "id": "Tatakinov/knowledgeable_kernel",
             "url": "https://github.com/Tatakinov/knowledgeable_kernel",
             "title": "knowledgeable_kernel",
@@ -320,6 +321,27 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/balloon_terminal",
+            "url": "https://github.com/Tatakinov/balloon_terminal",
+            "title": "balloon_terminal",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2023-07-17T12:55:46Z",
+            "date_modified": "2026-04-11T12:24:40Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-balloon"
             ]
         },
         {

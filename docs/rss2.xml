@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 18 May 2026 14:21:13 +0900</pubDate>
+    <pubDate>Mon, 18 May 2026 17:05:35 +0900</pubDate>
+</item>
+<item>
+    <title>HopefullyEverAfter_Yume</title>
+    <link>https://github.com/lost-nd-xxx/HopefullyEverAfter_Yume</link>
+    <description>伺かゴースト「きっと、いつまでも幸せに暮らしました。」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/HopefullyEverAfter_Yume</guid>
+    <pubDate>Mon, 18 May 2026 16:50:00 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -114,15 +123,6 @@
     <pubDate>Sun, 12 Apr 2026 21:31:54 +0900</pubDate>
 </item>
 <item>
-    <title>balloon_terminal</title>
-    <link>https://github.com/Tatakinov/balloon_terminal</link>
-    <description></description>
-    <category>balloon</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
-    <pubDate>Sat, 11 Apr 2026 21:24:40 +0900</pubDate>
-</item>
-<item>
     <title>knowledgeable_kernel</title>
     <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
     <description></description>
@@ -130,6 +130,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
     <pubDate>Sat, 11 Apr 2026 21:27:13 +0900</pubDate>
+</item>
+<item>
+    <title>balloon_terminal</title>
+    <link>https://github.com/Tatakinov/balloon_terminal</link>
+    <description></description>
+    <category>balloon</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/balloon_terminal</guid>
+    <pubDate>Sat, 11 Apr 2026 21:24:40 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
