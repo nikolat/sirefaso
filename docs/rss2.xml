@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Sun, 24 May 2026 07:55:29 +0900</pubDate>
+    <pubDate>Sun, 24 May 2026 14:02:47 +0900</pubDate>
+</item>
+<item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 24 May 2026 12:47:11 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -265,15 +274,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/perpetual_whisper</guid>
     <pubDate>Tue, 17 Mar 2026 17:02:05 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 15 Mar 2026 14:16:10 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
