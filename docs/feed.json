@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-05-25T06:41:19Z",
+            "date_modified": "2026-05-25T14:16:57Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -38,6 +38,28 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/something-like-balloon-editor",
+            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
+            "title": "something-like-balloon-editor",
+            "content_text": "",
+            "summary": "Something Like Balloon Editor / 伺かバルーンの設定ファイル作成・色変えツール",
+            "date_published": "2026-05-25T12:24:15Z",
+            "date_modified": "2026-05-25T14:10:50Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {

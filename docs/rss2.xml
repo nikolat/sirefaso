@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 25 May 2026 15:41:19 +0900</pubDate>
+    <pubDate>Mon, 25 May 2026 23:16:57 +0900</pubDate>
+</item>
+<item>
+    <title>something-like-balloon-editor</title>
+    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
+    <description>Something Like Balloon Editor / 伺かバルーンの設定ファイル作成・色変えツール</description>
+    <category>tool</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
+    <pubDate>Mon, 25 May 2026 23:10:50 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>

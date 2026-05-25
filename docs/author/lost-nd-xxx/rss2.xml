@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/lost-nd-xxx/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>something-like-balloon-editor</title>
+    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
+    <description>Something Like Balloon Editor / 伺かバルーンの設定ファイル作成・色変えツール</description>
+    <category>tool</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
+    <pubDate>Mon, 25 May 2026 23:10:50 +0900</pubDate>
+</item>
+<item>
     <title>HopefullyEverAfter_Yume</title>
     <link>https://github.com/lost-nd-xxx/HopefullyEverAfter_Yume</link>
     <description>伺かゴースト「きっと、いつまでも幸せに暮らしました。」</description>
