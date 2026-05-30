@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-05-30T10:56:09Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-05-30T10:26:31Z",
+            "date_modified": "2026-05-30T14:00:48Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -68,7 +47,7 @@
             "content_text": "",
             "summary": "Something Like Balloon Editor / 伺かバルーンの設定ファイル作成・色変えツール",
             "date_published": "2026-05-25T12:24:15Z",
-            "date_modified": "2026-05-30T08:55:38Z",
+            "date_modified": "2026-05-30T13:43:12Z",
             "authors": [
                 {
                     "name": "lost-nd-xxx",
@@ -81,6 +60,27 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-05-30T10:56:09Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
             ]
         },
         {
