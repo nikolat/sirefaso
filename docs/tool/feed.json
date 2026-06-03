@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "Zig用のSHIORI/3.0パーサ",
             "date_published": "2025-09-21T13:17:43Z",
-            "date_modified": "2026-06-03T09:40:33Z",
+            "date_modified": "2026-06-03T10:19:47Z",
             "authors": [
                 {
                     "name": "syobocat",
@@ -34,7 +34,7 @@
             "content_text": "",
             "summary": "Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ",
             "date_published": "2025-09-05T08:01:28Z",
-            "date_modified": "2026-06-03T03:37:45Z",
+            "date_modified": "2026-06-03T10:18:08Z",
             "authors": [
                 {
                     "name": "syobocat",
