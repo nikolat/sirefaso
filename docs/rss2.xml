@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 05 Jun 2026 18:10:40 +0900</pubDate>
+    <pubDate>Fri, 05 Jun 2026 21:06:54 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Fri, 05 Jun 2026 20:43:42 +0900</pubDate>
 </item>
 <item>
     <title>shiori_zig</title>
@@ -40,15 +49,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
     <pubDate>Mon, 01 Jun 2026 16:17:46 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Sat, 30 May 2026 19:56:09 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
