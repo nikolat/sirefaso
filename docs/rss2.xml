@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 12 Jun 2026 18:42:22 +0900</pubDate>
+    <pubDate>Fri, 12 Jun 2026 22:32:32 +0900</pubDate>
+</item>
+<item>
+    <title>ghost_in_a_nutshell</title>
+    <link>https://github.com/syobocat/ghost_in_a_nutshell</link>
+    <description>OpenAI互換APIを利用し、全ての会話をLLMによって生成するゴースト</description>
+    <category>ghost</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/ghost_in_a_nutshell</guid>
+    <pubDate>Fri, 12 Jun 2026 22:48:38 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
