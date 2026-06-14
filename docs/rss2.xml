@@ -6,13 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Mon, 15 Jun 2026 05:19:34 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 15 Jun 2026 00:39:38 +0900</pubDate>
+    <pubDate>Mon, 15 Jun 2026 04:46:01 +0900</pubDate>
 </item>
 <item>
     <title>ghost_in_a_nutshell</title>
@@ -67,15 +76,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/ukadll_zig</guid>
     <pubDate>Wed, 03 Jun 2026 19:18:08 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Tue, 19 May 2026 08:53:27 +0900</pubDate>
 </item>
 <item>
     <title>HopefullyEverAfter_Yume</title>
