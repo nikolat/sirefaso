@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Wed, 01 Jul 2026 10:28:01 +0900</pubDate>
+    <pubDate>Wed, 01 Jul 2026 12:51:42 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Wed, 01 Jul 2026 12:48:38 +0900</pubDate>
 </item>
 <item>
     <title>mancala-player-amethyst</title>
@@ -31,15 +40,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/mancala-player-amber</guid>
     <pubDate>Tue, 30 Jun 2026 21:39:44 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Tue, 30 Jun 2026 07:32:28 +0900</pubDate>
 </item>
 <item>
     <title>mancala-board-ghost</title>
@@ -759,7 +759,7 @@
     <category>ghost</category>
     <dc:creator>Taromati2</dc:creator>
     <guid isPermaLink="false">Taromati2/Taromati2</guid>
-    <pubDate>Mon, 01 Jun 2026 11:56:23 +0900</pubDate>
+    <pubDate>Wed, 01 Jul 2026 11:48:16 +0900</pubDate>
 </item>
 <item>
     <title>kagari_as_plugin</title>
