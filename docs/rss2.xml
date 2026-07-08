@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Wed, 08 Jul 2026 08:08:06 +0900</pubDate>
+    <pubDate>Wed, 08 Jul 2026 13:30:34 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Wed, 08 Jul 2026 11:16:22 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -22,15 +31,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
     <pubDate>Sun, 05 Jul 2026 13:03:46 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Thu, 02 Jul 2026 21:38:03 +0900</pubDate>
 </item>
 <item>
     <title>mancala-player-amethyst</title>
