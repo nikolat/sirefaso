@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "macOS向け伺か互換ベースウェア",
             "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-08-26T04:08:52Z",
+            "date_modified": "2026-08-26T05:35:56Z",
             "authors": [
                 {
                     "name": "opera7133",
@@ -25,6 +25,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-baseware"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-08-26T05:14:10Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
             ]
         },
         {
@@ -60,27 +81,6 @@
                 "ukagaka-plugin",
                 "websocket",
                 "whatsapp"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-08-24T00:11:46Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
