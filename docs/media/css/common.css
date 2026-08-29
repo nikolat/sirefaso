@@ -198,6 +198,10 @@ body {
 	content: "webapp";
 	background-color: #eaa;
 }
+#content .baseware:before {
+	content: "baseware";
+	background-color: #aea;
+}
 #content .hentry:hover {
 	border-color: #fff #999 #999 #fff;
 	background-color: #fff;
