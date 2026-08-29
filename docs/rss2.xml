@@ -12,7 +12,16 @@
     <category>baseware</category>
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Fri, 28 Aug 2026 21:19:49 +0900</pubDate>
+    <pubDate>Sat, 29 Aug 2026 16:29:01 +0900</pubDate>
+</item>
+<item>
+    <title>something-like-balloon-editor</title>
+    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
+    <description>伺かバルーンの設定ファイル作成・色変えツール</description>
+    <category>tool</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
+    <pubDate>Sat, 29 Aug 2026 13:20:39 +0900</pubDate>
 </item>
 <item>
     <title>ghost-messenger</title>
@@ -103,15 +112,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/ghost_in_a_nutshell</guid>
     <pubDate>Fri, 12 Jun 2026 22:48:38 +0900</pubDate>
-</item>
-<item>
-    <title>something-like-balloon-editor</title>
-    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
-    <description>伺かバルーンの設定ファイル作成・色変えツール</description>
-    <category>tool</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
-    <pubDate>Sat, 29 Aug 2026 11:03:48 +0900</pubDate>
 </item>
 <item>
     <title>shiori_zig</title>

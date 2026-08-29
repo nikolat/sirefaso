@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "macOS向け伺か互換ベースウェア",
             "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-08-28T12:19:49Z",
+            "date_modified": "2026-08-29T07:29:01Z",
             "authors": [
                 {
                     "name": "opera7133",
@@ -25,6 +25,28 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-baseware"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/something-like-balloon-editor",
+            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
+            "title": "something-like-balloon-editor",
+            "content_text": "",
+            "summary": "伺かバルーンの設定ファイル作成・色変えツール",
+            "date_published": "2026-05-25T12:24:15Z",
+            "date_modified": "2026-08-29T04:20:39Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {
@@ -255,28 +277,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/something-like-balloon-editor",
-            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
-            "title": "something-like-balloon-editor",
-            "content_text": "",
-            "summary": "伺かバルーンの設定ファイル作成・色変えツール",
-            "date_published": "2026-05-25T12:24:15Z",
-            "date_modified": "2026-08-29T02:03:48Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
