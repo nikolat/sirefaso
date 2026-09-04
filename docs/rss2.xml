@@ -12,7 +12,16 @@
     <category>baseware</category>
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Fri, 04 Sep 2026 17:37:21 +0900</pubDate>
+    <pubDate>Fri, 04 Sep 2026 22:28:55 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Fri, 04 Sep 2026 21:26:30 +0900</pubDate>
 </item>
 <item>
     <title>ghost-messenger</title>
@@ -67,15 +76,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
     <pubDate>Sat, 29 Aug 2026 13:20:39 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Wed, 26 Aug 2026 14:14:10 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>
