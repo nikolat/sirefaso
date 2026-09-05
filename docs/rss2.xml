@@ -132,6 +132,15 @@
     <pubDate>Sat, 27 Jun 2026 07:33:02 +0900</pubDate>
 </item>
 <item>
+    <title>tmidi_msg</title>
+    <link>https://github.com/JiayuYangX/tmidi_msg</link>
+    <description>支持 TMIDI Player 消息的伪春菜插件</description>
+    <category>plugin</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/tmidi_msg</guid>
+    <pubDate>Tue, 23 Jun 2026 11:05:42 +0900</pubDate>
+</item>
+<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>

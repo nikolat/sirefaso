@@ -41,6 +41,28 @@
             ]
         },
         {
+            "id": "JiayuYangX/tmidi_msg",
+            "url": "https://github.com/JiayuYangX/tmidi_msg",
+            "title": "tmidi_msg",
+            "content_text": "",
+            "summary": "支持 TMIDI Player 消息的伪春菜插件",
+            "date_published": "2026-06-19T07:30:16Z",
+            "date_modified": "2026-06-23T02:05:42Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/UkagakaGhostMessenger",
             "url": "https://github.com/lost-nd-xxx/UkagakaGhostMessenger",
             "title": "UkagakaGhostMessenger",

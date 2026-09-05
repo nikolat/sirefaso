@@ -15,6 +15,15 @@
     <pubDate>Thu, 03 Sep 2026 12:25:58 +0900</pubDate>
 </item>
 <item>
+    <title>tmidi_msg</title>
+    <link>https://github.com/JiayuYangX/tmidi_msg</link>
+    <description>支持 TMIDI Player 消息的伪春菜插件</description>
+    <category>plugin</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/tmidi_msg</guid>
+    <pubDate>Tue, 23 Jun 2026 11:05:42 +0900</pubDate>
+</item>
+<item>
     <title>UkagakaGhostMessenger</title>
     <link>https://github.com/lost-nd-xxx/UkagakaGhostMessenger</link>
     <description>伺かベースウェア向けのメッセージアプリ風プラグイン</description>
