@@ -49,6 +49,28 @@
             ]
         },
         {
+            "id": "JiayuYangX/sakura-restore",
+            "url": "https://github.com/JiayuYangX/sakura-restore",
+            "title": "sakura-restore",
+            "content_text": "",
+            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
+            "date_published": "2026-07-04T22:08:43Z",
+            "date_modified": "2026-09-03T09:00:08Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
@@ -204,6 +226,28 @@
                     "name": "lost-nd-xxx",
                     "url": "https://github.com/lost-nd-xxx",
                     "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "JiayuYangX/EmilyTranslateProject",
+            "url": "https://github.com/JiayuYangX/EmilyTranslateProject",
+            "title": "EmilyTranslateProject",
+            "content_text": "",
+            "summary": "SSP 默认人格 Emily/Phase4.5 完全汉化",
+            "date_published": "2026-06-18T22:02:36Z",
+            "date_modified": "2026-07-04T10:18:28Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
                 }
             ],
             "tags": [

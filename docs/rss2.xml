@@ -24,6 +24,15 @@
     <pubDate>Fri, 04 Sep 2026 21:26:30 +0900</pubDate>
 </item>
 <item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Thu, 03 Sep 2026 18:00:08 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
@@ -85,6 +94,15 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/WeatherTimeCapsule</guid>
     <pubDate>Sat, 11 Jul 2026 09:45:48 +0900</pubDate>
+</item>
+<item>
+    <title>EmilyTranslateProject</title>
+    <link>https://github.com/JiayuYangX/EmilyTranslateProject</link>
+    <description>SSP 默认人格 Emily/Phase4.5 完全汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/EmilyTranslateProject</guid>
+    <pubDate>Sat, 04 Jul 2026 19:18:28 +0900</pubDate>
 </item>
 <item>
     <title>mancala-player-amethyst</title>
