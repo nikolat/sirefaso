@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 14 Sep 2026 22:11:53 +0900</pubDate>
+    <pubDate>Tue, 15 Sep 2026 04:05:35 +0900</pubDate>
+</item>
+<item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Tue, 15 Sep 2026 02:41:10 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -31,15 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Mon, 14 Sep 2026 15:23:48 +0900</pubDate>
-</item>
-<item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Mon, 14 Sep 2026 00:56:33 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
