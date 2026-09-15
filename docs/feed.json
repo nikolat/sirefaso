@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-09-15T00:49:23Z",
+            "date_modified": "2026-09-15T06:38:43Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -47,7 +47,7 @@
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-15T00:49:38Z",
+            "date_modified": "2026-09-15T05:15:11Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -59,6 +59,28 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "opera7133/Utatane",
+            "url": "https://github.com/opera7133/Utatane",
+            "title": "Utatane",
+            "content_text": "",
+            "summary": "macOS向け伺か互換ベースウェア",
+            "date_published": "2026-08-19T08:44:20Z",
+            "date_modified": "2026-09-15T04:50:00Z",
+            "authors": [
+                {
+                    "name": "opera7133",
+                    "url": "https://github.com/opera7133",
+                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
             ]
         },
         {
@@ -102,28 +124,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "opera7133/Utatane",
-            "url": "https://github.com/opera7133/Utatane",
-            "title": "Utatane",
-            "content_text": "",
-            "summary": "macOS向け伺か互換ベースウェア",
-            "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-09-13T06:37:12Z",
-            "authors": [
-                {
-                    "name": "opera7133",
-                    "url": "https://github.com/opera7133",
-                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
             ]
         },
         {
