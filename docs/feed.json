@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-09-14T22:33:54Z",
+            "date_modified": "2026-09-15T00:49:23Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,35 +41,13 @@
             ]
         },
         {
-            "id": "JiayuYangX/sakura-restore",
-            "url": "https://github.com/JiayuYangX/sakura-restore",
-            "title": "sakura-restore",
-            "content_text": "",
-            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
-            "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-09-14T17:41:10Z",
-            "authors": [
-                {
-                    "name": "JiayuYangX",
-                    "url": "https://github.com/JiayuYangX",
-                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "YAYA-shiori/konnoyayame",
             "url": "https://github.com/YAYA-shiori/konnoyayame",
             "title": "konnoyayame",
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-14T08:28:51Z",
+            "date_modified": "2026-09-15T00:49:38Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -90,7 +68,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-09-14T06:23:48Z",
+            "date_modified": "2026-09-15T00:07:51Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -102,6 +80,28 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "JiayuYangX/sakura-restore",
+            "url": "https://github.com/JiayuYangX/sakura-restore",
+            "title": "sakura-restore",
+            "content_text": "",
+            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
+            "date_published": "2026-07-04T22:08:43Z",
+            "date_modified": "2026-09-14T17:41:10Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
