@@ -12,7 +12,52 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Fri, 18 Sep 2026 15:05:13 +0900</pubDate>
+    <pubDate>Fri, 18 Sep 2026 20:26:41 +0900</pubDate>
+</item>
+<item>
+    <title>ukadll_zig</title>
+    <link>https://github.com/syobocat/ukadll_zig</link>
+    <description>Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ</description>
+    <category>tool</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/ukadll_zig</guid>
+    <pubDate>Fri, 18 Sep 2026 19:04:01 +0900</pubDate>
+</item>
+<item>
+    <title>shiori_zig</title>
+    <link>https://github.com/syobocat/shiori_zig</link>
+    <description>Zig用のSHIORI/3.0パーサ</description>
+    <category>tool</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/shiori_zig</guid>
+    <pubDate>Fri, 18 Sep 2026 19:02:11 +0900</pubDate>
+</item>
+<item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Fri, 18 Sep 2026 17:16:58 +0900</pubDate>
+</item>
+<item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Fri, 18 Sep 2026 16:29:47 +0900</pubDate>
+</item>
+<item>
+    <title>ghost-messenger</title>
+    <link>https://github.com/arsuren/ghost-messenger</link>
+    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
+    <category>plugin</category>
+    <dc:creator>arsuren</dc:creator>
+    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
+    <pubDate>Fri, 18 Sep 2026 15:37:10 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -22,42 +67,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
     <pubDate>Fri, 18 Sep 2026 14:34:14 +0900</pubDate>
-</item>
-<item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Fri, 18 Sep 2026 14:03:51 +0900</pubDate>
-</item>
-<item>
-    <title>ghost-messenger</title>
-    <link>https://github.com/arsuren/ghost-messenger</link>
-    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
-    <category>plugin</category>
-    <dc:creator>arsuren</dc:creator>
-    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 18 Sep 2026 13:33:45 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Fri, 18 Sep 2026 11:58:26 +0900</pubDate>
-</item>
-<item>
-    <title>shiori_zig</title>
-    <link>https://github.com/syobocat/shiori_zig</link>
-    <description>Zig用のSHIORI/3.0パーサ</description>
-    <category>tool</category>
-    <dc:creator>syobocat</dc:creator>
-    <guid isPermaLink="false">syobocat/shiori_zig</guid>
-    <pubDate>Fri, 18 Sep 2026 11:17:01 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>
@@ -220,15 +229,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/ghost_in_a_nutshell</guid>
     <pubDate>Fri, 12 Jun 2026 22:48:38 +0900</pubDate>
-</item>
-<item>
-    <title>ukadll_zig</title>
-    <link>https://github.com/syobocat/ukadll_zig</link>
-    <description>Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ</description>
-    <category>tool</category>
-    <dc:creator>syobocat</dc:creator>
-    <guid isPermaLink="false">syobocat/ukadll_zig</guid>
-    <pubDate>Wed, 03 Jun 2026 19:18:08 +0900</pubDate>
 </item>
 <item>
     <title>HopefullyEverAfter_Yume</title>

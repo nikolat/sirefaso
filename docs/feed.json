@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "ukadoc: ukagaka documentation project",
             "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-09-18T06:05:13Z",
+            "date_modified": "2026-09-18T11:26:41Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -27,24 +27,47 @@
             ]
         },
         {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
+            "id": "syobocat/ukadll_zig",
+            "url": "https://github.com/syobocat/ukadll_zig",
+            "title": "ukadll_zig",
             "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-18T05:34:14Z",
+            "summary": "Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ",
+            "date_published": "2025-09-05T08:01:28Z",
+            "date_modified": "2026-09-18T10:04:01Z",
             "authors": [
                 {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
+                "sosiremi",
                 "ukagaka",
-                "ukagaka-ghost"
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "syobocat/shiori_zig",
+            "url": "https://github.com/syobocat/shiori_zig",
+            "title": "shiori_zig",
+            "content_text": "",
+            "summary": "Zig用のSHIORI/3.0パーサ",
+            "date_published": "2025-09-21T13:17:43Z",
+            "date_modified": "2026-09-18T10:02:11Z",
+            "authors": [
+                {
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
             ]
         },
         {
@@ -54,7 +77,7 @@
             "content_text": "",
             "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
             "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-09-18T05:03:51Z",
+            "date_modified": "2026-09-18T08:16:58Z",
             "authors": [
                 {
                     "name": "JiayuYangX",
@@ -70,13 +93,35 @@
             ]
         },
         {
+            "id": "opera7133/Utatane",
+            "url": "https://github.com/opera7133/Utatane",
+            "title": "Utatane",
+            "content_text": "",
+            "summary": "macOS向け伺か互換ベースウェア",
+            "date_published": "2026-08-19T08:44:20Z",
+            "date_modified": "2026-09-18T07:29:47Z",
+            "authors": [
+                {
+                    "name": "opera7133",
+                    "url": "https://github.com/opera7133",
+                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-09-18T04:33:45Z",
+            "date_modified": "2026-09-18T06:37:10Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -105,47 +150,24 @@
             ]
         },
         {
-            "id": "opera7133/Utatane",
-            "url": "https://github.com/opera7133/Utatane",
-            "title": "Utatane",
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
             "content_text": "",
-            "summary": "macOS向け伺か互換ベースウェア",
-            "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-09-18T02:58:26Z",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-09-18T05:34:14Z",
             "authors": [
                 {
-                    "name": "opera7133",
-                    "url": "https://github.com/opera7133",
-                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
-            ]
-        },
-        {
-            "id": "syobocat/shiori_zig",
-            "url": "https://github.com/syobocat/shiori_zig",
-            "title": "shiori_zig",
-            "content_text": "",
-            "summary": "Zig用のSHIORI/3.0パーサ",
-            "date_published": "2025-09-21T13:17:43Z",
-            "date_modified": "2026-09-18T02:17:01Z",
-            "authors": [
-                {
-                    "name": "syobocat",
-                    "url": "https://github.com/syobocat",
-                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
-                "sosiremi",
                 "ukagaka",
-                "ukagaka-tool"
+                "ukagaka-ghost"
             ]
         },
         {
@@ -539,28 +561,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "syobocat/ukadll_zig",
-            "url": "https://github.com/syobocat/ukadll_zig",
-            "title": "ukadll_zig",
-            "content_text": "",
-            "summary": "Zigで伺か用のDLLを作成する際、ZigとCとの橋渡しを楽にするパッケージ",
-            "date_published": "2025-09-05T08:01:28Z",
-            "date_modified": "2026-06-03T10:18:08Z",
-            "authors": [
-                {
-                    "name": "syobocat",
-                    "url": "https://github.com/syobocat",
-                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
             ]
         },
         {
