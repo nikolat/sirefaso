@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-19T00:33:10Z",
+            "date_modified": "2026-09-19T04:02:16Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -24,6 +24,28 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "opera7133/Utatane",
+            "url": "https://github.com/opera7133/Utatane",
+            "title": "Utatane",
+            "content_text": "",
+            "summary": "macOS向け伺か互換ベースウェア",
+            "date_published": "2026-08-19T08:44:20Z",
+            "date_modified": "2026-09-19T03:50:16Z",
+            "authors": [
+                {
+                    "name": "opera7133",
+                    "url": "https://github.com/opera7133",
+                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
             ]
         },
         {
@@ -111,28 +133,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "opera7133/Utatane",
-            "url": "https://github.com/opera7133/Utatane",
-            "title": "Utatane",
-            "content_text": "",
-            "summary": "macOS向け伺か互換ベースウェア",
-            "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-09-18T07:29:47Z",
-            "authors": [
-                {
-                    "name": "opera7133",
-                    "url": "https://github.com/opera7133",
-                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
             ]
         },
         {
