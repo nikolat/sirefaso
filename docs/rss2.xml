@@ -6,13 +6,31 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ghost-messenger</title>
+    <link>https://github.com/arsuren/ghost-messenger</link>
+    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
+    <category>plugin</category>
+    <dc:creator>arsuren</dc:creator>
+    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
+    <pubDate>Sun, 20 Sep 2026 20:12:02 +0900</pubDate>
+</item>
+<item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Sun, 20 Sep 2026 17:52:36 +0900</pubDate>
+</item>
+<item>
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
     <category>tool</category>
     <dc:creator>kanadelab</dc:creator>
     <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Sun, 20 Sep 2026 15:26:20 +0900</pubDate>
+    <pubDate>Sun, 20 Sep 2026 17:13:42 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka_zig_demo</title>
@@ -22,15 +40,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/ukagaka_zig_demo</guid>
     <pubDate>Sun, 20 Sep 2026 12:25:08 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Sun, 20 Sep 2026 12:19:17 +0900</pubDate>
 </item>
 <item>
     <title>vscode-surfaces</title>
@@ -103,15 +112,6 @@
     <dc:creator>syobocat</dc:creator>
     <guid isPermaLink="false">syobocat/shiori_zig</guid>
     <pubDate>Fri, 18 Sep 2026 19:02:11 +0900</pubDate>
-</item>
-<item>
-    <title>ghost-messenger</title>
-    <link>https://github.com/arsuren/ghost-messenger</link>
-    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
-    <category>plugin</category>
-    <dc:creator>arsuren</dc:creator>
-    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 18 Sep 2026 15:37:10 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
