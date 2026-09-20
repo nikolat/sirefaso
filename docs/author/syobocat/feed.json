@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "syobocat/ukagaka_zig_demo",
+            "url": "https://github.com/syobocat/ukagaka_zig_demo",
+            "title": "ukagaka_zig_demo",
+            "content_text": "",
+            "summary": "Zig製のデモゴーストです。",
+            "date_published": "2026-09-20T03:24:46Z",
+            "date_modified": "2026-09-20T03:25:08Z",
+            "authors": [
+                {
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "syobocat/ukadll_zig",
             "url": "https://github.com/syobocat/ukadll_zig",
             "title": "ukadll_zig",
