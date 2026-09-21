@@ -6,13 +6,31 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Satolist2</title>
+    <link>https://github.com/kanadelab/Satolist2</link>
+    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
+    <category>tool</category>
+    <dc:creator>kanadelab</dc:creator>
+    <guid isPermaLink="false">kanadelab/Satolist2</guid>
+    <pubDate>Mon, 21 Sep 2026 23:06:11 +0900</pubDate>
+</item>
+<item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Mon, 21 Sep 2026 21:42:33 +0900</pubDate>
+</item>
+<item>
     <title>ghost-messenger</title>
     <link>https://github.com/arsuren/ghost-messenger</link>
     <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Mon, 21 Sep 2026 14:13:09 +0900</pubDate>
+    <pubDate>Mon, 21 Sep 2026 16:05:06 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
@@ -22,24 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Mon, 21 Sep 2026 07:03:45 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Sun, 20 Sep 2026 23:28:00 +0900</pubDate>
-</item>
-<item>
-    <title>Satolist2</title>
-    <link>https://github.com/kanadelab/Satolist2</link>
-    <description>里々ゴーストエディタ「さとりすと」 ver2</description>
-    <category>tool</category>
-    <dc:creator>kanadelab</dc:creator>
-    <guid isPermaLink="false">kanadelab/Satolist2</guid>
-    <pubDate>Sun, 20 Sep 2026 17:13:42 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka_zig_demo</title>
