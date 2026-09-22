@@ -12,7 +12,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Tue, 22 Sep 2026 18:13:08 +0900</pubDate>
+    <pubDate>Wed, 23 Sep 2026 05:30:39 +0900</pubDate>
+</item>
+<item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
+    <pubDate>Wed, 23 Sep 2026 05:20:48 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>
@@ -22,15 +31,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
     <pubDate>Tue, 22 Sep 2026 06:27:07 +0900</pubDate>
-</item>
-<item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Tue, 22 Sep 2026 06:24:49 +0900</pubDate>
 </item>
 <item>
     <title>sakura-restore</title>
