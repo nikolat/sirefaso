@@ -12,7 +12,7 @@
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sun, 27 Sep 2026 10:36:58 +0900</pubDate>
+    <pubDate>Sun, 27 Sep 2026 16:15:49 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -21,7 +21,16 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Sat, 26 Sep 2026 08:11:03 +0900</pubDate>
+    <pubDate>Sun, 27 Sep 2026 14:50:18 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-dic</title>
+    <link>https://github.com/YAYA-shiori/yaya-dic</link>
+    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
+    <pubDate>Sun, 27 Sep 2026 14:45:14 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>
@@ -31,15 +40,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
     <pubDate>Tue, 22 Sep 2026 06:27:07 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-dic</title>
-    <link>https://github.com/YAYA-shiori/yaya-dic</link>
-    <description>YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
-    <pubDate>Thu, 17 Sep 2026 07:44:27 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
