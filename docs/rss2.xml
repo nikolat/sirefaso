@@ -6,6 +6,33 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Mon, 28 Sep 2026 21:58:34 +0900</pubDate>
+</item>
+<item>
+    <title>ayalilith</title>
+    <link>https://github.com/YAYA-shiori/ayalilith</link>
+    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
+    <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
+</item>
+<item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
+    <pubDate>Mon, 28 Sep 2026 16:12:39 +0900</pubDate>
+</item>
+<item>
     <title>sakura-restore</title>
     <link>https://github.com/JiayuYangX/sakura-restore</link>
     <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
@@ -13,15 +40,6 @@
     <dc:creator>JiayuYangX</dc:creator>
     <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
     <pubDate>Mon, 28 Sep 2026 16:09:09 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Mon, 28 Sep 2026 15:59:09 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -40,24 +58,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Mon, 28 Sep 2026 09:54:22 +0900</pubDate>
-</item>
-<item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Mon, 28 Sep 2026 08:25:15 +0900</pubDate>
-</item>
-<item>
-    <title>ayalilith</title>
-    <link>https://github.com/YAYA-shiori/ayalilith</link>
-    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
-    <pubDate>Mon, 28 Sep 2026 07:53:35 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>

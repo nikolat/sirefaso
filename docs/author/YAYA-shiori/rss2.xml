@@ -6,13 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/YAYA-shiori/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
+    <title>ayalilith</title>
+    <link>https://github.com/YAYA-shiori/ayalilith</link>
+    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
+    <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Mon, 28 Sep 2026 14:39:54 +0900</pubDate>
+    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
+    <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -21,16 +21,16 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Mon, 28 Sep 2026 08:25:15 +0900</pubDate>
+    <pubDate>Mon, 28 Sep 2026 16:12:39 +0900</pubDate>
 </item>
 <item>
-    <title>ayalilith</title>
-    <link>https://github.com/YAYA-shiori/ayalilith</link>
-    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
-    <category>ghost</category>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
-    <pubDate>Mon, 28 Sep 2026 07:53:35 +0900</pubDate>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Mon, 28 Sep 2026 14:39:54 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
