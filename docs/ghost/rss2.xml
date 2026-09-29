@@ -12,7 +12,16 @@
     <category>ghost</category>
     <dc:creator>JiayuYangX</dc:creator>
     <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Tue, 29 Sep 2026 06:05:04 +0900</pubDate>
+    <pubDate>Wed, 30 Sep 2026 00:28:43 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
+    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
+    <pubDate>Tue, 29 Sep 2026 22:43:08 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>
@@ -166,15 +175,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/flele_aya</guid>
     <pubDate>Sat, 25 Apr 2026 17:05:51 +0900</pubDate>
-</item>
-<item>
-    <title>LilyNovelPlayer</title>
-    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
-    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
-    <pubDate>Sun, 12 Apr 2026 21:31:54 +0900</pubDate>
 </item>
 <item>
     <title>FortuneTeller_FiniteSeaslugTheorem</title>

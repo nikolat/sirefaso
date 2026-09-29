@@ -12,12 +12,34 @@
             "content_text": "",
             "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
             "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-09-28T21:05:04Z",
+            "date_modified": "2026-09-29T15:28:43Z",
             "authors": [
                 {
                     "name": "JiayuYangX",
                     "url": "https://github.com/JiayuYangX",
                     "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/LilyNovelPlayer",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
+            "title": "LilyNovelPlayer",
+            "content_text": "",
+            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
+            "date_published": "2024-05-17T16:44:26Z",
+            "date_modified": "2026-09-29T13:43:08Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
                 }
             ],
             "tags": [
@@ -391,28 +413,6 @@
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/LilyNovelPlayer",
-            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
-            "title": "LilyNovelPlayer",
-            "content_text": "",
-            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
-            "date_published": "2024-05-17T16:44:26Z",
-            "date_modified": "2026-04-12T12:31:54Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
                 }
             ],
             "tags": [
