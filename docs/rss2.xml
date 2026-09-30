@@ -6,6 +6,42 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description></description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Thu, 01 Oct 2026 04:21:20 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Thu, 01 Oct 2026 04:21:14 +0900</pubDate>
+</item>
+<item>
+    <title>UkagakaGhostMessenger</title>
+    <link>https://github.com/lost-nd-xxx/UkagakaGhostMessenger</link>
+    <description>伺かベースウェア向けのメッセージアプリ風プラグイン</description>
+    <category>plugin</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/UkagakaGhostMessenger</guid>
+    <pubDate>Thu, 01 Oct 2026 03:57:05 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Thu, 01 Oct 2026 02:47:35 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc</title>
     <link>https://github.com/ukatech/ukadoc</link>
     <description>ukadoc: ukagaka documentation project</description>
@@ -42,24 +78,6 @@
     <pubDate>Wed, 30 Sep 2026 14:48:20 +0900</pubDate>
 </item>
 <item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Wed, 30 Sep 2026 14:46:57 +0900</pubDate>
-</item>
-<item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description></description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Wed, 30 Sep 2026 14:46:50 +0900</pubDate>
-</item>
-<item>
     <title>sakura-restore</title>
     <link>https://github.com/JiayuYangX/sakura-restore</link>
     <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
@@ -94,15 +112,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
     <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Mon, 28 Sep 2026 16:06:56 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -319,15 +328,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something_like_balloon</guid>
     <pubDate>Sun, 10 May 2026 22:55:15 +0900</pubDate>
-</item>
-<item>
-    <title>UkagakaGhostMessenger</title>
-    <link>https://github.com/lost-nd-xxx/UkagakaGhostMessenger</link>
-    <description>伺かベースウェア向けのメッセージアプリ風プラグイン</description>
-    <category>plugin</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/UkagakaGhostMessenger</guid>
-    <pubDate>Sun, 03 May 2026 14:56:34 +0900</pubDate>
 </item>
 <item>
     <title>UGMNavigator_Umechan</title>

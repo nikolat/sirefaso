@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/YAYA-shiori/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Thu, 01 Oct 2026 02:47:35 +0900</pubDate>
+</item>
+<item>
     <title>konnoyayame</title>
     <link>https://github.com/YAYA-shiori/konnoyayame</link>
     <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
@@ -31,15 +40,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
     <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Mon, 28 Sep 2026 16:06:56 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>

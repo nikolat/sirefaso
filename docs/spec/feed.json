@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
-            "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-09-30T12:33:28Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
             "id": "ukatech/satori-docs",
             "url": "https://github.com/ukatech/satori-docs",
             "title": "satori-docs",
             "content_text": "",
             "summary": "",
             "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-09-30T05:46:50Z",
+            "date_modified": "2026-09-30T19:21:20Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -54,12 +33,33 @@
             "content_text": "",
             "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
             "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-09-28T07:06:56Z",
+            "date_modified": "2026-09-30T17:47:35Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc",
+            "url": "https://github.com/ukatech/ukadoc",
+            "title": "ukadoc",
+            "content_text": "",
+            "summary": "ukadoc: ukagaka documentation project",
+            "date_published": "2015-09-19T02:08:56Z",
+            "date_modified": "2026-09-30T12:33:28Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
                 }
             ],
             "tags": [
