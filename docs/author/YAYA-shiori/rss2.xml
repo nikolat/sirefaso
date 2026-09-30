@@ -33,6 +33,15 @@
     <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
 </item>
 <item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Mon, 28 Sep 2026 16:06:56 +0900</pubDate>
+</item>
+<item>
     <title>yaya-shiori</title>
     <link>https://github.com/YAYA-shiori/yaya-shiori</link>
     <description>Yet Another AYA</description>
