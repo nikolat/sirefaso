@@ -6,13 +6,34 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-09-30T05:56:49Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "arsuren/ghost-messenger",
             "url": "https://github.com/arsuren/ghost-messenger",
             "title": "ghost-messenger",
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-09-30T00:32:22Z",
+            "date_modified": "2026-09-30T05:53:57Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,13 +62,37 @@
             ]
         },
         {
+            "id": "YAYA-shiori/tama",
+            "url": "https://github.com/YAYA-shiori/tama",
+            "title": "tama",
+            "content_text": "",
+            "summary": "Tama - AYA5 Console",
+            "date_published": "2022-02-12T05:08:54Z",
+            "date_modified": "2026-09-30T05:48:20Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "aya",
+                "aya5",
+                "shiori",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",
             "content_text": "",
             "summary": "Yet Another SATORI",
             "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-09-30T00:23:43Z",
+            "date_modified": "2026-09-30T05:46:57Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -145,27 +190,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-28T07:12:39Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
@@ -381,30 +405,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/tama",
-            "url": "https://github.com/YAYA-shiori/tama",
-            "title": "tama",
-            "content_text": "",
-            "summary": "Tama - AYA5 Console",
-            "date_published": "2022-02-12T05:08:54Z",
-            "date_modified": "2026-09-15T12:47:24Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "aya",
-                "aya5",
-                "shiori",
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
             ]
