@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
             "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-09-30T17:47:35Z",
+            "date_modified": "2026-09-30T23:36:38Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -27,13 +27,56 @@
             ]
         },
         {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "content_text": "",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2026-09-30T23:36:34Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayalilith",
+            "url": "https://github.com/YAYA-shiori/ayalilith",
+            "title": "ayalilith",
+            "content_text": "",
+            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
+            "date_published": "2025-02-09T04:44:08Z",
+            "date_modified": "2026-09-30T23:24:59Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/konnoyayame",
             "url": "https://github.com/YAYA-shiori/konnoyayame",
             "title": "konnoyayame",
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-30T05:56:49Z",
+            "date_modified": "2026-09-30T23:25:03Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -69,49 +112,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/ayalilith",
-            "url": "https://github.com/YAYA-shiori/ayalilith",
-            "title": "ayalilith",
-            "content_text": "",
-            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
-            "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-09-28T07:13:53Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
-            "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2026-09-28T05:39:54Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
             ]
         },
         {

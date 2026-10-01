@@ -6,6 +6,27 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/yaya-docs",
+            "url": "https://github.com/YAYA-shiori/yaya-docs",
+            "title": "yaya-docs",
+            "content_text": "",
+            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
+            "date_published": "2026-03-05T20:04:35Z",
+            "date_modified": "2026-09-30T23:36:38Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "ukatech/satori-docs",
             "url": "https://github.com/ukatech/satori-docs",
             "title": "satori-docs",
@@ -18,27 +39,6 @@
                     "name": "ukatech",
                     "url": "https://github.com/ukatech",
                     "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-docs",
-            "url": "https://github.com/YAYA-shiori/yaya-docs",
-            "title": "yaya-docs",
-            "content_text": "",
-            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
-            "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-09-30T17:47:35Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [

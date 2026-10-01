@@ -12,7 +12,25 @@
     <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Thu, 01 Oct 2026 02:47:35 +0900</pubDate>
+    <pubDate>Thu, 01 Oct 2026 08:36:38 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Thu, 01 Oct 2026 08:36:34 +0900</pubDate>
+</item>
+<item>
+    <title>ayalilith</title>
+    <link>https://github.com/YAYA-shiori/ayalilith</link>
+    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
+    <pubDate>Thu, 01 Oct 2026 08:24:59 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -21,7 +39,7 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Wed, 30 Sep 2026 14:56:49 +0900</pubDate>
+    <pubDate>Thu, 01 Oct 2026 08:25:03 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
@@ -31,24 +49,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/tama</guid>
     <pubDate>Wed, 30 Sep 2026 14:48:20 +0900</pubDate>
-</item>
-<item>
-    <title>ayalilith</title>
-    <link>https://github.com/YAYA-shiori/ayalilith</link>
-    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
-    <pubDate>Mon, 28 Sep 2026 16:13:53 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Mon, 28 Sep 2026 14:39:54 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>

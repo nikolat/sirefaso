@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/spec/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Thu, 01 Oct 2026 08:36:38 +0900</pubDate>
+</item>
+<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description></description>
@@ -13,15 +22,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
     <pubDate>Thu, 01 Oct 2026 04:21:20 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Thu, 01 Oct 2026 02:47:35 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc</title>
