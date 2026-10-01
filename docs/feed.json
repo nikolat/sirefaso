@@ -6,6 +6,113 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "JiayuYangX/sakura-restore",
+            "url": "https://github.com/JiayuYangX/sakura-restore",
+            "title": "sakura-restore",
+            "content_text": "",
+            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
+            "date_published": "2026-07-04T22:08:43Z",
+            "date_modified": "2026-10-01T12:00:23Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-10-01T07:11:03Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayalilith",
+            "url": "https://github.com/YAYA-shiori/ayalilith",
+            "title": "ayalilith",
+            "content_text": "",
+            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
+            "date_published": "2025-02-09T04:44:08Z",
+            "date_modified": "2026-10-01T07:11:05Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-10-01T06:47:23Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-10-01T06:47:20Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-docs",
             "url": "https://github.com/YAYA-shiori/yaya-docs",
             "title": "yaya-docs",
@@ -27,48 +134,6 @@
             ]
         },
         {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-01T01:02:39Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-10-01T01:02:29Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
             "id": "YAYA-shiori/yaya-shiori",
             "url": "https://github.com/YAYA-shiori/yaya-shiori",
             "title": "yaya-shiori",
@@ -87,49 +152,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/ayalilith",
-            "url": "https://github.com/YAYA-shiori/ayalilith",
-            "title": "ayalilith",
-            "content_text": "",
-            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
-            "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-09-30T23:24:59Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-09-30T23:25:03Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -254,28 +276,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "JiayuYangX/sakura-restore",
-            "url": "https://github.com/JiayuYangX/sakura-restore",
-            "title": "sakura-restore",
-            "content_text": "",
-            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
-            "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-09-29T15:28:43Z",
-            "authors": [
-                {
-                    "name": "JiayuYangX",
-                    "url": "https://github.com/JiayuYangX",
-                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
