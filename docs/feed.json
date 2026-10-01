@@ -6,13 +6,34 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-10-01T17:55:41Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "JiayuYangX/sakura-restore",
             "url": "https://github.com/JiayuYangX/sakura-restore",
             "title": "sakura-restore",
             "content_text": "",
             "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
             "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-10-01T12:00:23Z",
+            "date_modified": "2026-10-01T14:35:09Z",
             "authors": [
                 {
                     "name": "JiayuYangX",
@@ -23,27 +44,6 @@
             "tags": [
                 "sirefaso",
                 "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-10-01T07:11:03Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
                 "ukagaka",
                 "ukagaka-ghost"
             ]
