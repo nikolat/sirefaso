@@ -6,13 +6,40 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>ayalilith</title>
-    <link>https://github.com/YAYA-shiori/ayalilith</link>
-    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
-    <category>ghost</category>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
-    <pubDate>Fri, 02 Oct 2026 05:26:21 +0900</pubDate>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Fri, 02 Oct 2026 14:32:43 +0900</pubDate>
+</item>
+<item>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description></description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Fri, 02 Oct 2026 14:26:04 +0900</pubDate>
+</item>
+<item>
+    <title>POST_and_KOMAINU</title>
+    <link>https://github.com/ukatech/POST_and_KOMAINU</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/POST_and_KOMAINU</guid>
+    <pubDate>Fri, 02 Oct 2026 13:01:03 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Fri, 02 Oct 2026 12:42:18 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -21,7 +48,34 @@
     <category>ghost</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Fri, 02 Oct 2026 05:24:06 +0900</pubDate>
+    <pubDate>Fri, 02 Oct 2026 11:05:55 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Fri, 02 Oct 2026 09:32:27 +0900</pubDate>
+</item>
+<item>
+    <title>claudia</title>
+    <link>https://github.com/ponapalt/claudia</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>ponapalt</dc:creator>
+    <guid isPermaLink="false">ponapalt/claudia</guid>
+    <pubDate>Fri, 02 Oct 2026 05:26:36 +0900</pubDate>
+</item>
+<item>
+    <title>ayalilith</title>
+    <link>https://github.com/YAYA-shiori/ayalilith</link>
+    <description>紺野りりす（あやりりす/EXサンプルゴースト）</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
+    <pubDate>Fri, 02 Oct 2026 05:26:21 +0900</pubDate>
 </item>
 <item>
     <title>yaya-dic</title>
@@ -40,42 +94,6 @@
     <dc:creator>JiayuYangX</dc:creator>
     <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
     <pubDate>Thu, 01 Oct 2026 23:35:09 +0900</pubDate>
-</item>
-<item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description></description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Thu, 01 Oct 2026 15:47:23 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Thu, 01 Oct 2026 15:47:20 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Thu, 01 Oct 2026 11:37:11 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Thu, 01 Oct 2026 09:03:14 +0900</pubDate>
 </item>
 <item>
     <title>UGMNavigator_Umechan</title>
@@ -139,6 +157,15 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
     <pubDate>Tue, 29 Sep 2026 10:55:43 +0900</pubDate>
+</item>
+<item>
+    <title>ponyaduma</title>
+    <link>https://github.com/ponapalt/ponyaduma</link>
+    <description>ぽにゃづまなのです。</description>
+    <category>ghost</category>
+    <dc:creator>ponapalt</dc:creator>
+    <guid isPermaLink="false">ponapalt/ponyaduma</guid>
+    <pubDate>Mon, 28 Sep 2026 16:18:13 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>

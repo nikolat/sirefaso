@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ponapalt/claudia",
+            "url": "https://github.com/ponapalt/claudia",
+            "title": "claudia",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-19T08:39:56Z",
+            "date_modified": "2026-10-01T20:26:36Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "ponapalt/ponyaduma",
+            "url": "https://github.com/ponapalt/ponyaduma",
+            "title": "ponyaduma",
+            "content_text": "",
+            "summary": "ぽにゃづまなのです。",
+            "date_published": "2016-01-04T21:22:40Z",
+            "date_modified": "2026-09-28T07:18:13Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ponapalt/b_f_watersurface",
             "url": "https://github.com/ponapalt/b_f_watersurface",
             "title": "b_f_watersurface",

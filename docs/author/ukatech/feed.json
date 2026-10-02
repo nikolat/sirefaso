@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "",
             "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-01T06:47:23Z",
+            "date_modified": "2026-10-02T05:26:04Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -27,13 +27,35 @@
             ]
         },
         {
+            "id": "ukatech/POST_and_KOMAINU",
+            "url": "https://github.com/ukatech/POST_and_KOMAINU",
+            "title": "POST_and_KOMAINU",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-30T04:51:28Z",
+            "date_modified": "2026-10-02T04:01:03Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ukatech/satoriya-shiori",
             "url": "https://github.com/ukatech/satoriya-shiori",
             "title": "satoriya-shiori",
             "content_text": "",
             "summary": "Yet Another SATORI",
             "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-10-01T06:47:20Z",
+            "date_modified": "2026-10-02T03:42:18Z",
             "authors": [
                 {
                     "name": "ukatech",
