@@ -6,31 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Fri, 02 Oct 2026 14:32:43 +0900</pubDate>
-</item>
-<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description></description>
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Fri, 02 Oct 2026 14:26:04 +0900</pubDate>
-</item>
-<item>
-    <title>POST_and_KOMAINU</title>
-    <link>https://github.com/ukatech/POST_and_KOMAINU</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/POST_and_KOMAINU</guid>
-    <pubDate>Fri, 02 Oct 2026 13:01:03 +0900</pubDate>
+    <pubDate>Fri, 02 Oct 2026 21:10:45 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
@@ -39,7 +21,43 @@
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Fri, 02 Oct 2026 12:42:18 +0900</pubDate>
+    <pubDate>Fri, 02 Oct 2026 21:10:01 +0900</pubDate>
+</item>
+<item>
+    <title>ghost-messenger</title>
+    <link>https://github.com/arsuren/ghost-messenger</link>
+    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
+    <category>plugin</category>
+    <dc:creator>arsuren</dc:creator>
+    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
+    <pubDate>Fri, 02 Oct 2026 20:40:39 +0900</pubDate>
+</item>
+<item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Fri, 02 Oct 2026 19:14:59 +0900</pubDate>
+</item>
+<item>
+    <title>POST_and_KOMAINU_V2</title>
+    <link>https://github.com/ukatech/POST_and_KOMAINU_V2</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/POST_and_KOMAINU_V2</guid>
+    <pubDate>Fri, 02 Oct 2026 16:57:03 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Fri, 02 Oct 2026 14:32:43 +0900</pubDate>
 </item>
 <item>
     <title>konnoyayame</title>
@@ -87,15 +105,6 @@
     <pubDate>Fri, 02 Oct 2026 04:59:10 +0900</pubDate>
 </item>
 <item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Thu, 01 Oct 2026 23:35:09 +0900</pubDate>
-</item>
-<item>
     <title>UGMNavigator_Umechan</title>
     <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
     <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
@@ -121,15 +130,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc</guid>
     <pubDate>Wed, 30 Sep 2026 21:33:28 +0900</pubDate>
-</item>
-<item>
-    <title>ghost-messenger</title>
-    <link>https://github.com/arsuren/ghost-messenger</link>
-    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
-    <category>plugin</category>
-    <dc:creator>arsuren</dc:creator>
-    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Wed, 30 Sep 2026 14:53:57 +0900</pubDate>
 </item>
 <item>
     <title>tama</title>
