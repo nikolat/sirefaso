@@ -6,22 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/spec/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Sun, 04 Oct 2026 09:44:05 +0900</pubDate>
-</item>
-<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description></description>
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Sat, 03 Oct 2026 06:02:22 +0900</pubDate>
+    <pubDate>Sun, 04 Oct 2026 15:13:55 +0900</pubDate>
 </item>
 <item>
     <title>yaya-docs</title>
@@ -30,7 +21,16 @@
     <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Fri, 02 Oct 2026 14:32:43 +0900</pubDate>
+    <pubDate>Sun, 04 Oct 2026 15:05:23 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Sun, 04 Oct 2026 09:44:05 +0900</pubDate>
 </item>
 </channel>
 </rss>
