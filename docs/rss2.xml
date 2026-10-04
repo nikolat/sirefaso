@@ -12,7 +12,16 @@
     <category>ghost</category>
     <dc:creator>JiayuYangX</dc:creator>
     <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Sun, 04 Oct 2026 22:37:52 +0900</pubDate>
+    <pubDate>Mon, 05 Oct 2026 06:08:43 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Mon, 05 Oct 2026 05:21:59 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -21,7 +30,16 @@
     <category>shiori</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sun, 04 Oct 2026 22:30:13 +0900</pubDate>
+    <pubDate>Mon, 05 Oct 2026 05:13:54 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Mon, 05 Oct 2026 04:36:51 +0900</pubDate>
 </item>
 <item>
     <title>satori-docs</title>
@@ -33,15 +51,6 @@
     <pubDate>Sun, 04 Oct 2026 22:22:09 +0900</pubDate>
 </item>
 <item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 04 Oct 2026 22:22:06 +0900</pubDate>
-</item>
-<item>
     <title>Utatane</title>
     <link>https://github.com/opera7133/Utatane</link>
     <description>macOS向け伺か互換ベースウェア</description>
@@ -49,15 +58,6 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
     <pubDate>Sun, 04 Oct 2026 22:20:11 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Sun, 04 Oct 2026 21:50:44 +0900</pubDate>
 </item>
 <item>
     <title>POST_and_KOMAINU_V2</title>

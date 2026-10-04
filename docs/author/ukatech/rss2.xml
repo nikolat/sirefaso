@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Mon, 05 Oct 2026 05:21:59 +0900</pubDate>
+</item>
+<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description></description>
@@ -13,15 +22,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
     <pubDate>Sun, 04 Oct 2026 22:22:09 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 04 Oct 2026 22:22:06 +0900</pubDate>
 </item>
 <item>
     <title>POST_and_KOMAINU_V2</title>
