@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
             "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-10-05T15:43:53Z",
+            "date_modified": "2026-10-05T21:45:40Z",
             "authors": [
                 {
                     "name": "arsuren",
@@ -41,13 +41,55 @@
             ]
         },
         {
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-10-05T19:52:03Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-10-05T19:51:24Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "JiayuYangX/sakura-restore",
             "url": "https://github.com/JiayuYangX/sakura-restore",
             "title": "sakura-restore",
             "content_text": "",
             "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
             "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-10-05T09:20:45Z",
+            "date_modified": "2026-10-05T20:11:21Z",
             "authors": [
                 {
                     "name": "JiayuYangX",
@@ -63,24 +105,69 @@
             ]
         },
         {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
+            "id": "lost-nd-xxx/LilyNovelPlayer",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
+            "title": "LilyNovelPlayer",
             "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-10-05T08:18:45Z",
+            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
+            "date_published": "2024-05-17T16:44:26Z",
+            "date_modified": "2026-10-05T18:18:28Z",
             "authors": [
                 {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
+                "sosiremi",
                 "ukagaka",
-                "ukagaka-shiori"
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
+            "title": "LilyNovelPlayer_Prototype_Scenarios",
+            "content_text": "",
+            "summary": "りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）",
+            "date_published": "2024-05-25T21:25:11Z",
+            "date_modified": "2026-10-05T18:14:41Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/walk_with_unyu",
+            "url": "https://github.com/lost-nd-xxx/walk_with_unyu",
+            "title": "walk_with_unyu",
+            "content_text": "",
+            "summary": "伺かゴースト「作業応援うにゅう」",
+            "date_published": "2026-09-19T07:02:49Z",
+            "date_modified": "2026-10-05T17:54:44Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
             ]
         },
         {
@@ -139,27 +226,6 @@
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-04T13:22:09Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
                 }
             ],
             "tags": [
@@ -274,28 +340,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/LilyNovelPlayer",
-            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
-            "title": "LilyNovelPlayer",
-            "content_text": "",
-            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
-            "date_published": "2024-05-17T16:44:26Z",
-            "date_modified": "2026-10-03T00:02:25Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -494,28 +538,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/walk_with_unyu",
-            "url": "https://github.com/lost-nd-xxx/walk_with_unyu",
-            "title": "walk_with_unyu",
-            "content_text": "",
-            "summary": "伺かゴースト「作業応援うにゅう」",
-            "date_published": "2026-09-19T07:02:49Z",
-            "date_modified": "2026-09-19T09:21:03Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -2136,28 +2158,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
-            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios",
-            "title": "LilyNovelPlayer_Prototype_Scenarios",
-            "content_text": "",
-            "summary": "りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）",
-            "date_published": "2024-05-25T21:25:11Z",
-            "date_modified": "2024-05-25T22:52:48Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
             ]
         },
         {

@@ -12,16 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Tue, 06 Oct 2026 00:43:53 +0900</pubDate>
+    <pubDate>Tue, 06 Oct 2026 06:45:40 +0900</pubDate>
 </item>
 <item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Mon, 05 Oct 2026 18:20:45 +0900</pubDate>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description></description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Tue, 06 Oct 2026 04:52:03 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
@@ -30,7 +30,43 @@
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Mon, 05 Oct 2026 17:18:45 +0900</pubDate>
+    <pubDate>Tue, 06 Oct 2026 04:51:24 +0900</pubDate>
+</item>
+<item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Tue, 06 Oct 2026 05:11:21 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
+    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
+    <pubDate>Tue, 06 Oct 2026 03:18:28 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer_Prototype_Scenarios</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</link>
+    <description>りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）</description>
+    <category>shell</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</guid>
+    <pubDate>Tue, 06 Oct 2026 03:14:41 +0900</pubDate>
+</item>
+<item>
+    <title>walk_with_unyu</title>
+    <link>https://github.com/lost-nd-xxx/walk_with_unyu</link>
+    <description>伺かゴースト「作業応援うにゅう」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/walk_with_unyu</guid>
+    <pubDate>Tue, 06 Oct 2026 02:54:44 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -58,15 +94,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
     <pubDate>Mon, 05 Oct 2026 04:36:51 +0900</pubDate>
-</item>
-<item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description></description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Sun, 04 Oct 2026 22:22:09 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
@@ -112,15 +139,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
     <pubDate>Sun, 04 Oct 2026 07:16:25 +0900</pubDate>
-</item>
-<item>
-    <title>LilyNovelPlayer</title>
-    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
-    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
-    <pubDate>Sat, 03 Oct 2026 09:02:25 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>
@@ -202,15 +220,6 @@
     <dc:creator>kanadelab</dc:creator>
     <guid isPermaLink="false">kanadelab/vscode-surfaces</guid>
     <pubDate>Sun, 20 Sep 2026 11:53:32 +0900</pubDate>
-</item>
-<item>
-    <title>walk_with_unyu</title>
-    <link>https://github.com/lost-nd-xxx/walk_with_unyu</link>
-    <description>伺かゴースト「作業応援うにゅう」</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/walk_with_unyu</guid>
-    <pubDate>Sat, 19 Sep 2026 18:21:03 +0900</pubDate>
 </item>
 <item>
     <title>ukadll_zig</title>
@@ -868,15 +877,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_as_plugin</guid>
     <pubDate>Fri, 21 Jun 2024 22:08:56 +0900</pubDate>
-</item>
-<item>
-    <title>LilyNovelPlayer_Prototype_Scenarios</title>
-    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</link>
-    <description>りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）</description>
-    <category>shell</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</guid>
-    <pubDate>Sun, 26 May 2024 07:52:48 +0900</pubDate>
 </item>
 <item>
     <title>yaya-as-saori</title>
