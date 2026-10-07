@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "opera7133/Utatane",
+            "url": "https://github.com/opera7133/Utatane",
+            "title": "Utatane",
+            "content_text": "",
+            "summary": "macOS向け伺か互換ベースウェア",
+            "date_published": "2026-08-19T08:44:20Z",
+            "date_modified": "2026-10-07T11:53:05Z",
+            "authors": [
+                {
+                    "name": "opera7133",
+                    "url": "https://github.com/opera7133",
+                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-shiori",
             "url": "https://github.com/YAYA-shiori/yaya-shiori",
             "title": "yaya-shiori",
@@ -253,28 +275,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "opera7133/Utatane",
-            "url": "https://github.com/opera7133/Utatane",
-            "title": "Utatane",
-            "content_text": "",
-            "summary": "macOS向け伺か互換ベースウェア",
-            "date_published": "2026-08-19T08:44:20Z",
-            "date_modified": "2026-10-04T13:20:11Z",
-            "authors": [
-                {
-                    "name": "opera7133",
-                    "url": "https://github.com/opera7133",
-                    "avatar": "https://avatars.githubusercontent.com/u/39876629?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
             ]
         },
         {
