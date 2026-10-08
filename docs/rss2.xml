@@ -12,7 +12,16 @@
     <category>plugin</category>
     <dc:creator>arsuren</dc:creator>
     <guid isPermaLink="false">arsuren/ghost-messenger</guid>
-    <pubDate>Fri, 09 Oct 2026 01:39:20 +0900</pubDate>
+    <pubDate>Fri, 09 Oct 2026 05:37:25 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc</title>
+    <link>https://github.com/ukatech/ukadoc</link>
+    <description>ukadoc: ukagaka documentation project</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc</guid>
+    <pubDate>Fri, 09 Oct 2026 05:24:57 +0900</pubDate>
 </item>
 <item>
     <title>sakura-restore</title>
@@ -31,15 +40,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
     <pubDate>Thu, 08 Oct 2026 21:33:05 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc</title>
-    <link>https://github.com/ukatech/ukadoc</link>
-    <description>ukadoc: ukagaka documentation project</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc</guid>
-    <pubDate>Thu, 08 Oct 2026 17:19:32 +0900</pubDate>
 </item>
 <item>
     <title>claudia</title>
