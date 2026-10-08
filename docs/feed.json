@@ -6,6 +6,84 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "arsuren/ghost-messenger",
+            "url": "https://github.com/arsuren/ghost-messenger",
+            "title": "ghost-messenger",
+            "content_text": "",
+            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
+            "date_published": "2026-01-10T05:27:33Z",
+            "date_modified": "2026-10-08T16:39:20Z",
+            "authors": [
+                {
+                    "name": "arsuren",
+                    "url": "https://github.com/arsuren",
+                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
+                }
+            ],
+            "tags": [
+                "custom-messenger",
+                "electron",
+                "end-to-end-encryption",
+                "facebook",
+                "jetpack-compose-",
+                "kotlin",
+                "kotlin-android",
+                "messager",
+                "messenger",
+                "sirefaso",
+                "sosiremi",
+                "telegram",
+                "theme",
+                "ukagaka",
+                "ukagaka-plugin",
+                "websocket",
+                "whatsapp"
+            ]
+        },
+        {
+            "id": "JiayuYangX/sakura-restore",
+            "url": "https://github.com/JiayuYangX/sakura-restore",
+            "title": "sakura-restore",
+            "content_text": "",
+            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
+            "date_published": "2026-07-04T22:08:43Z",
+            "date_modified": "2026-10-08T15:59:56Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-docs",
+            "url": "https://github.com/YAYA-shiori/yaya-docs",
+            "title": "yaya-docs",
+            "content_text": "",
+            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
+            "date_published": "2026-03-05T20:04:35Z",
+            "date_modified": "2026-10-08T12:33:05Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -92,28 +170,6 @@
             ]
         },
         {
-            "id": "JiayuYangX/sakura-restore",
-            "url": "https://github.com/JiayuYangX/sakura-restore",
-            "title": "sakura-restore",
-            "content_text": "",
-            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
-            "date_published": "2026-07-04T22:08:43Z",
-            "date_modified": "2026-10-06T14:25:00Z",
-            "authors": [
-                {
-                    "name": "JiayuYangX",
-                    "url": "https://github.com/JiayuYangX",
-                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "ukatech/satori-docs",
             "url": "https://github.com/ukatech/satori-docs",
             "title": "satori-docs",
@@ -153,62 +209,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "arsuren/ghost-messenger",
-            "url": "https://github.com/arsuren/ghost-messenger",
-            "title": "ghost-messenger",
-            "content_text": "",
-            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
-            "date_published": "2026-01-10T05:27:33Z",
-            "date_modified": "2026-10-06T05:54:33Z",
-            "authors": [
-                {
-                    "name": "arsuren",
-                    "url": "https://github.com/arsuren",
-                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
-                }
-            ],
-            "tags": [
-                "custom-messenger",
-                "electron",
-                "end-to-end-encryption",
-                "facebook",
-                "jetpack-compose-",
-                "kotlin",
-                "kotlin-android",
-                "messager",
-                "messenger",
-                "sirefaso",
-                "sosiremi",
-                "telegram",
-                "theme",
-                "ukagaka",
-                "ukagaka-plugin",
-                "websocket",
-                "whatsapp"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-docs",
-            "url": "https://github.com/YAYA-shiori/yaya-docs",
-            "title": "yaya-docs",
-            "content_text": "",
-            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
-            "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-10-06T05:34:10Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
