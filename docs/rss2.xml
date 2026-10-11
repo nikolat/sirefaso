@@ -6,6 +6,33 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>something-like-balloon-editor</title>
+    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
+    <description>伺かバルーンの設定ファイル作成・色変えツール</description>
+    <category>tool</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
+    <pubDate>Sun, 11 Oct 2026 15:49:51 +0900</pubDate>
+</item>
+<item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 11 Oct 2026 13:10:30 +0900</pubDate>
+</item>
+<item>
+    <title>something_like_balloon</title>
+    <link>https://github.com/lost-nd-xxx/something_like_balloon</link>
+    <description>伺かのバルーン集と加工再配布可能なテンプレート</description>
+    <category>balloon</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/something_like_balloon</guid>
+    <pubDate>Sun, 11 Oct 2026 12:18:35 +0900</pubDate>
+</item>
+<item>
     <title>POST_and_KOMAINU_V2</title>
     <link>https://github.com/ukatech/POST_and_KOMAINU_V2</link>
     <description></description>
@@ -186,15 +213,6 @@
     <pubDate>Mon, 28 Sep 2026 16:18:13 +0900</pubDate>
 </item>
 <item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 27 Sep 2026 18:41:47 +0900</pubDate>
-</item>
-<item>
     <title>Satolist2</title>
     <link>https://github.com/kanadelab/Satolist2</link>
     <description>里々ゴーストエディタ「さとりすと」 ver2</description>
@@ -276,15 +294,6 @@
     <pubDate>Sun, 30 Aug 2026 13:24:25 +0900</pubDate>
 </item>
 <item>
-    <title>something-like-balloon-editor</title>
-    <link>https://github.com/lost-nd-xxx/something-like-balloon-editor</link>
-    <description>伺かバルーンの設定ファイル作成・色変えツール</description>
-    <category>tool</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
-    <pubDate>Sat, 29 Aug 2026 13:20:39 +0900</pubDate>
-</item>
-<item>
     <title>WeatherTimeCapsule</title>
     <link>https://github.com/lost-nd-xxx/WeatherTimeCapsule</link>
     <description>天候情報を表示するゴースト</description>
@@ -364,15 +373,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/doll_at_the_bay_window</guid>
     <pubDate>Sun, 17 May 2026 10:53:27 +0900</pubDate>
-</item>
-<item>
-    <title>something_like_balloon</title>
-    <link>https://github.com/lost-nd-xxx/something_like_balloon</link>
-    <description>伺かのバルーン集と加工再配布可能なテンプレート</description>
-    <category>balloon</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/something_like_balloon</guid>
-    <pubDate>Sun, 10 May 2026 22:55:15 +0900</pubDate>
 </item>
 <item>
     <title>SSPBundleTool</title>

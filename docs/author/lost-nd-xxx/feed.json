@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/something-like-balloon-editor",
+            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
+            "title": "something-like-balloon-editor",
+            "content_text": "",
+            "summary": "伺かバルーンの設定ファイル作成・色変えツール",
+            "date_published": "2026-05-25T12:24:15Z",
+            "date_modified": "2026-10-11T06:49:51Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/something_like_balloon",
+            "url": "https://github.com/lost-nd-xxx/something_like_balloon",
+            "title": "something_like_balloon",
+            "content_text": "",
+            "summary": "伺かのバルーン集と加工再配布可能なテンプレート",
+            "date_published": "2025-06-01T02:43:19Z",
+            "date_modified": "2026-10-11T03:18:35Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-balloon"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/LilyNovelPlayer",
             "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
             "title": "LilyNovelPlayer",
@@ -138,28 +182,6 @@
             ]
         },
         {
-            "id": "lost-nd-xxx/something-like-balloon-editor",
-            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
-            "title": "something-like-balloon-editor",
-            "content_text": "",
-            "summary": "伺かバルーンの設定ファイル作成・色変えツール",
-            "date_published": "2026-05-25T12:24:15Z",
-            "date_modified": "2026-08-29T04:20:39Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
             "id": "lost-nd-xxx/WeatherTimeCapsule",
             "url": "https://github.com/lost-nd-xxx/WeatherTimeCapsule",
             "title": "WeatherTimeCapsule",
@@ -267,28 +289,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/something_like_balloon",
-            "url": "https://github.com/lost-nd-xxx/something_like_balloon",
-            "title": "something_like_balloon",
-            "content_text": "",
-            "summary": "伺かのバルーン集と加工再配布可能なテンプレート",
-            "date_published": "2025-06-01T02:43:19Z",
-            "date_modified": "2026-05-10T13:55:15Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-balloon"
             ]
         },
         {
