@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/POST_and_KOMAINU_V2",
+            "url": "https://github.com/ukatech/POST_and_KOMAINU_V2",
+            "title": "POST_and_KOMAINU_V2",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-30T04:51:28Z",
+            "date_modified": "2026-10-12T19:38:56Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-10-12T19:35:20Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -150,28 +194,6 @@
             ]
         },
         {
-            "id": "ukatech/POST_and_KOMAINU_V2",
-            "url": "https://github.com/ukatech/POST_and_KOMAINU_V2",
-            "title": "POST_and_KOMAINU_V2",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-30T04:51:28Z",
-            "date_modified": "2026-10-11T00:56:39Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "YAYA-shiori/ayalilith",
             "url": "https://github.com/YAYA-shiori/ayalilith",
             "title": "ayalilith",
@@ -179,28 +201,6 @@
             "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
             "date_published": "2025-02-09T04:44:08Z",
             "date_modified": "2026-10-11T00:52:50Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-10-11T00:48:03Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
