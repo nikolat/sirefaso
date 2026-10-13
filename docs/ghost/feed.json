@@ -12,12 +12,34 @@
             "content_text": "",
             "summary": "",
             "date_published": "2026-09-30T04:51:28Z",
-            "date_modified": "2026-10-12T19:38:56Z",
+            "date_modified": "2026-10-13T05:05:20Z",
             "authors": [
                 {
                     "name": "ukatech",
                     "url": "https://github.com/ukatech",
                     "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayalilith",
+            "url": "https://github.com/YAYA-shiori/ayalilith",
+            "title": "ayalilith",
+            "content_text": "",
+            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
+            "date_published": "2025-02-09T04:44:08Z",
+            "date_modified": "2026-10-13T04:26:44Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [
@@ -34,7 +56,7 @@
             "content_text": "",
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-10-12T19:35:20Z",
+            "date_modified": "2026-10-13T04:25:04Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -84,28 +106,6 @@
                     "name": "tukinami",
                     "url": "https://github.com/tukinami",
                     "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/ayalilith",
-            "url": "https://github.com/YAYA-shiori/ayalilith",
-            "title": "ayalilith",
-            "content_text": "",
-            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
-            "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-10-11T00:52:50Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [

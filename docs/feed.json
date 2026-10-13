@@ -6,6 +6,177 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/POST_and_KOMAINU_V2",
+            "url": "https://github.com/ukatech/POST_and_KOMAINU_V2",
+            "title": "POST_and_KOMAINU_V2",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-30T04:51:28Z",
+            "date_modified": "2026-10-13T05:05:20Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-10-13T05:03:20Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
+            "content_text": "",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-10-13T05:03:12Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-docs",
+            "url": "https://github.com/YAYA-shiori/yaya-docs",
+            "title": "yaya-docs",
+            "content_text": "",
+            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
+            "date_published": "2026-03-05T20:04:35Z",
+            "date_modified": "2026-10-13T04:35:13Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/ayalilith",
+            "url": "https://github.com/YAYA-shiori/ayalilith",
+            "title": "ayalilith",
+            "content_text": "",
+            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
+            "date_published": "2025-02-09T04:44:08Z",
+            "date_modified": "2026-10-13T04:26:44Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/konnoyayame",
+            "url": "https://github.com/YAYA-shiori/konnoyayame",
+            "title": "konnoyayame",
+            "content_text": "",
+            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
+            "date_published": "2021-06-25T05:12:37Z",
+            "date_modified": "2026-10-13T04:25:04Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-dic",
+            "url": "https://github.com/YAYA-shiori/yaya-dic",
+            "title": "yaya-dic",
+            "content_text": "",
+            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
+            "date_published": "2018-12-13T11:29:14Z",
+            "date_modified": "2026-10-13T04:24:14Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "content_text": "",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2026-10-13T03:52:19Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
             "id": "ukatech/ukadoc",
             "url": "https://github.com/ukatech/ukadoc",
             "title": "ukadoc",
@@ -24,71 +195,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
-            "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2026-10-12T23:46:14Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ukatech/POST_and_KOMAINU_V2",
-            "url": "https://github.com/ukatech/POST_and_KOMAINU_V2",
-            "title": "POST_and_KOMAINU_V2",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-30T04:51:28Z",
-            "date_modified": "2026-10-12T19:38:56Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/konnoyayame",
-            "url": "https://github.com/YAYA-shiori/konnoyayame",
-            "title": "konnoyayame",
-            "content_text": "",
-            "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
-            "date_published": "2021-06-25T05:12:37Z",
-            "date_modified": "2026-10-12T19:35:20Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -215,91 +321,6 @@
             ]
         },
         {
-            "id": "YAYA-shiori/ayalilith",
-            "url": "https://github.com/YAYA-shiori/ayalilith",
-            "title": "ayalilith",
-            "content_text": "",
-            "summary": "紺野りりす（あやりりす/EXサンプルゴースト）",
-            "date_published": "2025-02-09T04:44:08Z",
-            "date_modified": "2026-10-11T00:52:50Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-dic",
-            "url": "https://github.com/YAYA-shiori/yaya-dic",
-            "title": "yaya-dic",
-            "content_text": "",
-            "summary": "YAYA向けシステム辞書＆あやりりすのリポジトリです。別プロジェクトに分離し参照しやすくしました。",
-            "date_published": "2018-12-13T11:29:14Z",
-            "date_modified": "2026-10-11T00:44:32Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
-            "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-10-11T00:30:57Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-11T00:29:19Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
             "id": "ponapalt/claudia",
             "url": "https://github.com/ponapalt/claudia",
             "title": "claudia",
@@ -319,27 +340,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-docs",
-            "url": "https://github.com/YAYA-shiori/yaya-docs",
-            "title": "yaya-docs",
-            "content_text": "",
-            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
-            "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-10-08T12:33:05Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
