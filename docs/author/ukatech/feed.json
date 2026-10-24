@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukadoc",
-            "url": "https://github.com/ukatech/ukadoc",
-            "title": "ukadoc",
+            "id": "ukatech/ukadoc-ssp",
+            "url": "https://github.com/ukatech/ukadoc-ssp",
+            "title": "ukadoc-ssp",
             "content_text": "",
-            "summary": "ukadoc: ukagaka documentation project",
-            "date_published": "2015-09-19T02:08:56Z",
-            "date_modified": "2026-10-23T03:41:37Z",
+            "summary": "SSP Help",
+            "date_published": "2026-10-24T09:52:12Z",
+            "date_modified": "2026-10-24T10:43:42Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -33,7 +33,28 @@
             "content_text": "",
             "summary": "",
             "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-22T00:35:43Z",
+            "date_modified": "2026-10-24T08:42:17Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
+            "content_text": "",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-10-24T09:27:23Z",
             "authors": [
                 {
                     "name": "ukatech",
