@@ -6,22 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>ukadoc-ssp</title>
-    <link>https://github.com/ukatech/ukadoc-ssp</link>
-    <description>SSP Help</description>
-    <category>spec</category>
+    <title>kawari</title>
+    <link>https://github.com/ukatech/kawari</link>
+    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
+    <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Sun, 25 Oct 2026 05:44:45 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 25 Oct 2026 05:44:42 +0900</pubDate>
+    <guid isPermaLink="false">ukatech/kawari</guid>
+    <pubDate>Sun, 25 Oct 2026 06:31:57 +0900</pubDate>
 </item>
 <item>
     <title>kawari-docs</title>
@@ -30,7 +21,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Sun, 25 Oct 2026 05:44:39 +0900</pubDate>
+    <pubDate>Sun, 25 Oct 2026 06:29:34 +0900</pubDate>
 </item>
 <item>
     <title>satori-docs</title>
@@ -39,7 +30,25 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Sun, 25 Oct 2026 05:44:35 +0900</pubDate>
+    <pubDate>Sun, 25 Oct 2026 06:19:37 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-ssp</title>
+    <link>https://github.com/ukatech/ukadoc-ssp</link>
+    <description>SSP Help</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
+    <pubDate>Sun, 25 Oct 2026 06:14:24 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Sun, 25 Oct 2026 06:14:22 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
@@ -49,6 +58,15 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Thu, 22 Oct 2026 09:34:11 +0900</pubDate>
+</item>
+<item>
+    <title>ssp-i18n</title>
+    <link>https://github.com/ukatech/ssp-i18n</link>
+    <description>ssp language resource</description>
+    <category>lang</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ssp-i18n</guid>
+    <pubDate>Wed, 21 Oct 2026 05:19:13 +0900</pubDate>
 </item>
 <item>
     <title>POST_and_KOMAINU_V2</title>

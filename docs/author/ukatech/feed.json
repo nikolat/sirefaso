@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukadoc-ssp",
-            "url": "https://github.com/ukatech/ukadoc-ssp",
-            "title": "ukadoc-ssp",
+            "id": "ukatech/kawari",
+            "url": "https://github.com/ukatech/kawari",
+            "title": "kawari",
             "content_text": "",
-            "summary": "SSP Help",
-            "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-10-24T20:44:45Z",
+            "summary": "pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol",
+            "date_published": "2026-10-17T10:25:31Z",
+            "date_modified": "2026-10-24T21:31:57Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -23,28 +23,7 @@
             "tags": [
                 "sirefaso",
                 "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc-spec",
-            "url": "https://github.com/ukatech/ukadoc-spec",
-            "title": "ukadoc-spec",
-            "content_text": "",
-            "summary": "Ukagaka Spec Repo",
-            "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-10-24T20:44:42Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
+                "ukagaka-shiori"
             ]
         },
         {
@@ -54,7 +33,7 @@
             "content_text": "",
             "summary": "華和梨9仕様書",
             "date_published": "2026-10-24T16:44:50Z",
-            "date_modified": "2026-10-24T20:44:39Z",
+            "date_modified": "2026-10-24T21:29:34Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -75,7 +54,49 @@
             "content_text": "",
             "summary": "里々仕様書",
             "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-24T20:44:35Z",
+            "date_modified": "2026-10-24T21:19:37Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-ssp",
+            "url": "https://github.com/ukatech/ukadoc-ssp",
+            "title": "ukadoc-ssp",
+            "content_text": "",
+            "summary": "SSP Help",
+            "date_published": "2026-10-24T09:52:12Z",
+            "date_modified": "2026-10-24T21:14:24Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
+            "content_text": "",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-10-24T21:14:22Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -108,6 +129,27 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "ukatech/ssp-i18n",
+            "url": "https://github.com/ukatech/ssp-i18n",
+            "title": "ssp-i18n",
+            "content_text": "",
+            "summary": "ssp language resource",
+            "date_published": "2026-06-04T22:59:58Z",
+            "date_modified": "2026-10-20T20:19:13Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-lang"
             ]
         },
         {
