@@ -12,7 +12,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 25 Oct 2026 21:30:56 +0900</pubDate>
+    <pubDate>Sun, 25 Oct 2026 22:00:46 +0900</pubDate>
+</item>
+<item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Sun, 25 Oct 2026 21:46:42 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
@@ -58,15 +67,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
     <pubDate>Sun, 25 Oct 2026 20:12:21 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sun, 25 Oct 2026 19:59:02 +0900</pubDate>
 </item>
 <item>
     <title>saori-resized-png-mini</title>
