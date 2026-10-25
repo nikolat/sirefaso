@@ -202,6 +202,10 @@ body {
 	content: "baseware";
 	background-color: #aea;
 }
+#content .lang:before {
+	content: "lang";
+	background-color: #aae;
+}
 #content .hentry:hover {
 	border-color: #fff #999 #999 #fff;
 	background-color: #fff;
