@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "i18n | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/i18n/",
+    "feed_url": "https://nikolat.github.io/sirefaso/i18n/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "ukatech/ssp-i18n",
+            "url": "https://github.com/ukatech/ssp-i18n",
+            "title": "ssp-i18n",
+            "content_text": "",
+            "summary": "ssp language resource",
+            "date_published": "2026-06-04T22:59:58Z",
+            "date_modified": "2026-10-20T20:19:13Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-i18n"
+            ]
+        }
+    ]
+}

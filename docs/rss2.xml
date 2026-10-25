@@ -6,22 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>kawari</title>
-    <link>https://github.com/ukatech/kawari</link>
-    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari</guid>
-    <pubDate>Sun, 25 Oct 2026 06:31:57 +0900</pubDate>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Sun, 25 Oct 2026 14:12:35 +0900</pubDate>
 </item>
 <item>
-    <title>kawari-docs</title>
-    <link>https://github.com/ukatech/kawari-docs</link>
-    <description>華和梨9仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Sun, 25 Oct 2026 06:29:34 +0900</pubDate>
+    <title>saori-japanese-gengou</title>
+    <link>https://github.com/tukinami/saori-japanese-gengou</link>
+    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
+    <pubDate>Sun, 25 Oct 2026 14:05:11 +0900</pubDate>
 </item>
 <item>
     <title>yaya-docs</title>
@@ -30,7 +30,106 @@
     <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Sun, 25 Oct 2026 06:21:16 +0900</pubDate>
+    <pubDate>Sun, 25 Oct 2026 14:01:42 +0900</pubDate>
+</item>
+<item>
+    <title>saori-calcs</title>
+    <link>https://github.com/tukinami/saori-calcs</link>
+    <description>四則演算+剰余の計算をするSAORI。</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-calcs</guid>
+    <pubDate>Sun, 25 Oct 2026 13:59:16 +0900</pubDate>
+</item>
+<item>
+    <title>kawari-docs</title>
+    <link>https://github.com/ukatech/kawari-docs</link>
+    <description>華和梨9仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari-docs</guid>
+    <pubDate>Sun, 25 Oct 2026 13:58:33 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-ssp</title>
+    <link>https://github.com/ukatech/ukadoc-ssp</link>
+    <description>SSP Help</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
+    <pubDate>Sun, 25 Oct 2026 13:56:06 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Sun, 25 Oct 2026 13:28:31 +0900</pubDate>
+</item>
+<item>
+    <title>saori-resized-png</title>
+    <link>https://github.com/tukinami/saori-resized-png</link>
+    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
+    <pubDate>Sun, 25 Oct 2026 13:21:21 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Sun, 25 Oct 2026 13:15:36 +0900</pubDate>
+</item>
+<item>
+    <title>ayayatter</title>
+    <link>https://github.com/tukinami/ayayatter</link>
+    <description>formatter for yaya.</description>
+    <category>tool</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/ayayatter</guid>
+    <pubDate>Sun, 25 Oct 2026 12:56:52 +0900</pubDate>
+</item>
+<item>
+    <title>taidanaSanoSan</title>
+    <link>https://github.com/tukinami/taidanaSanoSan</link>
+    <description>伺か雑談系ゴースト</description>
+    <category>ghost</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
+    <pubDate>Sun, 25 Oct 2026 12:41:31 +0900</pubDate>
+</item>
+<item>
+    <title>kawari</title>
+    <link>https://github.com/ukatech/kawari</link>
+    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari</guid>
+    <pubDate>Sun, 25 Oct 2026 11:36:37 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sun, 25 Oct 2026 11:36:34 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Sun, 25 Oct 2026 11:36:31 +0900</pubDate>
 </item>
 <item>
     <title>satori-docs</title>
@@ -40,24 +139,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
     <pubDate>Sun, 25 Oct 2026 06:19:37 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-ssp</title>
-    <link>https://github.com/ukatech/ukadoc-ssp</link>
-    <description>SSP Help</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Sun, 25 Oct 2026 06:14:24 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 25 Oct 2026 06:14:22 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
@@ -87,28 +168,10 @@
     <pubDate>Thu, 22 Oct 2026 12:06:56 +0900</pubDate>
 </item>
 <item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Thu, 22 Oct 2026 09:34:11 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Thu, 22 Oct 2026 06:02:38 +0900</pubDate>
-</item>
-<item>
     <title>ssp-i18n</title>
     <link>https://github.com/ukatech/ssp-i18n</link>
     <description>ssp language resource</description>
-    <category>lang</category>
+    <category>i18n</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ssp-i18n</guid>
     <pubDate>Wed, 21 Oct 2026 05:19:13 +0900</pubDate>
@@ -220,15 +283,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/something-like-balloon-editor</guid>
     <pubDate>Sun, 11 Oct 2026 15:49:51 +0900</pubDate>
-</item>
-<item>
-    <title>taidanaSanoSan</title>
-    <link>https://github.com/tukinami/taidanaSanoSan</link>
-    <description>伺か雑談系ゴースト</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
-    <pubDate>Sun, 11 Oct 2026 13:10:30 +0900</pubDate>
 </item>
 <item>
     <title>something_like_balloon</title>
@@ -364,15 +418,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
     <pubDate>Sun, 30 Aug 2026 22:53:04 +0900</pubDate>
-</item>
-<item>
-    <title>ayayatter</title>
-    <link>https://github.com/tukinami/ayayatter</link>
-    <description>formatter for yaya.</description>
-    <category>tool</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/ayayatter</guid>
-    <pubDate>Sun, 30 Aug 2026 13:24:25 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>
@@ -580,51 +625,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/countdown_to_the_end</guid>
     <pubDate>Fri, 16 Jan 2026 00:58:08 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png-mini</title>
-    <link>https://github.com/tukinami/saori-resized-png-mini</link>
-    <description>SAORI to resize image and save as png (limited edition)</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
-    <pubDate>Sun, 11 Jan 2026 15:50:50 +0900</pubDate>
-</item>
-<item>
-    <title>saori-resized-png</title>
-    <link>https://github.com/tukinami/saori-resized-png</link>
-    <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-resized-png</guid>
-    <pubDate>Sun, 11 Jan 2026 15:16:55 +0900</pubDate>
-</item>
-<item>
-    <title>saori-pie-chart</title>
-    <link>https://github.com/tukinami/saori-pie-chart</link>
-    <description>円グラフを作成するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
-    <pubDate>Sun, 11 Jan 2026 12:42:14 +0900</pubDate>
-</item>
-<item>
-    <title>saori-japanese-gengou</title>
-    <link>https://github.com/tukinami/saori-japanese-gengou</link>
-    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
-    <pubDate>Sun, 11 Jan 2026 10:42:50 +0900</pubDate>
-</item>
-<item>
-    <title>saori-calcs</title>
-    <link>https://github.com/tukinami/saori-calcs</link>
-    <description>四則演算+剰余の計算をするSAORI。</description>
-    <category>saori</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/saori-calcs</guid>
-    <pubDate>Sun, 11 Jan 2026 10:32:29 +0900</pubDate>
 </item>
 <item>
     <title>HamirLore</title>
