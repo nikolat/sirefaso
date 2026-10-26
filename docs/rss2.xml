@@ -6,6 +6,69 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Mon, 26 Oct 2026 23:18:28 +0900</pubDate>
+</item>
+<item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Mon, 26 Oct 2026 22:19:02 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Mon, 26 Oct 2026 22:14:46 +0900</pubDate>
+</item>
+<item>
+    <title>LilyNovelPlayer</title>
+    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
+    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
+    <pubDate>Mon, 26 Oct 2026 20:47:53 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka_zig_demo</title>
+    <link>https://github.com/syobocat/ukagaka_zig_demo</link>
+    <description>Zig製のデモゴーストです。</description>
+    <category>ghost</category>
+    <dc:creator>syobocat</dc:creator>
+    <guid isPermaLink="false">syobocat/ukagaka_zig_demo</guid>
+    <pubDate>Mon, 26 Oct 2026 18:39:47 +0900</pubDate>
+</item>
+<item>
+    <title>UGMNavigator_Umechan</title>
+    <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
+    <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/UGMNavigator_Umechan</guid>
+    <pubDate>Mon, 26 Oct 2026 18:07:21 +0900</pubDate>
+</item>
+<item>
+    <title>walk_with_unyu</title>
+    <link>https://github.com/lost-nd-xxx/walk_with_unyu</link>
+    <description>伺かゴースト「作業応援うにゅう」</description>
+    <category>ghost</category>
+    <dc:creator>lost-nd-xxx</dc:creator>
+    <guid isPermaLink="false">lost-nd-xxx/walk_with_unyu</guid>
+    <pubDate>Mon, 26 Oct 2026 17:16:06 +0900</pubDate>
+</item>
+<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description>里々仕様書</description>
@@ -40,24 +103,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
     <pubDate>Mon, 26 Oct 2026 09:09:08 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Mon, 26 Oct 2026 07:59:32 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sun, 25 Oct 2026 21:46:42 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
@@ -186,15 +231,6 @@
     <pubDate>Sun, 25 Oct 2026 11:36:31 +0900</pubDate>
 </item>
 <item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Sat, 24 Oct 2026 22:44:09 +0900</pubDate>
-</item>
-<item>
     <title>unyu_lunchbox</title>
     <link>https://github.com/lost-nd-xxx/unyu_lunchbox</link>
     <description>ゴースト「うにゅうのお弁当箱」</description>
@@ -321,15 +357,6 @@
     <pubDate>Fri, 09 Oct 2026 09:12:45 +0900</pubDate>
 </item>
 <item>
-    <title>LilyNovelPlayer</title>
-    <link>https://github.com/lost-nd-xxx/LilyNovelPlayer</link>
-    <description>ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/LilyNovelPlayer</guid>
-    <pubDate>Tue, 06 Oct 2026 03:18:28 +0900</pubDate>
-</item>
-<item>
     <title>LilyNovelPlayer_Prototype_Scenarios</title>
     <link>https://github.com/lost-nd-xxx/LilyNovelPlayer_Prototype_Scenarios</link>
     <description>りりぷれ ぷろとたいぷ（「Lily Novel Player」用サプリメント）</description>
@@ -339,15 +366,6 @@
     <pubDate>Tue, 06 Oct 2026 03:14:41 +0900</pubDate>
 </item>
 <item>
-    <title>walk_with_unyu</title>
-    <link>https://github.com/lost-nd-xxx/walk_with_unyu</link>
-    <description>伺かゴースト「作業応援うにゅう」</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/walk_with_unyu</guid>
-    <pubDate>Tue, 06 Oct 2026 02:54:44 +0900</pubDate>
-</item>
-<item>
     <title>ninix-kagari</title>
     <link>https://github.com/Tatakinov/ninix-kagari</link>
     <description>A fork of ninix-aya</description>
@@ -355,15 +373,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/ninix-kagari</guid>
     <pubDate>Fri, 02 Oct 2026 23:10:25 +0900</pubDate>
-</item>
-<item>
-    <title>UGMNavigator_Umechan</title>
-    <link>https://github.com/lost-nd-xxx/UGMNavigator_Umechan</link>
-    <description>伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」</description>
-    <category>ghost</category>
-    <dc:creator>lost-nd-xxx</dc:creator>
-    <guid isPermaLink="false">lost-nd-xxx/UGMNavigator_Umechan</guid>
-    <pubDate>Thu, 01 Oct 2026 04:58:04 +0900</pubDate>
 </item>
 <item>
     <title>UkagakaGhostMessenger</title>
@@ -391,15 +400,6 @@
     <dc:creator>ponapalt</dc:creator>
     <guid isPermaLink="false">ponapalt/ponyaduma</guid>
     <pubDate>Mon, 28 Sep 2026 16:18:13 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka_zig_demo</title>
-    <link>https://github.com/syobocat/ukagaka_zig_demo</link>
-    <description>Zig製のデモゴーストです。</description>
-    <category>ghost</category>
-    <dc:creator>syobocat</dc:creator>
-    <guid isPermaLink="false">syobocat/ukagaka_zig_demo</guid>
-    <pubDate>Sun, 20 Sep 2026 12:25:08 +0900</pubDate>
 </item>
 <item>
     <title>vscode-surfaces</title>

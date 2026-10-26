@@ -6,6 +6,94 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "lost-nd-xxx/LilyNovelPlayer",
+            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
+            "title": "LilyNovelPlayer",
+            "content_text": "",
+            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
+            "date_published": "2024-05-17T16:44:26Z",
+            "date_modified": "2026-10-26T11:47:53Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "syobocat/ukagaka_zig_demo",
+            "url": "https://github.com/syobocat/ukagaka_zig_demo",
+            "title": "ukagaka_zig_demo",
+            "content_text": "",
+            "summary": "Zig製のデモゴーストです。",
+            "date_published": "2026-09-20T03:24:46Z",
+            "date_modified": "2026-10-26T09:39:47Z",
+            "authors": [
+                {
+                    "name": "syobocat",
+                    "url": "https://github.com/syobocat",
+                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/UGMNavigator_Umechan",
+            "url": "https://github.com/lost-nd-xxx/UGMNavigator_Umechan",
+            "title": "UGMNavigator_Umechan",
+            "content_text": "",
+            "summary": "伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」",
+            "date_published": "2024-08-14T08:42:43Z",
+            "date_modified": "2026-10-26T09:07:21Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "lost-nd-xxx/walk_with_unyu",
+            "url": "https://github.com/lost-nd-xxx/walk_with_unyu",
+            "title": "walk_with_unyu",
+            "content_text": "",
+            "summary": "伺かゴースト「作業応援うにゅう」",
+            "date_published": "2026-09-19T07:02:49Z",
+            "date_modified": "2026-10-26T08:16:06Z",
+            "authors": [
+                {
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "ukatech/POST_and_KOMAINU_V2",
             "url": "https://github.com/ukatech/POST_and_KOMAINU_V2",
             "title": "POST_and_KOMAINU_V2",
@@ -281,72 +369,6 @@
             ]
         },
         {
-            "id": "lost-nd-xxx/LilyNovelPlayer",
-            "url": "https://github.com/lost-nd-xxx/LilyNovelPlayer",
-            "title": "LilyNovelPlayer",
-            "content_text": "",
-            "summary": "ノベルゲームを作れる枠組み的なゴースト＆シェル＆バルーン",
-            "date_published": "2024-05-17T16:44:26Z",
-            "date_modified": "2026-10-05T18:18:28Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/walk_with_unyu",
-            "url": "https://github.com/lost-nd-xxx/walk_with_unyu",
-            "title": "walk_with_unyu",
-            "content_text": "",
-            "summary": "伺かゴースト「作業応援うにゅう」",
-            "date_published": "2026-09-19T07:02:49Z",
-            "date_modified": "2026-10-05T17:54:44Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "lost-nd-xxx/UGMNavigator_Umechan",
-            "url": "https://github.com/lost-nd-xxx/UGMNavigator_Umechan",
-            "title": "UGMNavigator_Umechan",
-            "content_text": "",
-            "summary": "伺かゴースト「UkagakaGhostMessengerナビゲーターうめちゃん」",
-            "date_published": "2024-08-14T08:42:43Z",
-            "date_modified": "2026-09-30T19:58:04Z",
-            "authors": [
-                {
-                    "name": "lost-nd-xxx",
-                    "url": "https://github.com/lost-nd-xxx",
-                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "ponapalt/ponyaduma",
             "url": "https://github.com/ponapalt/ponyaduma",
             "title": "ponyaduma",
@@ -359,28 +381,6 @@
                     "name": "ponapalt",
                     "url": "https://github.com/ponapalt",
                     "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "syobocat/ukagaka_zig_demo",
-            "url": "https://github.com/syobocat/ukagaka_zig_demo",
-            "title": "ukagaka_zig_demo",
-            "content_text": "",
-            "summary": "Zig製のデモゴーストです。",
-            "date_published": "2026-09-20T03:24:46Z",
-            "date_modified": "2026-09-20T03:25:08Z",
-            "authors": [
-                {
-                    "name": "syobocat",
-                    "url": "https://github.com/syobocat",
-                    "avatar": "https://avatars.githubusercontent.com/u/46315199?v=4"
                 }
             ],
             "tags": [

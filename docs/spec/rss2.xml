@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/spec/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Mon, 26 Oct 2026 22:14:46 +0900</pubDate>
+</item>
+<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description>里々仕様書</description>
@@ -13,15 +22,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
     <pubDate>Mon, 26 Oct 2026 14:26:28 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Mon, 26 Oct 2026 07:59:32 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
