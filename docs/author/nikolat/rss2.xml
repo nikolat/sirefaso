@@ -15,24 +15,6 @@
     <pubDate>Sun, 18 Oct 2026 08:01:35 +0900</pubDate>
 </item>
 <item>
-    <title>jong-chunchun</title>
-    <link>https://github.com/nikolat/jong-chunchun</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-chunchun</guid>
-    <pubDate>Sun, 18 Oct 2026 07:23:31 +0900</pubDate>
-</item>
-<item>
-    <title>jong-rinrin</title>
-    <link>https://github.com/nikolat/jong-rinrin</link>
-    <description>麻雀クライアントゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-rinrin</guid>
-    <pubDate>Sun, 18 Oct 2026 08:01:35 +0900</pubDate>
-</item>
-<item>
     <title>jong-whanwhan</title>
     <link>https://github.com/nikolat/jong-whanwhan</link>
     <description>麻雀クライアントゴースト</description>
@@ -51,6 +33,33 @@
     <pubDate>Sun, 18 Oct 2026 07:23:31 +0900</pubDate>
 </item>
 <item>
+    <title>DirectSSTPTester</title>
+    <link>https://github.com/nikolat/DirectSSTPTester</link>
+    <description>DirectSSTPを送信するシンプルなテストツール</description>
+    <category>tool</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/DirectSSTPTester</guid>
+    <pubDate>Sat, 18 Apr 2026 06:21:52 +0900</pubDate>
+</item>
+<item>
+    <title>wallet_of_unyu</title>
+    <link>https://github.com/nikolat/wallet_of_unyu</link>
+    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
+    <category>plugin</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
+    <pubDate>Sun, 29 Mar 2026 16:19:52 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Wed, 28 Jan 2026 15:31:15 +0900</pubDate>
+</item>
+<item>
     <title>nostalk</title>
     <link>https://github.com/nikolat/nostalk</link>
     <description>Nostr player on Ukagaka</description>
@@ -58,42 +67,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/nostalk</guid>
     <pubDate>Tue, 02 Sep 2025 17:32:26 +0900</pubDate>
-</item>
-<item>
-    <title>ghostbook</title>
-    <link>https://github.com/nikolat/ghostbook</link>
-    <description>伺かゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ghostbook</guid>
-    <pubDate>Sat, 08 Feb 2025 11:54:45 +0900</pubDate>
-</item>
-<item>
-    <title>jong-bari</title>
-    <link>https://github.com/nikolat/jong-bari</link>
-    <description>麻雀サーバーゴースト</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/jong-bari</guid>
-    <pubDate>Sat, 08 Feb 2025 11:05:37 +0900</pubDate>
-</item>
-<item>
-    <title>MahjongUtil</title>
-    <link>https://github.com/nikolat/MahjongUtil</link>
-    <description>麻雀に関する機能を提供するSAORI</description>
-    <category>saori</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/MahjongUtil</guid>
-    <pubDate>Sat, 08 Feb 2025 10:40:44 +0900</pubDate>
-</item>
-<item>
-    <title>angolmois</title>
-    <link>https://github.com/nikolat/angolmois</link>
-    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
-    <category>webapp</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/angolmois</guid>
-    <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
 </item>
 <item>
     <title>ghostbook</title>

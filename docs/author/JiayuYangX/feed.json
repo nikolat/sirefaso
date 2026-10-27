@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "JiayuYangX/tmidi_msg",
-            "url": "https://github.com/JiayuYangX/tmidi_msg",
-            "title": "tmidi_msg",
+            "id": "JiayuYangX/sakura-restore",
+            "url": "https://github.com/JiayuYangX/sakura-restore",
+            "title": "sakura-restore",
             "content_text": "",
-            "summary": "支持 TMIDI Player 消息的伪春菜插件",
-            "date_published": "2026-06-19T07:30:16Z",
-            "date_modified": "2026-06-23T02:05:42Z",
+            "summary": "伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化",
+            "date_published": "2026-07-04T22:08:43Z",
+            "date_modified": "2026-10-19T20:27:50Z",
             "authors": [
                 {
                     "name": "JiayuYangX",
@@ -24,7 +24,7 @@
                 "sirefaso",
                 "sosiremi",
                 "ukagaka",
-                "ukagaka-plugin"
+                "ukagaka-ghost"
             ]
         },
         {

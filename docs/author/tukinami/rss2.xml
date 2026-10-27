@@ -6,6 +6,42 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/tukinami/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>saori-resized-png-mini</title>
+    <link>https://github.com/tukinami/saori-resized-png-mini</link>
+    <description>SAORI to resize image and save as png (limited edition)</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-resized-png-mini</guid>
+    <pubDate>Sun, 25 Oct 2026 14:12:35 +0900</pubDate>
+</item>
+<item>
+    <title>saori-japanese-gengou</title>
+    <link>https://github.com/tukinami/saori-japanese-gengou</link>
+    <description>西暦(グレゴリオ暦)から元号を使った日付に変換するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-japanese-gengou</guid>
+    <pubDate>Sun, 25 Oct 2026 14:05:11 +0900</pubDate>
+</item>
+<item>
+    <title>saori-calcs</title>
+    <link>https://github.com/tukinami/saori-calcs</link>
+    <description>四則演算+剰余の計算をするSAORI。</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-calcs</guid>
+    <pubDate>Sun, 25 Oct 2026 13:59:16 +0900</pubDate>
+</item>
+<item>
+    <title>saori-pie-chart</title>
+    <link>https://github.com/tukinami/saori-pie-chart</link>
+    <description>円グラフを作成するSAORI</description>
+    <category>saori</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/saori-pie-chart</guid>
+    <pubDate>Sun, 25 Oct 2026 13:28:31 +0900</pubDate>
+</item>
+<item>
     <title>saori-resized-png</title>
     <link>https://github.com/tukinami/saori-resized-png</link>
     <description>SAORI for UKAGAKA. Convert a image file to resized png file.</description>
@@ -15,6 +51,15 @@
     <pubDate>Sun, 25 Oct 2026 13:21:21 +0900</pubDate>
 </item>
 <item>
+    <title>ayayatter</title>
+    <link>https://github.com/tukinami/ayayatter</link>
+    <description>formatter for yaya.</description>
+    <category>tool</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/ayayatter</guid>
+    <pubDate>Sun, 25 Oct 2026 12:56:52 +0900</pubDate>
+</item>
+<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -22,15 +67,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
     <pubDate>Sun, 25 Oct 2026 12:41:31 +0900</pubDate>
-</item>
-<item>
-    <title>doll_at_the_bay_window</title>
-    <link>https://github.com/tukinami/doll_at_the_bay_window</link>
-    <description>ボロボロの窓辺に佇む人形を眺める伺かゴースト。</description>
-    <category>ghost</category>
-    <dc:creator>tukinami</dc:creator>
-    <guid isPermaLink="false">tukinami/doll_at_the_bay_window</guid>
-    <pubDate>Sun, 17 May 2026 10:53:27 +0900</pubDate>
 </item>
 <item>
     <title>doll_at_the_bay_window</title>
@@ -78,6 +114,15 @@
     <pubDate>Fri, 15 Aug 2025 19:36:17 +0900</pubDate>
 </item>
 <item>
+    <title>lady-goldfish-bowl</title>
+    <link>https://github.com/tukinami/lady-goldfish-bowl</link>
+    <description>伺か用フリーシェル。金魚が入った金魚鉢の頭を持つ女性。</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/lady-goldfish-bowl</guid>
+    <pubDate>Fri, 15 Aug 2025 19:29:26 +0900</pubDate>
+</item>
+<item>
     <title>cage_head_with_blue_bird</title>
     <link>https://github.com/tukinami/cage_head_with_blue_bird</link>
     <description>伺か用フリーシェル。青い鳥の入った鳥籠の頭を持つ男性。</description>
@@ -94,6 +139,15 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/double-danshi-KouKousei</guid>
     <pubDate>Fri, 15 Aug 2025 19:12:55 +0900</pubDate>
+</item>
+<item>
+    <title>taidanaSanoSan_shell_master-l</title>
+    <link>https://github.com/tukinami/taidanaSanoSan_shell_master-l</link>
+    <description>伺か用ゴースト「怠惰な佐野さん」追加シェル「master-l」</description>
+    <category>shell</category>
+    <dc:creator>tukinami</dc:creator>
+    <guid isPermaLink="false">tukinami/taidanaSanoSan_shell_master-l</guid>
+    <pubDate>Fri, 15 Aug 2025 19:02:17 +0900</pubDate>
 </item>
 <item>
     <title>talismanic_beast_pattern</title>

@@ -29,29 +29,6 @@
             ]
         },
         {
-            "id": "nikolat/angolmois",
-            "url": "https://github.com/nikolat/angolmois",
-            "title": "angolmois",
-            "content_text": "",
-            "summary": "Nostrリレーから投稿を取得して伺かにSSTPを送信します",
-            "date_published": "2023-02-17T02:14:04Z",
-            "date_modified": "2024-08-28T07:00:36Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "nostr-client",
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-webapp"
-            ]
-        },
-        {
             "id": "nikolat/Majiang",
             "url": "https://github.com/nikolat/Majiang",
             "title": "Majiang",
