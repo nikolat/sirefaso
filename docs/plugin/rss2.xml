@@ -15,6 +15,24 @@
     <pubDate>Mon, 12 Oct 2026 13:35:40 +0900</pubDate>
 </item>
 <item>
+    <title>tmidi_msg</title>
+    <link>https://github.com/JiayuYangX/tmidi_msg</link>
+    <description>支持 TMIDI Player 消息的伪春菜插件</description>
+    <category>plugin</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/tmidi_msg</guid>
+    <pubDate>Tue, 23 Jun 2026 11:05:42 +0900</pubDate>
+</item>
+<item>
+    <title>ghost-messenger</title>
+    <link>https://github.com/arsuren/ghost-messenger</link>
+    <description>👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.</description>
+    <category>plugin</category>
+    <dc:creator>arsuren</dc:creator>
+    <guid isPermaLink="false">arsuren/ghost-messenger</guid>
+    <pubDate>Mon, 12 Oct 2026 13:35:40 +0900</pubDate>
+</item>
+<item>
     <title>UkagakaGhostMessenger</title>
     <link>https://github.com/lost-nd-xxx/UkagakaGhostMessenger</link>
     <description>伺かベースウェア向けのメッセージアプリ風プラグイン</description>
@@ -31,24 +49,6 @@
     <dc:creator>JiayuYangX</dc:creator>
     <guid isPermaLink="false">JiayuYangX/tmidi_msg</guid>
     <pubDate>Tue, 23 Jun 2026 11:05:42 +0900</pubDate>
-</item>
-<item>
-    <title>stampcollection</title>
-    <link>https://github.com/YAYA-shiori/stampcollection</link>
-    <description>プラグイン「スタンプ帳」</description>
-    <category>plugin</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/stampcollection</guid>
-    <pubDate>Mon, 30 Mar 2026 10:27:43 +0900</pubDate>
-</item>
-<item>
-    <title>wallet_of_unyu</title>
-    <link>https://github.com/nikolat/wallet_of_unyu</link>
-    <description>伺かの世界で流通する暗号通貨UNYUのウォレット</description>
-    <category>plugin</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/wallet_of_unyu</guid>
-    <pubDate>Sun, 29 Mar 2026 16:19:52 +0900</pubDate>
 </item>
 <item>
     <title>ukagakaPlugin_CeVIO-TalkerV2</title>

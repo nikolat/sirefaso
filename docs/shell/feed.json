@@ -72,28 +72,6 @@
             ]
         },
         {
-            "id": "tukinami/lady-goldfish-bowl",
-            "url": "https://github.com/tukinami/lady-goldfish-bowl",
-            "title": "lady-goldfish-bowl",
-            "content_text": "",
-            "summary": "伺か用フリーシェル。金魚が入った金魚鉢の頭を持つ女性。",
-            "date_published": "2024-05-01T15:35:04Z",
-            "date_modified": "2025-08-15T10:29:26Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-shell"
-            ]
-        },
-        {
             "id": "tukinami/cage_head_with_blue_bird",
             "url": "https://github.com/tukinami/cage_head_with_blue_bird",
             "title": "cage_head_with_blue_bird",
@@ -138,22 +116,67 @@
             ]
         },
         {
-            "id": "tukinami/taidanaSanoSan_shell_master-l",
-            "url": "https://github.com/tukinami/taidanaSanoSan_shell_master-l",
-            "title": "taidanaSanoSan_shell_master-l",
+            "id": "lost-nd-xxx/kumasan_with_deathplay",
+            "url": "https://github.com/lost-nd-xxx/kumasan_with_deathplay",
+            "title": "kumasan_with_deathplay",
             "content_text": "",
-            "summary": "伺か用ゴースト「怠惰な佐野さん」追加シェル「master-l」",
-            "date_published": "2023-01-24T23:43:17Z",
-            "date_modified": "2025-08-15T10:02:17Z",
+            "summary": "フリーシェル＆専用バルーン２種＆動作デモ用ゴースト",
+            "date_published": "2024-11-01T14:47:52Z",
+            "date_modified": "2024-11-01T15:46:50Z",
             "authors": [
                 {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/Steampunk",
+            "url": "https://github.com/Shimofumi/Steampunk",
+            "title": "Steampunk",
+            "content_text": "",
+            "summary": "「ロスト・ユー・サムウェア」用追加シェル「すちーむぱんく」",
+            "date_published": "2024-10-17T16:47:19Z",
+            "date_modified": "2024-10-17T17:01:48Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/Saigai_no_ikimono_chan",
+            "url": "https://github.com/Shimofumi/Saigai_no_ikimono_chan",
+            "title": "Saigai_no_ikimono_chan",
+            "content_text": "",
+            "summary": "伺か的フリーシェル「海で一番強い生き物」ちゃん",
+            "date_published": "2024-08-06T18:28:27Z",
+            "date_modified": "2024-08-08T10:15:03Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
                 "ukagaka",
                 "ukagaka-shell"
             ]

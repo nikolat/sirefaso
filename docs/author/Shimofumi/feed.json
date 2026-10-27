@@ -116,6 +116,72 @@
             ]
         },
         {
+            "id": "Shimofumi/Shennong_kanadome",
+            "url": "https://github.com/Shimofumi/Shennong_kanadome",
+            "title": "Shennong_kanadome",
+            "content_text": "",
+            "summary": "ukagaka ghost 餌付けしよ！神農氏",
+            "date_published": "2024-11-24T13:04:37Z",
+            "date_modified": "2024-12-09T08:54:35Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Shimofumi/Steampunk",
+            "url": "https://github.com/Shimofumi/Steampunk",
+            "title": "Steampunk",
+            "content_text": "",
+            "summary": "「ロスト・ユー・サムウェア」用追加シェル「すちーむぱんく」",
+            "date_published": "2024-10-17T16:47:19Z",
+            "date_modified": "2024-10-17T17:01:48Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
+            "id": "Shimofumi/Saigai_no_ikimono_chan",
+            "url": "https://github.com/Shimofumi/Saigai_no_ikimono_chan",
+            "title": "Saigai_no_ikimono_chan",
+            "content_text": "",
+            "summary": "伺か的フリーシェル「海で一番強い生き物」ちゃん",
+            "date_published": "2024-08-06T18:28:27Z",
+            "date_modified": "2024-08-08T10:15:03Z",
+            "authors": [
+                {
+                    "name": "Shimofumi",
+                    "url": "https://github.com/Shimofumi",
+                    "avatar": "https://avatars.githubusercontent.com/u/48890286?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-shell"
+            ]
+        },
+        {
             "id": "Shimofumi/Oyatsu_ha_Macaroni",
             "url": "https://github.com/Shimofumi/Oyatsu_ha_Macaroni",
             "title": "Oyatsu_ha_Macaroni",

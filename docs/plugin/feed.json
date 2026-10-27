@@ -41,6 +41,63 @@
             ]
         },
         {
+            "id": "JiayuYangX/tmidi_msg",
+            "url": "https://github.com/JiayuYangX/tmidi_msg",
+            "title": "tmidi_msg",
+            "content_text": "",
+            "summary": "支持 TMIDI Player 消息的伪春菜插件",
+            "date_published": "2026-06-19T07:30:16Z",
+            "date_modified": "2026-06-23T02:05:42Z",
+            "authors": [
+                {
+                    "name": "JiayuYangX",
+                    "url": "https://github.com/JiayuYangX",
+                    "avatar": "https://avatars.githubusercontent.com/u/173799789?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-plugin"
+            ]
+        },
+        {
+            "id": "arsuren/ghost-messenger",
+            "url": "https://github.com/arsuren/ghost-messenger",
+            "title": "ghost-messenger",
+            "content_text": "",
+            "summary": "👻 Build secure, private messaging with Ghost Messenger—an open-source, next-generation platform designed for Android users seeking privacy-first communication.",
+            "date_published": "2026-01-10T05:27:33Z",
+            "date_modified": "2026-10-12T04:35:40Z",
+            "authors": [
+                {
+                    "name": "arsuren",
+                    "url": "https://github.com/arsuren",
+                    "avatar": "https://avatars.githubusercontent.com/u/124024048?v=4"
+                }
+            ],
+            "tags": [
+                "custom-messenger",
+                "electron",
+                "end-to-end-encryption",
+                "facebook",
+                "jetpack-compose-",
+                "kotlin",
+                "kotlin-android",
+                "messager",
+                "messenger",
+                "sirefaso",
+                "sosiremi",
+                "telegram",
+                "theme",
+                "ukagaka",
+                "ukagaka-plugin",
+                "websocket",
+                "whatsapp"
+            ]
+        },
+        {
             "id": "lost-nd-xxx/UkagakaGhostMessenger",
             "url": "https://github.com/lost-nd-xxx/UkagakaGhostMessenger",
             "title": "UkagakaGhostMessenger",
@@ -82,51 +139,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/stampcollection",
-            "url": "https://github.com/YAYA-shiori/stampcollection",
-            "title": "stampcollection",
-            "content_text": "",
-            "summary": "プラグイン「スタンプ帳」",
-            "date_published": "2026-03-29T07:54:20Z",
-            "date_modified": "2026-03-30T01:27:43Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "nikolat/wallet_of_unyu",
-            "url": "https://github.com/nikolat/wallet_of_unyu",
-            "title": "wallet_of_unyu",
-            "content_text": "",
-            "summary": "伺かの世界で流通する暗号通貨UNYUのウォレット",
-            "date_published": "2023-03-26T02:58:58Z",
-            "date_modified": "2026-03-29T07:19:52Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-plugin",
-                "yaya"
             ]
         },
         {

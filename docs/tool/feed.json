@@ -6,39 +6,40 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukagaka-developer",
-            "url": "https://github.com/ukatech/ukagaka-developer",
-            "title": "ukagaka-developer",
+            "id": "lost-nd-xxx/something-like-balloon-editor",
+            "url": "https://github.com/lost-nd-xxx/something-like-balloon-editor",
+            "title": "something-like-balloon-editor",
             "content_text": "",
-            "summary": "伺か開発スキル for coding agent",
-            "date_published": "2026-10-25T10:06:57Z",
-            "date_modified": "2026-10-26T00:09:08Z",
+            "summary": "伺かバルーンの設定ファイル作成・色変えツール",
+            "date_published": "2026-05-25T12:24:15Z",
+            "date_modified": "2026-10-11T06:49:51Z",
             "authors": [
                 {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                    "name": "lost-nd-xxx",
+                    "url": "https://github.com/lost-nd-xxx",
+                    "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
                 }
             ],
             "tags": [
                 "sirefaso",
+                "sosiremi",
                 "ukagaka",
                 "ukagaka-tool"
             ]
         },
         {
-            "id": "tukinami/ayayatter",
-            "url": "https://github.com/tukinami/ayayatter",
-            "title": "ayayatter",
+            "id": "kanadelab/vscode-surfaces",
+            "url": "https://github.com/kanadelab/vscode-surfaces",
+            "title": "vscode-surfaces",
             "content_text": "",
-            "summary": "formatter for yaya.",
-            "date_published": "2023-12-04T08:06:50Z",
-            "date_modified": "2026-10-25T03:56:52Z",
+            "summary": "vscode用surfaces.txtエクステンション",
+            "date_published": "2022-12-17T06:49:55Z",
+            "date_modified": "2026-09-20T02:53:32Z",
             "authors": [
                 {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                    "name": "kanadelab",
+                    "url": "https://github.com/kanadelab",
+                    "avatar": "https://avatars.githubusercontent.com/u/6740153?v=4"
                 }
             ],
             "tags": [
@@ -187,49 +188,6 @@
             "summary": "SSP同梱版作成ツール",
             "date_published": "2026-03-03T08:18:58Z",
             "date_modified": "2026-05-01T10:53:20Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "nikolat/DirectSSTPTester",
-            "url": "https://github.com/nikolat/DirectSSTPTester",
-            "title": "DirectSSTPTester",
-            "content_text": "",
-            "summary": "DirectSSTPを送信するシンプルなテストツール",
-            "date_published": "2021-11-12T08:28:32Z",
-            "date_modified": "2026-04-17T21:21:52Z",
-            "authors": [
-                {
-                    "name": "nikolat",
-                    "url": "https://github.com/nikolat",
-                    "avatar": "https://avatars.githubusercontent.com/u/496156?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sstp",
-                "ukagaka",
-                "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "ukatech/ghostdist",
-            "url": "https://github.com/ukatech/ghostdist",
-            "title": "ghostdist",
-            "content_text": "",
-            "summary": "ゴースト配布系自動化システム改",
-            "date_published": "2026-01-08T19:07:19Z",
-            "date_modified": "2026-03-31T06:42:01Z",
             "authors": [
                 {
                     "name": "ukatech",

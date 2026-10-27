@@ -15,6 +15,15 @@
     <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
 </item>
 <item>
+    <title>angolmois</title>
+    <link>https://github.com/nikolat/angolmois</link>
+    <description>Nostrリレーから投稿を取得して伺かにSSTPを送信します</description>
+    <category>webapp</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/angolmois</guid>
+    <pubDate>Wed, 28 Aug 2024 16:00:36 +0900</pubDate>
+</item>
+<item>
     <title>Majiang</title>
     <link>https://github.com/nikolat/Majiang</link>
     <description>HTML5 + JavaScript で動作する麻雀アプリ「電脳麻将」</description>
