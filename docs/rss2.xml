@@ -6,6 +6,33 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Wed, 28 Oct 2026 23:09:48 +0900</pubDate>
+</item>
+<item>
+    <title>kawari-docs</title>
+    <link>https://github.com/ukatech/kawari-docs</link>
+    <description>華和梨9仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari-docs</guid>
+    <pubDate>Wed, 28 Oct 2026 20:39:39 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-developer</title>
+    <link>https://github.com/ukatech/ukagaka-developer</link>
+    <description>伺か開発スキル for coding agent</description>
+    <category>tool</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
+    <pubDate>Wed, 28 Oct 2026 20:39:35 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc-spec</title>
     <link>https://github.com/ukatech/ukadoc-spec</link>
     <description>Ukagaka Spec Repo</description>
@@ -13,15 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
     <pubDate>Wed, 28 Oct 2026 07:03:11 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Tue, 27 Oct 2026 23:43:58 +0900</pubDate>
 </item>
 <item>
     <title>ninix-kagari</title>
@@ -105,15 +123,6 @@
     <pubDate>Mon, 26 Oct 2026 10:32:42 +0900</pubDate>
 </item>
 <item>
-    <title>ukagaka-developer</title>
-    <link>https://github.com/ukatech/ukagaka-developer</link>
-    <description>伺か開発スキル for coding agent</description>
-    <category>tool</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
-    <pubDate>Mon, 26 Oct 2026 09:09:08 +0900</pubDate>
-</item>
-<item>
     <title>ukadoc-ssp</title>
     <link>https://github.com/ukatech/ukadoc-ssp</link>
     <description>SSP Help</description>
@@ -175,15 +184,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/saori-calcs</guid>
     <pubDate>Sun, 25 Oct 2026 13:59:16 +0900</pubDate>
-</item>
-<item>
-    <title>kawari-docs</title>
-    <link>https://github.com/ukatech/kawari-docs</link>
-    <description>華和梨9仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Sun, 25 Oct 2026 13:58:33 +0900</pubDate>
 </item>
 <item>
     <title>saori-pie-chart</title>
