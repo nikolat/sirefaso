@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>EmilyTranslateProject</title>
+    <link>https://github.com/JiayuYangX/EmilyTranslateProject</link>
+    <description>SSP 默认人格 Emily/Phase4.5 完全汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/EmilyTranslateProject</guid>
+    <pubDate>Thu, 29 Oct 2026 21:43:32 +0900</pubDate>
+</item>
+<item>
+    <title>konnoyayame</title>
+    <link>https://github.com/YAYA-shiori/konnoyayame</link>
+    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
+    <pubDate>Thu, 29 Oct 2026 15:27:35 +0900</pubDate>
+</item>
+<item>
     <title>flele_aya</title>
     <link>https://github.com/YAYA-shiori/flele_aya</link>
     <description>FLELE v1+ (V2機能一部取り込み)</description>
@@ -67,15 +85,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/ayalilith</guid>
     <pubDate>Sun, 25 Oct 2026 20:13:09 +0900</pubDate>
-</item>
-<item>
-    <title>konnoyayame</title>
-    <link>https://github.com/YAYA-shiori/konnoyayame</link>
-    <description>YAYAのテンプレートゴースト「紺野ややめ」です</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/konnoyayame</guid>
-    <pubDate>Sun, 25 Oct 2026 20:13:08 +0900</pubDate>
 </item>
 <item>
     <title>taidanaSanoSan</title>
@@ -184,15 +193,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/WeatherTimeCapsule</guid>
     <pubDate>Sat, 11 Jul 2026 09:45:48 +0900</pubDate>
-</item>
-<item>
-    <title>EmilyTranslateProject</title>
-    <link>https://github.com/JiayuYangX/EmilyTranslateProject</link>
-    <description>SSP 默认人格 Emily/Phase4.5 完全汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/EmilyTranslateProject</guid>
-    <pubDate>Sat, 04 Jul 2026 19:18:28 +0900</pubDate>
 </item>
 <item>
     <title>mancala-player-amethyst</title>
