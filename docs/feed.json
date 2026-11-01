@@ -6,13 +6,35 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/shiories",
+            "url": "https://github.com/YAYA-shiori/shiories",
+            "title": "shiories",
+            "content_text": "",
+            "summary": "SHIORIES",
+            "date_published": "2026-11-01T05:59:51Z",
+            "date_modified": "2026-11-01T13:29:49Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/ninixw",
             "url": "https://github.com/Tatakinov/ninixw",
             "title": "ninixw",
             "content_text": "",
             "summary": "An ukagaka baseware inspired by ninix-kagari",
             "date_published": "2026-10-21T12:38:54Z",
-            "date_modified": "2026-11-01T09:25:27Z",
+            "date_modified": "2026-11-01T12:31:47Z",
             "authors": [
                 {
                     "name": "Tatakinov",
@@ -28,13 +50,13 @@
             ]
         },
         {
-            "id": "ukatech/ukadoc-spec",
-            "url": "https://github.com/ukatech/ukadoc-spec",
-            "title": "ukadoc-spec",
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
             "content_text": "",
-            "summary": "Ukagaka Spec Repo",
-            "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-10-31T20:20:40Z",
+            "summary": "里々仕様書",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-11-01T11:15:29Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -49,13 +71,13 @@
             ]
         },
         {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
             "content_text": "",
-            "summary": "里々仕様書",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-10-31T08:13:53Z",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-10-31T20:20:40Z",
             "authors": [
                 {
                     "name": "ukatech",
