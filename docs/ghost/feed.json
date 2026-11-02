@@ -6,13 +6,79 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/_the_hand_",
+            "url": "https://github.com/YAYA-shiori/_the_hand_",
+            "title": "_the_hand_",
+            "content_text": "",
+            "summary": "嫌ゴ「The Hand」Phase \"xxxx\"",
+            "date_published": "2026-02-23T08:22:16Z",
+            "date_modified": "2026-11-02T00:48:46Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/flele_aya",
+            "url": "https://github.com/YAYA-shiori/flele_aya",
+            "title": "flele_aya",
+            "content_text": "",
+            "summary": "FLELE v1+ (V2機能一部取り込み)",
+            "date_published": "2026-03-30T20:00:06Z",
+            "date_modified": "2026-11-02T00:42:29Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "ponapalt/claudia",
+            "url": "https://github.com/ponapalt/claudia",
+            "title": "claudia",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-19T08:39:56Z",
+            "date_modified": "2026-11-02T00:21:25Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/shiories",
             "url": "https://github.com/YAYA-shiori/shiories",
             "title": "shiories",
             "content_text": "",
             "summary": "SHIORIES",
             "date_published": "2026-11-01T05:59:51Z",
-            "date_modified": "2026-11-01T20:21:47Z",
+            "date_modified": "2026-11-01T23:57:02Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -79,28 +145,6 @@
             "summary": "YAYAのテンプレートゴースト「紺野ややめ」です",
             "date_published": "2021-06-25T05:12:37Z",
             "date_modified": "2026-10-29T06:27:35Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/flele_aya",
-            "url": "https://github.com/YAYA-shiori/flele_aya",
-            "title": "flele_aya",
-            "content_text": "",
-            "summary": "FLELE v1+ (V2機能一部取り込み)",
-            "date_published": "2026-03-30T20:00:06Z",
-            "date_modified": "2026-10-29T00:12:34Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -413,28 +457,6 @@
             ]
         },
         {
-            "id": "ponapalt/claudia",
-            "url": "https://github.com/ponapalt/claudia",
-            "title": "claudia",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-19T08:39:56Z",
-            "date_modified": "2026-10-09T00:12:45Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
             "id": "ponapalt/ponyaduma",
             "url": "https://github.com/ponapalt/ponyaduma",
             "title": "ponyaduma",
@@ -689,28 +711,6 @@
                     "name": "lost-nd-xxx",
                     "url": "https://github.com/lost-nd-xxx",
                     "avatar": "https://avatars.githubusercontent.com/u/31817751?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/_the_hand_",
-            "url": "https://github.com/YAYA-shiori/_the_hand_",
-            "title": "_the_hand_",
-            "content_text": "",
-            "summary": "嫌ゴ「The Hand」Phase \"xxxx\"",
-            "date_published": "2026-02-23T08:22:16Z",
-            "date_modified": "2026-02-23T11:24:08Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [
