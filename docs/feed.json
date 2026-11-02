@@ -6,6 +6,70 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/yaya-docs",
+            "url": "https://github.com/YAYA-shiori/yaya-docs",
+            "title": "yaya-docs",
+            "content_text": "",
+            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
+            "date_published": "2026-03-05T20:04:35Z",
+            "date_modified": "2026-11-02T07:21:44Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-shiori",
+            "url": "https://github.com/YAYA-shiori/yaya-shiori",
+            "title": "yaya-shiori",
+            "content_text": "",
+            "summary": "Yet Another AYA",
+            "date_published": "2015-05-29T01:09:27Z",
+            "date_modified": "2026-11-02T07:23:14Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/shiories",
+            "url": "https://github.com/YAYA-shiori/shiories",
+            "title": "shiories",
+            "content_text": "",
+            "summary": "SHIORIES",
+            "date_published": "2026-11-01T05:59:51Z",
+            "date_modified": "2026-11-02T03:50:21Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "YAYA-shiori/_the_hand_",
             "url": "https://github.com/YAYA-shiori/_the_hand_",
             "title": "_the_hand_",
@@ -62,28 +126,6 @@
                     "name": "ponapalt",
                     "url": "https://github.com/ponapalt",
                     "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/shiories",
-            "url": "https://github.com/YAYA-shiori/shiories",
-            "title": "shiories",
-            "content_text": "",
-            "summary": "SHIORIES",
-            "date_published": "2026-11-01T05:59:51Z",
-            "date_modified": "2026-11-01T23:57:02Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [
@@ -547,27 +589,6 @@
             ]
         },
         {
-            "id": "YAYA-shiori/yaya-docs",
-            "url": "https://github.com/YAYA-shiori/yaya-docs",
-            "title": "yaya-docs",
-            "content_text": "",
-            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
-            "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-10-25T05:01:42Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
             "id": "tukinami/saori-calcs",
             "url": "https://github.com/tukinami/saori-calcs",
             "title": "saori-calcs",
@@ -687,27 +708,6 @@
                     "name": "ukatech",
                     "url": "https://github.com/ukatech",
                     "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-shiori",
-            "url": "https://github.com/YAYA-shiori/yaya-shiori",
-            "title": "yaya-shiori",
-            "content_text": "",
-            "summary": "Yet Another AYA",
-            "date_published": "2015-05-29T01:09:27Z",
-            "date_modified": "2026-10-25T02:36:31Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
                 }
             ],
             "tags": [
