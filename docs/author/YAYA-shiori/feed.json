@@ -6,6 +6,50 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "YAYA-shiori/shiories",
+            "url": "https://github.com/YAYA-shiori/shiories",
+            "title": "shiories",
+            "content_text": "",
+            "summary": "SHIORIES",
+            "date_published": "2026-11-01T05:59:51Z",
+            "date_modified": "2026-11-02T12:28:14Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-as-saori",
+            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
+            "title": "yaya-as-saori",
+            "content_text": "",
+            "summary": "YAYA as SAORI",
+            "date_published": "2021-11-12T09:11:59Z",
+            "date_modified": "2026-11-02T08:22:43Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-saori",
+                "yaya"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-docs",
             "url": "https://github.com/YAYA-shiori/yaya-docs",
             "title": "yaya-docs",
@@ -45,28 +89,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/shiories",
-            "url": "https://github.com/YAYA-shiori/shiories",
-            "title": "shiories",
-            "content_text": "",
-            "summary": "SHIORIES",
-            "date_published": "2026-11-01T05:59:51Z",
-            "date_modified": "2026-11-02T03:50:21Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {
@@ -222,28 +244,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-plugin"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-as-saori",
-            "url": "https://github.com/YAYA-shiori/yaya-as-saori",
-            "title": "yaya-as-saori",
-            "content_text": "",
-            "summary": "YAYA as SAORI",
-            "date_published": "2021-11-12T09:11:59Z",
-            "date_modified": "2024-04-25T23:48:31Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-saori",
-                "yaya"
             ]
         },
         {

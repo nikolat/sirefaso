@@ -6,6 +6,42 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Mon, 02 Nov 2026 23:06:14 +0900</pubDate>
+</item>
+<item>
+    <title>shiories</title>
+    <link>https://github.com/YAYA-shiori/shiories</link>
+    <description>SHIORIES</description>
+    <category>ghost</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/shiories</guid>
+    <pubDate>Mon, 02 Nov 2026 21:28:14 +0900</pubDate>
+</item>
+<item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Mon, 02 Nov 2026 18:37:58 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-as-saori</title>
+    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
+    <description>YAYA as SAORI</description>
+    <category>saori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
+    <pubDate>Mon, 02 Nov 2026 17:22:43 +0900</pubDate>
+</item>
+<item>
     <title>yaya-docs</title>
     <link>https://github.com/YAYA-shiori/yaya-docs</link>
     <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
@@ -22,15 +58,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Mon, 02 Nov 2026 16:23:14 +0900</pubDate>
-</item>
-<item>
-    <title>shiories</title>
-    <link>https://github.com/YAYA-shiori/shiories</link>
-    <description>SHIORIES</description>
-    <category>ghost</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/shiories</guid>
-    <pubDate>Mon, 02 Nov 2026 12:50:21 +0900</pubDate>
 </item>
 <item>
     <title>_the_hand_</title>
@@ -69,15 +96,6 @@
     <pubDate>Mon, 02 Nov 2026 08:54:30 +0900</pubDate>
 </item>
 <item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sun, 01 Nov 2026 21:31:47 +0900</pubDate>
-</item>
-<item>
     <title>satori-docs</title>
     <link>https://github.com/ukatech/satori-docs</link>
     <description>里々仕様書</description>
@@ -103,15 +121,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
     <pubDate>Sat, 31 Oct 2026 17:13:47 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Fri, 30 Oct 2026 18:28:08 +0900</pubDate>
 </item>
 <item>
     <title>sakura-restore</title>
@@ -958,15 +967,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/kagari_as_plugin</guid>
     <pubDate>Fri, 21 Jun 2024 22:08:56 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-as-saori</title>
-    <link>https://github.com/YAYA-shiori/yaya-as-saori</link>
-    <description>YAYA as SAORI</description>
-    <category>saori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-as-saori</guid>
-    <pubDate>Fri, 26 Apr 2024 08:48:31 +0900</pubDate>
 </item>
 <item>
     <title>saori-qrcode</title>
