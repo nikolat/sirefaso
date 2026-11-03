@@ -1,0 +1,116 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "ukagaka-irono | 偽SiReFaSo",
+    "home_page_url": "https://nikolat.github.io/sirefaso/author/ukagaka-irono/",
+    "feed_url": "https://nikolat.github.io/sirefaso/author/ukagaka-irono/feed.json",
+    "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
+    "items": [
+        {
+            "id": "ukagaka-irono/tama-v6",
+            "url": "https://github.com/ukagaka-irono/tama-v6",
+            "title": "tama-v6",
+            "content_text": "",
+            "summary": "Tama - YAYAv6 Console",
+            "date_published": "2026-11-01T12:40:11Z",
+            "date_modified": "2026-11-03T02:33:38Z",
+            "authors": [
+                {
+                    "name": "ukagaka-irono",
+                    "url": "https://github.com/ukagaka-irono",
+                    "avatar": "https://avatars.githubusercontent.com/u/336440384?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukagaka-irono/nashi-shiori-studio-2",
+            "url": "https://github.com/ukagaka-irono/nashi-shiori-studio-2",
+            "title": "nashi-shiori-studio-2",
+            "content_text": "",
+            "summary": "nashi-shiori-studio-2",
+            "date_published": "2026-10-30T09:47:28Z",
+            "date_modified": "2026-11-01T17:10:12Z",
+            "authors": [
+                {
+                    "name": "ukagaka-irono",
+                    "url": "https://github.com/ukagaka-irono",
+                    "avatar": "https://avatars.githubusercontent.com/u/336440384?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-shiori",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukagaka-irono/ukagaka-studio",
+            "url": "https://github.com/ukagaka-irono/ukagaka-studio",
+            "title": "ukagaka-studio",
+            "content_text": "",
+            "summary": "Ukagaka Ghost Development Support Tool",
+            "date_published": "2026-10-24T13:56:12Z",
+            "date_modified": "2026-11-01T16:19:17Z",
+            "authors": [
+                {
+                    "name": "ukagaka-irono",
+                    "url": "https://github.com/ukagaka-irono",
+                    "avatar": "https://avatars.githubusercontent.com/u/336440384?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-tool"
+            ]
+        },
+        {
+            "id": "ukagaka-irono/pono-droid",
+            "url": "https://github.com/ukagaka-irono/pono-droid",
+            "title": "pono-droid",
+            "content_text": "",
+            "summary": "Ukagaka for Android",
+            "date_published": "2026-10-21T15:29:39Z",
+            "date_modified": "2026-11-01T15:52:19Z",
+            "authors": [
+                {
+                    "name": "ukagaka-irono",
+                    "url": "https://github.com/ukagaka-irono",
+                    "avatar": "https://avatars.githubusercontent.com/u/336440384?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
+            ]
+        },
+        {
+            "id": "ukagaka-irono/Engawa",
+            "url": "https://github.com/ukagaka-irono/Engawa",
+            "title": "Engawa",
+            "content_text": "",
+            "summary": "Engawa",
+            "date_published": "2026-10-28T14:04:26Z",
+            "date_modified": "2026-11-01T12:42:54Z",
+            "authors": [
+                {
+                    "name": "ukagaka-irono",
+                    "url": "https://github.com/ukagaka-irono",
+                    "avatar": "https://avatars.githubusercontent.com/u/336440384?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware",
+                "ukagaka-webapp"
+            ]
+        }
+    ]
+}

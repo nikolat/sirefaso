@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/baseware/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Tue, 03 Nov 2026 11:24:25 +0900</pubDate>
+</item>
+<item>
     <title>ninixw</title>
     <link>https://github.com/Tatakinov/ninixw</link>
     <description>An ukagaka baseware inspired by ninix-kagari</description>
@@ -15,13 +24,22 @@
     <pubDate>Tue, 03 Nov 2026 09:55:55 +0900</pubDate>
 </item>
 <item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
+    <title>pono-droid</title>
+    <link>https://github.com/ukagaka-irono/pono-droid</link>
+    <description>Ukagaka for Android</description>
     <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Mon, 02 Nov 2026 18:37:58 +0900</pubDate>
+    <dc:creator>ukagaka-irono</dc:creator>
+    <guid isPermaLink="false">ukagaka-irono/pono-droid</guid>
+    <pubDate>Mon, 02 Nov 2026 00:52:19 +0900</pubDate>
+</item>
+<item>
+    <title>Engawa</title>
+    <link>https://github.com/ukagaka-irono/Engawa</link>
+    <description>Engawa</description>
+    <category>baseware</category>
+    <dc:creator>ukagaka-irono</dc:creator>
+    <guid isPermaLink="false">ukagaka-irono/Engawa</guid>
+    <pubDate>Sun, 01 Nov 2026 21:42:54 +0900</pubDate>
 </item>
 <item>
     <title>ninix-kagari</title>

@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/tool/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>tama-v6</title>
+    <link>https://github.com/ukagaka-irono/tama-v6</link>
+    <description>Tama - YAYAv6 Console</description>
+    <category>tool</category>
+    <dc:creator>ukagaka-irono</dc:creator>
+    <guid isPermaLink="false">ukagaka-irono/tama-v6</guid>
+    <pubDate>Tue, 03 Nov 2026 11:33:38 +0900</pubDate>
+</item>
+<item>
     <title>ukagaka-developer</title>
     <link>https://github.com/ukatech/ukagaka-developer</link>
     <description>伺か開発スキル for coding agent</description>
@@ -13,6 +22,15 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
     <pubDate>Mon, 02 Nov 2026 08:54:30 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-studio</title>
+    <link>https://github.com/ukagaka-irono/ukagaka-studio</link>
+    <description>Ukagaka Ghost Development Support Tool</description>
+    <category>tool</category>
+    <dc:creator>ukagaka-irono</dc:creator>
+    <guid isPermaLink="false">ukagaka-irono/ukagaka-studio</guid>
+    <pubDate>Mon, 02 Nov 2026 01:19:17 +0900</pubDate>
 </item>
 <item>
     <title>ayayatter</title>
