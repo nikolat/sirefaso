@@ -12,7 +12,16 @@
     <category>tool</category>
     <dc:creator>ukagaka-irono</dc:creator>
     <guid isPermaLink="false">ukagaka-irono/tama-v6</guid>
-    <pubDate>Tue, 03 Nov 2026 11:33:38 +0900</pubDate>
+    <pubDate>Wed, 04 Nov 2026 00:41:27 +0900</pubDate>
+</item>
+<item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Tue, 03 Nov 2026 23:23:43 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
@@ -31,15 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
     <pubDate>Tue, 03 Nov 2026 10:59:40 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Tue, 03 Nov 2026 09:55:55 +0900</pubDate>
 </item>
 <item>
     <title>shiories</title>
