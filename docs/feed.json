@@ -6,6 +6,28 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "Tatakinov/ninixw",
+            "url": "https://github.com/Tatakinov/ninixw",
+            "title": "ninixw",
+            "content_text": "",
+            "summary": "An ukagaka baseware inspired by ninix-kagari",
+            "date_published": "2026-10-21T12:38:54Z",
+            "date_modified": "2026-11-04T13:24:56Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
+            ]
+        },
+        {
             "id": "ukagaka-irono/tama-v6",
             "url": "https://github.com/ukagaka-irono/tama-v6",
             "title": "tama-v6",
@@ -24,28 +46,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "Tatakinov/ninixw",
-            "url": "https://github.com/Tatakinov/ninixw",
-            "title": "ninixw",
-            "content_text": "",
-            "summary": "An ukagaka baseware inspired by ninix-kagari",
-            "date_published": "2026-10-21T12:38:54Z",
-            "date_modified": "2026-11-03T14:23:43Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
             ]
         },
         {
