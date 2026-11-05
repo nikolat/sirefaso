@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Thu, 05 Nov 2026 22:26:50 +0900</pubDate>
+</item>
+<item>
+    <title>knowledgeable_kernel</title>
+    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
+    <pubDate>Thu, 05 Nov 2026 21:58:15 +0900</pubDate>
+</item>
+<item>
     <title>sakura-restore</title>
     <link>https://github.com/JiayuYangX/sakura-restore</link>
     <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
@@ -31,15 +49,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
     <pubDate>Thu, 05 Nov 2026 15:53:56 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Wed, 04 Nov 2026 22:24:56 +0900</pubDate>
 </item>
 <item>
     <title>tama-v6</title>
@@ -526,15 +535,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/csaori</guid>
     <pubDate>Thu, 03 Sep 2026 10:06:41 +0900</pubDate>
-</item>
-<item>
-    <title>knowledgeable_kernel</title>
-    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
-    <pubDate>Sun, 30 Aug 2026 22:53:04 +0900</pubDate>
 </item>
 <item>
     <title>WeatherTimeCapsule</title>

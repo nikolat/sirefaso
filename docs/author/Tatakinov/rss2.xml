@@ -12,7 +12,16 @@
     <category>baseware</category>
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Wed, 04 Nov 2026 22:24:56 +0900</pubDate>
+    <pubDate>Thu, 05 Nov 2026 22:26:50 +0900</pubDate>
+</item>
+<item>
+    <title>knowledgeable_kernel</title>
+    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
+    <description></description>
+    <category>ghost</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
+    <pubDate>Thu, 05 Nov 2026 21:58:15 +0900</pubDate>
 </item>
 <item>
     <title>ninix-kagari</title>
@@ -22,15 +31,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/ninix-kagari</guid>
     <pubDate>Tue, 27 Oct 2026 21:26:42 +0900</pubDate>
-</item>
-<item>
-    <title>knowledgeable_kernel</title>
-    <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
-    <description></description>
-    <category>ghost</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
-    <pubDate>Sun, 30 Aug 2026 22:53:04 +0900</pubDate>
 </item>
 <item>
     <title>balloon_terminal</title>
