@@ -6,13 +6,58 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Fri, 06 Nov 2026 15:12:37 +0900</pubDate>
+</item>
+<item>
+    <title>kawari-docs</title>
+    <link>https://github.com/ukatech/kawari-docs</link>
+    <description>華和梨9仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari-docs</guid>
+    <pubDate>Fri, 06 Nov 2026 14:58:07 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-ssp</title>
+    <link>https://github.com/ukatech/ukadoc-ssp</link>
+    <description>SSP Help</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
+    <pubDate>Fri, 06 Nov 2026 14:58:04 +0900</pubDate>
+</item>
+<item>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description>里々仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Fri, 06 Nov 2026 14:58:00 +0900</pubDate>
+</item>
+<item>
     <title>yaya-docs</title>
     <link>https://github.com/YAYA-shiori/yaya-docs</link>
     <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
     <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 08:03:03 +0900</pubDate>
+    <pubDate>Fri, 06 Nov 2026 14:57:57 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Fri, 06 Nov 2026 14:56:02 +0900</pubDate>
 </item>
 <item>
     <title>yaya-shiori</title>
@@ -42,15 +87,6 @@
     <pubDate>Thu, 05 Nov 2026 21:58:15 +0900</pubDate>
 </item>
 <item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Thu, 05 Nov 2026 18:56:08 +0900</pubDate>
-</item>
-<item>
     <title>tama-v6</title>
     <link>https://github.com/ukagaka-irono/tama-v6</link>
     <description>Tama - YAYAv6 Console</description>
@@ -67,15 +103,6 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
     <pubDate>Tue, 03 Nov 2026 11:24:25 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Tue, 03 Nov 2026 10:59:40 +0900</pubDate>
 </item>
 <item>
     <title>shiories</title>
@@ -168,15 +195,6 @@
     <pubDate>Sun, 01 Nov 2026 21:42:54 +0900</pubDate>
 </item>
 <item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description>里々仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Sun, 01 Nov 2026 20:15:29 +0900</pubDate>
-</item>
-<item>
     <title>satoriya-shiori</title>
     <link>https://github.com/ukatech/satoriya-shiori</link>
     <description>Yet Another SATORI</description>
@@ -211,15 +229,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 29 Oct 2026 15:25:26 +0900</pubDate>
-</item>
-<item>
-    <title>kawari-docs</title>
-    <link>https://github.com/ukatech/kawari-docs</link>
-    <description>華和梨9仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Wed, 28 Oct 2026 20:39:39 +0900</pubDate>
 </item>
 <item>
     <title>ninix-kagari</title>
@@ -274,15 +283,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/POST_and_KOMAINU_V2</guid>
     <pubDate>Mon, 26 Oct 2026 10:32:42 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-ssp</title>
-    <link>https://github.com/ukatech/ukadoc-ssp</link>
-    <description>SSP Help</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Sun, 25 Oct 2026 21:21:54 +0900</pubDate>
 </item>
 <item>
     <title>ayalilith</title>

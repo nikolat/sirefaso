@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/ghost/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Fri, 06 Nov 2026 15:12:37 +0900</pubDate>
+</item>
+<item>
     <title>knowledgeable_kernel</title>
     <link>https://github.com/Tatakinov/knowledgeable_kernel</link>
     <description></description>
@@ -13,15 +22,6 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
     <pubDate>Thu, 05 Nov 2026 21:58:15 +0900</pubDate>
-</item>
-<item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Thu, 05 Nov 2026 18:56:08 +0900</pubDate>
 </item>
 <item>
     <title>shiories</title>
