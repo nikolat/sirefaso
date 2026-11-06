@@ -6,22 +6,22 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>sakura-restore</title>
-    <link>https://github.com/JiayuYangX/sakura-restore</link>
-    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
-    <category>ghost</category>
-    <dc:creator>JiayuYangX</dc:creator>
-    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
-    <pubDate>Fri, 06 Nov 2026 15:12:37 +0900</pubDate>
+    <title>Utatane</title>
+    <link>https://github.com/opera7133/Utatane</link>
+    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
+    <category>baseware</category>
+    <dc:creator>opera7133</dc:creator>
+    <guid isPermaLink="false">opera7133/Utatane</guid>
+    <pubDate>Fri, 06 Nov 2026 22:27:57 +0900</pubDate>
 </item>
 <item>
-    <title>kawari-docs</title>
-    <link>https://github.com/ukatech/kawari-docs</link>
-    <description>華和梨9仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 14:58:07 +0900</pubDate>
+    <title>ninix-kagari</title>
+    <link>https://github.com/Tatakinov/ninix-kagari</link>
+    <description>A fork of ninix-aya</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninix-kagari</guid>
+    <pubDate>Fri, 06 Nov 2026 22:07:46 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
@@ -30,16 +30,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Fri, 06 Nov 2026 14:58:04 +0900</pubDate>
-</item>
-<item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description>里々仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 14:58:00 +0900</pubDate>
+    <pubDate>Fri, 06 Nov 2026 16:28:02 +0900</pubDate>
 </item>
 <item>
     <title>yaya-docs</title>
@@ -48,7 +39,34 @@
     <category>spec</category>
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 14:57:57 +0900</pubDate>
+    <pubDate>Fri, 06 Nov 2026 16:27:59 +0900</pubDate>
+</item>
+<item>
+    <title>kawari-docs</title>
+    <link>https://github.com/ukatech/kawari-docs</link>
+    <description>華和梨9仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari-docs</guid>
+    <pubDate>Fri, 06 Nov 2026 16:27:56 +0900</pubDate>
+</item>
+<item>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description>里々仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Fri, 06 Nov 2026 16:27:54 +0900</pubDate>
+</item>
+<item>
+    <title>sakura-restore</title>
+    <link>https://github.com/JiayuYangX/sakura-restore</link>
+    <description>伪春菜原基础软件 MATERIA 的内置人格 さくら（樱）逆向汉化</description>
+    <category>ghost</category>
+    <dc:creator>JiayuYangX</dc:creator>
+    <guid isPermaLink="false">JiayuYangX/sakura-restore</guid>
+    <pubDate>Fri, 06 Nov 2026 15:12:37 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-spec</title>
@@ -94,15 +112,6 @@
     <dc:creator>ukagaka-irono</dc:creator>
     <guid isPermaLink="false">ukagaka-irono/tama-v6</guid>
     <pubDate>Wed, 04 Nov 2026 00:41:27 +0900</pubDate>
-</item>
-<item>
-    <title>Utatane</title>
-    <link>https://github.com/opera7133/Utatane</link>
-    <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
-    <category>baseware</category>
-    <dc:creator>opera7133</dc:creator>
-    <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Tue, 03 Nov 2026 11:24:25 +0900</pubDate>
 </item>
 <item>
     <title>shiories</title>
@@ -229,15 +238,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-dic</guid>
     <pubDate>Thu, 29 Oct 2026 15:25:26 +0900</pubDate>
-</item>
-<item>
-    <title>ninix-kagari</title>
-    <link>https://github.com/Tatakinov/ninix-kagari</link>
-    <description>A fork of ninix-aya</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninix-kagari</guid>
-    <pubDate>Tue, 27 Oct 2026 21:26:42 +0900</pubDate>
 </item>
 <item>
     <title>LilyNovelPlayer</title>
