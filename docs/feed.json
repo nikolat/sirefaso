@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "Ukagaka Spec Repo",
             "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-11-08T01:50:06Z",
+            "date_modified": "2026-11-08T09:18:13Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -24,6 +24,156 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-ssp",
+            "url": "https://github.com/ukatech/ukadoc-ssp",
+            "title": "ukadoc-ssp",
+            "content_text": "",
+            "summary": "SSP Help",
+            "date_published": "2026-10-24T09:52:12Z",
+            "date_modified": "2026-11-08T05:46:33Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/kawari-docs",
+            "url": "https://github.com/ukatech/kawari-docs",
+            "title": "kawari-docs",
+            "content_text": "",
+            "summary": "華和梨9仕様書",
+            "date_published": "2026-10-24T16:44:50Z",
+            "date_modified": "2026-11-08T05:46:30Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
+            "content_text": "",
+            "summary": "里々仕様書",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-11-08T05:46:28Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "YAYA-shiori/yaya-docs",
+            "url": "https://github.com/YAYA-shiori/yaya-docs",
+            "title": "yaya-docs",
+            "content_text": "",
+            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
+            "date_published": "2026-03-05T20:04:35Z",
+            "date_modified": "2026-11-08T05:46:25Z",
+            "authors": [
+                {
+                    "name": "YAYA-shiori",
+                    "url": "https://github.com/YAYA-shiori",
+                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "tukinami/taidanaSanoSan",
+            "url": "https://github.com/tukinami/taidanaSanoSan",
+            "title": "taidanaSanoSan",
+            "content_text": "",
+            "summary": "伺か雑談系ゴースト",
+            "date_published": "2022-12-11T11:13:37Z",
+            "date_modified": "2026-11-08T05:05:50Z",
+            "authors": [
+                {
+                    "name": "tukinami",
+                    "url": "https://github.com/tukinami",
+                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
+            "id": "Tatakinov/ninixw",
+            "url": "https://github.com/Tatakinov/ninixw",
+            "title": "ninixw",
+            "content_text": "",
+            "summary": "An ukagaka baseware inspired by ninix-kagari",
+            "date_published": "2026-10-21T12:38:54Z",
+            "date_modified": "2026-11-08T04:40:17Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
+            ]
+        },
+        {
+            "id": "Tatakinov/ninix-kagari",
+            "url": "https://github.com/Tatakinov/ninix-kagari",
+            "title": "ninix-kagari",
+            "content_text": "",
+            "summary": "A fork of ninix-aya",
+            "date_published": "2024-02-01T12:35:02Z",
+            "date_modified": "2026-11-08T04:36:54Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
             ]
         },
         {
@@ -50,28 +200,6 @@
             ]
         },
         {
-            "id": "Tatakinov/ninixw",
-            "url": "https://github.com/Tatakinov/ninixw",
-            "title": "ninixw",
-            "content_text": "",
-            "summary": "An ukagaka baseware inspired by ninix-kagari",
-            "date_published": "2026-10-21T12:38:54Z",
-            "date_modified": "2026-11-07T15:10:12Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
-            ]
-        },
-        {
             "id": "opera7133/Utatane",
             "url": "https://github.com/opera7133/Utatane",
             "title": "Utatane",
@@ -91,112 +219,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-baseware"
-            ]
-        },
-        {
-            "id": "Tatakinov/ninix-kagari",
-            "url": "https://github.com/Tatakinov/ninix-kagari",
-            "title": "ninix-kagari",
-            "content_text": "",
-            "summary": "A fork of ninix-aya",
-            "date_published": "2024-02-01T12:35:02Z",
-            "date_modified": "2026-11-06T13:07:46Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc-ssp",
-            "url": "https://github.com/ukatech/ukadoc-ssp",
-            "title": "ukadoc-ssp",
-            "content_text": "",
-            "summary": "SSP Help",
-            "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-11-06T07:28:02Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "YAYA-shiori/yaya-docs",
-            "url": "https://github.com/YAYA-shiori/yaya-docs",
-            "title": "yaya-docs",
-            "content_text": "",
-            "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
-            "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-11-06T07:27:59Z",
-            "authors": [
-                {
-                    "name": "YAYA-shiori",
-                    "url": "https://github.com/YAYA-shiori",
-                    "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/kawari-docs",
-            "url": "https://github.com/ukatech/kawari-docs",
-            "title": "kawari-docs",
-            "content_text": "",
-            "summary": "華和梨9仕様書",
-            "date_published": "2026-10-24T16:44:50Z",
-            "date_modified": "2026-11-06T07:27:56Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
-            "content_text": "",
-            "summary": "里々仕様書",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-11-06T07:27:54Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
@@ -845,28 +867,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "tukinami/taidanaSanoSan",
-            "url": "https://github.com/tukinami/taidanaSanoSan",
-            "title": "taidanaSanoSan",
-            "content_text": "",
-            "summary": "伺か雑談系ゴースト",
-            "date_published": "2022-12-11T11:13:37Z",
-            "date_modified": "2026-10-25T03:41:31Z",
-            "authors": [
-                {
-                    "name": "tukinami",
-                    "url": "https://github.com/tukinami",
-                    "avatar": "https://avatars.githubusercontent.com/u/48230779?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
             ]
         },
         {

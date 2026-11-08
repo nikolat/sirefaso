@@ -12,7 +12,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 08 Nov 2026 10:50:06 +0900</pubDate>
+    <pubDate>Sun, 08 Nov 2026 18:18:13 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
@@ -21,16 +21,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Fri, 06 Nov 2026 16:28:02 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 16:27:59 +0900</pubDate>
+    <pubDate>Sun, 08 Nov 2026 14:46:33 +0900</pubDate>
 </item>
 <item>
     <title>kawari-docs</title>
@@ -39,7 +30,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 16:27:56 +0900</pubDate>
+    <pubDate>Sun, 08 Nov 2026 14:46:30 +0900</pubDate>
 </item>
 <item>
     <title>satori-docs</title>
@@ -48,7 +39,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Fri, 06 Nov 2026 16:27:54 +0900</pubDate>
+    <pubDate>Sun, 08 Nov 2026 14:46:28 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Sun, 08 Nov 2026 14:46:25 +0900</pubDate>
 </item>
 </channel>
 </rss>
