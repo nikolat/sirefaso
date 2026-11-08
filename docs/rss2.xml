@@ -12,7 +12,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 08 Nov 2026 04:46:50 +0900</pubDate>
+    <pubDate>Sun, 08 Nov 2026 10:50:06 +0900</pubDate>
+</item>
+<item>
+    <title>ukagaka-simultaneous-interpreter</title>
+    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
+    <description>Simultaneous Interpreter Ghost</description>
+    <category>ghost</category>
+    <dc:creator>nikolat</dc:creator>
+    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
+    <pubDate>Sun, 08 Nov 2026 09:21:58 +0900</pubDate>
 </item>
 <item>
     <title>ninixw</title>
@@ -697,15 +706,6 @@
     <dc:creator>lost-nd-xxx</dc:creator>
     <guid isPermaLink="false">lost-nd-xxx/perpetual_whisper</guid>
     <pubDate>Tue, 17 Mar 2026 17:02:05 +0900</pubDate>
-</item>
-<item>
-    <title>ukagaka-simultaneous-interpreter</title>
-    <link>https://github.com/nikolat/ukagaka-simultaneous-interpreter</link>
-    <description>Simultaneous Interpreter Ghost</description>
-    <category>ghost</category>
-    <dc:creator>nikolat</dc:creator>
-    <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
-    <pubDate>Wed, 28 Jan 2026 15:31:15 +0900</pubDate>
 </item>
 <item>
     <title>countdown_to_the_end</title>
