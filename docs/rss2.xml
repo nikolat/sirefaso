@@ -12,7 +12,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Mon, 09 Nov 2026 17:16:57 +0900</pubDate>
+    <pubDate>Tue, 10 Nov 2026 02:01:26 +0900</pubDate>
+</item>
+<item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Mon, 09 Nov 2026 22:33:29 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
@@ -21,7 +30,16 @@
     <category>baseware</category>
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
-    <pubDate>Sun, 08 Nov 2026 21:47:36 +0900</pubDate>
+    <pubDate>Mon, 09 Nov 2026 21:17:47 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-docs</title>
+    <link>https://github.com/YAYA-shiori/yaya-docs</link>
+    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
+    <category>spec</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
+    <pubDate>Mon, 09 Nov 2026 20:40:53 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
@@ -30,7 +48,7 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Sun, 08 Nov 2026 14:46:33 +0900</pubDate>
+    <pubDate>Mon, 09 Nov 2026 18:02:00 +0900</pubDate>
 </item>
 <item>
     <title>kawari-docs</title>
@@ -51,15 +69,6 @@
     <pubDate>Sun, 08 Nov 2026 14:46:28 +0900</pubDate>
 </item>
 <item>
-    <title>yaya-docs</title>
-    <link>https://github.com/YAYA-shiori/yaya-docs</link>
-    <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
-    <category>spec</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
-    <pubDate>Sun, 08 Nov 2026 14:46:25 +0900</pubDate>
-</item>
-<item>
     <title>taidanaSanoSan</title>
     <link>https://github.com/tukinami/taidanaSanoSan</link>
     <description>伺か雑談系ゴースト</description>
@@ -67,15 +76,6 @@
     <dc:creator>tukinami</dc:creator>
     <guid isPermaLink="false">tukinami/taidanaSanoSan</guid>
     <pubDate>Sun, 08 Nov 2026 14:05:50 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sun, 08 Nov 2026 13:40:17 +0900</pubDate>
 </item>
 <item>
     <title>ninix-kagari</title>
@@ -121,6 +121,15 @@
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/knowledgeable_kernel</guid>
     <pubDate>Thu, 05 Nov 2026 21:58:15 +0900</pubDate>
+</item>
+<item>
+    <title>pono-droid</title>
+    <link>https://github.com/ukagaka-irono/pono-droid</link>
+    <description>Ukagaka for Android</description>
+    <category>baseware</category>
+    <dc:creator>ukagaka-irono</dc:creator>
+    <guid isPermaLink="false">ukagaka-irono/pono-droid</guid>
+    <pubDate>Thu, 05 Nov 2026 10:40:44 +0900</pubDate>
 </item>
 <item>
     <title>tama-v6</title>
@@ -202,15 +211,6 @@
     <dc:creator>ukagaka-irono</dc:creator>
     <guid isPermaLink="false">ukagaka-irono/ukagaka-studio</guid>
     <pubDate>Mon, 02 Nov 2026 01:19:17 +0900</pubDate>
-</item>
-<item>
-    <title>pono-droid</title>
-    <link>https://github.com/ukagaka-irono/pono-droid</link>
-    <description>Ukagaka for Android</description>
-    <category>baseware</category>
-    <dc:creator>ukagaka-irono</dc:creator>
-    <guid isPermaLink="false">ukagaka-irono/pono-droid</guid>
-    <pubDate>Thu, 05 Nov 2026 10:40:44 +0900</pubDate>
 </item>
 <item>
     <title>Engawa</title>
