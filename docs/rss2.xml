@@ -6,6 +6,15 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Mon, 09 Nov 2026 09:18:59 +0900</pubDate>
+</item>
+<item>
     <title>Utatane</title>
     <link>https://github.com/opera7133/Utatane</link>
     <description>macOS向け伺か互換ベースウェア / Ukagaka-compatible base software for macOS</description>
@@ -13,15 +22,6 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
     <pubDate>Sun, 08 Nov 2026 21:47:36 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Sun, 08 Nov 2026 18:18:13 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-ssp</title>
