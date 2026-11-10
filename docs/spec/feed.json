@@ -6,34 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/ukadoc-spec",
-            "url": "https://github.com/ukatech/ukadoc-spec",
-            "title": "ukadoc-spec",
-            "content_text": "",
-            "summary": "Ukagaka Spec Repo",
-            "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-11-10T01:50:31Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
             "id": "YAYA-shiori/yaya-docs",
             "url": "https://github.com/YAYA-shiori/yaya-docs",
             "title": "yaya-docs",
             "content_text": "",
             "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
             "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-11-09T11:40:53Z",
+            "date_modified": "2026-11-10T03:35:54Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -54,7 +33,28 @@
             "content_text": "",
             "summary": "SSP Help",
             "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-11-09T09:02:00Z",
+            "date_modified": "2026-11-10T03:25:45Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
+            "content_text": "",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-11-10T01:50:31Z",
             "authors": [
                 {
                     "name": "ukatech",
