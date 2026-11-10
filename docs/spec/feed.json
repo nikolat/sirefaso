@@ -6,13 +6,34 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/satori-docs",
+            "url": "https://github.com/ukatech/satori-docs",
+            "title": "satori-docs",
+            "content_text": "",
+            "summary": "里々仕様書",
+            "date_published": "2026-09-29T04:41:45Z",
+            "date_modified": "2026-11-10T23:34:34Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "YAYA-shiori/yaya-docs",
             "url": "https://github.com/YAYA-shiori/yaya-docs",
             "title": "yaya-docs",
             "content_text": "",
             "summary": "Markdown形式のYAYAドキュメント（現在こちらが最新）",
             "date_published": "2026-03-05T20:04:35Z",
-            "date_modified": "2026-11-10T03:35:54Z",
+            "date_modified": "2026-11-10T21:29:40Z",
             "authors": [
                 {
                     "name": "YAYA-shiori",
@@ -33,7 +54,7 @@
             "content_text": "",
             "summary": "SSP Help",
             "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-11-10T03:25:45Z",
+            "date_modified": "2026-11-10T21:29:38Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -54,7 +75,7 @@
             "content_text": "",
             "summary": "Ukagaka Spec Repo",
             "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-11-10T01:50:31Z",
+            "date_modified": "2026-11-10T21:29:36Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -76,27 +97,6 @@
             "summary": "華和梨9仕様書",
             "date_published": "2026-10-24T16:44:50Z",
             "date_modified": "2026-11-08T05:46:30Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/satori-docs",
-            "url": "https://github.com/ukatech/satori-docs",
-            "title": "satori-docs",
-            "content_text": "",
-            "summary": "里々仕様書",
-            "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-11-08T05:46:28Z",
             "authors": [
                 {
                     "name": "ukatech",
