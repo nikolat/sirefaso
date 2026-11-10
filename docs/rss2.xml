@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>toritoritori</title>
+    <link>https://github.com/Shimofumi/toritoritori</link>
+    <description>伺かゴースト「とり、籠に入りやしない」</description>
+    <category>ghost</category>
+    <dc:creator>Shimofumi</dc:creator>
+    <guid isPermaLink="false">Shimofumi/toritoritori</guid>
+    <pubDate>Tue, 10 Nov 2026 22:25:13 +0900</pubDate>
+</item>
+<item>
+    <title>ninixw</title>
+    <link>https://github.com/Tatakinov/ninixw</link>
+    <description>An ukagaka baseware inspired by ninix-kagari</description>
+    <category>baseware</category>
+    <dc:creator>Tatakinov</dc:creator>
+    <guid isPermaLink="false">Tatakinov/ninixw</guid>
+    <pubDate>Tue, 10 Nov 2026 21:55:59 +0900</pubDate>
+</item>
+<item>
     <title>yaya-docs</title>
     <link>https://github.com/YAYA-shiori/yaya-docs</link>
     <description>Markdown形式のYAYAドキュメント（現在こちらが最新）</description>
@@ -31,15 +49,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
     <pubDate>Tue, 10 Nov 2026 10:50:31 +0900</pubDate>
-</item>
-<item>
-    <title>ninixw</title>
-    <link>https://github.com/Tatakinov/ninixw</link>
-    <description>An ukagaka baseware inspired by ninix-kagari</description>
-    <category>baseware</category>
-    <dc:creator>Tatakinov</dc:creator>
-    <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Mon, 09 Nov 2026 22:33:29 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
