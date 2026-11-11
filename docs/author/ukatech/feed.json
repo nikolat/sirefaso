@@ -6,13 +6,34 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/kawari-docs",
+            "url": "https://github.com/ukatech/kawari-docs",
+            "title": "kawari-docs",
+            "content_text": "",
+            "summary": "華和梨9仕様書",
+            "date_published": "2026-10-24T16:44:50Z",
+            "date_modified": "2026-11-11T04:28:52Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
             "id": "ukatech/satori-docs",
             "url": "https://github.com/ukatech/satori-docs",
             "title": "satori-docs",
             "content_text": "",
             "summary": "里々仕様書",
             "date_published": "2026-09-29T04:41:45Z",
-            "date_modified": "2026-11-10T23:34:34Z",
+            "date_modified": "2026-11-10T23:59:25Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -55,27 +76,6 @@
             "summary": "Ukagaka Spec Repo",
             "date_published": "2026-10-24T07:24:02Z",
             "date_modified": "2026-11-10T21:29:36Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/kawari-docs",
-            "url": "https://github.com/ukatech/kawari-docs",
-            "title": "kawari-docs",
-            "content_text": "",
-            "summary": "華和梨9仕様書",
-            "date_published": "2026-10-24T16:44:50Z",
-            "date_modified": "2026-11-08T05:46:30Z",
             "authors": [
                 {
                     "name": "ukatech",
