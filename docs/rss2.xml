@@ -12,7 +12,16 @@
     <category>baseware</category>
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sat, 14 Nov 2026 00:43:20 +0900</pubDate>
+    <pubDate>Sat, 14 Nov 2026 14:06:40 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Sat, 14 Nov 2026 14:03:36 +0900</pubDate>
 </item>
 <item>
     <title>Utatane</title>
@@ -22,15 +31,6 @@
     <dc:creator>opera7133</dc:creator>
     <guid isPermaLink="false">opera7133/Utatane</guid>
     <pubDate>Fri, 13 Nov 2026 15:44:46 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Fri, 13 Nov 2026 13:01:07 +0900</pubDate>
 </item>
 <item>
     <title>sakura-restore</title>
@@ -156,7 +156,7 @@
     <category>baseware</category>
     <dc:creator>ukagaka-irono</dc:creator>
     <guid isPermaLink="false">ukagaka-irono/pono-droid</guid>
-    <pubDate>Thu, 05 Nov 2026 10:40:44 +0900</pubDate>
+    <pubDate>Sat, 14 Nov 2026 14:26:04 +0900</pubDate>
 </item>
 <item>
     <title>tama-v6</title>
