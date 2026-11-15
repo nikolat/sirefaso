@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ukatech/kawari",
-            "url": "https://github.com/ukatech/kawari",
-            "title": "kawari",
+            "id": "ukatech/satoriya-shiori",
+            "url": "https://github.com/ukatech/satoriya-shiori",
+            "title": "satoriya-shiori",
             "content_text": "",
-            "summary": "pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol",
-            "date_published": "2026-10-17T10:25:31Z",
-            "date_modified": "2026-11-15T02:11:49Z",
+            "summary": "Yet Another SATORI",
+            "date_published": "2015-05-12T01:11:04Z",
+            "date_modified": "2026-11-15T19:19:16Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -27,13 +27,34 @@
             ]
         },
         {
-            "id": "ukatech/satoriya-shiori",
-            "url": "https://github.com/ukatech/satoriya-shiori",
-            "title": "satoriya-shiori",
+            "id": "ukatech/kawari-docs",
+            "url": "https://github.com/ukatech/kawari-docs",
+            "title": "kawari-docs",
             "content_text": "",
-            "summary": "Yet Another SATORI",
-            "date_published": "2015-05-12T01:11:04Z",
-            "date_modified": "2026-11-15T01:31:24Z",
+            "summary": "華和梨9仕様書",
+            "date_published": "2026-10-24T16:44:50Z",
+            "date_modified": "2026-11-15T19:01:08Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/kawari",
+            "url": "https://github.com/ukatech/kawari",
+            "title": "kawari",
+            "content_text": "",
+            "summary": "pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol",
+            "date_published": "2026-10-17T10:25:31Z",
+            "date_modified": "2026-11-15T19:00:27Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -76,27 +97,6 @@
             "summary": "SSP Help",
             "date_published": "2026-10-24T09:52:12Z",
             "date_modified": "2026-11-11T22:58:21Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
-            ]
-        },
-        {
-            "id": "ukatech/kawari-docs",
-            "url": "https://github.com/ukatech/kawari-docs",
-            "title": "kawari-docs",
-            "content_text": "",
-            "summary": "華和梨9仕様書",
-            "date_published": "2026-10-24T16:44:50Z",
-            "date_modified": "2026-11-11T04:28:52Z",
             "authors": [
                 {
                     "name": "ukatech",
