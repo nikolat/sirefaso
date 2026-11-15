@@ -6,6 +6,24 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>kawari</title>
+    <link>https://github.com/ukatech/kawari</link>
+    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari</guid>
+    <pubDate>Sun, 15 Nov 2026 11:11:49 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sun, 15 Nov 2026 10:31:24 +0900</pubDate>
+</item>
+<item>
     <title>ukadoc-spec</title>
     <link>https://github.com/ukatech/ukadoc-spec</link>
     <description>Ukagaka Spec Repo</description>
@@ -22,24 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
     <pubDate>Thu, 12 Nov 2026 07:58:21 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 15 Nov 2026 10:31:24 +0900</pubDate>
-</item>
-<item>
-    <title>kawari</title>
-    <link>https://github.com/ukatech/kawari</link>
-    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari</guid>
-    <pubDate>Sun, 15 Nov 2026 10:45:36 +0900</pubDate>
 </item>
 <item>
     <title>kawari-docs</title>

@@ -12,7 +12,34 @@
     <category>baseware</category>
     <dc:creator>Tatakinov</dc:creator>
     <guid isPermaLink="false">Tatakinov/ninixw</guid>
-    <pubDate>Sat, 14 Nov 2026 14:06:40 +0900</pubDate>
+    <pubDate>Sun, 15 Nov 2026 16:18:16 +0900</pubDate>
+</item>
+<item>
+    <title>kawari</title>
+    <link>https://github.com/ukatech/kawari</link>
+    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari</guid>
+    <pubDate>Sun, 15 Nov 2026 11:11:49 +0900</pubDate>
+</item>
+<item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Sun, 15 Nov 2026 10:31:24 +0900</pubDate>
+</item>
+<item>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
+    <category>shiori</category>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Sun, 15 Nov 2026 10:22:13 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-spec</title>
@@ -58,24 +85,6 @@
     <dc:creator>YAYA-shiori</dc:creator>
     <guid isPermaLink="false">YAYA-shiori/yaya-docs</guid>
     <pubDate>Thu, 12 Nov 2026 07:58:18 +0900</pubDate>
-</item>
-<item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Sun, 15 Nov 2026 10:31:24 +0900</pubDate>
-</item>
-<item>
-    <title>kawari</title>
-    <link>https://github.com/ukatech/kawari</link>
-    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari</guid>
-    <pubDate>Sun, 15 Nov 2026 10:45:36 +0900</pubDate>
 </item>
 <item>
     <title>kawari-docs</title>
@@ -130,15 +139,6 @@
     <dc:creator>nikolat</dc:creator>
     <guid isPermaLink="false">nikolat/ukagaka-simultaneous-interpreter</guid>
     <pubDate>Sun, 08 Nov 2026 09:21:58 +0900</pubDate>
-</item>
-<item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
-    <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Sun, 15 Nov 2026 10:22:13 +0900</pubDate>
 </item>
 <item>
     <title>knowledgeable_kernel</title>
