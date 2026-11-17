@@ -6,13 +6,13 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/shiori/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
-    <title>kawari</title>
-    <link>https://github.com/ukatech/kawari</link>
-    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
+    <title>yaya-shiori</title>
+    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
+    <description>Yet Another AYA</description>
     <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/kawari</guid>
-    <pubDate>Mon, 16 Nov 2026 12:26:48 +0900</pubDate>
+    <dc:creator>YAYA-shiori</dc:creator>
+    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
+    <pubDate>Tue, 17 Nov 2026 11:03:07 +0900</pubDate>
 </item>
 <item>
     <title>satoriya-shiori</title>
@@ -21,16 +21,16 @@
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Mon, 16 Nov 2026 04:19:16 +0900</pubDate>
+    <pubDate>Tue, 17 Nov 2026 10:58:55 +0900</pubDate>
 </item>
 <item>
-    <title>yaya-shiori</title>
-    <link>https://github.com/YAYA-shiori/yaya-shiori</link>
-    <description>Yet Another AYA</description>
+    <title>kawari</title>
+    <link>https://github.com/ukatech/kawari</link>
+    <description>pseudo AI module for SHIORI/2.x or SHIORI/3.0 protcol</description>
     <category>shiori</category>
-    <dc:creator>YAYA-shiori</dc:creator>
-    <guid isPermaLink="false">YAYA-shiori/yaya-shiori</guid>
-    <pubDate>Mon, 16 Nov 2026 03:37:12 +0900</pubDate>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/kawari</guid>
+    <pubDate>Tue, 17 Nov 2026 08:27:59 +0900</pubDate>
 </item>
 <item>
     <title>nashi-shiori-studio-2</title>

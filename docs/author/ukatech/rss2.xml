@@ -6,13 +6,31 @@
 <description>GitHubで公開されている伺か関連アプリの更新情報を一覧表示する</description>
 <atom:link href="https://nikolat.github.io/sirefaso/author/ukatech/rss2.xml" rel="self" type="application/rss+xml" />
 <item>
+    <title>satoriya-shiori</title>
+    <link>https://github.com/ukatech/satoriya-shiori</link>
+    <description>Yet Another SATORI</description>
+    <category>shiori</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
+    <pubDate>Tue, 17 Nov 2026 10:58:55 +0900</pubDate>
+</item>
+<item>
+    <title>satori-docs</title>
+    <link>https://github.com/ukatech/satori-docs</link>
+    <description>里々仕様書</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/satori-docs</guid>
+    <pubDate>Tue, 17 Nov 2026 10:38:48 +0900</pubDate>
+</item>
+<item>
     <title>kawari-docs</title>
     <link>https://github.com/ukatech/kawari-docs</link>
     <description>華和梨9仕様書</description>
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/kawari-docs</guid>
-    <pubDate>Mon, 16 Nov 2026 12:37:56 +0900</pubDate>
+    <pubDate>Tue, 17 Nov 2026 08:28:02 +0900</pubDate>
 </item>
 <item>
     <title>kawari</title>
@@ -21,7 +39,7 @@
     <category>shiori</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/kawari</guid>
-    <pubDate>Mon, 16 Nov 2026 12:26:48 +0900</pubDate>
+    <pubDate>Tue, 17 Nov 2026 08:27:59 +0900</pubDate>
 </item>
 <item>
     <title>ukadoc-spec</title>
@@ -33,15 +51,6 @@
     <pubDate>Mon, 16 Nov 2026 10:44:12 +0900</pubDate>
 </item>
 <item>
-    <title>satoriya-shiori</title>
-    <link>https://github.com/ukatech/satoriya-shiori</link>
-    <description>Yet Another SATORI</description>
-    <category>shiori</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satoriya-shiori</guid>
-    <pubDate>Mon, 16 Nov 2026 04:19:16 +0900</pubDate>
-</item>
-<item>
     <title>ukadoc-ssp</title>
     <link>https://github.com/ukatech/ukadoc-ssp</link>
     <description>SSP Help</description>
@@ -49,15 +58,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
     <pubDate>Thu, 12 Nov 2026 07:58:21 +0900</pubDate>
-</item>
-<item>
-    <title>satori-docs</title>
-    <link>https://github.com/ukatech/satori-docs</link>
-    <description>里々仕様書</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/satori-docs</guid>
-    <pubDate>Wed, 11 Nov 2026 08:59:25 +0900</pubDate>
 </item>
 <item>
     <title>ukagaka-developer</title>
