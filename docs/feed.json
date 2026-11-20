@@ -6,6 +6,49 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
+            "content_text": "",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-11-20T03:24:09Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ponapalt/claudia",
+            "url": "https://github.com/ponapalt/claudia",
+            "title": "claudia",
+            "content_text": "",
+            "summary": "",
+            "date_published": "2026-09-19T08:39:56Z",
+            "date_modified": "2026-11-19T22:54:22Z",
+            "authors": [
+                {
+                    "name": "ponapalt",
+                    "url": "https://github.com/ponapalt",
+                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "sosiremi",
+                "ukagaka",
+                "ukagaka-ghost"
+            ]
+        },
+        {
             "id": "Tatakinov/ninixw",
             "url": "https://github.com/Tatakinov/ninixw",
             "title": "ninixw",
@@ -84,28 +127,6 @@
                     "name": "YAYA-shiori",
                     "url": "https://github.com/YAYA-shiori",
                     "avatar": "https://avatars.githubusercontent.com/u/111350830?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "sosiremi",
-                "ukagaka",
-                "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "ponapalt/claudia",
-            "url": "https://github.com/ponapalt/claudia",
-            "title": "claudia",
-            "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-19T08:39:56Z",
-            "date_modified": "2026-11-18T06:20:21Z",
-            "authors": [
-                {
-                    "name": "ponapalt",
-                    "url": "https://github.com/ponapalt",
-                    "avatar": "https://avatars.githubusercontent.com/u/83973?v=4"
                 }
             ],
             "tags": [
@@ -239,27 +260,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-shiori"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc-spec",
-            "url": "https://github.com/ukatech/ukadoc-spec",
-            "title": "ukadoc-spec",
-            "content_text": "",
-            "summary": "Ukagaka Spec Repo",
-            "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-11-16T01:44:12Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
