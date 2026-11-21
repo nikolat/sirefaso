@@ -6,13 +6,13 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
-            "id": "ponapalt/claudia",
-            "url": "https://github.com/ponapalt/claudia",
-            "title": "claudia",
+            "id": "ponapalt/ponyaduma",
+            "url": "https://github.com/ponapalt/ponyaduma",
+            "title": "ponyaduma",
             "content_text": "",
-            "summary": "",
-            "date_published": "2026-09-19T08:39:56Z",
-            "date_modified": "2026-11-20T06:40:28Z",
+            "summary": "ぽにゃづまなのです。",
+            "date_published": "2016-01-04T21:22:40Z",
+            "date_modified": "2026-11-21T11:21:41Z",
             "authors": [
                 {
                     "name": "ponapalt",
@@ -28,13 +28,13 @@
             ]
         },
         {
-            "id": "ponapalt/ponyaduma",
-            "url": "https://github.com/ponapalt/ponyaduma",
-            "title": "ponyaduma",
+            "id": "ponapalt/claudia",
+            "url": "https://github.com/ponapalt/claudia",
+            "title": "claudia",
             "content_text": "",
-            "summary": "ぽにゃづまなのです。",
-            "date_published": "2016-01-04T21:22:40Z",
-            "date_modified": "2026-09-28T07:18:13Z",
+            "summary": "",
+            "date_published": "2026-09-19T08:39:56Z",
+            "date_modified": "2026-11-21T11:20:04Z",
             "authors": [
                 {
                     "name": "ponapalt",
