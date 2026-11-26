@@ -6,6 +6,48 @@
     "description": "GitHubで公開されている伺か関連アプリの更新情報を一覧表示する",
     "items": [
         {
+            "id": "ukatech/ukadoc-ssp",
+            "url": "https://github.com/ukatech/ukadoc-ssp",
+            "title": "ukadoc-ssp",
+            "content_text": "",
+            "summary": "SSP Help",
+            "date_published": "2026-10-24T09:52:12Z",
+            "date_modified": "2026-11-26T07:36:21Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ssp-i18n",
+            "url": "https://github.com/ukatech/ssp-i18n",
+            "title": "ssp-i18n",
+            "content_text": "",
+            "summary": "ssp language resource",
+            "date_published": "2026-06-04T22:59:58Z",
+            "date_modified": "2026-11-26T07:21:46Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-i18n"
+            ]
+        },
+        {
             "id": "Tatakinov/ninixw",
             "url": "https://github.com/Tatakinov/ninixw",
             "title": "ninixw",
@@ -46,27 +88,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc-ssp",
-            "url": "https://github.com/ukatech/ukadoc-ssp",
-            "title": "ukadoc-ssp",
-            "content_text": "",
-            "summary": "SSP Help",
-            "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-11-25T08:17:34Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {
@@ -976,27 +997,6 @@
                 "sosiremi",
                 "ukagaka",
                 "ukagaka-ghost"
-            ]
-        },
-        {
-            "id": "ukatech/ssp-i18n",
-            "url": "https://github.com/ukatech/ssp-i18n",
-            "title": "ssp-i18n",
-            "content_text": "",
-            "summary": "ssp language resource",
-            "date_published": "2026-06-04T22:59:58Z",
-            "date_modified": "2026-10-20T20:19:13Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-i18n"
             ]
         },
         {
