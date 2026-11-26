@@ -12,7 +12,7 @@
             "content_text": "",
             "summary": "SSP Help",
             "date_published": "2026-10-24T09:52:12Z",
-            "date_modified": "2026-11-26T07:36:21Z",
+            "date_modified": "2026-11-26T17:39:00Z",
             "authors": [
                 {
                     "name": "ukatech",
@@ -24,6 +24,49 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "ukatech/ukadoc-spec",
+            "url": "https://github.com/ukatech/ukadoc-spec",
+            "title": "ukadoc-spec",
+            "content_text": "",
+            "summary": "Ukagaka Spec Repo",
+            "date_published": "2026-10-24T07:24:02Z",
+            "date_modified": "2026-11-26T12:41:12Z",
+            "authors": [
+                {
+                    "name": "ukatech",
+                    "url": "https://github.com/ukatech",
+                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
+                }
+            ],
+            "tags": [
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-spec"
+            ]
+        },
+        {
+            "id": "Tatakinov/ninixw",
+            "url": "https://github.com/Tatakinov/ninixw",
+            "title": "ninixw",
+            "content_text": "",
+            "summary": "An ukagaka baseware inspired by ninix-kagari",
+            "date_published": "2026-10-21T12:38:54Z",
+            "date_modified": "2026-11-26T12:23:34Z",
+            "authors": [
+                {
+                    "name": "Tatakinov",
+                    "url": "https://github.com/Tatakinov",
+                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
+                }
+            ],
+            "tags": [
+                "desktop-pet",
+                "sirefaso",
+                "ukagaka",
+                "ukagaka-baseware"
             ]
         },
         {
@@ -48,28 +91,6 @@
             ]
         },
         {
-            "id": "Tatakinov/ninixw",
-            "url": "https://github.com/Tatakinov/ninixw",
-            "title": "ninixw",
-            "content_text": "",
-            "summary": "An ukagaka baseware inspired by ninix-kagari",
-            "date_published": "2026-10-21T12:38:54Z",
-            "date_modified": "2026-11-25T12:46:11Z",
-            "authors": [
-                {
-                    "name": "Tatakinov",
-                    "url": "https://github.com/Tatakinov",
-                    "avatar": "https://avatars.githubusercontent.com/u/75240817?v=4"
-                }
-            ],
-            "tags": [
-                "desktop-pet",
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-baseware"
-            ]
-        },
-        {
             "id": "ukatech/ukagaka-developer",
             "url": "https://github.com/ukatech/ukagaka-developer",
             "title": "ukagaka-developer",
@@ -88,27 +109,6 @@
                 "sirefaso",
                 "ukagaka",
                 "ukagaka-tool"
-            ]
-        },
-        {
-            "id": "ukatech/ukadoc-spec",
-            "url": "https://github.com/ukatech/ukadoc-spec",
-            "title": "ukadoc-spec",
-            "content_text": "",
-            "summary": "Ukagaka Spec Repo",
-            "date_published": "2026-10-24T07:24:02Z",
-            "date_modified": "2026-11-25T08:17:31Z",
-            "authors": [
-                {
-                    "name": "ukatech",
-                    "url": "https://github.com/ukatech",
-                    "avatar": "https://avatars.githubusercontent.com/u/93071945?v=4"
-                }
-            ],
-            "tags": [
-                "sirefaso",
-                "ukagaka",
-                "ukagaka-spec"
             ]
         },
         {

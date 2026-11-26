@@ -12,7 +12,16 @@
     <category>spec</category>
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukadoc-ssp</guid>
-    <pubDate>Thu, 26 Nov 2026 16:36:21 +0900</pubDate>
+    <pubDate>Fri, 27 Nov 2026 02:39:00 +0900</pubDate>
+</item>
+<item>
+    <title>ukadoc-spec</title>
+    <link>https://github.com/ukatech/ukadoc-spec</link>
+    <description>Ukagaka Spec Repo</description>
+    <category>spec</category>
+    <dc:creator>ukatech</dc:creator>
+    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
+    <pubDate>Thu, 26 Nov 2026 21:41:12 +0900</pubDate>
 </item>
 <item>
     <title>ssp-i18n</title>
@@ -31,15 +40,6 @@
     <dc:creator>ukatech</dc:creator>
     <guid isPermaLink="false">ukatech/ukagaka-developer</guid>
     <pubDate>Wed, 25 Nov 2026 17:21:40 +0900</pubDate>
-</item>
-<item>
-    <title>ukadoc-spec</title>
-    <link>https://github.com/ukatech/ukadoc-spec</link>
-    <description>Ukagaka Spec Repo</description>
-    <category>spec</category>
-    <dc:creator>ukatech</dc:creator>
-    <guid isPermaLink="false">ukatech/ukadoc-spec</guid>
-    <pubDate>Wed, 25 Nov 2026 17:17:31 +0900</pubDate>
 </item>
 <item>
     <title>kawari</title>
